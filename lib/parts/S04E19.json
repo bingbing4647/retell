@@ -1,0 +1,144 @@
+{
+  "id": "S04E19",
+  "season": 4,
+  "episode": 19,
+  "title": "Catch the Babies",
+  "titleCn": "抓住宝宝",
+  "hook": "双胞胎宝宝一出门就到处乱爬，全家总动员追着他们去农场、花园和黏黏泉。",
+  "cover": "/img/s04e19/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:34",
+      "img": "/img/s04e19/f1.jpg",
+      "t": "The Whole Family",
+      "en": "Dora's whole family is in the living room together.",
+      "cn": "Dora 一家人全都在客厅里。",
+      "key": "family · room"
+    },
+    {
+      "no": 2,
+      "time": "03:59",
+      "img": "/img/s04e19/f2.jpg",
+      "t": "Map Shows the Way",
+      "en": "Map shows the way: farm, garden, gooey geyser.",
+      "cn": "地图指路：农场、花园，再到黏黏泉。",
+      "key": "farm · geyser"
+    },
+    {
+      "no": 3,
+      "time": "06:24",
+      "img": "/img/s04e19/f3.jpg",
+      "t": "Run After the Babies",
+      "en": "Everyone runs after the babies on the path.",
+      "cn": "大家在小路上追着宝宝们跑。",
+      "key": "runs · babies"
+    },
+    {
+      "no": 4,
+      "time": "08:48",
+      "img": "/img/s04e19/f4.jpg",
+      "t": "Big Watermelons",
+      "en": "There are big watermelons in the wooden box.",
+      "cn": "木箱子里装着大西瓜。",
+      "key": "watermelons · box"
+    },
+    {
+      "no": 5,
+      "time": "11:13",
+      "img": "/img/s04e19/f5.jpg",
+      "t": "Grandma and Grandpa",
+      "en": "Grandma and Grandpa run with Dora and Boots.",
+      "cn": "爷爷奶奶跟着 Dora 和 Boots 一起跑。",
+      "key": "Grandma · run"
+    },
+    {
+      "no": 6,
+      "time": "13:38",
+      "img": "/img/s04e19/f6.jpg",
+      "t": "Smiling Flowers",
+      "en": "Three purple flowers smile and sing in the garden.",
+      "cn": "花园里三朵紫色的花笑着唱歌。",
+      "key": "flowers · garden"
+    },
+    {
+      "no": 7,
+      "time": "16:02",
+      "img": "/img/s04e19/f7.jpg",
+      "t": "Say Map",
+      "en": "The family calls together, “Map, Map, Map!”",
+      "cn": "一家人一起喊：“地图，地图，地图！”",
+      "key": "family · Map"
+    },
+    {
+      "no": 8,
+      "time": "18:27",
+      "img": "/img/s04e19/f8.jpg",
+      "t": "Louder!",
+      "en": "They push through the green leaves and shout, “Louder!”",
+      "cn": "他们钻过绿叶，大声喊：“再大声点！”",
+      "key": "leaves · Louder"
+    },
+    {
+      "no": 9,
+      "time": "20:52",
+      "img": "/img/s04e19/f9.jpg",
+      "t": "Bubbles, Not Goo",
+      "en": "The gooey geyser sprays bubbles, not sticky goo.",
+      "cn": "黏黏泉喷出来的是泡泡，不是黏胶。",
+      "key": "geyser · bubbles"
+    }
+  ],
+  "words": [
+    [
+      "family",
+      "家人"
+    ],
+    [
+      "living room",
+      "客厅"
+    ],
+    [
+      "farm",
+      "农场"
+    ],
+    [
+      "garden",
+      "花园"
+    ],
+    [
+      "geyser",
+      "间歇泉"
+    ],
+    [
+      "watermelon",
+      "西瓜"
+    ],
+    [
+      "grandma",
+      "奶奶"
+    ],
+    [
+      "grandpa",
+      "爷爷"
+    ],
+    [
+      "flower",
+      "花"
+    ],
+    [
+      "bubble",
+      "泡泡"
+    ],
+    [
+      "catch",
+      "抓住"
+    ],
+    [
+      "¡Mira!",
+      "看（西语）"
+    ]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Catch the Babies”.",
+  "ending": "In the end, the family catches the babies and the geyser sprays bubbles. My favorite part is ______."
+}

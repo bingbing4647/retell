@@ -1,0 +1,108 @@
+{
+  "id": "S04E07",
+  "season": 4,
+  "episode": 7,
+  "title": "Save Diego",
+  "titleCn": "救救 Diego",
+  "hook": "Diego 被困在高高的岩壁上，Dora 和 Boots 要找最会爬高的动物去救他。",
+  "cover": "/img/s04e07/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "03:20",
+      "img": "/img/s04e07/f1.jpg",
+      "t": "Always Helping",
+      "en": "Diego loves helping animals. Baby Jaguar is his best friend.",
+      "cn": "Diego 最爱帮助动物，小美洲豹是他最好的朋友。",
+      "key": "animals · friend"
+    },
+    {
+      "no": 2,
+      "time": "05:01",
+      "img": "/img/s04e07/f2.jpg",
+      "t": "A New Word",
+      "en": "“You have to say mira!” Dora says. Mira means look!",
+      "cn": "“你要说 mira！”Dora 说。mira 就是“看”的意思。",
+      "key": "mira · look"
+    },
+    {
+      "no": 3,
+      "time": "06:21",
+      "img": "/img/s04e07/f3.jpg",
+      "t": "Map's Plan",
+      "en": "Map shows the way: the river, then Iguana Rock, then Diego.",
+      "cn": "地图指路：先顺着河走，再到鬣蜥岩，最后找到 Diego。",
+      "key": "river · Iguana Rock"
+    },
+    {
+      "no": 4,
+      "time": "08:23",
+      "img": "/img/s04e07/f4.jpg",
+      "t": "A Goat to Ride",
+      "en": "“The mountain goat wants to help us save Diego!” They ride on her back.",
+      "cn": "“山羊愿意帮我们去救 Diego！”他们骑到山羊的背上。",
+      "key": "mountain goat · save"
+    },
+    {
+      "no": 5,
+      "time": "10:05",
+      "img": "/img/s04e07/f5.jpg",
+      "t": "Paddle, Paddle",
+      "en": "Dora and Boots paddle the raft down the river. Splash!",
+      "cn": "Dora 和 Boots 划着皮筏顺流而下，哗——",
+      "key": "raft · river"
+    },
+    {
+      "no": 6,
+      "time": "14:05",
+      "img": "/img/s04e07/f6.jpg",
+      "t": "Up the Rock",
+      "en": "“And fast!” They must climb the rocky wall to reach Diego.",
+      "cn": "“而且要快！”他们得快快爬上岩壁去找 Diego。",
+      "key": "climb · wall"
+    },
+    {
+      "no": 7,
+      "time": "17:05",
+      "img": "/img/s04e07/f7.jpg",
+      "t": "Follow the Cub",
+      "en": "“Baby Jaguar will lead us to Diego!” says Dora.",
+      "cn": "“小美洲豹会带我们去找 Diego！”Dora 说。",
+      "key": "Jaguar · Diego"
+    },
+    {
+      "no": 8,
+      "time": "18:25",
+      "img": "/img/s04e07/f8.jpg",
+      "t": "Who Can Climb?",
+      "en": "“We need an animal that is a really good climber,” says Dora.",
+      "cn": "“我们需要一只特别会爬高的动物。”Dora 说。",
+      "key": "animal · climber"
+    },
+    {
+      "no": 9,
+      "time": "21:46",
+      "img": "/img/s04e07/f9.jpg",
+      "t": "Everyone Is Happy",
+      "en": "Diego is safe now. “They just want food,” he says.",
+      "cn": "Diego 终于安全了：“它们原来只是想吃东西。”",
+      "key": "safe · food"
+    }
+  ],
+  "words": [
+    ["save", "救"],
+    ["mountain goat", "山羊"],
+    ["jaguar", "美洲豹"],
+    ["river", "河"],
+    ["raft", "皮筏"],
+    ["climb", "爬"],
+    ["mira", "看（西语）"],
+    ["Iguana Rock", "鬣蜥岩"],
+    ["safe", "安全的"],
+    ["food", "食物"],
+    ["animal", "动物"],
+    ["fast", "快的"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Save Diego”.",
+  "ending": "In the end, Diego is safe and the goat finds food. My favorite part is ______."
+}

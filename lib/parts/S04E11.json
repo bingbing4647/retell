@@ -1,0 +1,144 @@
+{
+  "id": "S04E11",
+  "season": 4,
+  "episode": 11,
+  "title": "Big Sister Dora",
+  "titleCn": "大姐姐 Dora",
+  "hook": "妈妈生了一对双胞胎，Dora 要当大姐姐了，还得穿过幽灵森林赶到医院。",
+  "cover": "/img/s04e11/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:34",
+      "img": "/img/s04e11/f1.jpg",
+      "t": "Who Sleeps in a Cradle?",
+      "en": "A baby is someone who sleeps in a cradle.",
+      "cn": "小宝宝就是睡在摇篮里的那个人。",
+      "key": "baby · cradle"
+    },
+    {
+      "no": 2,
+      "time": "03:59",
+      "img": "/img/s04e11/f2.jpg",
+      "t": "Shapes in the Backpack",
+      "en": "Backpack shows shapes under the red diamond.",
+      "cn": "背包里露出形状，红菱形下面还藏着东西。",
+      "key": "shapes · diamond"
+    },
+    {
+      "no": 3,
+      "time": "06:24",
+      "img": "/img/s04e11/f3.jpg",
+      "t": "The Spooky Forest",
+      "en": "Do you see the Spooky Forest on the way?",
+      "cn": "你看见路上那片“幽灵森林”了吗？",
+      "key": "Spooky · Forest"
+    },
+    {
+      "no": 4,
+      "time": "08:48",
+      "img": "/img/s04e11/f4.jpg",
+      "t": "Isa Knows the Way",
+      "en": "Isa the iguana knows the way through the trees.",
+      "cn": "绿鬣蜥 Isa 认得穿过树林的路。",
+      "key": "way · trees"
+    },
+    {
+      "no": 5,
+      "time": "11:13",
+      "img": "/img/s04e11/f5.jpg",
+      "t": "A Baby, a Baby!",
+      "en": "Everyone shouts, “A baby, a baby, a baby!”",
+      "cn": "大家一起喊：“宝宝，宝宝，宝宝！”",
+      "key": "Everyone · shouts"
+    },
+    {
+      "no": 6,
+      "time": "13:38",
+      "img": "/img/s04e11/f6.jpg",
+      "t": "Which One Can Go?",
+      "en": "Which one can take them? The wheel is right.",
+      "cn": "哪一个能带他们去？方向盘那个才对。",
+      "key": "wheel · right"
+    },
+    {
+      "no": 7,
+      "time": "16:02",
+      "img": "/img/s04e11/f7.jpg",
+      "t": "The Conductor's Flag",
+      "en": "The conductor holds a green flag in his hand.",
+      "cn": "售票员手里举着一面绿旗子。",
+      "key": "conductor · flag"
+    },
+    {
+      "no": 8,
+      "time": "18:27",
+      "img": "/img/s04e11/f8.jpg",
+      "t": "Check the Path",
+      "en": "Map checks the path to the big hospital.",
+      "cn": "地图把去医院的路打上了勾。",
+      "key": "path · hospital"
+    },
+    {
+      "no": 9,
+      "time": "20:52",
+      "img": "/img/s04e11/f9.jpg",
+      "t": "Two New Babies",
+      "en": "Dora holds the two new babies in her arms.",
+      "cn": "Dora 把两个新生儿抱在怀里。",
+      "key": "babies · arms"
+    }
+  ],
+  "words": [
+    [
+      "baby",
+      "宝宝"
+    ],
+    [
+      "cradle",
+      "摇篮"
+    ],
+    [
+      "shape",
+      "形状"
+    ],
+    [
+      "forest",
+      "森林"
+    ],
+    [
+      "iguana",
+      "鬣蜥"
+    ],
+    [
+      "wheel",
+      "方向盘"
+    ],
+    [
+      "conductor",
+      "售票员"
+    ],
+    [
+      "flag",
+      "旗子"
+    ],
+    [
+      "hospital",
+      "医院"
+    ],
+    [
+      "twin",
+      "双胞胎"
+    ],
+    [
+      "sister",
+      "姐姐"
+    ],
+    [
+      "¡Felicidades!",
+      "恭喜（西语）"
+    ]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Big Sister Dora”.",
+  "ending": "In the end, Dora becomes a big sister to two babies. My favorite part is ______."
+}

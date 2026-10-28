@@ -1,0 +1,144 @@
+{
+  "id": "S04E02",
+  "season": 4,
+  "episode": 2,
+  "title": "Dora's First Trip",
+  "titleCn": "Dora 的第一次旅行",
+  "hook": "Boots 想知道他们是怎么认识的，Dora 就讲起第一次出门送乐器的那趟旅行。",
+  "cover": "/img/s04e02/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:34",
+      "img": "/img/s04e02/f1.jpg",
+      "t": "Tell Me the Story",
+      "en": "Boots asks Dora to tell their very first story.",
+      "cn": "Boots 请 Dora 讲一讲他们最初的故事。",
+      "key": "asks · story"
+    },
+    {
+      "no": 2,
+      "time": "03:59",
+      "img": "/img/s04e02/f2.jpg",
+      "t": "Swiper Takes the Boots",
+      "en": "Swiper takes the red boots. “Swiper, no swiping!”",
+      "cn": "Swiper 抢走红靴子。“Swiper，不许抢！”",
+      "key": "boots · swiping"
+    },
+    {
+      "no": 3,
+      "time": "06:24",
+      "img": "/img/s04e02/f3.jpg",
+      "t": "Bring Back the Music",
+      "en": "They must bring the drums and horn to Fiesta Trio.",
+      "cn": "他们得把鼓和小号送还给 Fiesta Trio。",
+      "key": "drums · horn"
+    },
+    {
+      "no": 4,
+      "time": "08:48",
+      "img": "/img/s04e02/f4.jpg",
+      "t": "The Tallest Mountain",
+      "en": "First stop is the tallest mountain in the world.",
+      "cn": "第一站是全世界最高的山。",
+      "key": "tallest · mountain"
+    },
+    {
+      "no": 5,
+      "time": "11:13",
+      "img": "/img/s04e02/f5.jpg",
+      "t": "In the Yellow Car",
+      "en": "They ride in a yellow car. “Whew, that was close!”",
+      "cn": "他们坐着黄色小车上路。“呼，好险！”",
+      "key": "car · close"
+    },
+    {
+      "no": 6,
+      "time": "13:38",
+      "img": "/img/s04e02/f6.jpg",
+      "t": "Frogs in the Flowers",
+      "en": "Green frogs peek out from the flowers by the road.",
+      "cn": "绿青蛙从路边的花丛里探出头。",
+      "key": "frogs · flowers"
+    },
+    {
+      "no": 7,
+      "time": "16:02",
+      "img": "/img/s04e02/f7.jpg",
+      "t": "Down the River",
+      "en": "A yellow boat goes down the river past crocodiles.",
+      "cn": "黄色小船顺流而下，从鳄鱼身边经过。",
+      "key": "boat · river"
+    },
+    {
+      "no": 8,
+      "time": "18:27",
+      "img": "/img/s04e02/f8.jpg",
+      "t": "Everyone Jumps In",
+      "en": "Benny, Isa and Tico all jump into the car.",
+      "cn": "Benny、Isa 和 Tico 都跳上了小车。",
+      "key": "Benny · car"
+    },
+    {
+      "no": 9,
+      "time": "20:52",
+      "img": "/img/s04e02/f9.jpg",
+      "t": "Buzz-Buzz",
+      "en": "The Fiesta Trio plays again: “Buzz-buzz, buzz-buzz!”",
+      "cn": "Fiesta Trio 又演奏起来：“嗡嗡，嗡嗡！”",
+      "key": "plays · buzz"
+    }
+  ],
+  "words": [
+    [
+      "trip",
+      "旅行"
+    ],
+    [
+      "story",
+      "故事"
+    ],
+    [
+      "boots",
+      "靴子"
+    ],
+    [
+      "drum",
+      "鼓"
+    ],
+    [
+      "horn",
+      "小号"
+    ],
+    [
+      "mountain",
+      "山"
+    ],
+    [
+      "river",
+      "河"
+    ],
+    [
+      "crocodile",
+      "鳄鱼"
+    ],
+    [
+      "frog",
+      "青蛙"
+    ],
+    [
+      "flower",
+      "花"
+    ],
+    [
+      "trio",
+      "三重奏"
+    ],
+    [
+      "¡Vámonos!",
+      "我们走吧（西语）"
+    ]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Dora's First Trip”.",
+  "ending": "In the end, the music comes back and Dora meets Boots for the first time. My favorite part is ______."
+}

@@ -203,6 +203,90 @@
   "S03E25": {
    "pages": 1,
    "bytes": 594149
+  },
+  "S04E01": {
+   "pages": 1,
+   "bytes": 699723
+  },
+  "S04E02": {
+   "pages": 1,
+   "bytes": 745984
+  },
+  "S04E03": {
+   "pages": 1,
+   "bytes": 734299
+  },
+  "S04E04": {
+   "pages": 1,
+   "bytes": 775014
+  },
+  "S04E05": {
+   "pages": 1,
+   "bytes": 775157
+  },
+  "S04E06": {
+   "pages": 1,
+   "bytes": 766775
+  },
+  "S04E07": {
+   "pages": 1,
+   "bytes": 747174
+  },
+  "S04E08": {
+   "pages": 1,
+   "bytes": 770381
+  },
+  "S04E09": {
+   "pages": 1,
+   "bytes": 720546
+  },
+  "S04E10": {
+   "pages": 1,
+   "bytes": 734531
+  },
+  "S04E11": {
+   "pages": 1,
+   "bytes": 686149
+  },
+  "S04E12": {
+   "pages": 1,
+   "bytes": 653380
+  },
+  "S04E13": {
+   "pages": 1,
+   "bytes": 740302
+  },
+  "S04E14": {
+   "pages": 1,
+   "bytes": 733935
+  },
+  "S04E15": {
+   "pages": 1,
+   "bytes": 771775
+  },
+  "S04E16": {
+   "pages": 1,
+   "bytes": 678664
+  },
+  "S04E17": {
+   "pages": 1,
+   "bytes": 749910
+  },
+  "S04E18": {
+   "pages": 1,
+   "bytes": 737780
+  },
+  "S04E19": {
+   "pages": 1,
+   "bytes": 758222
+  },
+  "S04E20": {
+   "pages": 1,
+   "bytes": 729617
+  },
+  "S04E21": {
+   "pages": 1,
+   "bytes": 713827
   }
  },
  "seasons": {
@@ -219,6 +303,13 @@
    "pages": 27,
    "bytes": 12346142,
    "label": "S3"
+  },
+  "4": {
+   "url": "/pdf/season-04.pdf",
+   "episodes": 21,
+   "pages": 23,
+   "bytes": 14116812,
+   "label": "S4"
   }
  }
 }

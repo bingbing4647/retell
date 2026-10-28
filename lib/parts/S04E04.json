@@ -1,0 +1,108 @@
+{
+  "id": "S04E04",
+  "season": 4,
+  "episode": 4,
+  "title": "Super Spies 2: The Swiping Machine",
+  "titleCn": "超级间谍大作战",
+  "hook": "Swiper 造了一台“偷东西机器”，要把生日会上的礼物全抢走，两个小间谍得赶在派对开始前关掉它。",
+  "cover": "/img/s04e04/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:45",
+      "img": "/img/s04e04/f1.jpg",
+      "t": "Off to Play Park",
+      "en": "Dora and Boots are spies. They have cool new spy gear.",
+      "cn": "Dora 和 Boots 是小间谍，他们带着崭新的间谍装备出发了。",
+      "key": "spies · gear"
+    },
+    {
+      "no": 2,
+      "time": "03:50",
+      "img": "/img/s04e04/f2.jpg",
+      "t": "Tico's Big Day",
+      "en": "Tico's having a birthday party with cake and many presents.",
+      "cn": "Tico 要开生日会了，桌上有蛋糕和好多礼物。",
+      "key": "birthday · cake"
+    },
+    {
+      "no": 3,
+      "time": "04:25",
+      "img": "/img/s04e04/f3.jpg",
+      "t": "Stop the Fox",
+      "en": "“We've got to stop him!” Swiper has a swiping machine.",
+      "cn": "“我们必须拦住他！”Swiper 造了一台偷东西的机器。",
+      "key": "stop · machine"
+    },
+    {
+      "no": 4,
+      "time": "05:45",
+      "img": "/img/s04e04/f4.jpg",
+      "t": "Down the River",
+      "en": "Map says: first go down the underground river, then the bridge.",
+      "cn": "地图说：先顺地下河漂流，再走那座桥。",
+      "key": "river · bridge"
+    },
+    {
+      "no": 5,
+      "time": "12:10",
+      "img": "/img/s04e04/f5.jpg",
+      "t": "Too Fast!",
+      "en": "Swiper presses his superfast button, so the water rushes fast.",
+      "cn": "Swiper 按下“超快”按钮，河水一下子变得飞快。",
+      "key": "button · water"
+    },
+    {
+      "no": 6,
+      "time": "14:20",
+      "img": "/img/s04e04/f6.jpg",
+      "t": "Dark Tunnel",
+      "en": "The tunnel is dark and has twisty paths inside the cave.",
+      "cn": "山洞里的隧道又黑又弯，小路绕来绕去。",
+      "key": "tunnel · cave"
+    },
+    {
+      "no": 7,
+      "time": "19:40",
+      "img": "/img/s04e04/f7.jpg",
+      "t": "Count to Ten",
+      "en": "“We got it up to ten!” Dora rides the spy bike fast.",
+      "cn": "“我们数到十啦！”Dora 骑着间谍自行车飞快前进。",
+      "key": "ten · bike"
+    },
+    {
+      "no": 8,
+      "time": "21:05",
+      "img": "/img/s04e04/f8.jpg",
+      "t": "The Fox Swings In",
+      "en": "“Swiper, no swiping!” Swiper swings over the party table.",
+      "cn": "“Swiper，不许抢！”Swiper 吊在绳子上从派对桌子上方荡过去。",
+      "key": "swiping · table"
+    },
+    {
+      "no": 9,
+      "time": "21:45",
+      "img": "/img/s04e04/f9.jpg",
+      "t": "A Butterfly Camera",
+      "en": "“It's a camera that looks like a butterfly!” Everyone laughs.",
+      "cn": "“这是一台蝴蝶形状的相机！”大家笑成一团。",
+      "key": "camera · butterfly"
+    }
+  ],
+  "words": [
+    ["spy", "间谍"],
+    ["gadget", "小装备"],
+    ["birthday", "生日"],
+    ["cake", "蛋糕"],
+    ["present", "礼物"],
+    ["machine", "机器"],
+    ["river", "河"],
+    ["bridge", "桥"],
+    ["tunnel", "隧道"],
+    ["cave", "山洞"],
+    ["swiping", "偷抢"],
+    ["¡Felicidades!", "恭喜（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Super Spies 2: The Swiping Machine”.",
+  "ending": "In the end, the spies stop the swiping machine and the party is safe. My favorite part is ______."
+}

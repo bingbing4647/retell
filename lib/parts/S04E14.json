@@ -1,0 +1,144 @@
+{
+  "id": "S04E14",
+  "season": 4,
+  "episode": 14,
+  "title": "We're a Team",
+  "titleCn": "我们是一个团队",
+  "hook": "Dora 和朋友们组队去火山比赛，章鱼 Val 举着计时器，谁都得靠大家一起过关。",
+  "cover": "/img/s04e14/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:34",
+      "img": "/img/s04e14/f1.jpg",
+      "t": "A Team for the Race",
+      "en": "Dora and her friends are a team for the big race.",
+      "cn": "Dora 和朋友们组成一队，参加一场大比赛。",
+      "key": "team · race"
+    },
+    {
+      "no": 2,
+      "time": "03:59",
+      "img": "/img/s04e14/f2.jpg",
+      "t": "Val Starts the Clock",
+      "en": "Val the octopus starts the clock at twenty minutes.",
+      "cn": "章鱼 Val 把计时器定在二十分钟。",
+      "key": "octopus · clock"
+    },
+    {
+      "no": 3,
+      "time": "06:24",
+      "img": "/img/s04e14/f3.jpg",
+      "t": "What's in the Backpack",
+      "en": "Backpack has a horn, a rope, a ball and a bottle.",
+      "cn": "背包里有喇叭、绳子、皮球和水壶。",
+      "key": "Backpack · ball"
+    },
+    {
+      "no": 4,
+      "time": "08:48",
+      "img": "/img/s04e14/f4.jpg",
+      "t": "Past the Wood Steps",
+      "en": "The team runs past the wood steps in the jungle.",
+      "cn": "队伍跑过丛林里的木头台阶。",
+      "key": "wood · jungle"
+    },
+    {
+      "no": 5,
+      "time": "11:13",
+      "img": "/img/s04e14/f5.jpg",
+      "t": "Together to the Volcano",
+      "en": "Everyone works together to reach the volcano.",
+      "cn": "大家齐心协力往火山前进。",
+      "key": "together · volcano"
+    },
+    {
+      "no": 6,
+      "time": "13:38",
+      "img": "/img/s04e14/f6.jpg",
+      "t": "Hide in the Bushes",
+      "en": "They hide in the bushes and say, “De nada.”",
+      "cn": "他们躲在灌木丛里说：“不客气。”",
+      "key": "hide · bushes"
+    },
+    {
+      "no": 7,
+      "time": "16:02",
+      "img": "/img/s04e14/f7.jpg",
+      "t": "Over the Wall",
+      "en": "And together, they all get over the high wall.",
+      "cn": "于是一起，他们全都翻过了高墙。",
+      "key": "wall · high"
+    },
+    {
+      "no": 8,
+      "time": "18:27",
+      "img": "/img/s04e14/f8.jpg",
+      "t": "Three Seconds Left",
+      "en": "The clock shows three seconds left for the team.",
+      "cn": "计时器显示队伍只剩三秒钟。",
+      "key": "seconds · team"
+    },
+    {
+      "no": 9,
+      "time": "20:52",
+      "img": "/img/s04e14/f9.jpg",
+      "t": "A Gold Medal",
+      "en": "Now every friend has a gold medal around the neck.",
+      "cn": "现在每个朋友脖子上都挂着一块金牌。",
+      "key": "medal · neck"
+    }
+  ],
+  "words": [
+    [
+      "team",
+      "团队"
+    ],
+    [
+      "race",
+      "比赛"
+    ],
+    [
+      "octopus",
+      "章鱼"
+    ],
+    [
+      "clock",
+      "计时器"
+    ],
+    [
+      "horn",
+      "喇叭"
+    ],
+    [
+      "rope",
+      "绳子"
+    ],
+    [
+      "volcano",
+      "火山"
+    ],
+    [
+      "bush",
+      "灌木丛"
+    ],
+    [
+      "wall",
+      "墙"
+    ],
+    [
+      "second",
+      "秒"
+    ],
+    [
+      "medal",
+      "奖牌"
+    ],
+    [
+      "De nada",
+      "不客气（西语）"
+    ]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “We're a Team”.",
+  "ending": "In the end, the whole team finishes the race and wins medals. My favorite part is ______."
+}

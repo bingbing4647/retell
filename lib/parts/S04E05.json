@@ -1,0 +1,108 @@
+{
+  "id": "S04E05",
+  "season": 4,
+  "episode": 5,
+  "title": "La Maestra de Musica",
+  "titleCn": "音乐老师",
+  "hook": "音乐老师的自行车上装满了乐器，Dora 和 Boots 要护送她赶到学校。",
+  "cover": "/img/s04e05/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s04e05/f1.jpg",
+      "t": "Teacher Who Sings",
+      "en": "“My music teacher always sings a special song,” says Dora.",
+      "cn": "Dora 说：“我的音乐老师总是唱一首特别的歌。”",
+      "key": "music teacher · song"
+    },
+    {
+      "no": 2,
+      "time": "03:41",
+      "img": "/img/s04e05/f2.jpg",
+      "t": "Bike Full of Instruments",
+      "en": "“Maestra, we have a map!” Dora shows the map to her teacher.",
+      "cn": "“老师，我们有地图！”Dora 把地图拿给音乐老师看。",
+      "key": "map · teacher"
+    },
+    {
+      "no": 3,
+      "time": "10:23",
+      "img": "/img/s04e05/f3.jpg",
+      "t": "Ring, Ring",
+      "en": "“That's the school bell!” They must hurry to the school.",
+      "cn": "“上课铃响了！”他们得赶快赶到学校。",
+      "key": "school bell · hurry"
+    },
+    {
+      "no": 4,
+      "time": "17:05",
+      "img": "/img/s04e05/f4.jpg",
+      "t": "Too Many Trees",
+      "en": "“How can we get through all these trees?” asks the Maestra.",
+      "cn": "“我们怎么穿过这么多树呢？”音乐老师问。",
+      "key": "trees · Maestra"
+    },
+    {
+      "no": 5,
+      "time": "17:45",
+      "img": "/img/s04e05/f5.jpg",
+      "t": "Say It With Me",
+      "en": "“Can you say culebras?” They zip over the trees on a bar.",
+      "cn": "“你能说 culebras（蛇）吗？”他们抓着滑杆从树林上空溜过去。",
+      "key": "culebras · zip"
+    },
+    {
+      "no": 6,
+      "time": "18:25",
+      "img": "/img/s04e05/f6.jpg",
+      "t": "Sing With the Bees",
+      "en": "“Las abejas in the trees go buzz, buzz, buzz!” sing the bees.",
+      "cn": "“树上的蜜蜂嗡嗡嗡！”蜜蜂跟着他们一路唱。",
+      "key": "abejas · buzz"
+    },
+    {
+      "no": 7,
+      "time": "19:06",
+      "img": "/img/s04e05/f7.jpg",
+      "t": "Watch the Guitar",
+      "en": "“He'll try to swipe la Maestra's guitarra!” warns Diego.",
+      "cn": "“他会来抢老师的吉他！”Diego 提醒他们。",
+      "key": "swipe · guitarra"
+    },
+    {
+      "no": 8,
+      "time": "21:06",
+      "img": "/img/s04e05/f8.jpg",
+      "t": "Time to Sing",
+      "en": "“Are you ready to sing the Hola, Hola song?” asks the Maestra.",
+      "cn": "“准备好唱《Hola, Hola》了吗？”老师问大家。",
+      "key": "sing · song"
+    },
+    {
+      "no": 9,
+      "time": "22:27",
+      "img": "/img/s04e05/f9.jpg",
+      "t": "All Together Now",
+      "en": "The whole class sings together in the music room. ¡Muy bien!",
+      "cn": "全班同学在音乐教室里一起唱歌，太棒了！",
+      "key": "class · sings"
+    }
+  ],
+  "words": [
+    ["music teacher", "音乐老师"],
+    ["song", "歌"],
+    ["map", "地图"],
+    ["school bell", "上课铃"],
+    ["trees", "树"],
+    ["zip", "滑过去"],
+    ["culebras", "蛇（西语）"],
+    ["abejas", "蜜蜂（西语）"],
+    ["buzz", "嗡嗡叫"],
+    ["guitarra", "吉他（西语）"],
+    ["sing", "唱歌"],
+    ["muy bien", "很好（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “La Maestra de Musica”.",
+  "ending": "In the end, the whole class sings the Hola, Hola song together. My favorite part is ______."
+}

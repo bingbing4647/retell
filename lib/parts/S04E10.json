@@ -1,0 +1,144 @@
+{
+  "id": "S04E10",
+  "season": 4,
+  "episode": 10,
+  "title": "Dora Saves The Mermaids",
+  "titleCn": "Dora 拯救美人鱼",
+  "hook": "美人鱼 Mariana 的珍珠被海盗猪抢走，海也变脏了，Dora 和 Boots 骑海豚去救她。",
+  "cover": "/img/s04e10/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:46",
+      "img": "/img/s04e10/f1.jpg",
+      "t": "A Clam Shell",
+      "en": "Dora finds a clam shell on the warm sand.",
+      "cn": "Dora 在暖暖的沙滩上捡到一个蛤蜊壳。",
+      "key": "shell · sand"
+    },
+    {
+      "no": 2,
+      "time": "07:01",
+      "img": "/img/s04e10/f2.jpg",
+      "t": "A Ship Far Away",
+      "en": "Boots sees a big ship far out on the water.",
+      "cn": "Boots 看见远处的海面上有一艘大船。",
+      "key": "ship · water"
+    },
+    {
+      "no": 3,
+      "time": "11:16",
+      "img": "/img/s04e10/f3.jpg",
+      "t": "Look for a Mermaid",
+      "en": "They walk to the sea and look for a mermaid.",
+      "cn": "他们走到海边，去找一位美人鱼。",
+      "key": "walk · mermaid"
+    },
+    {
+      "no": 4,
+      "time": "15:31",
+      "img": "/img/s04e10/f4.jpg",
+      "t": "What Comes After Five?",
+      "en": "What number comes after five? Six, then seven.",
+      "cn": "五后面是几呢？是六，再往后是七。",
+      "key": "number · seven"
+    },
+    {
+      "no": 5,
+      "time": "19:46",
+      "img": "/img/s04e10/f5.jpg",
+      "t": "The Gold Crown",
+      "en": "Dora holds a gold crown near the small island.",
+      "cn": "Dora 在小岛边捧着一顶金皇冠。",
+      "key": "crown · island"
+    },
+    {
+      "no": 6,
+      "time": "24:01",
+      "img": "/img/s04e10/f6.jpg",
+      "t": "The Silly Sea",
+      "en": "Three pirate pigs live in the Silly Sea.",
+      "cn": "三只海盗猪住在“傻傻海”里。",
+      "key": "pigs · Sea"
+    },
+    {
+      "no": 7,
+      "time": "28:16",
+      "img": "/img/s04e10/f7.jpg",
+      "t": "A Fish Like a Dog",
+      "en": "That fish looks like a dog with brown fur.",
+      "cn": "那条鱼长得像一只棕色毛的狗。",
+      "key": "fish · dog"
+    },
+    {
+      "no": 8,
+      "time": "32:31",
+      "img": "/img/s04e10/f8.jpg",
+      "t": "Ride the Dolphins",
+      "en": "Dora and Boots ride dolphins over the blue waves.",
+      "cn": "Dora 和 Boots 骑着海豚越过蓝色浪花。",
+      "key": "dolphins · waves"
+    },
+    {
+      "no": 9,
+      "time": "36:46",
+      "img": "/img/s04e10/f9.jpg",
+      "t": "Mariana the Mermaid",
+      "en": "The mermaid Mariana lives near a giant pearl shell.",
+      "cn": "美人鱼 Mariana 住在一个巨大的珍珠贝壳旁。",
+      "key": "mermaid · pearl"
+    }
+  ],
+  "words": [
+    [
+      "shell",
+      "贝壳"
+    ],
+    [
+      "sand",
+      "沙子"
+    ],
+    [
+      "ship",
+      "大船"
+    ],
+    [
+      "mermaid",
+      "美人鱼"
+    ],
+    [
+      "number",
+      "数字"
+    ],
+    [
+      "crown",
+      "皇冠"
+    ],
+    [
+      "island",
+      "小岛"
+    ],
+    [
+      "pirate",
+      "海盗"
+    ],
+    [
+      "dolphin",
+      "海豚"
+    ],
+    [
+      "wave",
+      "浪"
+    ],
+    [
+      "pearl",
+      "珍珠"
+    ],
+    [
+      "¡Socorro!",
+      "救命（西语）"
+    ]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Dora Saves The Mermaids”.",
+  "ending": "In the end, the sea is clean again and Mariana gets her pearl back. My favorite part is ______."
+}

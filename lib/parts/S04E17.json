@@ -1,0 +1,144 @@
+{
+  "id": "S04E17",
+  "season": 4,
+  "episode": 17,
+  "title": "Baby Crab",
+  "titleCn": "螃蟹宝宝",
+  "hook": "小螃蟹被渔网缠住了，Dora 帮它找妈妈，一路走过沙堡和满是贝壳的沙滩。",
+  "cover": "/img/s04e17/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:34",
+      "img": "/img/s04e17/f1.jpg",
+      "t": "Out of the Net",
+      "en": "Dora gets the baby crab out of the fishing net.",
+      "cn": "Dora 把小螃蟹从渔网里救了出来。",
+      "key": "crab · net"
+    },
+    {
+      "no": 2,
+      "time": "03:59",
+      "img": "/img/s04e17/f2.jpg",
+      "t": "Shake Your Body",
+      "en": "They shake their bodies and sing “Menea te”.",
+      "cn": "他们一边扭扭身子，一边唱“动起来”。",
+      "key": "shake · Menea"
+    },
+    {
+      "no": 3,
+      "time": "06:24",
+      "img": "/img/s04e17/f3.jpg",
+      "t": "Castle, Clams, Crab Island",
+      "en": "Map says: castle, clams, then Crab Island.",
+      "cn": "地图说：沙堡、蛤蜊，然后到螃蟹岛。",
+      "key": "clams · Crab"
+    },
+    {
+      "no": 4,
+      "time": "08:48",
+      "img": "/img/s04e17/f4.jpg",
+      "t": "Snap, Snap, Snap",
+      "en": "The little crab snaps its claws on the sand.",
+      "cn": "小螃蟹在沙地上“咔哒咔哒”地夹钳子。",
+      "key": "crab · claws"
+    },
+    {
+      "no": 5,
+      "time": "11:13",
+      "img": "/img/s04e17/f5.jpg",
+      "t": "That Was Squishy",
+      "en": "Dora steps in the wet sand. “That was squishy!”",
+      "cn": "Dora 踩进湿沙子，“软软的，好奇怪！”",
+      "key": "sand · squishy"
+    },
+    {
+      "no": 6,
+      "time": "13:38",
+      "img": "/img/s04e17/f6.jpg",
+      "t": "Many Sandcastles",
+      "en": "They walk past many sandcastles on the beach.",
+      "cn": "他们走过沙滩上一座座沙堡。",
+      "key": "sandcastles · beach"
+    },
+    {
+      "no": 7,
+      "time": "16:02",
+      "img": "/img/s04e17/f7.jpg",
+      "t": "Shells on the Sand",
+      "en": "There are shells, stars and crabs on the sand.",
+      "cn": "沙滩上有贝壳、海星，还有螃蟹。",
+      "key": "shells · stars"
+    },
+    {
+      "no": 8,
+      "time": "18:27",
+      "img": "/img/s04e17/f8.jpg",
+      "t": "Crab Island, Right",
+      "en": "Map says, “Crab Island, right!” and checks the way.",
+      "cn": "地图说：“螃蟹岛，对啦！”然后把路打勾。",
+      "key": "Island · checks"
+    },
+    {
+      "no": 9,
+      "time": "20:52",
+      "img": "/img/s04e17/f9.jpg",
+      "t": "Something for Mommy",
+      "en": "The baby crab gives mommy a pearl necklace.",
+      "cn": "小螃蟹送给妈妈一串珍珠项链。",
+      "key": "pearl · necklace"
+    }
+  ],
+  "words": [
+    [
+      "crab",
+      "螃蟹"
+    ],
+    [
+      "net",
+      "渔网"
+    ],
+    [
+      "claw",
+      "钳子"
+    ],
+    [
+      "sand",
+      "沙子"
+    ],
+    [
+      "castle",
+      "城堡"
+    ],
+    [
+      "beach",
+      "沙滩"
+    ],
+    [
+      "shell",
+      "贝壳"
+    ],
+    [
+      "star",
+      "海星"
+    ],
+    [
+      "island",
+      "小岛"
+    ],
+    [
+      "pearl",
+      "珍珠"
+    ],
+    [
+      "necklace",
+      "项链"
+    ],
+    [
+      "¡Menea te!",
+      "动起来（西语）"
+    ]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Baby Crab”.",
+  "ending": "In the end, the baby crab finds its mommy on Crab Island. My favorite part is ______."
+}

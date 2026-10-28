@@ -1,0 +1,108 @@
+{
+  "id": "S04E15",
+  "season": 4,
+  "episode": 15,
+  "title": "The Mixed-Up Seasons",
+  "titleCn": "四季乱了",
+  "hook": "夏天沙滩上冒出一个雪人，四个季节全跑错了地方。",
+  "cover": "/img/s04e15/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s04e15/f1.jpg",
+      "t": "Hot Sand",
+      "en": "“I love, love, love the summer!” Boots plays on the hot sand.",
+      "cn": "“我最爱、最爱夏天啦！”Boots 在热乎乎的沙滩上又蹦又跳。",
+      "key": "summer · sand"
+    },
+    {
+      "no": 2,
+      "time": "02:00",
+      "img": "/img/s04e15/f2.jpg",
+      "t": "A Snowman Appears",
+      "en": "A big snowman stands on the beach. “Right, Dora?” says Boots.",
+      "cn": "沙滩上站着一个大雪人，Boots 问：“对不对，Dora？”",
+      "key": "snowman · beach"
+    },
+    {
+      "no": 3,
+      "time": "04:00",
+      "img": "/img/s04e15/f3.jpg",
+      "t": "A Balloon Ride",
+      "en": "“A balloon can take us there!” The big balloon waits on the sand.",
+      "cn": "“热气球能带我们去那儿！”大大的热气球就停在沙滩上。",
+      "key": "balloon · waits"
+    },
+    {
+      "no": 4,
+      "time": "08:20",
+      "img": "/img/s04e15/f4.jpg",
+      "t": "Down the White Hill",
+      "en": "Dora and Boots slide down the snowy mountain on a sled.",
+      "cn": "Dora 和 Boots 坐着雪橇，从雪山上一路滑下来。",
+      "key": "mountain · sled"
+    },
+    {
+      "no": 5,
+      "time": "10:40",
+      "img": "/img/s04e15/f5.jpg",
+      "t": "A Talking Flower",
+      "en": "Boots holds a big flower. “I live in a flower patch.”",
+      "cn": "Boots 抱着一朵大花，花儿说：“我住在花圃里。”",
+      "key": "flower · patch"
+    },
+    {
+      "no": 6,
+      "time": "13:00",
+      "img": "/img/s04e15/f6.jpg",
+      "t": "Looking for Fall",
+      "en": "They meet a pumpkin. “We need to find fall,” says Dora.",
+      "cn": "他们遇到一个南瓜，Dora 说：“我们得去找秋天。”",
+      "key": "pumpkin · fall"
+    },
+    {
+      "no": 7,
+      "time": "20:30",
+      "img": "/img/s04e15/f7.jpg",
+      "t": "The Wind Cloud",
+      "en": "A wind cloud blows the pumpkin cart. The red leaves fly away.",
+      "cn": "风云吹起了南瓜小车，红叶漫天飞。",
+      "key": "wind · leaves"
+    },
+    {
+      "no": 8,
+      "time": "21:30",
+      "img": "/img/s04e15/f8.jpg",
+      "t": "Home on the Sand",
+      "en": "“Muchas gracias!” The sand crabs are home on the warm beach.",
+      "cn": "“非常感谢！”沙蟹们回到了暖暖的沙滩老家。",
+      "key": "gracias · crabs"
+    },
+    {
+      "no": 9,
+      "time": "22:50",
+      "img": "/img/s04e15/f9.jpg",
+      "t": "Four Seasons",
+      "en": "“What's your favorite season?” Dora sees winter, spring, summer and fall.",
+      "cn": "“你最喜欢哪个季节？”Dora 眼前有冬天、春天、夏天和秋天。",
+      "key": "season · favorite"
+    }
+  ],
+  "words": [
+    ["summer", "夏天"],
+    ["beach", "沙滩"],
+    ["snowman", "雪人"],
+    ["winter", "冬天"],
+    ["balloon", "热气球"],
+    ["sled", "雪橇"],
+    ["mountain", "山"],
+    ["flower", "花"],
+    ["spring", "春天"],
+    ["pumpkin", "南瓜"],
+    ["fall", "秋天"],
+    ["gracias", "谢谢（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “The Mixed-Up Seasons”.",
+  "ending": "In the end, every season goes back to its own place. My favorite part is ______."
+}

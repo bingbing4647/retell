@@ -1,0 +1,144 @@
+{
+  "id": "S04E21",
+  "season": 4,
+  "episode": 21,
+  "title": "Dora's Fairytale Adventure",
+  "titleCn": "Dora 的童话冒险",
+  "hook": "Dora 走进童话王国，七个矮人、巨人和绿龙都来帮忙，她还要找到城堡里的王子。",
+  "cover": "/img/s04e21/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "03:00",
+      "img": "/img/s04e21/f1.jpg",
+      "t": "Welcome to Fairy Tale Land",
+      "en": "Seven little dwarfs welcome Dora to Fairy Tale Land.",
+      "cn": "七个小矮人欢迎 Dora 来到童话王国。",
+      "key": "dwarfs · Fairy"
+    },
+    {
+      "no": 2,
+      "time": "07:36",
+      "img": "/img/s04e21/f2.jpg",
+      "t": "Into the Story",
+      "en": "Dora wears her backpack and walks into the story.",
+      "cn": "Dora 背着书包，走进了故事里。",
+      "key": "backpack · story"
+    },
+    {
+      "no": 3,
+      "time": "12:13",
+      "img": "/img/s04e21/f3.jpg",
+      "t": "The Green Dragon",
+      "en": "A big green dragon sleeps on the shiny jewels.",
+      "cn": "一条大绿龙睡在亮闪闪的宝石上。",
+      "key": "dragon · jewels"
+    },
+    {
+      "no": 4,
+      "time": "16:49",
+      "img": "/img/s04e21/f4.jpg",
+      "t": "Fee-Fi-Fo-Fum",
+      "en": "The giant sings, “Fee-fi-fo-fum, fumpty-dumpty-dum!”",
+      "cn": "巨人唱着：“ fee-fi-fo-fum，咚咚咚！”",
+      "key": "giant · sings"
+    },
+    {
+      "no": 5,
+      "time": "21:26",
+      "img": "/img/s04e21/f5.jpg",
+      "t": "Teach the Rocks to Sing",
+      "en": "They teach the big rocks how to sing a song.",
+      "cn": "他们教大石头唱歌。",
+      "key": "rocks · sing"
+    },
+    {
+      "no": 6,
+      "time": "26:03",
+      "img": "/img/s04e21/f6.jpg",
+      "t": "A Bag of Sunshine",
+      "en": "The giant gives them a bag of warm sunshine.",
+      "cn": "巨人送给他们一袋暖烘烘的阳光。",
+      "key": "giant · sunshine"
+    },
+    {
+      "no": 7,
+      "time": "30:39",
+      "img": "/img/s04e21/f7.jpg",
+      "t": "Map to the Castle",
+      "en": "Map shows the way to the castle far away.",
+      "cn": "地图指出通往远方城堡的路。",
+      "key": "Map · castle"
+    },
+    {
+      "no": 8,
+      "time": "35:16",
+      "img": "/img/s04e21/f8.jpg",
+      "t": "Long Hair to the Floor",
+      "en": "Long hair grows down to the floor of the room.",
+      "cn": "长长的头发一直垂到房间的地板上。",
+      "key": "hair · floor"
+    },
+    {
+      "no": 9,
+      "time": "39:52",
+      "img": "/img/s04e21/f9.jpg",
+      "t": "A Shiny Gown",
+      "en": "Wow! Dora has a shiny gown and long hair.",
+      "cn": "哇！Dora 换上亮闪闪的长裙，头发也变长了。",
+      "key": "gown · shiny"
+    }
+  ],
+  "words": [
+    [
+      "fairy tale",
+      "童话"
+    ],
+    [
+      "dwarf",
+      "小矮人"
+    ],
+    [
+      "dragon",
+      "龙"
+    ],
+    [
+      "jewel",
+      "宝石"
+    ],
+    [
+      "giant",
+      "巨人"
+    ],
+    [
+      "rock",
+      "石头"
+    ],
+    [
+      "sing",
+      "唱歌"
+    ],
+    [
+      "sunshine",
+      "阳光"
+    ],
+    [
+      "castle",
+      "城堡"
+    ],
+    [
+      "hair",
+      "头发"
+    ],
+    [
+      "gown",
+      "长裙"
+    ],
+    [
+      "¡Hola!",
+      "你好（西语）"
+    ]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Dora's Fairytale Adventure”.",
+  "ending": "In the end, Dora wakes up from the fairy tale spell in the castle. My favorite part is ______."
+}

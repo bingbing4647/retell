@@ -1,0 +1,108 @@
+{
+  "id": "S04E06",
+  "season": 4,
+  "episode": 6,
+  "title": "Daisy, La Quinceanera",
+  "titleCn": "Daisy 的十五岁生日",
+  "hook": "Daisy 的十五岁生日派对要开始了，Dora 和 Boots 要穿过玉米迷宫赶到会场。",
+  "cover": "/img/s04e06/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:21",
+      "img": "/img/s04e06/f1.jpg",
+      "t": "Learn the Mambo",
+      "en": "“Circle your hands!” Dora and Boots practice the dance at home.",
+      "cn": "“转一转手！”Dora 和 Boots 在家练习跳这支舞。",
+      "key": "circle · dance"
+    },
+    {
+      "no": 2,
+      "time": "05:01",
+      "img": "/img/s04e06/f2.jpg",
+      "t": "The Way to Daisy",
+      "en": "The map shows the way: “That's how you get to Daisy's party!”",
+      "cn": "地图指路：“这样就能走到 Daisy 的派对啦！”",
+      "key": "map · party"
+    },
+    {
+      "no": 3,
+      "time": "07:42",
+      "img": "/img/s04e06/f3.jpg",
+      "t": "A Duck Joins Them",
+      "en": "A big duck walks with them. “Who's inside that duck suit?”",
+      "cn": "一只大鸭子跟着他们一起走：“是谁穿着那件鸭子衣服呀？”",
+      "key": "duck · suit"
+    },
+    {
+      "no": 4,
+      "time": "09:02",
+      "img": "/img/s04e06/f4.jpg",
+      "t": "Which Shape?",
+      "en": "“Círculo or triángulo?” They must pick the right way in the maze.",
+      "cn": "“圆形还是三角形？”他们要在迷宫里选对路。",
+      "key": "círculo · maze"
+    },
+    {
+      "no": 5,
+      "time": "11:03",
+      "img": "/img/s04e06/f5.jpg",
+      "t": "Pick the Path",
+      "en": "“The rain forest... right!” Dora points the right way to go.",
+      "cn": "“雨林……往右！”Dora 指出了正确的方向。",
+      "key": "rain forest · right"
+    },
+    {
+      "no": 6,
+      "time": "13:04",
+      "img": "/img/s04e06/f6.jpg",
+      "t": "Way Up There",
+      "en": "“It's up in the treetops, but it's so high up!” she says.",
+      "cn": "“东西在树顶上，可是太高了！”她说。",
+      "key": "treetops · high"
+    },
+    {
+      "no": 7,
+      "time": "17:05",
+      "img": "/img/s04e06/f7.jpg",
+      "t": "Stop That Fox",
+      "en": "“Swiper, no swiping!” Swiper stops and gives the umbrella back.",
+      "cn": "“Swiper，不许抢！”Swiper 停下来，把雨伞还了回去。",
+      "key": "Swiper · umbrella"
+    },
+    {
+      "no": 8,
+      "time": "20:26",
+      "img": "/img/s04e06/f8.jpg",
+      "t": "Daisy in White",
+      "en": "At the party, Daisy wears a white dress. “She's so beautiful!”",
+      "cn": "派对上，Daisy 穿着白色长裙：“她真漂亮！”",
+      "key": "Daisy · beautiful"
+    },
+    {
+      "no": 9,
+      "time": "21:15",
+      "img": "/img/s04e06/f9.jpg",
+      "t": "The Big Party",
+      "en": "“Now march in place!” Everyone dances at Daisy's quinceañera.",
+      "cn": "“原地踏步走！”大家在 Daisy 的十五岁生日派对上一齐跳舞。",
+      "key": "march · quinceañera"
+    }
+  ],
+  "words": [
+    ["quinceañera", "十五岁生日（西语）"],
+    ["dance", "跳舞"],
+    ["mambo", "曼波舞"],
+    ["map", "地图"],
+    ["duck", "鸭子"],
+    ["maze", "迷宫"],
+    ["círculo", "圆形（西语）"],
+    ["triángulo", "三角形（西语）"],
+    ["rain forest", "雨林"],
+    ["treetops", "树顶"],
+    ["umbrella", "雨伞"],
+    ["beautiful", "漂亮的"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Daisy, La Quinceanera”.",
+  "ending": "In the end, everyone dances at Daisy's quinceañera. My favorite part is ______."
+}

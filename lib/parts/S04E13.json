@@ -1,0 +1,144 @@
+{
+  "id": "S04E13",
+  "season": 4,
+  "episode": 13,
+  "title": "Super Babies",
+  "titleCn": "超级宝宝",
+  "hook": "双胞胎宝宝会飞！Swiper 偷走香蕉，超级宝宝一路吹气、搭台阶追到香蕉山。",
+  "cover": "/img/s04e13/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:34",
+      "img": "/img/s04e13/f1.jpg",
+      "t": "Help with the Twins",
+      "en": "Dora helps her mom with the twins in the nursery.",
+      "cn": "Dora 在婴儿房帮妈妈照看双胞胎。",
+      "key": "twins · nursery"
+    },
+    {
+      "no": 2,
+      "time": "03:59",
+      "img": "/img/s04e13/f2.jpg",
+      "t": "A Mountain of Bananas",
+      "en": "Map shows a big mountain made of yellow bananas.",
+      "cn": "地图上是一座用黄香蕉堆成的大山。",
+      "key": "mountain · bananas"
+    },
+    {
+      "no": 3,
+      "time": "06:24",
+      "img": "/img/s04e13/f3.jpg",
+      "t": "The Babies Can Fly",
+      "en": "The super babies can fly up into the sky.",
+      "cn": "超级宝宝能一直飞到天上去。",
+      "key": "fly · sky"
+    },
+    {
+      "no": 4,
+      "time": "08:48",
+      "img": "/img/s04e13/f4.jpg",
+      "t": "Blow Up the Boat",
+      "en": "The babies blow air into the boat for them.",
+      "cn": "宝宝们往船里吹气，把船吹起来。",
+      "key": "blow · boat"
+    },
+    {
+      "no": 5,
+      "time": "11:13",
+      "img": "/img/s04e13/f5.jpg",
+      "t": "A Yellow Raincoat",
+      "en": "Dora wears a yellow raincoat and holds a paddle.",
+      "cn": "Dora 穿着黄色雨衣，手里拿着桨。",
+      "key": "raincoat · paddle"
+    },
+    {
+      "no": 6,
+      "time": "13:38",
+      "img": "/img/s04e13/f6.jpg",
+      "t": "Flying High",
+      "en": "The babies fly high in their little baby carriage.",
+      "cn": "宝宝们坐在小推车里飞得高高的。",
+      "key": "carriage · high"
+    },
+    {
+      "no": 7,
+      "time": "16:02",
+      "img": "/img/s04e13/f7.jpg",
+      "t": "Build the Steps",
+      "en": "They build the steps with many color blocks.",
+      "cn": "他们用好多彩色积木搭出台阶。",
+      "key": "steps · blocks"
+    },
+    {
+      "no": 8,
+      "time": "18:27",
+      "img": "/img/s04e13/f8.jpg",
+      "t": "Ride Along",
+      "en": "Dora and Boots ride along with the babies.",
+      "cn": "Dora 和 Boots 带着宝宝们一起坐车。",
+      "key": "ride · babies"
+    },
+    {
+      "no": 9,
+      "time": "20:52",
+      "img": "/img/s04e13/f9.jpg",
+      "t": "Swiper, No, No!",
+      "en": "Swiper wants the bananas, but the babies fly up.",
+      "cn": "Swiper 想要香蕉，可宝宝们飞了起来。",
+      "key": "Swiper · bananas"
+    }
+  ],
+  "words": [
+    [
+      "twin",
+      "双胞胎"
+    ],
+    [
+      "nursery",
+      "婴儿房"
+    ],
+    [
+      "banana",
+      "香蕉"
+    ],
+    [
+      "fly",
+      "飞"
+    ],
+    [
+      "sky",
+      "天空"
+    ],
+    [
+      "blow",
+      "吹"
+    ],
+    [
+      "boat",
+      "小船"
+    ],
+    [
+      "raincoat",
+      "雨衣"
+    ],
+    [
+      "paddle",
+      "桨"
+    ],
+    [
+      "carriage",
+      "小推车"
+    ],
+    [
+      "block",
+      "积木"
+    ],
+    [
+      "¡Cuidado!",
+      "小心（西语）"
+    ]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Super Babies”.",
+  "ending": "In the end, the super babies save the bananas from Swiper. My favorite part is ______."
+}

@@ -44,3 +44,6 @@ next-env.d.ts
 
 # PDF 校验用的临时截图
 scripts/_chk/
+
+# 取帧校验图/清单等临时产物
+/tmp/

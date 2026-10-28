@@ -1,0 +1,144 @@
+{
+  "id": "S04E18",
+  "season": 4,
+  "episode": 18,
+  "title": "Swiper the Explorer",
+  "titleCn": "探险家 Swiper",
+  "hook": "Swiper 捡到一只走丢的小狐狸，这回他当起探险家，要和 Dora 一起送它回家。",
+  "cover": "/img/s04e18/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:34",
+      "img": "/img/s04e18/f1.jpg",
+      "t": "A Lost Baby Fox",
+      "en": "Dora and Boots find a baby fox near the bushes.",
+      "cn": "Dora 和 Boots 在灌木丛边发现一只小狐狸。",
+      "key": "fox · bushes"
+    },
+    {
+      "no": 2,
+      "time": "03:59",
+      "img": "/img/s04e18/f2.jpg",
+      "t": "Far from Home",
+      "en": "Map says the baby fox lives far from here.",
+      "cn": "地图说，小狐狸的家离这儿很远。",
+      "key": "Map · far"
+    },
+    {
+      "no": 3,
+      "time": "06:24",
+      "img": "/img/s04e18/f3.jpg",
+      "t": "Swiper Carries the Baby",
+      "en": "Swiper carries the baby fox in his two arms.",
+      "cn": "Swiper 用两条胳膊抱着小狐狸。",
+      "key": "carries · arms"
+    },
+    {
+      "no": 4,
+      "time": "08:49",
+      "img": "/img/s04e18/f4.jpg",
+      "t": "Something to Drink",
+      "en": "They ask for something for the baby fox to drink.",
+      "cn": "他们想问谁有小狐狸能喝的东西。",
+      "key": "drink · fox"
+    },
+    {
+      "no": 5,
+      "time": "11:14",
+      "img": "/img/s04e18/f5.jpg",
+      "t": "An Orange",
+      "en": "Swiper picks an orange near the big volcano ground.",
+      "cn": "Swiper 在火山旁边的地上摘了一个橙子。",
+      "key": "orange · volcano"
+    },
+    {
+      "no": 6,
+      "time": "13:39",
+      "img": "/img/s04e18/f6.jpg",
+      "t": "The Fox Drinks",
+      "en": "The baby fox drinks and smiles at Swiper.",
+      "cn": "小狐狸喝完了，冲 Swiper 笑。",
+      "key": "drinks · smiles"
+    },
+    {
+      "no": 7,
+      "time": "16:04",
+      "img": "/img/s04e18/f7.jpg",
+      "t": "Diego Helps",
+      "en": "Diego comes and helps them find wild animals.",
+      "cn": "Diego 赶来，帮他们找丛林里的野生动物。",
+      "key": "Diego · wild"
+    },
+    {
+      "no": 8,
+      "time": "18:29",
+      "img": "/img/s04e18/f8.jpg",
+      "t": "Away from the Bats",
+      "en": "The baby fox gets away from the chasey bats.",
+      "cn": "小狐狸甩掉了追着它的蝙蝠。",
+      "key": "bats · away"
+    },
+    {
+      "no": 9,
+      "time": "20:54",
+      "img": "/img/s04e18/f9.jpg",
+      "t": "Mi Zorrito",
+      "en": "Mama fox says, “Mi zorrito, you came back!”",
+      "cn": "狐狸妈妈说：“我的小狐狸，你回来啦！”",
+      "key": "zorrito · back"
+    }
+  ],
+  "words": [
+    [
+      "fox",
+      "狐狸"
+    ],
+    [
+      "lost",
+      "迷路的"
+    ],
+    [
+      "bush",
+      "灌木丛"
+    ],
+    [
+      "carry",
+      "抱"
+    ],
+    [
+      "drink",
+      "喝"
+    ],
+    [
+      "orange",
+      "橙子"
+    ],
+    [
+      "volcano",
+      "火山"
+    ],
+    [
+      "bat",
+      "蝙蝠"
+    ],
+    [
+      "wild",
+      "野生的"
+    ],
+    [
+      "mama",
+      "妈妈"
+    ],
+    [
+      "explorer",
+      "探险家"
+    ],
+    [
+      "Mi zorrito",
+      "我的小狐狸（西语）"
+    ]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Swiper the Explorer”.",
+  "ending": "In the end, Swiper brings the baby fox back to its mama. My favorite part is ______."
+}

@@ -1,0 +1,144 @@
+{
+  "id": "S04E01",
+  "season": 4,
+  "episode": 1,
+  "title": "Star Catcher",
+  "titleCn": "抓星星的人",
+  "hook": "天上掉下一颗小星星，Dora 要把它们收进星星口袋，再一路送到云中城堡。",
+  "cover": "/img/s04e01/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:34",
+      "img": "/img/s04e01/f1.jpg",
+      "t": "Catch a Little Star",
+      "en": "Dora catches a little star under the big green tree.",
+      "cn": "Dora 在大绿树下接住了一颗小星星。",
+      "key": "star · tree"
+    },
+    {
+      "no": 2,
+      "time": "03:59",
+      "img": "/img/s04e01/f2.jpg",
+      "t": "The Star Pocket",
+      "en": "Boots wants to put the star in the star pocket.",
+      "cn": "Boots 想把星星放进星星口袋里。",
+      "key": "star · pocket"
+    },
+    {
+      "no": 3,
+      "time": "06:24",
+      "img": "/img/s04e01/f3.jpg",
+      "t": "Map Says Three Stops",
+      "en": "Map says: water, mountain, then the cloud castle.",
+      "cn": "地图说：先水路，再上山，最后到云中城堡。",
+      "key": "water · castle"
+    },
+    {
+      "no": 4,
+      "time": "08:48",
+      "img": "/img/s04e01/f4.jpg",
+      "t": "At the Dock",
+      "en": "A little star walks to the boat on the dock.",
+      "cn": "一颗小星星走到码头的小船边。",
+      "key": "star · boat"
+    },
+    {
+      "no": 5,
+      "time": "11:13",
+      "img": "/img/s04e01/f5.jpg",
+      "t": "Dora Takes the Wheel",
+      "en": "Dora takes the wheel and drives the boat across.",
+      "cn": "Dora 握住舵轮，开着船过河。",
+      "key": "wheel · boat"
+    },
+    {
+      "no": 6,
+      "time": "13:38",
+      "img": "/img/s04e01/f6.jpg",
+      "t": "Dragon Mountain",
+      "en": "Now they see Dragon Mountain with many stars around.",
+      "cn": "这会儿他们看见了恐龙山，周围全是星星。",
+      "key": "mountain · stars"
+    },
+    {
+      "no": 7,
+      "time": "16:02",
+      "img": "/img/s04e01/f7.jpg",
+      "t": "Switchy Fills the Shapes",
+      "en": "Switchy can fill in the missing shapes on the box.",
+      "cn": "星星 Switchy 会把盒子上缺的形状补好。",
+      "key": "shapes · box"
+    },
+    {
+      "no": 8,
+      "time": "18:27",
+      "img": "/img/s04e01/f8.jpg",
+      "t": "A Castle in the Clouds",
+      "en": "Look up! There is a castle in the clouds.",
+      "cn": "抬头看！云里有一座城堡。",
+      "key": "castle · clouds"
+    },
+    {
+      "no": 9,
+      "time": "20:52",
+      "img": "/img/s04e01/f9.jpg",
+      "t": "A Great Star Catcher",
+      "en": "The king says, “You are a great star catcher!”",
+      "cn": "国王说：“你真是了不起的抓星星高手！”",
+      "key": "king · catcher"
+    }
+  ],
+  "words": [
+    [
+      "star",
+      "星星"
+    ],
+    [
+      "catch",
+      "抓住"
+    ],
+    [
+      "pocket",
+      "口袋"
+    ],
+    [
+      "water",
+      "水"
+    ],
+    [
+      "mountain",
+      "山"
+    ],
+    [
+      "castle",
+      "城堡"
+    ],
+    [
+      "cloud",
+      "云"
+    ],
+    [
+      "boat",
+      "小船"
+    ],
+    [
+      "wheel",
+      "舵轮"
+    ],
+    [
+      "shape",
+      "形状"
+    ],
+    [
+      "king",
+      "国王"
+    ],
+    [
+      "¡Excelente!",
+      "太棒了（西语）"
+    ]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Star Catcher”.",
+  "ending": "In the end, Dora brings every star to the cloud castle. My favorite part is ______."
+}

@@ -1,0 +1,144 @@
+{
+  "id": "S04E12",
+  "season": 4,
+  "episode": 12,
+  "title": "Boots to the Rescue",
+  "titleCn": "Boots 来救场",
+  "hook": "Dora 写的歌被风吹跑了，Boots 一个人带上地图，穿过机器人房子把歌追回来。",
+  "cover": "/img/s04e12/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:34",
+      "img": "/img/s04e12/f1.jpg",
+      "t": "Dora Writes Songs",
+      "en": "Dora is great at writing songs about her friends.",
+      "cn": "Dora 很会给朋友们写歌。",
+      "key": "writing · friends"
+    },
+    {
+      "no": 2,
+      "time": "03:59",
+      "img": "/img/s04e12/f2.jpg",
+      "t": "The Robot House",
+      "en": "Boots says, “Then we go through the robot house.”",
+      "cn": "Boots 说：“然后我们要穿过机器人房子。”",
+      "key": "robot · house"
+    },
+    {
+      "no": 3,
+      "time": "06:24",
+      "img": "/img/s04e12/f3.jpg",
+      "t": "It's a Bird",
+      "en": "Boots points up and says, “Look, it's a bird!”",
+      "cn": "Boots 指着上面说：“看，那是一只鸟！”",
+      "key": "points · bird"
+    },
+    {
+      "no": 4,
+      "time": "08:48",
+      "img": "/img/s04e12/f4.jpg",
+      "t": "Animals in the Jungle",
+      "en": "They must find out which animals live in the jungle.",
+      "cn": "他们得弄清楚丛林里住着哪些动物。",
+      "key": "animals · jungle"
+    },
+    {
+      "no": 5,
+      "time": "11:13",
+      "img": "/img/s04e12/f5.jpg",
+      "t": "Check the Way",
+      "en": "Map checks the way, so Boots runs on fast.",
+      "cn": "地图把路打了勾，Boots 就飞快地往前跑。",
+      "key": "Map · way"
+    },
+    {
+      "no": 6,
+      "time": "13:38",
+      "img": "/img/s04e12/f6.jpg",
+      "t": "Say Abre",
+      "en": "In the robot house, Boots says “Abre” to open.",
+      "cn": "在机器人房子里，Boots 说“Abre”来开门。",
+      "key": "Abre · open"
+    },
+    {
+      "no": 7,
+      "time": "16:02",
+      "img": "/img/s04e12/f7.jpg",
+      "t": "The Laundry Room",
+      "en": "A washing machine spins in the white laundry room.",
+      "cn": "白色的洗衣房里，一台洗衣机在转。",
+      "key": "washing · room"
+    },
+    {
+      "no": 8,
+      "time": "18:27",
+      "img": "/img/s04e12/f8.jpg",
+      "t": "Whee!",
+      "en": "Boots slides down and shouts, “Whee! This is fun!”",
+      "cn": "Boots 滑下来喊：“哇！这真好玩！”",
+      "key": "slides · fun"
+    },
+    {
+      "no": 9,
+      "time": "20:52",
+      "img": "/img/s04e12/f9.jpg",
+      "t": "Sing for the Teacher",
+      "en": "Dora sings for La Maestra with a big smile.",
+      "cn": "Dora 笑着唱给音乐老师听。",
+      "key": "sings · Maestra"
+    }
+  ],
+  "words": [
+    [
+      "song",
+      "歌"
+    ],
+    [
+      "robot",
+      "机器人"
+    ],
+    [
+      "bird",
+      "鸟"
+    ],
+    [
+      "jungle",
+      "丛林"
+    ],
+    [
+      "animal",
+      "动物"
+    ],
+    [
+      "open",
+      "打开"
+    ],
+    [
+      "washing machine",
+      "洗衣机"
+    ],
+    [
+      "slide",
+      "滑"
+    ],
+    [
+      "teacher",
+      "老师"
+    ],
+    [
+      "guitar",
+      "吉他"
+    ],
+    [
+      "rescue",
+      "营救"
+    ],
+    [
+      "¡Por supuesto!",
+      "当然（西语）"
+    ]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Boots to the Rescue”.",
+  "ending": "In the end, Boots brings the song back and Dora sings it for La Maestra. My favorite part is ______."
+}

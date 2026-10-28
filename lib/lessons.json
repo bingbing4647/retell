@@ -1,4 +1,1732 @@
 {
+  "S01E01": {
+    "id": "S01E01",
+    "season": 1,
+    "episode": 1,
+    "title": "Lost and Found",
+    "titleCn": "走失的小蓝鸟",
+    "hook": "一只小蓝鸟又冷又怕，Dora 和 Boots 要送她回到妈妈身边。",
+    "cover": "/img/s01e01/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:40",
+        "img": "/img/s01e01/f1.jpg",
+        "t": "Someone Is Crying",
+        "en": "“Peep, peep, peep!” Someone is crying behind the flowers.",
+        "cn": "“啾、啾、啾！”花丛后面有谁在哭。",
+        "key": "crying · flowers"
+      },
+      {
+        "no": 2,
+        "time": "02:40",
+        "img": "/img/s01e01/f2.jpg",
+        "t": "She Is Cold",
+        "en": "A little blue bird sits on the grass. “She is cold,” says Boots.",
+        "cn": "一只小蓝鸟坐在草地上，Boots 说：“她好冷呀。”",
+        "key": "blue bird · cold"
+      },
+      {
+        "no": 3,
+        "time": "04:20",
+        "img": "/img/s01e01/f3.jpg",
+        "t": "Now She's Lost",
+        "en": "“Now she's lost,” says Dora. They must find her mommy.",
+        "cn": "Dora 说：“她走丢了。”他们得帮她找到妈妈。",
+        "key": "lost · mommy"
+      },
+      {
+        "no": 4,
+        "time": "08:20",
+        "img": "/img/s01e01/f4.jpg",
+        "t": "First the Cornfield",
+        "en": "“First the Cornfield, then the Big Tree,” says Boots.",
+        "cn": "Boots 说：“先过玉米地，再到那棵大树。”",
+        "key": "Cornfield · Big Tree"
+      },
+      {
+        "no": 5,
+        "time": "09:35",
+        "img": "/img/s01e01/f5.jpg",
+        "t": "Off We Go",
+        "en": "“Dora and Boots, all right!” They start walking down the path.",
+        "cn": "“Dora 和 Boots，出发！”他们沿着小路往前走。",
+        "key": "walking · path"
+      },
+      {
+        "no": 6,
+        "time": "11:30",
+        "img": "/img/s01e01/f6.jpg",
+        "t": "Stop Swiper",
+        "en": "“Help us stop Swiper!” Dora needs you to say “Swiper, no swiping!”",
+        "cn": "“帮我们拦住 Swiper！”Dora 要你一起喊：“Swiper，不许抢！”",
+        "key": "Swiper · stop"
+      },
+      {
+        "no": 7,
+        "time": "15:50",
+        "img": "/img/s01e01/f7.jpg",
+        "t": "Almost There",
+        "en": "“We're almost there!” The Little Blue Tree is past the fence.",
+        "cn": "“我们快到了！”小蓝树就在篱笆那边。",
+        "key": "almost · fence"
+      },
+      {
+        "no": 8,
+        "time": "20:20",
+        "img": "/img/s01e01/f8.jpg",
+        "t": "Swiper Wants the Flower",
+        "en": "Swiper grabs a yellow flower. “He wants to swipe her flower!”",
+        "cn": "Swiper 伸手去抓那朵黄花：“他想把她的花抢走！”",
+        "key": "Swiper · flower"
+      },
+      {
+        "no": 9,
+        "time": "21:45",
+        "img": "/img/s01e01/f9.jpg",
+        "t": "Muchas Gracias",
+        "en": "“Muchas gracias!” The little bird is back with her mommy at last.",
+        "cn": "“非常感谢！”小蓝鸟终于回到妈妈身边了。",
+        "key": "mommy · gracias"
+      }
+    ],
+    "words": [
+      [
+        "blue bird",
+        "小蓝鸟"
+      ],
+      [
+        "lost",
+        "走失的"
+      ],
+      [
+        "cold",
+        "冷的"
+      ],
+      [
+        "mommy",
+        "妈妈"
+      ],
+      [
+        "cry",
+        "哭"
+      ],
+      [
+        "flower",
+        "花"
+      ],
+      [
+        "Cornfield",
+        "玉米地"
+      ],
+      [
+        "Big Tree",
+        "大树"
+      ],
+      [
+        "path",
+        "小路"
+      ],
+      [
+        "fence",
+        "篱笆"
+      ],
+      [
+        "Swiper",
+        "捣蛋鬼"
+      ],
+      [
+        "gracias",
+        "谢谢（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Lost and Found”.",
+    "ending": "In the end, the little blue bird finds her mommy. My favorite part is ______."
+  },
+  "S01E02": {
+    "id": "S01E02",
+    "season": 1,
+    "episode": 2,
+    "title": "The Big Red Chicken",
+    "titleCn": "大红鸡",
+    "hook": "故事书里的大红鸡跑丢了，Dora 和 Boots 要走过木桥、推开大门，上大红山把它找回来。",
+    "cover": "/img/s01e02/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "03:05",
+        "img": "/img/s01e02/f1.jpg",
+        "t": "Story Time",
+        "en": "Dora reads a book about a little red chicken.",
+        "cn": "Dora 翻开故事书，书里讲的是一只小红鸡。",
+        "key": "book · chicken"
+      },
+      {
+        "no": 2,
+        "time": "06:22",
+        "img": "/img/s01e02/f2.jpg",
+        "t": "Follow the Map",
+        "en": "The map shows three stops: the bridge, the gate, and the hill.",
+        "cn": "书页上画着三站：木桥、大门、大红山。",
+        "key": "bridge · hill"
+      },
+      {
+        "no": 3,
+        "time": "09:00",
+        "img": "/img/s01e02/f3.jpg",
+        "t": "Fox Gives Up",
+        "en": "Swiper the fox tries to swipe, but they shout, “No swiping!”",
+        "cn": "狐狸 Swiper 想抢东西，大家一喊，他只好认输。",
+        "key": "swipe · fox"
+      },
+      {
+        "no": 4,
+        "time": "11:04",
+        "img": "/img/s01e02/f4.jpg",
+        "t": "A Hole in the Bridge",
+        "en": "The bridge has a big hole. “Do you see anyone who can help us?”",
+        "cn": "木桥中间破了个洞：“你看到有谁能帮我们吗？”",
+        "key": "bridge · hole"
+      },
+      {
+        "no": 5,
+        "time": "13:40",
+        "img": "/img/s01e02/f5.jpg",
+        "t": "Toucan to the Rescue",
+        "en": "The toucan brings a small plank. “Pequeño means small,” says Dora.",
+        "cn": "鹦鹉叼来一块小木板：“Pequeño 就是‘小’的意思。”",
+        "key": "toucan · plank"
+      },
+      {
+        "no": 6,
+        "time": "15:45",
+        "img": "/img/s01e02/f6.jpg",
+        "t": "Locked Gate",
+        "en": "Dora pulls the gate, but it does not open. “It is locked!”",
+        "cn": "Dora 用力拉大门，可是门开不了：“门锁上了！”",
+        "key": "gate · locked"
+      },
+      {
+        "no": 7,
+        "time": "18:26",
+        "img": "/img/s01e02/f7.jpg",
+        "t": "Which Key?",
+        "en": "Dora holds a big bunch of keys. “One, two, three!”",
+        "cn": "Dora 抱来一大串钥匙：“一、二、三！”",
+        "key": "keys · three"
+      },
+      {
+        "no": 8,
+        "time": "19:46",
+        "img": "/img/s01e02/f8.jpg",
+        "t": "Almost There",
+        "en": "“Look, I can see the Big Red Hill!” They run down the path.",
+        "cn": "“看，我能看见大红山了！”他们沿着小路跑过去。",
+        "key": "hill · path"
+      },
+      {
+        "no": 9,
+        "time": "22:27",
+        "img": "/img/s01e02/f9.jpg",
+        "t": "We Did It",
+        "en": "“¡Lo hicimos!” They meet the Big Red Chicken on the hill.",
+        "cn": "“¡Lo hicimos！（我们做到啦！）”他们在大红山上见到了大红鸡。",
+        "key": "chicken · hill"
+      }
+    ],
+    "words": [
+      [
+        "book",
+        "书"
+      ],
+      [
+        "map",
+        "地图"
+      ],
+      [
+        "bridge",
+        "桥"
+      ],
+      [
+        "gate",
+        "大门"
+      ],
+      [
+        "key",
+        "钥匙"
+      ],
+      [
+        "lock",
+        "锁上"
+      ],
+      [
+        "swiping",
+        "乱抢东西"
+      ],
+      [
+        "fox",
+        "狐狸"
+      ],
+      [
+        "plank",
+        "木板"
+      ],
+      [
+        "chicken",
+        "鸡"
+      ],
+      [
+        "pequeño",
+        "小的（西语）"
+      ],
+      [
+        "lo hicimos",
+        "我们做到了（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “The Big Red Chicken”.",
+    "ending": "In the end, Dora and Boots meet the Big Red Chicken on the red hill. My favorite part is ______."
+  },
+  "S01E03": {
+    "id": "S01E03",
+    "season": 1,
+    "episode": 3,
+    "title": "Choo Choo",
+    "titleCn": "小火车呜呜",
+    "hook": "小蓝火车 Azul 没有哨子，Dora 和 Boots 要陪它开到大黄车站去领哨子。",
+    "cover": "/img/s01e03/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "03:01",
+        "img": "/img/s01e03/f1.jpg",
+        "t": "Poor Little Train",
+        "en": "The little blue train has no whistle. “He doesn't have a whistle!”",
+        "cn": "小蓝火车没有哨子：“它没有哨子呀！”",
+        "key": "train · whistle"
+      },
+      {
+        "no": 2,
+        "time": "05:42",
+        "img": "/img/s01e03/f2.jpg",
+        "t": "First the Tunnel",
+        "en": "“We go to the Big Yellow Station.” The map shows a tunnel first.",
+        "cn": "“我们要去大黄车站。”地图上说，先要穿过隧道。",
+        "key": "map · tunnel"
+      },
+      {
+        "no": 3,
+        "time": "07:42",
+        "img": "/img/s01e03/f3.jpg",
+        "t": "Off We Roll",
+        "en": "“Chuga-chuga, choo choo!” Dora and Boots ride the blue train.",
+        "cn": "“咔嚓咔嚓，呜呜！”Dora 和 Boots 坐上蓝色小火车。",
+        "key": "choo choo · ride"
+      },
+      {
+        "no": 4,
+        "time": "11:04",
+        "img": "/img/s01e03/f4.jpg",
+        "t": "Dark Inside",
+        "en": "“We won't be able to see where we're going!” Inside it is dark.",
+        "cn": "“我们都看不见路啦！”隧道里面黑黑的。",
+        "key": "see · dark"
+      },
+      {
+        "no": 5,
+        "time": "17:20",
+        "img": "/img/s01e03/f5.jpg",
+        "t": "Stop That Fox",
+        "en": "Swiper grabs the tracks. “Swiper, no!” Dora and Boots shout.",
+        "cn": "Swiper 把铁轨抢走了，Dora 和 Boots 大喊：“Swiper，不行！”",
+        "key": "Swiper · tracks"
+      },
+      {
+        "no": 6,
+        "time": "17:35",
+        "img": "/img/s01e03/f6.jpg",
+        "t": "Help Us Look",
+        "en": "“Will you help us find the missing tracks?” asks Dora.",
+        "cn": "Dora 问：“你愿意帮我们找回不见的铁轨吗？”",
+        "key": "help · missing"
+      },
+      {
+        "no": 7,
+        "time": "19:10",
+        "img": "/img/s01e03/f7.jpg",
+        "t": "A Blue Square",
+        "en": "“It's a square, but it's not blue.” They find the right piece.",
+        "cn": "“是方形的，可不是蓝色。”他们找到了对的那一块。",
+        "key": "square · blue"
+      },
+      {
+        "no": 8,
+        "time": "20:45",
+        "img": "/img/s01e03/f8.jpg",
+        "t": "A Gift for Azul",
+        "en": "The octopus gives Azul a big whistle. “Wow, that's a big whistle!”",
+        "cn": "章鱼站长送给 Azul 一个大哨子：“哇，好大的哨子！”",
+        "key": "octopus · Azul"
+      },
+      {
+        "no": 9,
+        "time": "21:35",
+        "img": "/img/s01e03/f9.jpg",
+        "t": "Loud and Clear",
+        "en": "“Choo choo!” Azul toots his big new whistle at the station.",
+        "cn": "“呜呜！”Azul 在车站吹响了它的新哨子。",
+        "key": "toots · station"
+      }
+    ],
+    "words": [
+      [
+        "train",
+        "火车"
+      ],
+      [
+        "whistle",
+        "哨子"
+      ],
+      [
+        "tunnel",
+        "隧道"
+      ],
+      [
+        "track",
+        "铁轨"
+      ],
+      [
+        "station",
+        "车站"
+      ],
+      [
+        "square",
+        "正方形"
+      ],
+      [
+        "octopus",
+        "章鱼"
+      ],
+      [
+        "dark",
+        "黑暗的"
+      ],
+      [
+        "choo choo",
+        "呜呜（火车声）"
+      ],
+      [
+        "Azul",
+        "蓝色（西语），小火车名字"
+      ],
+      [
+        "vámonos",
+        "我们走吧（西语）"
+      ],
+      [
+        "toot",
+        "吹响"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Choo Choo”.",
+    "ending": "In the end, the little blue train toots his big new whistle. My favorite part is ______."
+  },
+  "S01E04": {
+    "id": "S01E04",
+    "season": 1,
+    "episode": 4,
+    "title": "Hic-Boom-Ohhh",
+    "titleCn": "打嗝轰隆隆",
+    "hook": "森林里传来“嗝——轰——哦”的怪声，Dora 和 Boots 要找出声音是从哪儿来的。",
+    "cover": "/img/s01e04/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "02:20",
+        "img": "/img/s01e04/f1.jpg",
+        "t": "A Strange Noise",
+        "en": "Dora and Boots hear a loud sound. “Let's find the sound!”",
+        "cn": "Dora 和 Boots 听到一个很响的声音：“我们去找找这个声音！”",
+        "key": "loud · sound"
+      },
+      {
+        "no": 2,
+        "time": "05:00",
+        "img": "/img/s01e04/f2.jpg",
+        "t": "Where to Go",
+        "en": "“River, forest, golden hills.” The map shows the way to go.",
+        "cn": "“小河、森林、金色山丘。”地图指出了要走的三个地方。",
+        "key": "map · forest"
+      },
+      {
+        "no": 3,
+        "time": "09:03",
+        "img": "/img/s01e04/f3.jpg",
+        "t": "Across the Water",
+        "en": "“¡Azul! ¡Azul!” A blue boat comes to take them across.",
+        "cn": "“¡Azul！（蓝色！）”一艘蓝色小船过来载他们过河。",
+        "key": "Azul · boat"
+      },
+      {
+        "no": 4,
+        "time": "16:25",
+        "img": "/img/s01e04/f4.jpg",
+        "t": "The Sneaky Fox",
+        "en": "“Oh, no! It's Swiper the sneaky fox.” He wants their stuff.",
+        "cn": "“糟糕！是狡猾的狐狸 Swiper。”他想抢走他们的东西。",
+        "key": "sneaky · fox"
+      },
+      {
+        "no": 5,
+        "time": "16:50",
+        "img": "/img/s01e04/f5.jpg",
+        "t": "Walk on Tiptoe",
+        "en": "“If we all do the tiptoe walk,” they can pass very quietly.",
+        "cn": "“我们一起踮着脚走，”他们就能悄悄地过去。",
+        "key": "tiptoe · quietly"
+      },
+      {
+        "no": 6,
+        "time": "19:00",
+        "img": "/img/s01e04/f6.jpg",
+        "t": "A Sleeping Giant?",
+        "en": "“Maybe it's a sleeping giant,” says Boots in the quiet forest.",
+        "cn": "Boots 在安静的森林里小声说：“说不定是睡着的大巨人。”",
+        "key": "giant · forest"
+      },
+      {
+        "no": 7,
+        "time": "19:40",
+        "img": "/img/s01e04/f7.jpg",
+        "t": "The Funny Noise",
+        "en": "“Hic... boom... oh!” The sound comes again and again.",
+        "cn": "“嗝……轰……哦！”那个声音一遍又一遍地响。",
+        "key": "sound · again"
+      },
+      {
+        "no": 8,
+        "time": "21:00",
+        "img": "/img/s01e04/f8.jpg",
+        "t": "Count Out Loud",
+        "en": "“Count to ten in a really loud voice,” says the blue cow.",
+        "cn": "蓝牛说：“用很大的声音一起数到十。”",
+        "key": "count · loud"
+      },
+      {
+        "no": 9,
+        "time": "22:00",
+        "img": "/img/s01e04/f9.jpg",
+        "t": "The Hiccups Go",
+        "en": "“¡Lo hicimos!” The big hiccups are gone at last.",
+        "cn": "“¡Lo hicimos！（我们做到啦！）”大嗝终于停下来了。",
+        "key": "hiccups · gone"
+      }
+    ],
+    "words": [
+      [
+        "sound",
+        "声音"
+      ],
+      [
+        "loud",
+        "响亮的"
+      ],
+      [
+        "soft",
+        "轻轻的"
+      ],
+      [
+        "drum",
+        "鼓"
+      ],
+      [
+        "river",
+        "小河"
+      ],
+      [
+        "forest",
+        "森林"
+      ],
+      [
+        "boat",
+        "小船"
+      ],
+      [
+        "tiptoe",
+        "踮着脚"
+      ],
+      [
+        "giant",
+        "巨人"
+      ],
+      [
+        "hiccup",
+        "打嗝"
+      ],
+      [
+        "Azul",
+        "蓝色（西语）"
+      ],
+      [
+        "lo hicimos",
+        "我们做到了（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Hic-Boom-Ohhh”.",
+    "ending": "In the end, the loud counting stops the big hiccups. My favorite part is ______."
+  },
+  "S01E05": {
+    "id": "S01E05",
+    "season": 1,
+    "episode": 5,
+    "title": "Ice Cream",
+    "titleCn": "冰淇淋大冒险",
+    "hook": "冰淇淋车开走了！Dora 和 Boots 要先上草莓山、再划过巧克力湖，才能到冰淇淋岛。",
+    "cover": "/img/s01e05/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:00",
+        "img": "/img/s01e05/f1.jpg",
+        "t": "Boots Loves Sweets",
+        "en": "“I love ice cream!” Boots smiles and jumps with Dora.",
+        "cn": "“我爱冰淇淋！”Boots 笑着和 Dora 一起跳。",
+        "key": "ice cream · smiles"
+      },
+      {
+        "no": 2,
+        "time": "03:41",
+        "img": "/img/s01e05/f2.jpg",
+        "t": "Too Late!",
+        "en": "“Uh-oh! I think the truck is leaving!” The white truck drives away.",
+        "cn": "“哎呀！冰淇淋车好像要开走了！”白色的小车开远了。",
+        "key": "truck · leaving"
+      },
+      {
+        "no": 3,
+        "time": "07:00",
+        "img": "/img/s01e05/f3.jpg",
+        "t": "The Route",
+        "en": "The map shows three places. “First, Strawberry Mountain,” says Dora.",
+        "cn": "地图上有三个地方。Dora 说：“先过草莓山。”",
+        "key": "map · Strawberry Mountain"
+      },
+      {
+        "no": 4,
+        "time": "09:40",
+        "img": "/img/s01e05/f4.jpg",
+        "t": "A Ride from Tico",
+        "en": "“Tico, can you give us a ride?” Tico honks his horn.",
+        "cn": "“Tico，你能载我们一程吗？”Tico 按了按喇叭。",
+        "key": "Tico · ride"
+      },
+      {
+        "no": 5,
+        "time": "10:20",
+        "img": "/img/s01e05/f5.jpg",
+        "t": "Climbing High",
+        "en": "The little yellow car climbs up and over the mountain.",
+        "cn": "黄色的小车爬上山顶，翻过了山。",
+        "key": "yellow car · climbs"
+      },
+      {
+        "no": 6,
+        "time": "14:30",
+        "img": "/img/s01e05/f6.jpg",
+        "t": "Time to Row",
+        "en": "“The chocolate boat!” Boots points at a boat on the brown lake.",
+        "cn": "“巧克力船！”Boots 指着棕色湖面上的一条船。",
+        "key": "chocolate · boat"
+      },
+      {
+        "no": 7,
+        "time": "15:00",
+        "img": "/img/s01e05/f7.jpg",
+        "t": "Row, Row, Row",
+        "en": "“Will you help us row across the lake?” asks Dora.",
+        "cn": "Dora 问：“你愿意帮我们划过这个湖吗？”",
+        "key": "row · lake"
+      },
+      {
+        "no": 8,
+        "time": "20:00",
+        "img": "/img/s01e05/f8.jpg",
+        "t": "At the Truck",
+        "en": "“Now we can get ice cream!” Dora holds a big pink cone.",
+        "cn": "“现在我们能买冰淇淋啦！”Dora 举起一个大大的粉色甜筒。",
+        "key": "ice cream · cone"
+      },
+      {
+        "no": 9,
+        "time": "21:00",
+        "img": "/img/s01e05/f9.jpg",
+        "t": "Paying for It",
+        "en": "“Now help me count out eight coins,” says Dora.",
+        "cn": "Dora 说：“现在帮我数出八枚硬币。”",
+        "key": "count · coins"
+      }
+    ],
+    "words": [
+      [
+        "ice cream",
+        "冰淇淋"
+      ],
+      [
+        "truck",
+        "小货车"
+      ],
+      [
+        "map",
+        "地图"
+      ],
+      [
+        "Strawberry Mountain",
+        "草莓山"
+      ],
+      [
+        "Chocolate Lake",
+        "巧克力湖"
+      ],
+      [
+        "Tico",
+        "蒂科（小狐狸车）"
+      ],
+      [
+        "ride",
+        "搭车"
+      ],
+      [
+        "climb",
+        "爬上去"
+      ],
+      [
+        "boat",
+        "小船"
+      ],
+      [
+        "row",
+        "划船"
+      ],
+      [
+        "coins",
+        "硬币"
+      ],
+      [
+        "izquierda",
+        "左边（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Ice Cream”.",
+    "ending": "In the end, Dora and Boots buy ice cream with eight coins. My favorite part is ______."
+  },
+  "S01E09": {
+    "id": "S01E09",
+    "season": 1,
+    "episode": 9,
+    "title": "Big River",
+    "titleCn": "大河找靴子",
+    "hook": "Boots 的红靴子被河水冲走了，Dora 和他坐上小船，一路划过大河去追它。",
+    "cover": "/img/s01e09/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:00",
+        "img": "/img/s01e09/f1.jpg",
+        "t": "Fish Are Biting",
+        "en": "Dora stands on the dock and fishes. Fish jump up. “Yeah, there's some!”",
+        "cn": "Dora 站在码头上钓鱼，小鱼一条条蹦起来：“对，有鱼！”",
+        "key": "dock · fish"
+      },
+      {
+        "no": 2,
+        "time": "03:01",
+        "img": "/img/s01e09/f2.jpg",
+        "t": "The Boot Floats",
+        "en": "“Dora, my boot is floating away!” The red boot drifts down the river.",
+        "cn": "“Dora，我的靴子漂走了！”红靴子顺着大河漂下去。",
+        "key": "floating · river"
+      },
+      {
+        "no": 3,
+        "time": "05:42",
+        "img": "/img/s01e09/f3.jpg",
+        "t": "Run to the River",
+        "en": "“My boot! My boot!” Boots cries. They run after the little red boot.",
+        "cn": "“我的靴子！我的靴子！”Boots 大叫，他们追着那只小红靴跑。",
+        "key": "cries · run"
+      },
+      {
+        "no": 4,
+        "time": "09:42",
+        "img": "/img/s01e09/f4.jpg",
+        "t": "Bridge at Last",
+        "en": "“Look, there's your boot!” Dora and Boots row their boat to the bridge.",
+        "cn": "“看，你的靴子在那儿！”Dora 和 Boots 划着小船来到桥边。",
+        "key": "boot · bridge"
+      },
+      {
+        "no": 5,
+        "time": "13:30",
+        "img": "/img/s01e09/f5.jpg",
+        "t": "Branches Everywhere",
+        "en": "“We go past all those branches!” Dora and Boots row very fast.",
+        "cn": "“我们穿过那些树枝啦！”Dora 和 Boots 飞快地划船。",
+        "key": "branches · fast"
+      },
+      {
+        "no": 6,
+        "time": "16:00",
+        "img": "/img/s01e09/f6.jpg",
+        "t": "Waterfall Ahead",
+        "en": "Boots sees the big waterfall. “Oh, no!” The water is very loud.",
+        "cn": "Boots 看见前面的大瀑布：“糟糕！”水声好响。",
+        "key": "waterfall · loud"
+      },
+      {
+        "no": 7,
+        "time": "17:05",
+        "img": "/img/s01e09/f7.jpg",
+        "t": "Past the Falls",
+        "en": "“We make it past the waterfall!” Dora and Boots cheer in the boat.",
+        "cn": "“我们冲过瀑布啦！”Dora 和 Boots 在船上欢呼。",
+        "key": "waterfall · cheer"
+      },
+      {
+        "no": 8,
+        "time": "19:55",
+        "img": "/img/s01e09/f8.jpg",
+        "t": "Reel It In",
+        "en": "Dora holds a fishing rod. “Come on, Boots!” They row to the red boot.",
+        "cn": "Dora 拿着鱼竿：“来吧，Boots！”他们朝红靴子划过去。",
+        "key": "fishing rod · boot"
+      },
+      {
+        "no": 9,
+        "time": "22:27",
+        "img": "/img/s01e09/f9.jpg",
+        "t": "Boots Are Back",
+        "en": "“But we found it!” Boots has his red boots on again.",
+        "cn": "“可是我们找到它啦！”Boots 的红靴子又穿回脚上了。",
+        "key": "boots · again"
+      }
+    ],
+    "words": [
+      [
+        "river",
+        "大河"
+      ],
+      [
+        "boot",
+        "靴子"
+      ],
+      [
+        "float",
+        "漂浮"
+      ],
+      [
+        "dock",
+        "码头"
+      ],
+      [
+        "row",
+        "划船"
+      ],
+      [
+        "bridge",
+        "桥"
+      ],
+      [
+        "branches",
+        "树枝"
+      ],
+      [
+        "waterfall",
+        "瀑布"
+      ],
+      [
+        "fishing rod",
+        "鱼竿"
+      ],
+      [
+        "boat",
+        "小船"
+      ],
+      [
+        "cheer",
+        "欢呼"
+      ],
+      [
+        "abre",
+        "打开（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Big River”.",
+    "ending": "In the end, Boots gets his red boot back. My favorite part is ______."
+  },
+  "S01E13": {
+    "id": "S01E13",
+    "season": 1,
+    "episode": 13,
+    "title": "Grandma's House",
+    "titleCn": "去奶奶家",
+    "hook": "奶奶感冒了，Dora 和 Boots 提着一篮点心，赶去奶奶家。",
+    "cover": "/img/s01e13/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:00",
+        "img": "/img/s01e13/f1.jpg",
+        "t": "Grandma Is Sick",
+        "en": "My grandma is sneezing and coughing a lot today.",
+        "cn": "我奶奶今天一直打喷嚏、咳嗽。",
+        "key": "sneezing · coughing"
+      },
+      {
+        "no": 2,
+        "time": "03:01",
+        "img": "/img/s01e13/f2.jpg",
+        "t": "Off to Grandma",
+        "en": "We better hurry to Abuela's house with the basket.",
+        "cn": "我们得带着篮子赶快去奶奶家。",
+        "key": "hurry · basket"
+      },
+      {
+        "no": 3,
+        "time": "05:42",
+        "img": "/img/s01e13/f3.jpg",
+        "t": "Find the Bridge",
+        "en": "Dora needs a bridge to cross the river.",
+        "cn": "Dora 需要一座桥来过河。",
+        "key": "bridge · river"
+      },
+      {
+        "no": 4,
+        "time": "07:42",
+        "img": "/img/s01e13/f4.jpg",
+        "t": "Swiper Appears",
+        "en": "Swiper the fox is here. “Swiper, no swiping!”",
+        "cn": "捣蛋鬼狐狸来了：“Swiper，不许抢！”",
+        "key": "Swiper · swiping"
+      },
+      {
+        "no": 5,
+        "time": "08:23",
+        "img": "/img/s01e13/f5.jpg",
+        "t": "Basket on the Ground",
+        "en": "The basket falls down under the bridge.",
+        "cn": "篮子掉到桥下面去了。",
+        "key": "basket · falls"
+      },
+      {
+        "no": 6,
+        "time": "10:23",
+        "img": "/img/s01e13/f6.jpg",
+        "t": "Wind It Up",
+        "en": "Boots and Dora wind the bridge up again.",
+        "cn": "Boots 和 Dora 把吊桥重新摇上去。",
+        "key": "wind · bridge"
+      },
+      {
+        "no": 7,
+        "time": "12:24",
+        "img": "/img/s01e13/f7.jpg",
+        "t": "Help Us Hide",
+        "en": "Will you help us duck down and hide?",
+        "cn": "你能帮我们蹲下来躲一躲吗？",
+        "key": "duck · hide"
+      },
+      {
+        "no": 8,
+        "time": "16:25",
+        "img": "/img/s01e13/f8.jpg",
+        "t": "Count the Frogs",
+        "en": "Dora counts the little frogs in Spanish. “Uno!”",
+        "cn": "Dora 用西班牙语数小青蛙：“一！”",
+        "key": "counts · frogs"
+      },
+      {
+        "no": 9,
+        "time": "21:48",
+        "img": "/img/s01e13/f9.jpg",
+        "t": "Grandma Smiles",
+        "en": "“Thanks to you, I am feeling better already,” says Abuela.",
+        "cn": "奶奶说：“多亏你们，我已经好多了。”",
+        "key": "better · Abuela"
+      }
+    ],
+    "words": [
+      [
+        "sneezing",
+        "打喷嚏"
+      ],
+      [
+        "coughing",
+        "咳嗽"
+      ],
+      [
+        "basket",
+        "篮子"
+      ],
+      [
+        "treats",
+        "点心"
+      ],
+      [
+        "bridge",
+        "桥"
+      ],
+      [
+        "river",
+        "河"
+      ],
+      [
+        "Swiper",
+        "捣蛋鬼狐狸"
+      ],
+      [
+        "duck down",
+        "蹲下"
+      ],
+      [
+        "frog",
+        "青蛙"
+      ],
+      [
+        "Spanish",
+        "西班牙语"
+      ],
+      [
+        "Abuela",
+        "奶奶（西语）"
+      ],
+      [
+        "uno",
+        "一（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Grandma's House”.",
+    "ending": "In the end, Abuela feels better and eats the treats. My favorite part is ______."
+  },
+  "S01E17": {
+    "id": "S01E17",
+    "season": 1,
+    "episode": 17,
+    "title": "Fish Out of Water",
+    "titleCn": "离水的小红鱼",
+    "hook": "一条小红鱼被困在沙滩的小水洼里，Dora 和 Boots 要把他送回大海找家人。",
+    "cover": "/img/s01e17/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:00",
+        "img": "/img/s01e17/f1.jpg",
+        "t": "A Day at the Beach",
+        "en": "Dora and Boots look for seashells on the sand. “Do you see any seashells?”",
+        "cn": "Dora 和 Boots 在沙滩上找贝壳：“你看到贝壳了吗？”",
+        "key": "seashells · sand"
+      },
+      {
+        "no": 2,
+        "time": "02:20",
+        "img": "/img/s01e17/f2.jpg",
+        "t": "Fish in a Puddle",
+        "en": "A little red fish is in a small pool. “I've got to get home.”",
+        "cn": "一条小红鱼被困在小水洼里：“我得回家。”",
+        "key": "red fish · pool"
+      },
+      {
+        "no": 3,
+        "time": "06:10",
+        "img": "/img/s01e17/f3.jpg",
+        "t": "The Map Shows the Way",
+        "en": "The Map says, “First you go past the sand castle.”",
+        "cn": "地图说：“先走过那座沙堡。”",
+        "key": "Map · castle"
+      },
+      {
+        "no": 4,
+        "time": "07:40",
+        "img": "/img/s01e17/f4.jpg",
+        "t": "The Castle Ahead",
+        "en": "Dora and Boots carry the fish in a bucket. “I see it!”",
+        "cn": "Dora 和 Boots 用小桶提着小鱼：“我看见沙堡了！”",
+        "key": "bucket · fish"
+      },
+      {
+        "no": 5,
+        "time": "11:05",
+        "img": "/img/s01e17/f5.jpg",
+        "t": "Climbing Up",
+        "en": "“We're taking this baby red fish back to his family,” says Dora.",
+        "cn": "Dora 说：“我们要把这条小红鱼宝宝送回家人身边。”",
+        "key": "baby · family"
+      },
+      {
+        "no": 6,
+        "time": "12:50",
+        "img": "/img/s01e17/f6.jpg",
+        "t": "Where Is the Water?",
+        "en": "They walk over the dunes. “Now, where's the ocean?”",
+        "cn": "他们翻过沙丘：“现在大海在哪儿呢？”",
+        "key": "dunes · ocean"
+      },
+      {
+        "no": 7,
+        "time": "15:05",
+        "img": "/img/s01e17/f7.jpg",
+        "t": "Blue Water at Last",
+        "en": "“Look! We made it to the ocean!” says Dora. Boots jumps up.",
+        "cn": "Dora 说：“看！我们到大海了！”Boots 高兴地跳起来。",
+        "key": "ocean · made it"
+      },
+      {
+        "no": 8,
+        "time": "17:05",
+        "img": "/img/s01e17/f8.jpg",
+        "t": "Down Under the Sea",
+        "en": "A yellow submarine goes down. “Whoa!” say Dora and Boots.",
+        "cn": "一艘黄色潜水艇往下沉：“哇！”Dora 和 Boots 一起惊叹。",
+        "key": "submarine · down"
+      },
+      {
+        "no": 9,
+        "time": "21:50",
+        "img": "/img/s01e17/f9.jpg",
+        "t": "Back with His Family",
+        "en": "The red fish is home. They sing, “We did it!”",
+        "cn": "小红鱼回到家了，大家唱起歌：“我们做到了！”",
+        "key": "home · sing"
+      }
+    ],
+    "words": [
+      [
+        "seashell",
+        "贝壳"
+      ],
+      [
+        "beach",
+        "海滩"
+      ],
+      [
+        "red fish",
+        "红鱼"
+      ],
+      [
+        "puddle",
+        "小水洼"
+      ],
+      [
+        "home",
+        "家"
+      ],
+      [
+        "map",
+        "地图"
+      ],
+      [
+        "sand castle",
+        "沙堡"
+      ],
+      [
+        "climb",
+        "爬"
+      ],
+      [
+        "bucket",
+        "小桶"
+      ],
+      [
+        "dune",
+        "沙丘"
+      ],
+      [
+        "ocean",
+        "大海"
+      ],
+      [
+        "hola",
+        "你好（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Fish Out of Water”.",
+    "ending": "In the end, the little red fish is home with his family. My favorite part is ______."
+  },
+  "S01E21": {
+    "id": "S01E21",
+    "season": 1,
+    "episode": 21,
+    "title": "Little Star",
+    "titleCn": "送小星星回家",
+    "hook": "一颗小星星从月亮上掉了下来，Dora 和 Boots 要送它回到天上的家。",
+    "cover": "/img/s01e21/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "00:55",
+        "img": "/img/s01e21/f1.jpg",
+        "t": "Wishes at Night",
+        "en": "Do you like to make wishes? Dora and Boots look at the night sky.",
+        "cn": "“你喜欢许愿吗？”Dora 和 Boots 抬头看夜空。",
+        "key": "wishes · night"
+      },
+      {
+        "no": 2,
+        "time": "03:40",
+        "img": "/img/s01e21/f2.jpg",
+        "t": "A Star Falls",
+        "en": "The little star falls from the moon. “Don't fall!”",
+        "cn": "小星星从月亮上掉了下来：“别掉下来呀！”",
+        "key": "star · falls"
+      },
+      {
+        "no": 3,
+        "time": "04:20",
+        "img": "/img/s01e21/f3.jpg",
+        "t": "Check on Star",
+        "en": "“Are you okay, Little Star?” asks Dora. The star is on the grass.",
+        "cn": "“你还好吗，小星星？”Dora 问。星星躺在草地上。",
+        "key": "okay · grass"
+      },
+      {
+        "no": 4,
+        "time": "08:55",
+        "img": "/img/s01e21/f4.jpg",
+        "t": "The First Stop",
+        "en": "“First we go over the Troll Bridge,” says Dora.",
+        "cn": "Dora 说：“我们先过大巨魔桥。”",
+        "key": "Troll Bridge · over"
+      },
+      {
+        "no": 5,
+        "time": "11:45",
+        "img": "/img/s01e21/f5.jpg",
+        "t": "The Troll's Riddle",
+        "en": "The Grumpy Old Troll asks, “How many stars are here tonight?”",
+        "cn": "大巨魔问：“今天晚上这儿有几颗星星？”",
+        "key": "Troll · stars"
+      },
+      {
+        "no": 6,
+        "time": "14:24",
+        "img": "/img/s01e21/f6.jpg",
+        "t": "Remember the Way",
+        "en": "“Bridge, tree, tall mountain!” Dora and Boots remember the way.",
+        "cn": "“桥、树、高山！”Dora 和 Boots 记住了路线。",
+        "key": "mountain · way"
+      },
+      {
+        "no": 7,
+        "time": "17:05",
+        "img": "/img/s01e21/f7.jpg",
+        "t": "Isa's Magic Word",
+        "en": "Isa sits in the tree. “Say Salta!” The star jumps up high.",
+        "cn": "Isa 坐在树上喊：“说 Salta！”小星星高高跳起。",
+        "key": "Salta · jumps"
+      },
+      {
+        "no": 8,
+        "time": "19:10",
+        "img": "/img/s01e21/f8.jpg",
+        "t": "Up the Mountain",
+        "en": "They climb up the tall mountain. It is right under the moon.",
+        "cn": "他们爬上高山，山顶正好在月亮下面。",
+        "key": "moon · mountain"
+      },
+      {
+        "no": 9,
+        "time": "20:50",
+        "img": "/img/s01e21/f9.jpg",
+        "t": "Back in the Sky",
+        "en": "“First star I see tonight!” The little star shines in the sky again.",
+        "cn": "“今晚我第一眼看到的星星！”小星星又在天上闪闪发光了。",
+        "key": "shines · sky"
+      }
+    ],
+    "words": [
+      [
+        "wish",
+        "许愿"
+      ],
+      [
+        "star",
+        "星星"
+      ],
+      [
+        "moon",
+        "月亮"
+      ],
+      [
+        "fall",
+        "落下"
+      ],
+      [
+        "grass",
+        "草地"
+      ],
+      [
+        "troll",
+        "巨魔"
+      ],
+      [
+        "bridge",
+        "桥"
+      ],
+      [
+        "mountain",
+        "高山"
+      ],
+      [
+        "tree",
+        "树"
+      ],
+      [
+        "jump",
+        "跳"
+      ],
+      [
+        "shine",
+        "发光"
+      ],
+      [
+        "Salta",
+        "跳（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Little Star”.",
+    "ending": "In the end, the little star goes back to the sky. My favorite part is ______."
+  },
+  "S01E22": {
+    "id": "S01E22",
+    "season": 1,
+    "episode": 22,
+    "title": "Call Me Mr. Riddles",
+    "titleCn": "叫我谜语先生",
+    "hook": "爱出谜语的猴子 Mr. Riddles 带着 Dora 一路猜谜，去解高山上最大的谜题。",
+    "cover": "/img/s01e22/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:40",
+        "img": "/img/s01e22/f1.jpg",
+        "t": "A Riddle Friend",
+        "en": "Mr. Riddles the monkey hangs from a branch. “I love riddles!” he says.",
+        "cn": "猴子 Mr. Riddles 挂在树枝上：“我最爱猜谜语啦！”",
+        "key": "monkey · branch"
+      },
+      {
+        "no": 2,
+        "time": "03:00",
+        "img": "/img/s01e22/f2.jpg",
+        "t": "A Funny Name Mix-Up",
+        "en": "Dora laughs. “Sure, Boots... I mean Mr. Riddles!” she says.",
+        "cn": "Dora 笑着说：“当然啦，Boots……我是说，Mr. Riddles！”",
+        "key": "Boots · Mr. Riddles"
+      },
+      {
+        "no": 3,
+        "time": "05:41",
+        "img": "/img/s01e22/f3.jpg",
+        "t": "First the Bridge",
+        "en": "“So first we need to go over the troll bridge,” Dora says.",
+        "cn": "Dora 说：“所以我们得先过那座巨魔桥。”",
+        "key": "bridge · over"
+      },
+      {
+        "no": 4,
+        "time": "09:43",
+        "img": "/img/s01e22/f4.jpg",
+        "t": "A Riddle About a Burro",
+        "en": "“Hmm... what goes hee-haw, hee-haw?” Dora hugs a purple burro.",
+        "cn": "“嗯……什么东西会嘿嘿、嘿嘿地叫？”Dora 抱着一头紫色小毛驴。",
+        "key": "burro · hugs"
+      },
+      {
+        "no": 5,
+        "time": "11:03",
+        "img": "/img/s01e22/f5.jpg",
+        "t": "Count the Legs",
+        "en": "They ride the burro. “Let's count all our legs!” says Dora.",
+        "cn": "他们骑上小毛驴，Dora 说：“我们来数数一共有几条腿！”",
+        "key": "burro · legs"
+      },
+      {
+        "no": 6,
+        "time": "15:04",
+        "img": "/img/s01e22/f6.jpg",
+        "t": "Rain and an Umbrella",
+        "en": "A gray cloud rains on them. They hide under a yellow umbrella. “Yay!”",
+        "cn": "一朵灰云下起雨来，他们躲到黄伞下面：“太棒了！”",
+        "key": "cloud · umbrella"
+      },
+      {
+        "no": 7,
+        "time": "17:34",
+        "img": "/img/s01e22/f7.jpg",
+        "t": "The Talking Door",
+        "en": "The big door has a face. “Knock knock! Orange who?” it asks.",
+        "cn": "大大的门长着一张脸，它问：“敲敲门——Orange 谁呀？”",
+        "key": "door · face"
+      },
+      {
+        "no": 8,
+        "time": "19:50",
+        "img": "/img/s01e22/f8.jpg",
+        "t": "The Mountain Jumps",
+        "en": "The tall mountain has a face. “See, everyone can jump higher,” it says.",
+        "cn": "高高的山长着一张脸，它说：“看，每个人都能跳得更高。”",
+        "key": "mountain · jump"
+      },
+      {
+        "no": 9,
+        "time": "23:04",
+        "img": "/img/s01e22/f9.jpg",
+        "t": "Thanks to You",
+        "en": "“We couldn't have done it without you!” Dora and Mr. Riddles wave.",
+        "cn": "“没有你我们可做不到！”Dora 和 Mr. Riddles 一起朝你挥手。",
+        "key": "without · wave"
+      }
+    ],
+    "words": [
+      [
+        "riddle",
+        "谜语"
+      ],
+      [
+        "monkey",
+        "猴子"
+      ],
+      [
+        "branch",
+        "树枝"
+      ],
+      [
+        "bridge",
+        "桥"
+      ],
+      [
+        "troll",
+        "巨魔"
+      ],
+      [
+        "burro",
+        "小毛驴"
+      ],
+      [
+        "legs",
+        "腿"
+      ],
+      [
+        "cloud",
+        "云"
+      ],
+      [
+        "umbrella",
+        "雨伞"
+      ],
+      [
+        "door",
+        "门"
+      ],
+      [
+        "mountain",
+        "高山"
+      ],
+      [
+        "Vámonos",
+        "走吧（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Call Me Mr. Riddles”.",
+    "ending": "In the end, Dora and Mr. Riddles solve the silliest riddle at the tall mountain. My favorite part is ______."
+  },
+  "S01E23": {
+    "id": "S01E23",
+    "season": 1,
+    "episode": 23,
+    "title": "Te Amo",
+    "titleCn": "我爱你",
+    "hook": "国王 Popo 和王后 Momo 被坏女巫变成了两座山，Dora 要爬上去说一句 Te amo 才能解开魔咒。",
+    "cover": "/img/s01e23/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "03:01",
+        "img": "/img/s01e23/f1.jpg",
+        "t": "A King and Queen",
+        "en": "Every day, King Popo and Queen Momo tell each other “Te amo.”",
+        "cn": "每天，Popo 国王和 Momo 王后都会对彼此说：“我爱你。”",
+        "key": "King · Queen"
+      },
+      {
+        "no": 2,
+        "time": "04:21",
+        "img": "/img/s01e23/f2.jpg",
+        "t": "The Spell Starts",
+        "en": "A mean witch waves her magic wand. “Now they are two big mountains!”",
+        "cn": "坏女巫挥动魔杖：“现在他们是两座大山啦！”",
+        "key": "witch · mountains"
+      },
+      {
+        "no": 3,
+        "time": "05:41",
+        "img": "/img/s01e23/f3.jpg",
+        "t": "Dora Has a Plan",
+        "en": "“Let's stop and think,” says Dora. “We can break the spell!”",
+        "cn": "Dora 说：“我们停下来想一想——我们能解开这个魔咒！”",
+        "key": "think · spell"
+      },
+      {
+        "no": 4,
+        "time": "08:22",
+        "img": "/img/s01e23/f4.jpg",
+        "t": "On the Path",
+        "en": "“Yeah, there's the bridge!” They run down the path to the water.",
+        "cn": "“对，桥就在那儿！”他们沿着小路向水边跑去。",
+        "key": "bridge · path"
+      },
+      {
+        "no": 5,
+        "time": "10:23",
+        "img": "/img/s01e23/f5.jpg",
+        "t": "A Missing Piece",
+        "en": "The bridge has a big hole. “Which piece fits here?” asks Boots.",
+        "cn": "桥中间有个大洞，Boots 问：“哪一块能拼在这里？”",
+        "key": "bridge · piece"
+      },
+      {
+        "no": 6,
+        "time": "14:24",
+        "img": "/img/s01e23/f6.jpg",
+        "t": "Ride the Burro",
+        "en": "“¡Las rocas!” Dora and Boots ride a purple burro past the rocks.",
+        "cn": "“岩石！”Dora 和 Boots 骑着紫色小毛驴经过石堆。",
+        "key": "burro · rocks"
+      },
+      {
+        "no": 7,
+        "time": "17:05",
+        "img": "/img/s01e23/f7.jpg",
+        "t": "Where Are They?",
+        "en": "“Now where are the King Popo and Queen Maria mountains?” Dora asks.",
+        "cn": "Dora 问：“Popo 国王山和 Maria 王后山现在在哪儿呢？”",
+        "key": "Queen Maria · mountains"
+      },
+      {
+        "no": 8,
+        "time": "19:46",
+        "img": "/img/s01e23/f8.jpg",
+        "t": "Up to the Top",
+        "en": "“We have to climb up the mountains and say ‘Te amo,’” says Dora.",
+        "cn": "Dora 说：“我们得爬上这两座山，然后说‘我爱你’。”",
+        "key": "climb · mountains"
+      },
+      {
+        "no": 9,
+        "time": "21:46",
+        "img": "/img/s01e23/f9.jpg",
+        "t": "Together Again",
+        "en": "“De nada!” King Popo and Queen Momo hug Dora. Everyone is happy.",
+        "cn": "“不客气！”Popo 国王和 Momo 王后抱住 Dora，大家都笑了。",
+        "key": "king · hug"
+      }
+    ],
+    "words": [
+      [
+        "Te amo",
+        "我爱你（西语）"
+      ],
+      [
+        "king",
+        "国王"
+      ],
+      [
+        "queen",
+        "王后"
+      ],
+      [
+        "witch",
+        "女巫"
+      ],
+      [
+        "magic wand",
+        "魔杖"
+      ],
+      [
+        "mountain",
+        "山"
+      ],
+      [
+        "spell",
+        "魔咒"
+      ],
+      [
+        "bridge",
+        "桥"
+      ],
+      [
+        "piece",
+        "一块（拼块）"
+      ],
+      [
+        "burro",
+        "小毛驴"
+      ],
+      [
+        "rocks",
+        "岩石"
+      ],
+      [
+        "de nada",
+        "不客气（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Te Amo”.",
+    "ending": "In the end, the king and queen are together again. My favorite part is ______."
+  },
+  "S01E24": {
+    "id": "S01E24",
+    "season": 1,
+    "episode": 24,
+    "title": "Pablo's Flute",
+    "titleCn": "找回巴勃罗的笛子",
+    "hook": "爷爷讲起一支断成三块的旧笛子，Dora 和 Boots 要翻山越岭把碎片找回来。",
+    "cover": "/img/s01e24/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "03:35",
+        "img": "/img/s01e24/f1.jpg",
+        "t": "Abuelo's Story",
+        "en": "“The second piece had two holes,” says Abuelo. Pablo listens to the story.",
+        "cn": "“第二块上有两个孔，”爷爷说。Pablo 听着这个故事。",
+        "key": "piece · story"
+      },
+      {
+        "no": 2,
+        "time": "05:42",
+        "img": "/img/s01e24/f2.jpg",
+        "t": "Find the Flute",
+        "en": "“We have to find that flute and give it back to Pablo.”",
+        "cn": "“我们得找到那支笛子，把它还给 Pablo。”",
+        "key": "flute · Pablo"
+      },
+      {
+        "no": 3,
+        "time": "09:43",
+        "img": "/img/s01e24/f3.jpg",
+        "t": "Three Stops",
+        "en": "“Bridge, forest, Pablo's Mountain!” Dora reads the way on the map.",
+        "cn": "“桥、森林、Pablo 的山！”Dora 在地图上看路线。",
+        "key": "forest · map"
+      },
+      {
+        "no": 4,
+        "time": "11:44",
+        "img": "/img/s01e24/f4.jpg",
+        "t": "Over the Bridge",
+        "en": "On the bridge Boots says, “Oh, Dora! We have to find the pieces!”",
+        "cn": "在桥上 Boots 说：“哎呀 Dora！我们得找到那些碎片！”",
+        "key": "bridge · pieces"
+      },
+      {
+        "no": 5,
+        "time": "13:10",
+        "img": "/img/s01e24/f5.jpg",
+        "t": "Which One Fits?",
+        "en": "Three flute pieces lie on the rocks. “Which piece goes next?”",
+        "cn": "三块笛子碎片躺在岩石上：“下一块该放哪一块？”",
+        "key": "pieces · rocks"
+      },
+      {
+        "no": 6,
+        "time": "14:24",
+        "img": "/img/s01e24/f6.jpg",
+        "t": "Into the Forest",
+        "en": "“Do you see a forest?” Dora looks at the green trees ahead.",
+        "cn": "“你看见森林了吗？”Dora 看着前面的绿树。",
+        "key": "forest · trees"
+      },
+      {
+        "no": 7,
+        "time": "15:45",
+        "img": "/img/s01e24/f7.jpg",
+        "t": "Hello, Toucan!",
+        "en": "“Look! It's Señor Tucán!” The toucan sits high in the tree.",
+        "cn": "“看！是巨嘴鸟先生！”它高高地停在树上。",
+        "key": "toucan · tree"
+      },
+      {
+        "no": 8,
+        "time": "19:40",
+        "img": "/img/s01e24/f8.jpg",
+        "t": "Swiper Is Coming",
+        "en": "“That sounds like Swiper the Fox.” Boots hides behind Dora.",
+        "cn": "“那声音像是捣蛋鬼 Swiper。”Boots 躲到 Dora 身后。",
+        "key": "Swiper · hides"
+      },
+      {
+        "no": 9,
+        "time": "20:26",
+        "img": "/img/s01e24/f9.jpg",
+        "t": "Back to Pablo",
+        "en": "“We found your flute!” Pablo and Abuelo smile at the mountain house.",
+        "cn": "“我们找到你的笛子了！”Pablo 和爷爷在山顶小屋前笑了。",
+        "key": "flute · mountain"
+      }
+    ],
+    "words": [
+      [
+        "flute",
+        "笛子"
+      ],
+      [
+        "piece",
+        "碎片"
+      ],
+      [
+        "Pablo",
+        "巴勃罗"
+      ],
+      [
+        "Abuelo",
+        "爷爷（西语）"
+      ],
+      [
+        "bridge",
+        "桥"
+      ],
+      [
+        "forest",
+        "森林"
+      ],
+      [
+        "mountain",
+        "山"
+      ],
+      [
+        "map",
+        "地图"
+      ],
+      [
+        "rocks",
+        "岩石"
+      ],
+      [
+        "toucan",
+        "巨嘴鸟"
+      ],
+      [
+        "Swiper",
+        "捣蛋鬼"
+      ],
+      [
+        "found",
+        "找到"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Pablo's Flute”.",
+    "ending": "In the end, Dora and Boots give the flute back to Pablo. My favorite part is ______."
+  },
   "S02E01": {
     "id": "S02E01",
     "season": 2,
@@ -7343,5 +9071,3461 @@
     ],
     "opener": "Today I watched Dora the Explorer. This episode is “Dora's Pirate Adventure”.",
     "ending": "In the end, Dora and her friends get the treasure chest back and put on their pirate play. My favorite part is ______."
+  },
+  "S04E01": {
+    "id": "S04E01",
+    "season": 4,
+    "episode": 1,
+    "title": "Star Catcher",
+    "titleCn": "抓星星的人",
+    "hook": "天上掉下一颗小星星，Dora 要把它们收进星星口袋，再一路送到云中城堡。",
+    "cover": "/img/s04e01/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:34",
+        "img": "/img/s04e01/f1.jpg",
+        "t": "Catch a Little Star",
+        "en": "Dora catches a little star under the big green tree.",
+        "cn": "Dora 在大绿树下接住了一颗小星星。",
+        "key": "star · tree"
+      },
+      {
+        "no": 2,
+        "time": "03:59",
+        "img": "/img/s04e01/f2.jpg",
+        "t": "The Star Pocket",
+        "en": "Boots wants to put the star in the star pocket.",
+        "cn": "Boots 想把星星放进星星口袋里。",
+        "key": "star · pocket"
+      },
+      {
+        "no": 3,
+        "time": "06:24",
+        "img": "/img/s04e01/f3.jpg",
+        "t": "Map Says Three Stops",
+        "en": "Map says: water, mountain, then the cloud castle.",
+        "cn": "地图说：先水路，再上山，最后到云中城堡。",
+        "key": "water · castle"
+      },
+      {
+        "no": 4,
+        "time": "08:48",
+        "img": "/img/s04e01/f4.jpg",
+        "t": "At the Dock",
+        "en": "A little star walks to the boat on the dock.",
+        "cn": "一颗小星星走到码头的小船边。",
+        "key": "star · boat"
+      },
+      {
+        "no": 5,
+        "time": "11:13",
+        "img": "/img/s04e01/f5.jpg",
+        "t": "Dora Takes the Wheel",
+        "en": "Dora takes the wheel and drives the boat across.",
+        "cn": "Dora 握住舵轮，开着船过河。",
+        "key": "wheel · boat"
+      },
+      {
+        "no": 6,
+        "time": "13:38",
+        "img": "/img/s04e01/f6.jpg",
+        "t": "Dragon Mountain",
+        "en": "Now they see Dragon Mountain with many stars around.",
+        "cn": "这会儿他们看见了恐龙山，周围全是星星。",
+        "key": "mountain · stars"
+      },
+      {
+        "no": 7,
+        "time": "16:02",
+        "img": "/img/s04e01/f7.jpg",
+        "t": "Switchy Fills the Shapes",
+        "en": "Switchy can fill in the missing shapes on the box.",
+        "cn": "星星 Switchy 会把盒子上缺的形状补好。",
+        "key": "shapes · box"
+      },
+      {
+        "no": 8,
+        "time": "18:27",
+        "img": "/img/s04e01/f8.jpg",
+        "t": "A Castle in the Clouds",
+        "en": "Look up! There is a castle in the clouds.",
+        "cn": "抬头看！云里有一座城堡。",
+        "key": "castle · clouds"
+      },
+      {
+        "no": 9,
+        "time": "20:52",
+        "img": "/img/s04e01/f9.jpg",
+        "t": "A Great Star Catcher",
+        "en": "The king says, “You are a great star catcher!”",
+        "cn": "国王说：“你真是了不起的抓星星高手！”",
+        "key": "king · catcher"
+      }
+    ],
+    "words": [
+      [
+        "star",
+        "星星"
+      ],
+      [
+        "catch",
+        "抓住"
+      ],
+      [
+        "pocket",
+        "口袋"
+      ],
+      [
+        "water",
+        "水"
+      ],
+      [
+        "mountain",
+        "山"
+      ],
+      [
+        "castle",
+        "城堡"
+      ],
+      [
+        "cloud",
+        "云"
+      ],
+      [
+        "boat",
+        "小船"
+      ],
+      [
+        "wheel",
+        "舵轮"
+      ],
+      [
+        "shape",
+        "形状"
+      ],
+      [
+        "king",
+        "国王"
+      ],
+      [
+        "¡Excelente!",
+        "太棒了（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Star Catcher”.",
+    "ending": "In the end, Dora brings every star to the cloud castle. My favorite part is ______."
+  },
+  "S04E02": {
+    "id": "S04E02",
+    "season": 4,
+    "episode": 2,
+    "title": "Dora's First Trip",
+    "titleCn": "Dora 的第一次旅行",
+    "hook": "Boots 想知道他们是怎么认识的，Dora 就讲起第一次出门送乐器的那趟旅行。",
+    "cover": "/img/s04e02/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:34",
+        "img": "/img/s04e02/f1.jpg",
+        "t": "Tell Me the Story",
+        "en": "Boots asks Dora to tell their very first story.",
+        "cn": "Boots 请 Dora 讲一讲他们最初的故事。",
+        "key": "asks · story"
+      },
+      {
+        "no": 2,
+        "time": "03:59",
+        "img": "/img/s04e02/f2.jpg",
+        "t": "Swiper Takes the Boots",
+        "en": "Swiper takes the red boots. “Swiper, no swiping!”",
+        "cn": "Swiper 抢走红靴子。“Swiper，不许抢！”",
+        "key": "boots · swiping"
+      },
+      {
+        "no": 3,
+        "time": "06:24",
+        "img": "/img/s04e02/f3.jpg",
+        "t": "Bring Back the Music",
+        "en": "They must bring the drums and horn to Fiesta Trio.",
+        "cn": "他们得把鼓和小号送还给 Fiesta Trio。",
+        "key": "drums · horn"
+      },
+      {
+        "no": 4,
+        "time": "08:48",
+        "img": "/img/s04e02/f4.jpg",
+        "t": "The Tallest Mountain",
+        "en": "First stop is the tallest mountain in the world.",
+        "cn": "第一站是全世界最高的山。",
+        "key": "tallest · mountain"
+      },
+      {
+        "no": 5,
+        "time": "11:13",
+        "img": "/img/s04e02/f5.jpg",
+        "t": "In the Yellow Car",
+        "en": "They ride in a yellow car. “Whew, that was close!”",
+        "cn": "他们坐着黄色小车上路。“呼，好险！”",
+        "key": "car · close"
+      },
+      {
+        "no": 6,
+        "time": "13:38",
+        "img": "/img/s04e02/f6.jpg",
+        "t": "Frogs in the Flowers",
+        "en": "Green frogs peek out from the flowers by the road.",
+        "cn": "绿青蛙从路边的花丛里探出头。",
+        "key": "frogs · flowers"
+      },
+      {
+        "no": 7,
+        "time": "16:02",
+        "img": "/img/s04e02/f7.jpg",
+        "t": "Down the River",
+        "en": "A yellow boat goes down the river past crocodiles.",
+        "cn": "黄色小船顺流而下，从鳄鱼身边经过。",
+        "key": "boat · river"
+      },
+      {
+        "no": 8,
+        "time": "18:27",
+        "img": "/img/s04e02/f8.jpg",
+        "t": "Everyone Jumps In",
+        "en": "Benny, Isa and Tico all jump into the car.",
+        "cn": "Benny、Isa 和 Tico 都跳上了小车。",
+        "key": "Benny · car"
+      },
+      {
+        "no": 9,
+        "time": "20:52",
+        "img": "/img/s04e02/f9.jpg",
+        "t": "Buzz-Buzz",
+        "en": "The Fiesta Trio plays again: “Buzz-buzz, buzz-buzz!”",
+        "cn": "Fiesta Trio 又演奏起来：“嗡嗡，嗡嗡！”",
+        "key": "plays · buzz"
+      }
+    ],
+    "words": [
+      [
+        "trip",
+        "旅行"
+      ],
+      [
+        "story",
+        "故事"
+      ],
+      [
+        "boots",
+        "靴子"
+      ],
+      [
+        "drum",
+        "鼓"
+      ],
+      [
+        "horn",
+        "小号"
+      ],
+      [
+        "mountain",
+        "山"
+      ],
+      [
+        "river",
+        "河"
+      ],
+      [
+        "crocodile",
+        "鳄鱼"
+      ],
+      [
+        "frog",
+        "青蛙"
+      ],
+      [
+        "flower",
+        "花"
+      ],
+      [
+        "trio",
+        "三重奏"
+      ],
+      [
+        "¡Vámonos!",
+        "我们走吧（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Dora's First Trip”.",
+    "ending": "In the end, the music comes back and Dora meets Boots for the first time. My favorite part is ______."
+  },
+  "S04E03": {
+    "id": "S04E03",
+    "season": 4,
+    "episode": 3,
+    "title": "Star Mountain",
+    "titleCn": "星星山",
+    "hook": "Swiper 抢走了 Dora 的项链，一路跑上星星山，追回去要过数字台阶和大雪球。",
+    "cover": "/img/s04e03/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:34",
+        "img": "/img/s04e03/f1.jpg",
+        "t": "Swiper Runs Away",
+        "en": "Swiper takes Dora's necklace and runs away fast.",
+        "cn": "Swiper 抢走 Dora 的项链，飞快地跑掉了。",
+        "key": "Swiper · necklace"
+      },
+      {
+        "no": 2,
+        "time": "03:59",
+        "img": "/img/s04e03/f2.jpg",
+        "t": "A Star on the Top",
+        "en": "Map shows a big star on top of Star Mountain.",
+        "cn": "地图上，星星山的山顶有一颗大星星。",
+        "key": "star · Mountain"
+      },
+      {
+        "no": 3,
+        "time": "06:24",
+        "img": "/img/s04e03/f3.jpg",
+        "t": "Where Is Dora?",
+        "en": "Boots calls, “Dora? Dora?” near the purple rocks.",
+        "cn": "Boots 在紫色岩石旁喊：“Dora？Dora？”",
+        "key": "Boots · rocks"
+      },
+      {
+        "no": 4,
+        "time": "08:48",
+        "img": "/img/s04e03/f4.jpg",
+        "t": "Number Steps",
+        "en": "There are numbers on the steps from six to fifteen.",
+        "cn": "台阶上写着数字，从六一直到十五。",
+        "key": "numbers · steps"
+      },
+      {
+        "no": 5,
+        "time": "11:13",
+        "img": "/img/s04e03/f5.jpg",
+        "t": "Find the Diamond",
+        "en": "Now they need to find the shiny diamond.",
+        "cn": "现在他们得找到那颗闪闪的钻石。",
+        "key": "find · diamond"
+      },
+      {
+        "no": 6,
+        "time": "13:38",
+        "img": "/img/s04e03/f6.jpg",
+        "t": "Over the Giant Snowball",
+        "en": "They climb over the giant snowball in snow clothes.",
+        "cn": "他们穿着雪地服翻过那个巨大的雪球。",
+        "key": "snowball · snow"
+      },
+      {
+        "no": 7,
+        "time": "16:02",
+        "img": "/img/s04e03/f7.jpg",
+        "t": "Check the Map",
+        "en": "They climbed the diamond. Map says, “Check!”",
+        "cn": "他们爬过了钻石那一站，地图说：“打勾！”",
+        "key": "climbed · Check"
+      },
+      {
+        "no": 8,
+        "time": "18:27",
+        "img": "/img/s04e03/f8.jpg",
+        "t": "Two Ropes",
+        "en": "Backpack gives them a short and a long rope.",
+        "cn": "背包掏出两根绳子，一短一长。",
+        "key": "Backpack · rope"
+      },
+      {
+        "no": 9,
+        "time": "20:52",
+        "img": "/img/s04e03/f9.jpg",
+        "t": "Climb, Climb, Climb",
+        "en": "Dora sings, “And climb, climb, climb, climb, climb!”",
+        "cn": "Dora 唱起来：“爬呀爬，爬呀爬呀爬！”",
+        "key": "climb · sings"
+      }
+    ],
+    "words": [
+      [
+        "necklace",
+        "项链"
+      ],
+      [
+        "star",
+        "星星"
+      ],
+      [
+        "mountain",
+        "山"
+      ],
+      [
+        "rock",
+        "岩石"
+      ],
+      [
+        "number",
+        "数字"
+      ],
+      [
+        "step",
+        "台阶"
+      ],
+      [
+        "diamond",
+        "钻石"
+      ],
+      [
+        "snowball",
+        "雪球"
+      ],
+      [
+        "rope",
+        "绳子"
+      ],
+      [
+        "climb",
+        "攀爬"
+      ],
+      [
+        "top",
+        "山顶"
+      ],
+      [
+        "¡Arriba!",
+        "往上（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Star Mountain”.",
+    "ending": "In the end, Dora gets her necklace back on top of Star Mountain. My favorite part is ______."
+  },
+  "S04E04": {
+    "id": "S04E04",
+    "season": 4,
+    "episode": 4,
+    "title": "Super Spies 2: The Swiping Machine",
+    "titleCn": "超级间谍大作战",
+    "hook": "Swiper 造了一台“偷东西机器”，要把生日会上的礼物全抢走，两个小间谍得赶在派对开始前关掉它。",
+    "cover": "/img/s04e04/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:45",
+        "img": "/img/s04e04/f1.jpg",
+        "t": "Off to Play Park",
+        "en": "Dora and Boots are spies. They have cool new spy gear.",
+        "cn": "Dora 和 Boots 是小间谍，他们带着崭新的间谍装备出发了。",
+        "key": "spies · gear"
+      },
+      {
+        "no": 2,
+        "time": "03:50",
+        "img": "/img/s04e04/f2.jpg",
+        "t": "Tico's Big Day",
+        "en": "Tico's having a birthday party with cake and many presents.",
+        "cn": "Tico 要开生日会了，桌上有蛋糕和好多礼物。",
+        "key": "birthday · cake"
+      },
+      {
+        "no": 3,
+        "time": "04:25",
+        "img": "/img/s04e04/f3.jpg",
+        "t": "Stop the Fox",
+        "en": "“We've got to stop him!” Swiper has a swiping machine.",
+        "cn": "“我们必须拦住他！”Swiper 造了一台偷东西的机器。",
+        "key": "stop · machine"
+      },
+      {
+        "no": 4,
+        "time": "05:45",
+        "img": "/img/s04e04/f4.jpg",
+        "t": "Down the River",
+        "en": "Map says: first go down the underground river, then the bridge.",
+        "cn": "地图说：先顺地下河漂流，再走那座桥。",
+        "key": "river · bridge"
+      },
+      {
+        "no": 5,
+        "time": "12:10",
+        "img": "/img/s04e04/f5.jpg",
+        "t": "Too Fast!",
+        "en": "Swiper presses his superfast button, so the water rushes fast.",
+        "cn": "Swiper 按下“超快”按钮，河水一下子变得飞快。",
+        "key": "button · water"
+      },
+      {
+        "no": 6,
+        "time": "14:20",
+        "img": "/img/s04e04/f6.jpg",
+        "t": "Dark Tunnel",
+        "en": "The tunnel is dark and has twisty paths inside the cave.",
+        "cn": "山洞里的隧道又黑又弯，小路绕来绕去。",
+        "key": "tunnel · cave"
+      },
+      {
+        "no": 7,
+        "time": "19:40",
+        "img": "/img/s04e04/f7.jpg",
+        "t": "Count to Ten",
+        "en": "“We got it up to ten!” Dora rides the spy bike fast.",
+        "cn": "“我们数到十啦！”Dora 骑着间谍自行车飞快前进。",
+        "key": "ten · bike"
+      },
+      {
+        "no": 8,
+        "time": "21:05",
+        "img": "/img/s04e04/f8.jpg",
+        "t": "The Fox Swings In",
+        "en": "“Swiper, no swiping!” Swiper swings over the party table.",
+        "cn": "“Swiper，不许抢！”Swiper 吊在绳子上从派对桌子上方荡过去。",
+        "key": "swiping · table"
+      },
+      {
+        "no": 9,
+        "time": "21:45",
+        "img": "/img/s04e04/f9.jpg",
+        "t": "A Butterfly Camera",
+        "en": "“It's a camera that looks like a butterfly!” Everyone laughs.",
+        "cn": "“这是一台蝴蝶形状的相机！”大家笑成一团。",
+        "key": "camera · butterfly"
+      }
+    ],
+    "words": [
+      [
+        "spy",
+        "间谍"
+      ],
+      [
+        "gadget",
+        "小装备"
+      ],
+      [
+        "birthday",
+        "生日"
+      ],
+      [
+        "cake",
+        "蛋糕"
+      ],
+      [
+        "present",
+        "礼物"
+      ],
+      [
+        "machine",
+        "机器"
+      ],
+      [
+        "river",
+        "河"
+      ],
+      [
+        "bridge",
+        "桥"
+      ],
+      [
+        "tunnel",
+        "隧道"
+      ],
+      [
+        "cave",
+        "山洞"
+      ],
+      [
+        "swiping",
+        "偷抢"
+      ],
+      [
+        "¡Felicidades!",
+        "恭喜（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Super Spies 2: The Swiping Machine”.",
+    "ending": "In the end, the spies stop the swiping machine and the party is safe. My favorite part is ______."
+  },
+  "S04E05": {
+    "id": "S04E05",
+    "season": 4,
+    "episode": 5,
+    "title": "La Maestra de Musica",
+    "titleCn": "音乐老师",
+    "hook": "音乐老师的自行车上装满了乐器，Dora 和 Boots 要护送她赶到学校。",
+    "cover": "/img/s04e05/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:00",
+        "img": "/img/s04e05/f1.jpg",
+        "t": "Teacher Who Sings",
+        "en": "“My music teacher always sings a special song,” says Dora.",
+        "cn": "Dora 说：“我的音乐老师总是唱一首特别的歌。”",
+        "key": "music teacher · song"
+      },
+      {
+        "no": 2,
+        "time": "03:41",
+        "img": "/img/s04e05/f2.jpg",
+        "t": "Bike Full of Instruments",
+        "en": "“Maestra, we have a map!” Dora shows the map to her teacher.",
+        "cn": "“老师，我们有地图！”Dora 把地图拿给音乐老师看。",
+        "key": "map · teacher"
+      },
+      {
+        "no": 3,
+        "time": "10:23",
+        "img": "/img/s04e05/f3.jpg",
+        "t": "Ring, Ring",
+        "en": "“That's the school bell!” They must hurry to the school.",
+        "cn": "“上课铃响了！”他们得赶快赶到学校。",
+        "key": "school bell · hurry"
+      },
+      {
+        "no": 4,
+        "time": "17:05",
+        "img": "/img/s04e05/f4.jpg",
+        "t": "Too Many Trees",
+        "en": "“How can we get through all these trees?” asks the Maestra.",
+        "cn": "“我们怎么穿过这么多树呢？”音乐老师问。",
+        "key": "trees · Maestra"
+      },
+      {
+        "no": 5,
+        "time": "17:45",
+        "img": "/img/s04e05/f5.jpg",
+        "t": "Say It With Me",
+        "en": "“Can you say culebras?” They zip over the trees on a bar.",
+        "cn": "“你能说 culebras（蛇）吗？”他们抓着滑杆从树林上空溜过去。",
+        "key": "culebras · zip"
+      },
+      {
+        "no": 6,
+        "time": "18:25",
+        "img": "/img/s04e05/f6.jpg",
+        "t": "Sing With the Bees",
+        "en": "“Las abejas in the trees go buzz, buzz, buzz!” sing the bees.",
+        "cn": "“树上的蜜蜂嗡嗡嗡！”蜜蜂跟着他们一路唱。",
+        "key": "abejas · buzz"
+      },
+      {
+        "no": 7,
+        "time": "19:06",
+        "img": "/img/s04e05/f7.jpg",
+        "t": "Watch the Guitar",
+        "en": "“He'll try to swipe la Maestra's guitarra!” warns Diego.",
+        "cn": "“他会来抢老师的吉他！”Diego 提醒他们。",
+        "key": "swipe · guitarra"
+      },
+      {
+        "no": 8,
+        "time": "21:06",
+        "img": "/img/s04e05/f8.jpg",
+        "t": "Time to Sing",
+        "en": "“Are you ready to sing the Hola, Hola song?” asks the Maestra.",
+        "cn": "“准备好唱《Hola, Hola》了吗？”老师问大家。",
+        "key": "sing · song"
+      },
+      {
+        "no": 9,
+        "time": "22:27",
+        "img": "/img/s04e05/f9.jpg",
+        "t": "All Together Now",
+        "en": "The whole class sings together in the music room. ¡Muy bien!",
+        "cn": "全班同学在音乐教室里一起唱歌，太棒了！",
+        "key": "class · sings"
+      }
+    ],
+    "words": [
+      [
+        "music teacher",
+        "音乐老师"
+      ],
+      [
+        "song",
+        "歌"
+      ],
+      [
+        "map",
+        "地图"
+      ],
+      [
+        "school bell",
+        "上课铃"
+      ],
+      [
+        "trees",
+        "树"
+      ],
+      [
+        "zip",
+        "滑过去"
+      ],
+      [
+        "culebras",
+        "蛇（西语）"
+      ],
+      [
+        "abejas",
+        "蜜蜂（西语）"
+      ],
+      [
+        "buzz",
+        "嗡嗡叫"
+      ],
+      [
+        "guitarra",
+        "吉他（西语）"
+      ],
+      [
+        "sing",
+        "唱歌"
+      ],
+      [
+        "muy bien",
+        "很好（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “La Maestra de Musica”.",
+    "ending": "In the end, the whole class sings the Hola, Hola song together. My favorite part is ______."
+  },
+  "S04E06": {
+    "id": "S04E06",
+    "season": 4,
+    "episode": 6,
+    "title": "Daisy, La Quinceanera",
+    "titleCn": "Daisy 的十五岁生日",
+    "hook": "Daisy 的十五岁生日派对要开始了，Dora 和 Boots 要穿过玉米迷宫赶到会场。",
+    "cover": "/img/s04e06/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "02:21",
+        "img": "/img/s04e06/f1.jpg",
+        "t": "Learn the Mambo",
+        "en": "“Circle your hands!” Dora and Boots practice the dance at home.",
+        "cn": "“转一转手！”Dora 和 Boots 在家练习跳这支舞。",
+        "key": "circle · dance"
+      },
+      {
+        "no": 2,
+        "time": "05:01",
+        "img": "/img/s04e06/f2.jpg",
+        "t": "The Way to Daisy",
+        "en": "The map shows the way: “That's how you get to Daisy's party!”",
+        "cn": "地图指路：“这样就能走到 Daisy 的派对啦！”",
+        "key": "map · party"
+      },
+      {
+        "no": 3,
+        "time": "07:42",
+        "img": "/img/s04e06/f3.jpg",
+        "t": "A Duck Joins Them",
+        "en": "A big duck walks with them. “Who's inside that duck suit?”",
+        "cn": "一只大鸭子跟着他们一起走：“是谁穿着那件鸭子衣服呀？”",
+        "key": "duck · suit"
+      },
+      {
+        "no": 4,
+        "time": "09:02",
+        "img": "/img/s04e06/f4.jpg",
+        "t": "Which Shape?",
+        "en": "“Círculo or triángulo?” They must pick the right way in the maze.",
+        "cn": "“圆形还是三角形？”他们要在迷宫里选对路。",
+        "key": "círculo · maze"
+      },
+      {
+        "no": 5,
+        "time": "11:03",
+        "img": "/img/s04e06/f5.jpg",
+        "t": "Pick the Path",
+        "en": "“The rain forest... right!” Dora points the right way to go.",
+        "cn": "“雨林……往右！”Dora 指出了正确的方向。",
+        "key": "rain forest · right"
+      },
+      {
+        "no": 6,
+        "time": "13:04",
+        "img": "/img/s04e06/f6.jpg",
+        "t": "Way Up There",
+        "en": "“It's up in the treetops, but it's so high up!” she says.",
+        "cn": "“东西在树顶上，可是太高了！”她说。",
+        "key": "treetops · high"
+      },
+      {
+        "no": 7,
+        "time": "17:05",
+        "img": "/img/s04e06/f7.jpg",
+        "t": "Stop That Fox",
+        "en": "“Swiper, no swiping!” Swiper stops and gives the umbrella back.",
+        "cn": "“Swiper，不许抢！”Swiper 停下来，把雨伞还了回去。",
+        "key": "Swiper · umbrella"
+      },
+      {
+        "no": 8,
+        "time": "20:26",
+        "img": "/img/s04e06/f8.jpg",
+        "t": "Daisy in White",
+        "en": "At the party, Daisy wears a white dress. “She's so beautiful!”",
+        "cn": "派对上，Daisy 穿着白色长裙：“她真漂亮！”",
+        "key": "Daisy · beautiful"
+      },
+      {
+        "no": 9,
+        "time": "21:15",
+        "img": "/img/s04e06/f9.jpg",
+        "t": "The Big Party",
+        "en": "“Now march in place!” Everyone dances at Daisy's quinceañera.",
+        "cn": "“原地踏步走！”大家在 Daisy 的十五岁生日派对上一齐跳舞。",
+        "key": "march · quinceañera"
+      }
+    ],
+    "words": [
+      [
+        "quinceañera",
+        "十五岁生日（西语）"
+      ],
+      [
+        "dance",
+        "跳舞"
+      ],
+      [
+        "mambo",
+        "曼波舞"
+      ],
+      [
+        "map",
+        "地图"
+      ],
+      [
+        "duck",
+        "鸭子"
+      ],
+      [
+        "maze",
+        "迷宫"
+      ],
+      [
+        "círculo",
+        "圆形（西语）"
+      ],
+      [
+        "triángulo",
+        "三角形（西语）"
+      ],
+      [
+        "rain forest",
+        "雨林"
+      ],
+      [
+        "treetops",
+        "树顶"
+      ],
+      [
+        "umbrella",
+        "雨伞"
+      ],
+      [
+        "beautiful",
+        "漂亮的"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Daisy, La Quinceanera”.",
+    "ending": "In the end, everyone dances at Daisy's quinceañera. My favorite part is ______."
+  },
+  "S04E07": {
+    "id": "S04E07",
+    "season": 4,
+    "episode": 7,
+    "title": "Save Diego",
+    "titleCn": "救救 Diego",
+    "hook": "Diego 被困在高高的岩壁上，Dora 和 Boots 要找最会爬高的动物去救他。",
+    "cover": "/img/s04e07/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "03:20",
+        "img": "/img/s04e07/f1.jpg",
+        "t": "Always Helping",
+        "en": "Diego loves helping animals. Baby Jaguar is his best friend.",
+        "cn": "Diego 最爱帮助动物，小美洲豹是他最好的朋友。",
+        "key": "animals · friend"
+      },
+      {
+        "no": 2,
+        "time": "05:01",
+        "img": "/img/s04e07/f2.jpg",
+        "t": "A New Word",
+        "en": "“You have to say mira!” Dora says. Mira means look!",
+        "cn": "“你要说 mira！”Dora 说。mira 就是“看”的意思。",
+        "key": "mira · look"
+      },
+      {
+        "no": 3,
+        "time": "06:21",
+        "img": "/img/s04e07/f3.jpg",
+        "t": "Map's Plan",
+        "en": "Map shows the way: the river, then Iguana Rock, then Diego.",
+        "cn": "地图指路：先顺着河走，再到鬣蜥岩，最后找到 Diego。",
+        "key": "river · Iguana Rock"
+      },
+      {
+        "no": 4,
+        "time": "08:23",
+        "img": "/img/s04e07/f4.jpg",
+        "t": "A Goat to Ride",
+        "en": "“The mountain goat wants to help us save Diego!” They ride on her back.",
+        "cn": "“山羊愿意帮我们去救 Diego！”他们骑到山羊的背上。",
+        "key": "mountain goat · save"
+      },
+      {
+        "no": 5,
+        "time": "10:05",
+        "img": "/img/s04e07/f5.jpg",
+        "t": "Paddle, Paddle",
+        "en": "Dora and Boots paddle the raft down the river. Splash!",
+        "cn": "Dora 和 Boots 划着皮筏顺流而下，哗——",
+        "key": "raft · river"
+      },
+      {
+        "no": 6,
+        "time": "14:05",
+        "img": "/img/s04e07/f6.jpg",
+        "t": "Up the Rock",
+        "en": "“And fast!” They must climb the rocky wall to reach Diego.",
+        "cn": "“而且要快！”他们得快快爬上岩壁去找 Diego。",
+        "key": "climb · wall"
+      },
+      {
+        "no": 7,
+        "time": "17:05",
+        "img": "/img/s04e07/f7.jpg",
+        "t": "Follow the Cub",
+        "en": "“Baby Jaguar will lead us to Diego!” says Dora.",
+        "cn": "“小美洲豹会带我们去找 Diego！”Dora 说。",
+        "key": "Jaguar · Diego"
+      },
+      {
+        "no": 8,
+        "time": "18:25",
+        "img": "/img/s04e07/f8.jpg",
+        "t": "Who Can Climb?",
+        "en": "“We need an animal that is a really good climber,” says Dora.",
+        "cn": "“我们需要一只特别会爬高的动物。”Dora 说。",
+        "key": "animal · climber"
+      },
+      {
+        "no": 9,
+        "time": "21:46",
+        "img": "/img/s04e07/f9.jpg",
+        "t": "Everyone Is Happy",
+        "en": "Diego is safe now. “They just want food,” he says.",
+        "cn": "Diego 终于安全了：“它们原来只是想吃东西。”",
+        "key": "safe · food"
+      }
+    ],
+    "words": [
+      [
+        "save",
+        "救"
+      ],
+      [
+        "mountain goat",
+        "山羊"
+      ],
+      [
+        "jaguar",
+        "美洲豹"
+      ],
+      [
+        "river",
+        "河"
+      ],
+      [
+        "raft",
+        "皮筏"
+      ],
+      [
+        "climb",
+        "爬"
+      ],
+      [
+        "mira",
+        "看（西语）"
+      ],
+      [
+        "Iguana Rock",
+        "鬣蜥岩"
+      ],
+      [
+        "safe",
+        "安全的"
+      ],
+      [
+        "food",
+        "食物"
+      ],
+      [
+        "animal",
+        "动物"
+      ],
+      [
+        "fast",
+        "快的"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Save Diego”.",
+    "ending": "In the end, Diego is safe and the goat finds food. My favorite part is ______."
+  },
+  "S04E08": {
+    "id": "S04E08",
+    "season": 4,
+    "episode": 8,
+    "title": "Baby Jaguar's Roar",
+    "titleCn": "小美洲豹学吼叫",
+    "hook": "小美洲豹还不会吼，Dora 和 Diego 带他一路爬过石头、渡过河，去山顶学本领。",
+    "cover": "/img/s04e08/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:00",
+        "img": "/img/s04e08/f1.jpg",
+        "t": "A New Cub",
+        "en": "“His name is Baby Bear,” says Diego. “He is my new friend.”",
+        "cn": "“他叫小熊宝宝，”Diego 说，“他是我的新朋友。”",
+        "key": "Baby Bear · friend"
+      },
+      {
+        "no": 2,
+        "time": "04:21",
+        "img": "/img/s04e08/f2.jpg",
+        "t": "Three Stops",
+        "en": "Map sings: “Say it with me!” The path, the river, the mountain.",
+        "cn": "地图唱：“跟我一起说！”小路、大河、高山。",
+        "key": "river · mountain"
+      },
+      {
+        "no": 3,
+        "time": "06:21",
+        "img": "/img/s04e08/f3.jpg",
+        "t": "Over the Rocks",
+        "en": "“Climb, climb, climb!” They go up the rocks one by one.",
+        "cn": "“爬呀，爬呀，爬！”他们一块一块石头往上爬。",
+        "key": "climb · rocks"
+      },
+      {
+        "no": 4,
+        "time": "07:41",
+        "img": "/img/s04e08/f4.jpg",
+        "t": "Red or Yellow?",
+        "en": "“A red path and a yellow path. Amarillo!” Dora picks yellow.",
+        "cn": "“一条红路，一条黄路。amarillo！”Dora 选了黄色的那条。",
+        "key": "path · amarillo"
+      },
+      {
+        "no": 5,
+        "time": "09:40",
+        "img": "/img/s04e08/f5.jpg",
+        "t": "Quiet in the Jungle",
+        "en": "Dora and Boots sit with Baby Jaguar in the green jungle.",
+        "cn": "Dora 和 Boots 在绿绿的林子里陪着小美洲豹。",
+        "key": "jaguar · jungle"
+      },
+      {
+        "no": 6,
+        "time": "11:23",
+        "img": "/img/s04e08/f6.jpg",
+        "t": "Crawl Like Diego",
+        "en": "“Let's all move like jaguars do!” Diego crawls and they follow.",
+        "cn": "“我们像美洲豹那样走！”Diego 趴下爬，大家跟着学。",
+        "key": "move · jaguars"
+      },
+      {
+        "no": 7,
+        "time": "16:25",
+        "img": "/img/s04e08/f7.jpg",
+        "t": "Watch the Water",
+        "en": "“Whew, that was really, really close!” Baby Jaguar almost falls in.",
+        "cn": "“呼，真的好险！”小美洲豹差点掉进水里。",
+        "key": "close · falls"
+      },
+      {
+        "no": 8,
+        "time": "18:25",
+        "img": "/img/s04e08/f8.jpg",
+        "t": "One Big Leap",
+        "en": "“We have to jump like a jaguar to get up the mountain!”",
+        "cn": "“我们得像美洲豹那样跳，才能上到山顶！”",
+        "key": "jump · mountain"
+      },
+      {
+        "no": 9,
+        "time": "20:00",
+        "img": "/img/s04e08/f9.jpg",
+        "t": "Hugs at the Top",
+        "en": "Diego hugs Baby Bear and Baby Jaguar at the top of the mountain.",
+        "cn": "在山顶上，Diego 抱住了小熊宝宝和小美洲豹。",
+        "key": "hugs · mountain"
+      }
+    ],
+    "words": [
+      [
+        "jaguar",
+        "美洲豹"
+      ],
+      [
+        "roar",
+        "吼叫"
+      ],
+      [
+        "bear",
+        "小熊"
+      ],
+      [
+        "path",
+        "小路"
+      ],
+      [
+        "amarillo",
+        "黄色（西语）"
+      ],
+      [
+        "rocks",
+        "岩石"
+      ],
+      [
+        "climb",
+        "爬"
+      ],
+      [
+        "river",
+        "河"
+      ],
+      [
+        "raft",
+        "皮筏"
+      ],
+      [
+        "mountain",
+        "山"
+      ],
+      [
+        "jump",
+        "跳"
+      ],
+      [
+        "close",
+        "险的"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Baby Jaguar's Roar”.",
+    "ending": "In the end, they all reach the top of the mountain. My favorite part is ______."
+  },
+  "S04E09": {
+    "id": "S04E09",
+    "season": 4,
+    "episode": 9,
+    "title": "A Crown for King BoBo",
+    "titleCn": "国王的王冠",
+    "hook": "BoBo 国王的生日会要开始了，可他的王冠不见了，Dora 和 Boots 帮他一路找回来。",
+    "cover": "/img/s04e09/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:20",
+        "img": "/img/s04e09/f1.jpg",
+        "t": "Where's the Crown?",
+        "en": "“I always wear my crown on my head!” says King BoBo.",
+        "cn": "“我的王冠总是戴在头上的！”BoBo 国王说。",
+        "key": "crown · head"
+      },
+      {
+        "no": 2,
+        "time": "03:10",
+        "img": "/img/s04e09/f2.jpg",
+        "t": "Map Points the Way",
+        "en": "“Right!” says Map. The fountain, the swing, then the garden.",
+        "cn": "“往右！”地图说。先过喷泉，再到秋千，最后是花园。",
+        "key": "fountain · garden"
+      },
+      {
+        "no": 3,
+        "time": "05:22",
+        "img": "/img/s04e09/f3.jpg",
+        "t": "No Crown Here",
+        "en": "They look in the castle, but the crown is not there.",
+        "cn": "他们在城堡里找了一圈，可是王冠不在那儿。",
+        "key": "castle · crown"
+      },
+      {
+        "no": 4,
+        "time": "09:30",
+        "img": "/img/s04e09/f4.jpg",
+        "t": "The Flower Horses",
+        "en": "“Now do you see the garden?” The horses carry flowers on their backs.",
+        "cn": "“现在你看见花园了吗？”马背上驮着花，正往那边走。",
+        "key": "garden · flowers"
+      },
+      {
+        "no": 5,
+        "time": "11:03",
+        "img": "/img/s04e09/f5.jpg",
+        "t": "Check the Pack",
+        "en": "“I might have a long ladder in my backpack!” says Dora.",
+        "cn": "“我的背包里也许有一架长梯子！”Dora 说。",
+        "key": "ladder · backpack"
+      },
+      {
+        "no": 6,
+        "time": "13:30",
+        "img": "/img/s04e09/f6.jpg",
+        "t": "Two Ways",
+        "en": "Two paths go through the flowers: one red, one yellow.",
+        "cn": "两条小路从花丛中穿过：一条红色，一条黄色。",
+        "key": "paths · flowers"
+      },
+      {
+        "no": 7,
+        "time": "17:40",
+        "img": "/img/s04e09/f7.jpg",
+        "t": "Swiper Strikes",
+        "en": "“That sneaky fox!” Swiper takes the crown and runs away.",
+        "cn": "“那只狡猾的狐狸！”Swiper 抓起王冠就跑。",
+        "key": "sneaky · crown"
+      },
+      {
+        "no": 8,
+        "time": "19:40",
+        "img": "/img/s04e09/f8.jpg",
+        "t": "Crown Is Back",
+        "en": "“Way to go, King Juan El Bobo!” The crown is back on his head.",
+        "cn": "“太棒了，Juan El Bobo 国王！”王冠又回到了他头上。",
+        "key": "crown · head"
+      },
+      {
+        "no": 9,
+        "time": "21:50",
+        "img": "/img/s04e09/f9.jpg",
+        "t": "Happy Birthday, King",
+        "en": "“Gracias, Mommy!” The king hugs his family at the party.",
+        "cn": "“谢谢妈妈！”国王在生日会上抱住了家人。",
+        "key": "gracias · hugs"
+      }
+    ],
+    "words": [
+      [
+        "crown",
+        "王冠"
+      ],
+      [
+        "king",
+        "国王"
+      ],
+      [
+        "castle",
+        "城堡"
+      ],
+      [
+        "garden",
+        "花园"
+      ],
+      [
+        "flowers",
+        "花"
+      ],
+      [
+        "ladder",
+        "梯子"
+      ],
+      [
+        "backpack",
+        "背包"
+      ],
+      [
+        "swing",
+        "秋千"
+      ],
+      [
+        "sneaky",
+        "狡猾的"
+      ],
+      [
+        "gracias",
+        "谢谢（西语）"
+      ],
+      [
+        "party",
+        "派对"
+      ],
+      [
+        "path",
+        "小路"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “A Crown for King BoBo”.",
+    "ending": "In the end, the king gets his crown back for his birthday. My favorite part is ______."
+  },
+  "S04E10": {
+    "id": "S04E10",
+    "season": 4,
+    "episode": 10,
+    "title": "Dora Saves The Mermaids",
+    "titleCn": "Dora 拯救美人鱼",
+    "hook": "美人鱼 Mariana 的珍珠被海盗猪抢走，海也变脏了，Dora 和 Boots 骑海豚去救她。",
+    "cover": "/img/s04e10/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "02:46",
+        "img": "/img/s04e10/f1.jpg",
+        "t": "A Clam Shell",
+        "en": "Dora finds a clam shell on the warm sand.",
+        "cn": "Dora 在暖暖的沙滩上捡到一个蛤蜊壳。",
+        "key": "shell · sand"
+      },
+      {
+        "no": 2,
+        "time": "07:01",
+        "img": "/img/s04e10/f2.jpg",
+        "t": "A Ship Far Away",
+        "en": "Boots sees a big ship far out on the water.",
+        "cn": "Boots 看见远处的海面上有一艘大船。",
+        "key": "ship · water"
+      },
+      {
+        "no": 3,
+        "time": "11:16",
+        "img": "/img/s04e10/f3.jpg",
+        "t": "Look for a Mermaid",
+        "en": "They walk to the sea and look for a mermaid.",
+        "cn": "他们走到海边，去找一位美人鱼。",
+        "key": "walk · mermaid"
+      },
+      {
+        "no": 4,
+        "time": "15:31",
+        "img": "/img/s04e10/f4.jpg",
+        "t": "What Comes After Five?",
+        "en": "What number comes after five? Six, then seven.",
+        "cn": "五后面是几呢？是六，再往后是七。",
+        "key": "number · seven"
+      },
+      {
+        "no": 5,
+        "time": "19:46",
+        "img": "/img/s04e10/f5.jpg",
+        "t": "The Gold Crown",
+        "en": "Dora holds a gold crown near the small island.",
+        "cn": "Dora 在小岛边捧着一顶金皇冠。",
+        "key": "crown · island"
+      },
+      {
+        "no": 6,
+        "time": "24:01",
+        "img": "/img/s04e10/f6.jpg",
+        "t": "The Silly Sea",
+        "en": "Three pirate pigs live in the Silly Sea.",
+        "cn": "三只海盗猪住在“傻傻海”里。",
+        "key": "pigs · Sea"
+      },
+      {
+        "no": 7,
+        "time": "28:16",
+        "img": "/img/s04e10/f7.jpg",
+        "t": "A Fish Like a Dog",
+        "en": "That fish looks like a dog with brown fur.",
+        "cn": "那条鱼长得像一只棕色毛的狗。",
+        "key": "fish · dog"
+      },
+      {
+        "no": 8,
+        "time": "32:31",
+        "img": "/img/s04e10/f8.jpg",
+        "t": "Ride the Dolphins",
+        "en": "Dora and Boots ride dolphins over the blue waves.",
+        "cn": "Dora 和 Boots 骑着海豚越过蓝色浪花。",
+        "key": "dolphins · waves"
+      },
+      {
+        "no": 9,
+        "time": "36:46",
+        "img": "/img/s04e10/f9.jpg",
+        "t": "Mariana the Mermaid",
+        "en": "The mermaid Mariana lives near a giant pearl shell.",
+        "cn": "美人鱼 Mariana 住在一个巨大的珍珠贝壳旁。",
+        "key": "mermaid · pearl"
+      }
+    ],
+    "words": [
+      [
+        "shell",
+        "贝壳"
+      ],
+      [
+        "sand",
+        "沙子"
+      ],
+      [
+        "ship",
+        "大船"
+      ],
+      [
+        "mermaid",
+        "美人鱼"
+      ],
+      [
+        "number",
+        "数字"
+      ],
+      [
+        "crown",
+        "皇冠"
+      ],
+      [
+        "island",
+        "小岛"
+      ],
+      [
+        "pirate",
+        "海盗"
+      ],
+      [
+        "dolphin",
+        "海豚"
+      ],
+      [
+        "wave",
+        "浪"
+      ],
+      [
+        "pearl",
+        "珍珠"
+      ],
+      [
+        "¡Socorro!",
+        "救命（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Dora Saves The Mermaids”.",
+    "ending": "In the end, the sea is clean again and Mariana gets her pearl back. My favorite part is ______."
+  },
+  "S04E11": {
+    "id": "S04E11",
+    "season": 4,
+    "episode": 11,
+    "title": "Big Sister Dora",
+    "titleCn": "大姐姐 Dora",
+    "hook": "妈妈生了一对双胞胎，Dora 要当大姐姐了，还得穿过幽灵森林赶到医院。",
+    "cover": "/img/s04e11/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:34",
+        "img": "/img/s04e11/f1.jpg",
+        "t": "Who Sleeps in a Cradle?",
+        "en": "A baby is someone who sleeps in a cradle.",
+        "cn": "小宝宝就是睡在摇篮里的那个人。",
+        "key": "baby · cradle"
+      },
+      {
+        "no": 2,
+        "time": "03:59",
+        "img": "/img/s04e11/f2.jpg",
+        "t": "Shapes in the Backpack",
+        "en": "Backpack shows shapes under the red diamond.",
+        "cn": "背包里露出形状，红菱形下面还藏着东西。",
+        "key": "shapes · diamond"
+      },
+      {
+        "no": 3,
+        "time": "06:24",
+        "img": "/img/s04e11/f3.jpg",
+        "t": "The Spooky Forest",
+        "en": "Do you see the Spooky Forest on the way?",
+        "cn": "你看见路上那片“幽灵森林”了吗？",
+        "key": "Spooky · Forest"
+      },
+      {
+        "no": 4,
+        "time": "08:48",
+        "img": "/img/s04e11/f4.jpg",
+        "t": "Isa Knows the Way",
+        "en": "Isa the iguana knows the way through the trees.",
+        "cn": "绿鬣蜥 Isa 认得穿过树林的路。",
+        "key": "way · trees"
+      },
+      {
+        "no": 5,
+        "time": "11:13",
+        "img": "/img/s04e11/f5.jpg",
+        "t": "A Baby, a Baby!",
+        "en": "Everyone shouts, “A baby, a baby, a baby!”",
+        "cn": "大家一起喊：“宝宝，宝宝，宝宝！”",
+        "key": "Everyone · shouts"
+      },
+      {
+        "no": 6,
+        "time": "13:38",
+        "img": "/img/s04e11/f6.jpg",
+        "t": "Which One Can Go?",
+        "en": "Which one can take them? The wheel is right.",
+        "cn": "哪一个能带他们去？方向盘那个才对。",
+        "key": "wheel · right"
+      },
+      {
+        "no": 7,
+        "time": "16:02",
+        "img": "/img/s04e11/f7.jpg",
+        "t": "The Conductor's Flag",
+        "en": "The conductor holds a green flag in his hand.",
+        "cn": "售票员手里举着一面绿旗子。",
+        "key": "conductor · flag"
+      },
+      {
+        "no": 8,
+        "time": "18:27",
+        "img": "/img/s04e11/f8.jpg",
+        "t": "Check the Path",
+        "en": "Map checks the path to the big hospital.",
+        "cn": "地图把去医院的路打上了勾。",
+        "key": "path · hospital"
+      },
+      {
+        "no": 9,
+        "time": "20:52",
+        "img": "/img/s04e11/f9.jpg",
+        "t": "Two New Babies",
+        "en": "Dora holds the two new babies in her arms.",
+        "cn": "Dora 把两个新生儿抱在怀里。",
+        "key": "babies · arms"
+      }
+    ],
+    "words": [
+      [
+        "baby",
+        "宝宝"
+      ],
+      [
+        "cradle",
+        "摇篮"
+      ],
+      [
+        "shape",
+        "形状"
+      ],
+      [
+        "forest",
+        "森林"
+      ],
+      [
+        "iguana",
+        "鬣蜥"
+      ],
+      [
+        "wheel",
+        "方向盘"
+      ],
+      [
+        "conductor",
+        "售票员"
+      ],
+      [
+        "flag",
+        "旗子"
+      ],
+      [
+        "hospital",
+        "医院"
+      ],
+      [
+        "twin",
+        "双胞胎"
+      ],
+      [
+        "sister",
+        "姐姐"
+      ],
+      [
+        "¡Felicidades!",
+        "恭喜（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Big Sister Dora”.",
+    "ending": "In the end, Dora becomes a big sister to two babies. My favorite part is ______."
+  },
+  "S04E12": {
+    "id": "S04E12",
+    "season": 4,
+    "episode": 12,
+    "title": "Boots to the Rescue",
+    "titleCn": "Boots 来救场",
+    "hook": "Dora 写的歌被风吹跑了，Boots 一个人带上地图，穿过机器人房子把歌追回来。",
+    "cover": "/img/s04e12/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:34",
+        "img": "/img/s04e12/f1.jpg",
+        "t": "Dora Writes Songs",
+        "en": "Dora is great at writing songs about her friends.",
+        "cn": "Dora 很会给朋友们写歌。",
+        "key": "writing · friends"
+      },
+      {
+        "no": 2,
+        "time": "03:59",
+        "img": "/img/s04e12/f2.jpg",
+        "t": "The Robot House",
+        "en": "Boots says, “Then we go through the robot house.”",
+        "cn": "Boots 说：“然后我们要穿过机器人房子。”",
+        "key": "robot · house"
+      },
+      {
+        "no": 3,
+        "time": "06:24",
+        "img": "/img/s04e12/f3.jpg",
+        "t": "It's a Bird",
+        "en": "Boots points up and says, “Look, it's a bird!”",
+        "cn": "Boots 指着上面说：“看，那是一只鸟！”",
+        "key": "points · bird"
+      },
+      {
+        "no": 4,
+        "time": "08:48",
+        "img": "/img/s04e12/f4.jpg",
+        "t": "Animals in the Jungle",
+        "en": "They must find out which animals live in the jungle.",
+        "cn": "他们得弄清楚丛林里住着哪些动物。",
+        "key": "animals · jungle"
+      },
+      {
+        "no": 5,
+        "time": "11:13",
+        "img": "/img/s04e12/f5.jpg",
+        "t": "Check the Way",
+        "en": "Map checks the way, so Boots runs on fast.",
+        "cn": "地图把路打了勾，Boots 就飞快地往前跑。",
+        "key": "Map · way"
+      },
+      {
+        "no": 6,
+        "time": "13:38",
+        "img": "/img/s04e12/f6.jpg",
+        "t": "Say Abre",
+        "en": "In the robot house, Boots says “Abre” to open.",
+        "cn": "在机器人房子里，Boots 说“Abre”来开门。",
+        "key": "Abre · open"
+      },
+      {
+        "no": 7,
+        "time": "16:02",
+        "img": "/img/s04e12/f7.jpg",
+        "t": "The Laundry Room",
+        "en": "A washing machine spins in the white laundry room.",
+        "cn": "白色的洗衣房里，一台洗衣机在转。",
+        "key": "washing · room"
+      },
+      {
+        "no": 8,
+        "time": "18:27",
+        "img": "/img/s04e12/f8.jpg",
+        "t": "Whee!",
+        "en": "Boots slides down and shouts, “Whee! This is fun!”",
+        "cn": "Boots 滑下来喊：“哇！这真好玩！”",
+        "key": "slides · fun"
+      },
+      {
+        "no": 9,
+        "time": "20:52",
+        "img": "/img/s04e12/f9.jpg",
+        "t": "Sing for the Teacher",
+        "en": "Dora sings for La Maestra with a big smile.",
+        "cn": "Dora 笑着唱给音乐老师听。",
+        "key": "sings · Maestra"
+      }
+    ],
+    "words": [
+      [
+        "song",
+        "歌"
+      ],
+      [
+        "robot",
+        "机器人"
+      ],
+      [
+        "bird",
+        "鸟"
+      ],
+      [
+        "jungle",
+        "丛林"
+      ],
+      [
+        "animal",
+        "动物"
+      ],
+      [
+        "open",
+        "打开"
+      ],
+      [
+        "washing machine",
+        "洗衣机"
+      ],
+      [
+        "slide",
+        "滑"
+      ],
+      [
+        "teacher",
+        "老师"
+      ],
+      [
+        "guitar",
+        "吉他"
+      ],
+      [
+        "rescue",
+        "营救"
+      ],
+      [
+        "¡Por supuesto!",
+        "当然（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Boots to the Rescue”.",
+    "ending": "In the end, Boots brings the song back and Dora sings it for La Maestra. My favorite part is ______."
+  },
+  "S04E13": {
+    "id": "S04E13",
+    "season": 4,
+    "episode": 13,
+    "title": "Super Babies",
+    "titleCn": "超级宝宝",
+    "hook": "双胞胎宝宝会飞！Swiper 偷走香蕉，超级宝宝一路吹气、搭台阶追到香蕉山。",
+    "cover": "/img/s04e13/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:34",
+        "img": "/img/s04e13/f1.jpg",
+        "t": "Help with the Twins",
+        "en": "Dora helps her mom with the twins in the nursery.",
+        "cn": "Dora 在婴儿房帮妈妈照看双胞胎。",
+        "key": "twins · nursery"
+      },
+      {
+        "no": 2,
+        "time": "03:59",
+        "img": "/img/s04e13/f2.jpg",
+        "t": "A Mountain of Bananas",
+        "en": "Map shows a big mountain made of yellow bananas.",
+        "cn": "地图上是一座用黄香蕉堆成的大山。",
+        "key": "mountain · bananas"
+      },
+      {
+        "no": 3,
+        "time": "06:24",
+        "img": "/img/s04e13/f3.jpg",
+        "t": "The Babies Can Fly",
+        "en": "The super babies can fly up into the sky.",
+        "cn": "超级宝宝能一直飞到天上去。",
+        "key": "fly · sky"
+      },
+      {
+        "no": 4,
+        "time": "08:48",
+        "img": "/img/s04e13/f4.jpg",
+        "t": "Blow Up the Boat",
+        "en": "The babies blow air into the boat for them.",
+        "cn": "宝宝们往船里吹气，把船吹起来。",
+        "key": "blow · boat"
+      },
+      {
+        "no": 5,
+        "time": "11:13",
+        "img": "/img/s04e13/f5.jpg",
+        "t": "A Yellow Raincoat",
+        "en": "Dora wears a yellow raincoat and holds a paddle.",
+        "cn": "Dora 穿着黄色雨衣，手里拿着桨。",
+        "key": "raincoat · paddle"
+      },
+      {
+        "no": 6,
+        "time": "13:38",
+        "img": "/img/s04e13/f6.jpg",
+        "t": "Flying High",
+        "en": "The babies fly high in their little baby carriage.",
+        "cn": "宝宝们坐在小推车里飞得高高的。",
+        "key": "carriage · high"
+      },
+      {
+        "no": 7,
+        "time": "16:02",
+        "img": "/img/s04e13/f7.jpg",
+        "t": "Build the Steps",
+        "en": "They build the steps with many color blocks.",
+        "cn": "他们用好多彩色积木搭出台阶。",
+        "key": "steps · blocks"
+      },
+      {
+        "no": 8,
+        "time": "18:27",
+        "img": "/img/s04e13/f8.jpg",
+        "t": "Ride Along",
+        "en": "Dora and Boots ride along with the babies.",
+        "cn": "Dora 和 Boots 带着宝宝们一起坐车。",
+        "key": "ride · babies"
+      },
+      {
+        "no": 9,
+        "time": "20:52",
+        "img": "/img/s04e13/f9.jpg",
+        "t": "Swiper, No, No!",
+        "en": "Swiper wants the bananas, but the babies fly up.",
+        "cn": "Swiper 想要香蕉，可宝宝们飞了起来。",
+        "key": "Swiper · bananas"
+      }
+    ],
+    "words": [
+      [
+        "twin",
+        "双胞胎"
+      ],
+      [
+        "nursery",
+        "婴儿房"
+      ],
+      [
+        "banana",
+        "香蕉"
+      ],
+      [
+        "fly",
+        "飞"
+      ],
+      [
+        "sky",
+        "天空"
+      ],
+      [
+        "blow",
+        "吹"
+      ],
+      [
+        "boat",
+        "小船"
+      ],
+      [
+        "raincoat",
+        "雨衣"
+      ],
+      [
+        "paddle",
+        "桨"
+      ],
+      [
+        "carriage",
+        "小推车"
+      ],
+      [
+        "block",
+        "积木"
+      ],
+      [
+        "¡Cuidado!",
+        "小心（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Super Babies”.",
+    "ending": "In the end, the super babies save the bananas from Swiper. My favorite part is ______."
+  },
+  "S04E14": {
+    "id": "S04E14",
+    "season": 4,
+    "episode": 14,
+    "title": "We're a Team",
+    "titleCn": "我们是一个团队",
+    "hook": "Dora 和朋友们组队去火山比赛，章鱼 Val 举着计时器，谁都得靠大家一起过关。",
+    "cover": "/img/s04e14/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:34",
+        "img": "/img/s04e14/f1.jpg",
+        "t": "A Team for the Race",
+        "en": "Dora and her friends are a team for the big race.",
+        "cn": "Dora 和朋友们组成一队，参加一场大比赛。",
+        "key": "team · race"
+      },
+      {
+        "no": 2,
+        "time": "03:59",
+        "img": "/img/s04e14/f2.jpg",
+        "t": "Val Starts the Clock",
+        "en": "Val the octopus starts the clock at twenty minutes.",
+        "cn": "章鱼 Val 把计时器定在二十分钟。",
+        "key": "octopus · clock"
+      },
+      {
+        "no": 3,
+        "time": "06:24",
+        "img": "/img/s04e14/f3.jpg",
+        "t": "What's in the Backpack",
+        "en": "Backpack has a horn, a rope, a ball and a bottle.",
+        "cn": "背包里有喇叭、绳子、皮球和水壶。",
+        "key": "Backpack · ball"
+      },
+      {
+        "no": 4,
+        "time": "08:48",
+        "img": "/img/s04e14/f4.jpg",
+        "t": "Past the Wood Steps",
+        "en": "The team runs past the wood steps in the jungle.",
+        "cn": "队伍跑过丛林里的木头台阶。",
+        "key": "wood · jungle"
+      },
+      {
+        "no": 5,
+        "time": "11:13",
+        "img": "/img/s04e14/f5.jpg",
+        "t": "Together to the Volcano",
+        "en": "Everyone works together to reach the volcano.",
+        "cn": "大家齐心协力往火山前进。",
+        "key": "together · volcano"
+      },
+      {
+        "no": 6,
+        "time": "13:38",
+        "img": "/img/s04e14/f6.jpg",
+        "t": "Hide in the Bushes",
+        "en": "They hide in the bushes and say, “De nada.”",
+        "cn": "他们躲在灌木丛里说：“不客气。”",
+        "key": "hide · bushes"
+      },
+      {
+        "no": 7,
+        "time": "16:02",
+        "img": "/img/s04e14/f7.jpg",
+        "t": "Over the Wall",
+        "en": "And together, they all get over the high wall.",
+        "cn": "于是一起，他们全都翻过了高墙。",
+        "key": "wall · high"
+      },
+      {
+        "no": 8,
+        "time": "18:27",
+        "img": "/img/s04e14/f8.jpg",
+        "t": "Three Seconds Left",
+        "en": "The clock shows three seconds left for the team.",
+        "cn": "计时器显示队伍只剩三秒钟。",
+        "key": "seconds · team"
+      },
+      {
+        "no": 9,
+        "time": "20:52",
+        "img": "/img/s04e14/f9.jpg",
+        "t": "A Gold Medal",
+        "en": "Now every friend has a gold medal around the neck.",
+        "cn": "现在每个朋友脖子上都挂着一块金牌。",
+        "key": "medal · neck"
+      }
+    ],
+    "words": [
+      [
+        "team",
+        "团队"
+      ],
+      [
+        "race",
+        "比赛"
+      ],
+      [
+        "octopus",
+        "章鱼"
+      ],
+      [
+        "clock",
+        "计时器"
+      ],
+      [
+        "horn",
+        "喇叭"
+      ],
+      [
+        "rope",
+        "绳子"
+      ],
+      [
+        "volcano",
+        "火山"
+      ],
+      [
+        "bush",
+        "灌木丛"
+      ],
+      [
+        "wall",
+        "墙"
+      ],
+      [
+        "second",
+        "秒"
+      ],
+      [
+        "medal",
+        "奖牌"
+      ],
+      [
+        "De nada",
+        "不客气（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “We're a Team”.",
+    "ending": "In the end, the whole team finishes the race and wins medals. My favorite part is ______."
+  },
+  "S04E15": {
+    "id": "S04E15",
+    "season": 4,
+    "episode": 15,
+    "title": "The Mixed-Up Seasons",
+    "titleCn": "四季乱了",
+    "hook": "夏天沙滩上冒出一个雪人，四个季节全跑错了地方。",
+    "cover": "/img/s04e15/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:00",
+        "img": "/img/s04e15/f1.jpg",
+        "t": "Hot Sand",
+        "en": "“I love, love, love the summer!” Boots plays on the hot sand.",
+        "cn": "“我最爱、最爱夏天啦！”Boots 在热乎乎的沙滩上又蹦又跳。",
+        "key": "summer · sand"
+      },
+      {
+        "no": 2,
+        "time": "02:00",
+        "img": "/img/s04e15/f2.jpg",
+        "t": "A Snowman Appears",
+        "en": "A big snowman stands on the beach. “Right, Dora?” says Boots.",
+        "cn": "沙滩上站着一个大雪人，Boots 问：“对不对，Dora？”",
+        "key": "snowman · beach"
+      },
+      {
+        "no": 3,
+        "time": "04:00",
+        "img": "/img/s04e15/f3.jpg",
+        "t": "A Balloon Ride",
+        "en": "“A balloon can take us there!” The big balloon waits on the sand.",
+        "cn": "“热气球能带我们去那儿！”大大的热气球就停在沙滩上。",
+        "key": "balloon · waits"
+      },
+      {
+        "no": 4,
+        "time": "08:20",
+        "img": "/img/s04e15/f4.jpg",
+        "t": "Down the White Hill",
+        "en": "Dora and Boots slide down the snowy mountain on a sled.",
+        "cn": "Dora 和 Boots 坐着雪橇，从雪山上一路滑下来。",
+        "key": "mountain · sled"
+      },
+      {
+        "no": 5,
+        "time": "10:40",
+        "img": "/img/s04e15/f5.jpg",
+        "t": "A Talking Flower",
+        "en": "Boots holds a big flower. “I live in a flower patch.”",
+        "cn": "Boots 抱着一朵大花，花儿说：“我住在花圃里。”",
+        "key": "flower · patch"
+      },
+      {
+        "no": 6,
+        "time": "13:00",
+        "img": "/img/s04e15/f6.jpg",
+        "t": "Looking for Fall",
+        "en": "They meet a pumpkin. “We need to find fall,” says Dora.",
+        "cn": "他们遇到一个南瓜，Dora 说：“我们得去找秋天。”",
+        "key": "pumpkin · fall"
+      },
+      {
+        "no": 7,
+        "time": "20:30",
+        "img": "/img/s04e15/f7.jpg",
+        "t": "The Wind Cloud",
+        "en": "A wind cloud blows the pumpkin cart. The red leaves fly away.",
+        "cn": "风云吹起了南瓜小车，红叶漫天飞。",
+        "key": "wind · leaves"
+      },
+      {
+        "no": 8,
+        "time": "21:30",
+        "img": "/img/s04e15/f8.jpg",
+        "t": "Home on the Sand",
+        "en": "“Muchas gracias!” The sand crabs are home on the warm beach.",
+        "cn": "“非常感谢！”沙蟹们回到了暖暖的沙滩老家。",
+        "key": "gracias · crabs"
+      },
+      {
+        "no": 9,
+        "time": "22:50",
+        "img": "/img/s04e15/f9.jpg",
+        "t": "Four Seasons",
+        "en": "“What's your favorite season?” Dora sees winter, spring, summer and fall.",
+        "cn": "“你最喜欢哪个季节？”Dora 眼前有冬天、春天、夏天和秋天。",
+        "key": "season · favorite"
+      }
+    ],
+    "words": [
+      [
+        "summer",
+        "夏天"
+      ],
+      [
+        "beach",
+        "沙滩"
+      ],
+      [
+        "snowman",
+        "雪人"
+      ],
+      [
+        "winter",
+        "冬天"
+      ],
+      [
+        "balloon",
+        "热气球"
+      ],
+      [
+        "sled",
+        "雪橇"
+      ],
+      [
+        "mountain",
+        "山"
+      ],
+      [
+        "flower",
+        "花"
+      ],
+      [
+        "spring",
+        "春天"
+      ],
+      [
+        "pumpkin",
+        "南瓜"
+      ],
+      [
+        "fall",
+        "秋天"
+      ],
+      [
+        "gracias",
+        "谢谢（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “The Mixed-Up Seasons”.",
+    "ending": "In the end, every season goes back to its own place. My favorite part is ______."
+  },
+  "S04E16": {
+    "id": "S04E16",
+    "season": 4,
+    "episode": 16,
+    "title": "The Shy Rainbow",
+    "titleCn": "害羞的彩虹",
+    "hook": "彩虹太害羞，一直躲着不肯出来，Dora 得帮它把颜色一块块找回来。",
+    "cover": "/img/s04e16/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:34",
+        "img": "/img/s04e16/f1.jpg",
+        "t": "Behind the Yellow Hill",
+        "en": "A shy rainbow hides behind the yellow hill today.",
+        "cn": "今天，一道害羞的彩虹躲在黄色小山后面。",
+        "key": "rainbow · hill"
+      },
+      {
+        "no": 2,
+        "time": "03:59",
+        "img": "/img/s04e16/f2.jpg",
+        "t": "Come Right Away",
+        "en": "The rainbow says, “I need you to come right away.”",
+        "cn": "彩虹说：“我需要你马上过来一趟。”",
+        "key": "rainbow · away"
+      },
+      {
+        "no": 3,
+        "time": "06:24",
+        "img": "/img/s04e16/f3.jpg",
+        "t": "Azul, You're Right",
+        "en": "The rainbow hides and says, “Azul, you're right!”",
+        "cn": "彩虹躲起来说：“蓝色，你说得对！”",
+        "key": "hides · Azul"
+      },
+      {
+        "no": 4,
+        "time": "08:48",
+        "img": "/img/s04e16/f4.jpg",
+        "t": "The Color Bridge",
+        "en": "The bridge has red, blue and green color boards.",
+        "cn": "这座桥上的木板有红、蓝、绿三种颜色。",
+        "key": "bridge · color"
+      },
+      {
+        "no": 5,
+        "time": "11:13",
+        "img": "/img/s04e16/f5.jpg",
+        "t": "Three Paths",
+        "en": "Look, there are three paths in three colors.",
+        "cn": "瞧，有三条颜色各不相同的小路。",
+        "key": "paths · colors"
+      },
+      {
+        "no": 6,
+        "time": "13:38",
+        "img": "/img/s04e16/f6.jpg",
+        "t": "The Boat Lost Color",
+        "en": "The red boat is missing some of its color.",
+        "cn": "红色小船上少了一些颜色。",
+        "key": "boat · missing"
+      },
+      {
+        "no": 7,
+        "time": "16:02",
+        "img": "/img/s04e16/f7.jpg",
+        "t": "Row the Boat",
+        "en": "Dora rows the red boat across the blue water.",
+        "cn": "Dora 划着红船穿过蓝色的水面。",
+        "key": "rows · water"
+      },
+      {
+        "no": 8,
+        "time": "18:27",
+        "img": "/img/s04e16/f8.jpg",
+        "t": "Verde!",
+        "en": "Dora points at the green leaf and says “¡Verde!”",
+        "cn": "Dora 指着绿叶说：“绿色！”",
+        "key": "green · Verde"
+      },
+      {
+        "no": 9,
+        "time": "20:52",
+        "img": "/img/s04e16/f9.jpg",
+        "t": "Stretch and Smile",
+        "en": "The rainbow stretches wide and smiles at everyone.",
+        "cn": "彩虹舒展开来，对大家笑。",
+        "key": "stretches · smiles"
+      }
+    ],
+    "words": [
+      [
+        "rainbow",
+        "彩虹"
+      ],
+      [
+        "shy",
+        "害羞的"
+      ],
+      [
+        "hill",
+        "小山"
+      ],
+      [
+        "bridge",
+        "桥"
+      ],
+      [
+        "color",
+        "颜色"
+      ],
+      [
+        "path",
+        "小路"
+      ],
+      [
+        "boat",
+        "小船"
+      ],
+      [
+        "row",
+        "划船"
+      ],
+      [
+        "green",
+        "绿色"
+      ],
+      [
+        "stretch",
+        "伸展"
+      ],
+      [
+        "sky",
+        "天空"
+      ],
+      [
+        "¡Verde!",
+        "绿色（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “The Shy Rainbow”.",
+    "ending": "In the end, the shy rainbow comes out and shows all its colors. My favorite part is ______."
+  },
+  "S04E17": {
+    "id": "S04E17",
+    "season": 4,
+    "episode": 17,
+    "title": "Baby Crab",
+    "titleCn": "螃蟹宝宝",
+    "hook": "小螃蟹被渔网缠住了，Dora 帮它找妈妈，一路走过沙堡和满是贝壳的沙滩。",
+    "cover": "/img/s04e17/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:34",
+        "img": "/img/s04e17/f1.jpg",
+        "t": "Out of the Net",
+        "en": "Dora gets the baby crab out of the fishing net.",
+        "cn": "Dora 把小螃蟹从渔网里救了出来。",
+        "key": "crab · net"
+      },
+      {
+        "no": 2,
+        "time": "03:59",
+        "img": "/img/s04e17/f2.jpg",
+        "t": "Shake Your Body",
+        "en": "They shake their bodies and sing “Menea te”.",
+        "cn": "他们一边扭扭身子，一边唱“动起来”。",
+        "key": "shake · Menea"
+      },
+      {
+        "no": 3,
+        "time": "06:24",
+        "img": "/img/s04e17/f3.jpg",
+        "t": "Castle, Clams, Crab Island",
+        "en": "Map says: castle, clams, then Crab Island.",
+        "cn": "地图说：沙堡、蛤蜊，然后到螃蟹岛。",
+        "key": "clams · Crab"
+      },
+      {
+        "no": 4,
+        "time": "08:48",
+        "img": "/img/s04e17/f4.jpg",
+        "t": "Snap, Snap, Snap",
+        "en": "The little crab snaps its claws on the sand.",
+        "cn": "小螃蟹在沙地上“咔哒咔哒”地夹钳子。",
+        "key": "crab · claws"
+      },
+      {
+        "no": 5,
+        "time": "11:13",
+        "img": "/img/s04e17/f5.jpg",
+        "t": "That Was Squishy",
+        "en": "Dora steps in the wet sand. “That was squishy!”",
+        "cn": "Dora 踩进湿沙子，“软软的，好奇怪！”",
+        "key": "sand · squishy"
+      },
+      {
+        "no": 6,
+        "time": "13:38",
+        "img": "/img/s04e17/f6.jpg",
+        "t": "Many Sandcastles",
+        "en": "They walk past many sandcastles on the beach.",
+        "cn": "他们走过沙滩上一座座沙堡。",
+        "key": "sandcastles · beach"
+      },
+      {
+        "no": 7,
+        "time": "16:02",
+        "img": "/img/s04e17/f7.jpg",
+        "t": "Shells on the Sand",
+        "en": "There are shells, stars and crabs on the sand.",
+        "cn": "沙滩上有贝壳、海星，还有螃蟹。",
+        "key": "shells · stars"
+      },
+      {
+        "no": 8,
+        "time": "18:27",
+        "img": "/img/s04e17/f8.jpg",
+        "t": "Crab Island, Right",
+        "en": "Map says, “Crab Island, right!” and checks the way.",
+        "cn": "地图说：“螃蟹岛，对啦！”然后把路打勾。",
+        "key": "Island · checks"
+      },
+      {
+        "no": 9,
+        "time": "20:52",
+        "img": "/img/s04e17/f9.jpg",
+        "t": "Something for Mommy",
+        "en": "The baby crab gives mommy a pearl necklace.",
+        "cn": "小螃蟹送给妈妈一串珍珠项链。",
+        "key": "pearl · necklace"
+      }
+    ],
+    "words": [
+      [
+        "crab",
+        "螃蟹"
+      ],
+      [
+        "net",
+        "渔网"
+      ],
+      [
+        "claw",
+        "钳子"
+      ],
+      [
+        "sand",
+        "沙子"
+      ],
+      [
+        "castle",
+        "城堡"
+      ],
+      [
+        "beach",
+        "沙滩"
+      ],
+      [
+        "shell",
+        "贝壳"
+      ],
+      [
+        "star",
+        "海星"
+      ],
+      [
+        "island",
+        "小岛"
+      ],
+      [
+        "pearl",
+        "珍珠"
+      ],
+      [
+        "necklace",
+        "项链"
+      ],
+      [
+        "¡Menea te!",
+        "动起来（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Baby Crab”.",
+    "ending": "In the end, the baby crab finds its mommy on Crab Island. My favorite part is ______."
+  },
+  "S04E18": {
+    "id": "S04E18",
+    "season": 4,
+    "episode": 18,
+    "title": "Swiper the Explorer",
+    "titleCn": "探险家 Swiper",
+    "hook": "Swiper 捡到一只走丢的小狐狸，这回他当起探险家，要和 Dora 一起送它回家。",
+    "cover": "/img/s04e18/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:34",
+        "img": "/img/s04e18/f1.jpg",
+        "t": "A Lost Baby Fox",
+        "en": "Dora and Boots find a baby fox near the bushes.",
+        "cn": "Dora 和 Boots 在灌木丛边发现一只小狐狸。",
+        "key": "fox · bushes"
+      },
+      {
+        "no": 2,
+        "time": "03:59",
+        "img": "/img/s04e18/f2.jpg",
+        "t": "Far from Home",
+        "en": "Map says the baby fox lives far from here.",
+        "cn": "地图说，小狐狸的家离这儿很远。",
+        "key": "Map · far"
+      },
+      {
+        "no": 3,
+        "time": "06:24",
+        "img": "/img/s04e18/f3.jpg",
+        "t": "Swiper Carries the Baby",
+        "en": "Swiper carries the baby fox in his two arms.",
+        "cn": "Swiper 用两条胳膊抱着小狐狸。",
+        "key": "carries · arms"
+      },
+      {
+        "no": 4,
+        "time": "08:49",
+        "img": "/img/s04e18/f4.jpg",
+        "t": "Something to Drink",
+        "en": "They ask for something for the baby fox to drink.",
+        "cn": "他们想问谁有小狐狸能喝的东西。",
+        "key": "drink · fox"
+      },
+      {
+        "no": 5,
+        "time": "11:14",
+        "img": "/img/s04e18/f5.jpg",
+        "t": "An Orange",
+        "en": "Swiper picks an orange near the big volcano ground.",
+        "cn": "Swiper 在火山旁边的地上摘了一个橙子。",
+        "key": "orange · volcano"
+      },
+      {
+        "no": 6,
+        "time": "13:39",
+        "img": "/img/s04e18/f6.jpg",
+        "t": "The Fox Drinks",
+        "en": "The baby fox drinks and smiles at Swiper.",
+        "cn": "小狐狸喝完了，冲 Swiper 笑。",
+        "key": "drinks · smiles"
+      },
+      {
+        "no": 7,
+        "time": "16:04",
+        "img": "/img/s04e18/f7.jpg",
+        "t": "Diego Helps",
+        "en": "Diego comes and helps them find wild animals.",
+        "cn": "Diego 赶来，帮他们找丛林里的野生动物。",
+        "key": "Diego · wild"
+      },
+      {
+        "no": 8,
+        "time": "18:29",
+        "img": "/img/s04e18/f8.jpg",
+        "t": "Away from the Bats",
+        "en": "The baby fox gets away from the chasey bats.",
+        "cn": "小狐狸甩掉了追着它的蝙蝠。",
+        "key": "bats · away"
+      },
+      {
+        "no": 9,
+        "time": "20:54",
+        "img": "/img/s04e18/f9.jpg",
+        "t": "Mi Zorrito",
+        "en": "Mama fox says, “Mi zorrito, you came back!”",
+        "cn": "狐狸妈妈说：“我的小狐狸，你回来啦！”",
+        "key": "zorrito · back"
+      }
+    ],
+    "words": [
+      [
+        "fox",
+        "狐狸"
+      ],
+      [
+        "lost",
+        "迷路的"
+      ],
+      [
+        "bush",
+        "灌木丛"
+      ],
+      [
+        "carry",
+        "抱"
+      ],
+      [
+        "drink",
+        "喝"
+      ],
+      [
+        "orange",
+        "橙子"
+      ],
+      [
+        "volcano",
+        "火山"
+      ],
+      [
+        "bat",
+        "蝙蝠"
+      ],
+      [
+        "wild",
+        "野生的"
+      ],
+      [
+        "mama",
+        "妈妈"
+      ],
+      [
+        "explorer",
+        "探险家"
+      ],
+      [
+        "Mi zorrito",
+        "我的小狐狸（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Swiper the Explorer”.",
+    "ending": "In the end, Swiper brings the baby fox back to its mama. My favorite part is ______."
+  },
+  "S04E19": {
+    "id": "S04E19",
+    "season": 4,
+    "episode": 19,
+    "title": "Catch the Babies",
+    "titleCn": "抓住宝宝",
+    "hook": "双胞胎宝宝一出门就到处乱爬，全家总动员追着他们去农场、花园和黏黏泉。",
+    "cover": "/img/s04e19/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:34",
+        "img": "/img/s04e19/f1.jpg",
+        "t": "The Whole Family",
+        "en": "Dora's whole family is in the living room together.",
+        "cn": "Dora 一家人全都在客厅里。",
+        "key": "family · room"
+      },
+      {
+        "no": 2,
+        "time": "03:59",
+        "img": "/img/s04e19/f2.jpg",
+        "t": "Map Shows the Way",
+        "en": "Map shows the way: farm, garden, gooey geyser.",
+        "cn": "地图指路：农场、花园，再到黏黏泉。",
+        "key": "farm · geyser"
+      },
+      {
+        "no": 3,
+        "time": "06:24",
+        "img": "/img/s04e19/f3.jpg",
+        "t": "Run After the Babies",
+        "en": "Everyone runs after the babies on the path.",
+        "cn": "大家在小路上追着宝宝们跑。",
+        "key": "runs · babies"
+      },
+      {
+        "no": 4,
+        "time": "08:48",
+        "img": "/img/s04e19/f4.jpg",
+        "t": "Big Watermelons",
+        "en": "There are big watermelons in the wooden box.",
+        "cn": "木箱子里装着大西瓜。",
+        "key": "watermelons · box"
+      },
+      {
+        "no": 5,
+        "time": "11:13",
+        "img": "/img/s04e19/f5.jpg",
+        "t": "Grandma and Grandpa",
+        "en": "Grandma and Grandpa run with Dora and Boots.",
+        "cn": "爷爷奶奶跟着 Dora 和 Boots 一起跑。",
+        "key": "Grandma · run"
+      },
+      {
+        "no": 6,
+        "time": "13:38",
+        "img": "/img/s04e19/f6.jpg",
+        "t": "Smiling Flowers",
+        "en": "Three purple flowers smile and sing in the garden.",
+        "cn": "花园里三朵紫色的花笑着唱歌。",
+        "key": "flowers · garden"
+      },
+      {
+        "no": 7,
+        "time": "16:02",
+        "img": "/img/s04e19/f7.jpg",
+        "t": "Say Map",
+        "en": "The family calls together, “Map, Map, Map!”",
+        "cn": "一家人一起喊：“地图，地图，地图！”",
+        "key": "family · Map"
+      },
+      {
+        "no": 8,
+        "time": "18:27",
+        "img": "/img/s04e19/f8.jpg",
+        "t": "Louder!",
+        "en": "They push through the green leaves and shout, “Louder!”",
+        "cn": "他们钻过绿叶，大声喊：“再大声点！”",
+        "key": "leaves · Louder"
+      },
+      {
+        "no": 9,
+        "time": "20:52",
+        "img": "/img/s04e19/f9.jpg",
+        "t": "Bubbles, Not Goo",
+        "en": "The gooey geyser sprays bubbles, not sticky goo.",
+        "cn": "黏黏泉喷出来的是泡泡，不是黏胶。",
+        "key": "geyser · bubbles"
+      }
+    ],
+    "words": [
+      [
+        "family",
+        "家人"
+      ],
+      [
+        "living room",
+        "客厅"
+      ],
+      [
+        "farm",
+        "农场"
+      ],
+      [
+        "garden",
+        "花园"
+      ],
+      [
+        "geyser",
+        "间歇泉"
+      ],
+      [
+        "watermelon",
+        "西瓜"
+      ],
+      [
+        "grandma",
+        "奶奶"
+      ],
+      [
+        "grandpa",
+        "爷爷"
+      ],
+      [
+        "flower",
+        "花"
+      ],
+      [
+        "bubble",
+        "泡泡"
+      ],
+      [
+        "catch",
+        "抓住"
+      ],
+      [
+        "¡Mira!",
+        "看（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Catch the Babies”.",
+    "ending": "In the end, the family catches the babies and the geyser sprays bubbles. My favorite part is ______."
+  },
+  "S04E20": {
+    "id": "S04E20",
+    "season": 4,
+    "episode": 20,
+    "title": "Dora and Diego to the Rescue!",
+    "titleCn": "Dora 和 Diego 出发救援",
+    "hook": "Boots 被风刮到海上飞了起来，Dora 叫上 Diego，一路追到北极熊山。",
+    "cover": "/img/s04e20/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:34",
+        "img": "/img/s04e20/f1.jpg",
+        "t": "A Monkey in the Bushes",
+        "en": "Dora and Diego look for a monkey near the bushes.",
+        "cn": "Dora 和 Diego 在灌木丛附近找一只小猴子。",
+        "key": "monkey · bushes"
+      },
+      {
+        "no": 2,
+        "time": "03:59",
+        "img": "/img/s04e20/f2.jpg",
+        "t": "Polar Bear Mountain",
+        "en": "Map says Boots is flying to Polar Bear Mountain.",
+        "cn": "地图说 Boots 正飞向北极熊山。",
+        "key": "Boots · Mountain"
+      },
+      {
+        "no": 3,
+        "time": "06:24",
+        "img": "/img/s04e20/f3.jpg",
+        "t": "Flying Over the Ocean",
+        "en": "Boots flies over the ocean on a long rope.",
+        "cn": "Boots 挂在一根长绳上飞过大海。",
+        "key": "ocean · rope"
+      },
+      {
+        "no": 4,
+        "time": "08:48",
+        "img": "/img/s04e20/f4.jpg",
+        "t": "I Need Your Help",
+        "en": "Dora stands on the rocks and says, “I need help.”",
+        "cn": "Dora 站在岩石上说：“我需要帮忙。”",
+        "key": "rocks · help"
+      },
+      {
+        "no": 5,
+        "time": "11:13",
+        "img": "/img/s04e20/f5.jpg",
+        "t": "Two Paths",
+        "en": "Two paths go up the hill. Which one is right?",
+        "cn": "两条小路通向山上，哪一条才对？",
+        "key": "paths · hill"
+      },
+      {
+        "no": 6,
+        "time": "13:38",
+        "img": "/img/s04e20/f6.jpg",
+        "t": "Hands Out in Front",
+        "en": "Diego says, “Put your hands out in front of you.”",
+        "cn": "Diego 说：“把双手伸到身前。”",
+        "key": "hands · front"
+      },
+      {
+        "no": 7,
+        "time": "16:02",
+        "img": "/img/s04e20/f7.jpg",
+        "t": "Animals in the Grass",
+        "en": "Tall grass hides elephants, zebras and a giraffe.",
+        "cn": "高高的草丛里藏着大象、斑马和长颈鹿。",
+        "key": "grass · giraffe"
+      },
+      {
+        "no": 8,
+        "time": "18:27",
+        "img": "/img/s04e20/f8.jpg",
+        "t": "Thanks for Finding My Baby",
+        "en": "The lion mom says, “Thanks for finding my baby.”",
+        "cn": "狮子妈妈说：“谢谢你找到我的宝宝。”",
+        "key": "lion · baby"
+      },
+      {
+        "no": 9,
+        "time": "20:52",
+        "img": "/img/s04e20/f9.jpg",
+        "t": "Here Comes a Polar Bear",
+        "en": "A polar bear climbs down the cold waterfall.",
+        "cn": "一只北极熊顺着冰冷的瀑布爬下来。",
+        "key": "polar · waterfall"
+      }
+    ],
+    "words": [
+      [
+        "monkey",
+        "猴子"
+      ],
+      [
+        "ocean",
+        "海洋"
+      ],
+      [
+        "rope",
+        "绳子"
+      ],
+      [
+        "hill",
+        "小山"
+      ],
+      [
+        "hands",
+        "双手"
+      ],
+      [
+        "grass",
+        "草"
+      ],
+      [
+        "elephant",
+        "大象"
+      ],
+      [
+        "zebra",
+        "斑马"
+      ],
+      [
+        "giraffe",
+        "长颈鹿"
+      ],
+      [
+        "lion",
+        "狮子"
+      ],
+      [
+        "polar bear",
+        "北极熊"
+      ],
+      [
+        "¡Ayúdame!",
+        "帮帮我（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Dora and Diego to the Rescue!”.",
+    "ending": "In the end, Dora and Diego save Boots at Polar Bear Mountain. My favorite part is ______."
+  },
+  "S04E21": {
+    "id": "S04E21",
+    "season": 4,
+    "episode": 21,
+    "title": "Dora's Fairytale Adventure",
+    "titleCn": "Dora 的童话冒险",
+    "hook": "Dora 走进童话王国，七个矮人、巨人和绿龙都来帮忙，她还要找到城堡里的王子。",
+    "cover": "/img/s04e21/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "03:00",
+        "img": "/img/s04e21/f1.jpg",
+        "t": "Welcome to Fairy Tale Land",
+        "en": "Seven little dwarfs welcome Dora to Fairy Tale Land.",
+        "cn": "七个小矮人欢迎 Dora 来到童话王国。",
+        "key": "dwarfs · Fairy"
+      },
+      {
+        "no": 2,
+        "time": "07:36",
+        "img": "/img/s04e21/f2.jpg",
+        "t": "Into the Story",
+        "en": "Dora wears her backpack and walks into the story.",
+        "cn": "Dora 背着书包，走进了故事里。",
+        "key": "backpack · story"
+      },
+      {
+        "no": 3,
+        "time": "12:13",
+        "img": "/img/s04e21/f3.jpg",
+        "t": "The Green Dragon",
+        "en": "A big green dragon sleeps on the shiny jewels.",
+        "cn": "一条大绿龙睡在亮闪闪的宝石上。",
+        "key": "dragon · jewels"
+      },
+      {
+        "no": 4,
+        "time": "16:49",
+        "img": "/img/s04e21/f4.jpg",
+        "t": "Fee-Fi-Fo-Fum",
+        "en": "The giant sings, “Fee-fi-fo-fum, fumpty-dumpty-dum!”",
+        "cn": "巨人唱着：“ fee-fi-fo-fum，咚咚咚！”",
+        "key": "giant · sings"
+      },
+      {
+        "no": 5,
+        "time": "21:26",
+        "img": "/img/s04e21/f5.jpg",
+        "t": "Teach the Rocks to Sing",
+        "en": "They teach the big rocks how to sing a song.",
+        "cn": "他们教大石头唱歌。",
+        "key": "rocks · sing"
+      },
+      {
+        "no": 6,
+        "time": "26:03",
+        "img": "/img/s04e21/f6.jpg",
+        "t": "A Bag of Sunshine",
+        "en": "The giant gives them a bag of warm sunshine.",
+        "cn": "巨人送给他们一袋暖烘烘的阳光。",
+        "key": "giant · sunshine"
+      },
+      {
+        "no": 7,
+        "time": "30:39",
+        "img": "/img/s04e21/f7.jpg",
+        "t": "Map to the Castle",
+        "en": "Map shows the way to the castle far away.",
+        "cn": "地图指出通往远方城堡的路。",
+        "key": "Map · castle"
+      },
+      {
+        "no": 8,
+        "time": "35:16",
+        "img": "/img/s04e21/f8.jpg",
+        "t": "Long Hair to the Floor",
+        "en": "Long hair grows down to the floor of the room.",
+        "cn": "长长的头发一直垂到房间的地板上。",
+        "key": "hair · floor"
+      },
+      {
+        "no": 9,
+        "time": "39:52",
+        "img": "/img/s04e21/f9.jpg",
+        "t": "A Shiny Gown",
+        "en": "Wow! Dora has a shiny gown and long hair.",
+        "cn": "哇！Dora 换上亮闪闪的长裙，头发也变长了。",
+        "key": "gown · shiny"
+      }
+    ],
+    "words": [
+      [
+        "fairy tale",
+        "童话"
+      ],
+      [
+        "dwarf",
+        "小矮人"
+      ],
+      [
+        "dragon",
+        "龙"
+      ],
+      [
+        "jewel",
+        "宝石"
+      ],
+      [
+        "giant",
+        "巨人"
+      ],
+      [
+        "rock",
+        "石头"
+      ],
+      [
+        "sing",
+        "唱歌"
+      ],
+      [
+        "sunshine",
+        "阳光"
+      ],
+      [
+        "castle",
+        "城堡"
+      ],
+      [
+        "hair",
+        "头发"
+      ],
+      [
+        "gown",
+        "长裙"
+      ],
+      [
+        "¡Hola!",
+        "你好（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Dora's Fairytale Adventure”.",
+    "ending": "In the end, Dora wakes up from the fairy tale spell in the castle. My favorite part is ______."
+  },
+  "S05E01": {
+    "id": "S05E01",
+    "season": 5,
+    "episode": 1,
+    "title": "The Backpack Parade",
+    "titleCn": "背包大游行",
+    "hook": "Backpack 要在游行上唱开场歌，可她一路打喷嚏，背里的东西全飞了出去。",
+    "cover": "/img/s05e01/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "03:00",
+        "img": "/img/s05e01/f1.jpg",
+        "t": "The Parade Needs Her",
+        "en": "Backpack says, “The parade can't start without my song.”",
+        "cn": "Backpack 说：“没有我的歌，游行就没法开始。”",
+        "key": "Backpack · song"
+      },
+      {
+        "no": 2,
+        "time": "05:00",
+        "img": "/img/s05e01/f2.jpg",
+        "t": "Down the Long Path",
+        "en": "Dora, Boots and Backpack walk down the long path together.",
+        "cn": "Dora、Boots 和 Backpack 一起沿着长长的小路往前走。",
+        "key": "Boots · path"
+      },
+      {
+        "no": 3,
+        "time": "08:40",
+        "img": "/img/s05e01/f3.jpg",
+        "t": "A Square Fits",
+        "en": "“Correct, a square!” The bridge is fixed, so they can cross.",
+        "cn": "“答对了，是正方形！”桥修好了，他们能过河了。",
+        "key": "square · bridge"
+      },
+      {
+        "no": 4,
+        "time": "11:00",
+        "img": "/img/s05e01/f4.jpg",
+        "t": "A Big Sneeze",
+        "en": "“Achoo!” Backpack sneezes and her things fly up in the air.",
+        "cn": "“啊嚏！”Backpack 打了个大喷嚏，她的东西全飞了起来。",
+        "key": "sneezes · things"
+      },
+      {
+        "no": 5,
+        "time": "13:20",
+        "img": "/img/s05e01/f5.jpg",
+        "t": "All Over the Grass",
+        "en": "Her sticky tape, books and ruler lie on the green grass.",
+        "cn": "她的胶带、书本和尺子都掉在绿草地上了。",
+        "key": "sticky tape · grass"
+      },
+      {
+        "no": 6,
+        "time": "14:00",
+        "img": "/img/s05e01/f6.jpg",
+        "t": "The Trees Are Asleep",
+        "en": "“Hey, they're not waking up.” The trees with faces sleep.",
+        "cn": "“嘿，怎么叫都叫不醒。”长着脸的树全在睡觉。",
+        "key": "trees · waking"
+      },
+      {
+        "no": 7,
+        "time": "16:40",
+        "img": "/img/s05e01/f7.jpg",
+        "t": "Watch Out for Swiper",
+        "en": "“That sneaky fox is always trying to swipe our stuff.”",
+        "cn": "“那只狡猾的狐狸总想偷我们的东西。”",
+        "key": "fox · swipe"
+      },
+      {
+        "no": 8,
+        "time": "18:00",
+        "img": "/img/s05e01/f8.jpg",
+        "t": "A Backpack for Him",
+        "en": "“Thank you, thank you.” Now Swiper has a backpack for the parade.",
+        "cn": "“谢谢，谢谢！”现在 Swiper 也有参加游行的背包了。",
+        "key": "Swiper · backpack"
+      },
+      {
+        "no": 9,
+        "time": "19:40",
+        "img": "/img/s05e01/f9.jpg",
+        "t": "Her Big Moment",
+        "en": "“Time to sing!” Dora lifts Backpack up at the parade.",
+        "cn": "“到唱歌的时间啦！”Dora 在游行上把 Backpack 高高举起。",
+        "key": "sing · parade"
+      }
+    ],
+    "words": [
+      [
+        "parade",
+        "游行"
+      ],
+      [
+        "backpack",
+        "背包"
+      ],
+      [
+        "song",
+        "歌"
+      ],
+      [
+        "path",
+        "小路"
+      ],
+      [
+        "bridge",
+        "桥"
+      ],
+      [
+        "square",
+        "正方形"
+      ],
+      [
+        "sneeze",
+        "打喷嚏"
+      ],
+      [
+        "sticky tape",
+        "胶带"
+      ],
+      [
+        "ruler",
+        "尺子"
+      ],
+      [
+        "trees",
+        "树"
+      ],
+      [
+        "Swiper",
+        "捣蛋鬼"
+      ],
+      [
+        "sing",
+        "唱歌"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “The Backpack Parade”.",
+    "ending": "In the end, Backpack sings at the parade and Swiper gets a backpack too. My favorite part is ______."
+  },
+  "S05E10": {
+    "id": "S05E10",
+    "season": 5,
+    "episode": 10,
+    "title": "Dora Saves Three Kings Day",
+    "titleCn": "朵拉拯救三王节",
+    "hook": "三位国王的动物要在天黑前送到派对，朵拉和伙伴们分头去找。",
+    "cover": "/img/s05e10/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "00:58",
+        "img": "/img/s05e10/f1.jpg",
+        "t": "Dressed as Kings",
+        "en": "Dora, Boots and Diego dress up like kings at the Rescue Center.",
+        "cn": "朵拉、布茨和迪亚哥在动物救助中心扮成国王。",
+        "key": "kings · Rescue Center"
+      },
+      {
+        "no": 2,
+        "time": "01:36",
+        "img": "/img/s05e10/f2.jpg",
+        "t": "Diego Explains",
+        "en": "Diego says the three kings ride their animals to the party.",
+        "cn": "迪亚哥说，三位国王要骑着动物去参加派对。",
+        "key": "kings · animals"
+      },
+      {
+        "no": 3,
+        "time": "03:03",
+        "img": "/img/s05e10/f3.jpg",
+        "t": "Pick a Horse",
+        "en": "“El caballo is the horse,” says Dora. “I take this one.”",
+        "cn": "“El caballo 就是马，”朵拉说，“我就要这一匹。”",
+        "key": "caballo · horse"
+      },
+      {
+        "no": 4,
+        "time": "06:55",
+        "img": "/img/s05e10/f4.jpg",
+        "t": "Find Them All",
+        "en": "Diego sings that they must find all the animals today.",
+        "cn": "迪亚哥唱着说，今天一定要把所有动物都找到。",
+        "key": "find · animals"
+      },
+      {
+        "no": 5,
+        "time": "09:18",
+        "img": "/img/s05e10/f5.jpg",
+        "t": "Elephant and Gifts",
+        "en": "They find the elephant, and the elephant brings the golden rings.",
+        "cn": "他们找到了大象，大象背上驮着金戒指。",
+        "key": "elephant · rings"
+      },
+      {
+        "no": 6,
+        "time": "10:57",
+        "img": "/img/s05e10/f6.jpg",
+        "t": "Lost in the Desert",
+        "en": "It is hard to find the camel in the dark desert.",
+        "cn": "天黑了，在沙漠里找那匹骆驼真不容易。",
+        "key": "camel · desert"
+      },
+      {
+        "no": 7,
+        "time": "13:35",
+        "img": "/img/s05e10/f7.jpg",
+        "t": "Boots Asks First",
+        "en": "“Can I ride him now, Diego?” asks Boots with a smile.",
+        "cn": "“我现在能骑他了吗，迪亚哥？”布茨笑着问。",
+        "key": "ride · Boots"
+      },
+      {
+        "no": 8,
+        "time": "17:00",
+        "img": "/img/s05e10/f8.jpg",
+        "t": "Fast White Horse",
+        "en": "The white horse runs fast, and the children laugh and cheer.",
+        "cn": "白马跑得飞快，孩子们笑着欢呼。",
+        "key": "horse · runs"
+      },
+      {
+        "no": 9,
+        "time": "21:03",
+        "img": "/img/s05e10/f9.jpg",
+        "t": "The Party Begins",
+        "en": "At last they get to the party. ¡Felicidades! Everyone is happy.",
+        "cn": "他们终于赶到了派对。¡Felicidades！大家都很开心。",
+        "key": "party · happy"
+      }
+    ],
+    "words": [
+      [
+        "kings",
+        "国王（三王）"
+      ],
+      [
+        "Rescue Center",
+        "动物救助中心"
+      ],
+      [
+        "costume",
+        "装扮服装"
+      ],
+      [
+        "horse",
+        "马"
+      ],
+      [
+        "caballo",
+        "马（西语）"
+      ],
+      [
+        "elephant",
+        "大象"
+      ],
+      [
+        "camel",
+        "骆驼"
+      ],
+      [
+        "rings",
+        "戒指"
+      ],
+      [
+        "desert",
+        "沙漠"
+      ],
+      [
+        "dark",
+        "黑暗的"
+      ],
+      [
+        "party",
+        "派对"
+      ],
+      [
+        "¡Felicidades!",
+        "恭喜！（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Dora Saves Three Kings Day”.",
+    "ending": "In the end, Dora and her friends bring all the animals to the Three Kings Day party. My favorite part is ______."
+  },
+  "S05E11": {
+    "id": "S05E11",
+    "season": 5,
+    "episode": 11,
+    "title": "Dora Saves the Three Little Piggies",
+    "titleCn": "救救三只小猪",
+    "hook": "故事书里的大灰狼吹倒了小猪的砖房，Dora 和 Boots 要进故事里帮小猪运砖修房子。",
+    "cover": "/img/s05e11/f1.jpg",
+    "cells": [
+      {
+        "no": 1,
+        "time": "01:40",
+        "img": "/img/s05e11/f1.jpg",
+        "t": "The Wolf Boasts",
+        "en": "The big wolf says, “I can't blow the piggies' bricks down.”",
+        "cn": "大灰狼说：“我吹不倒小猪们的砖房。”",
+        "key": "wolf · bricks"
+      },
+      {
+        "no": 2,
+        "time": "03:20",
+        "img": "/img/s05e11/f2.jpg",
+        "t": "Load the Cart",
+        "en": "“Bring the bricks back to the three little piggies,” says Dora.",
+        "cn": "Dora 说：“把砖块运回去，送给三只小猪。”",
+        "key": "bricks · piggies"
+      },
+      {
+        "no": 3,
+        "time": "04:50",
+        "img": "/img/s05e11/f3.jpg",
+        "t": "Reading the Route",
+        "en": "The story map shows a straw mountain and a maze of sticks.",
+        "cn": "故事书的地图上画着草山和树枝迷宫。",
+        "key": "map · maze"
+      },
+      {
+        "no": 4,
+        "time": "07:30",
+        "img": "/img/s05e11/f4.jpg",
+        "t": "Too Heavy",
+        "en": "The bricks are too heavy to roll up the straw mountain.",
+        "cn": "砖块太重了，推不上草山。",
+        "key": "heavy · mountain"
+      },
+      {
+        "no": 5,
+        "time": "09:20",
+        "img": "/img/s05e11/f5.jpg",
+        "t": "Make It Bigger",
+        "en": "“Say ‘mucho más grande!’” The boy wants a bigger balloon.",
+        "cn": "“说‘再大一点！’”小男孩想要一个更大的气球。",
+        "key": "grande · balloon"
+      },
+      {
+        "no": 6,
+        "time": "12:50",
+        "img": "/img/s05e11/f6.jpg",
+        "t": "A Princess Needs Help",
+        "en": "“Cinderella's slipper is up in the tree,” says Dora.",
+        "cn": "Dora 说：“灰姑娘的水晶鞋挂在树上呢。”",
+        "key": "slipper · tree"
+      },
+      {
+        "no": 7,
+        "time": "18:20",
+        "img": "/img/s05e11/f7.jpg",
+        "t": "Here Come the Bricks",
+        "en": "“We come to fix your house of bricks,” Dora tells the piggies.",
+        "cn": "Dora 对小猪们说：“我们来帮你们修砖房啦。”",
+        "key": "fix · house"
+      },
+      {
+        "no": 8,
+        "time": "20:00",
+        "img": "/img/s05e11/f8.jpg",
+        "t": "Huff and Puff",
+        "en": "“He's starting to huff and puff!” The wolf blows at the wall.",
+        "cn": "“他开始呼呼地吹气了！”大灰狼对着墙猛吹。",
+        "key": "huff · blows"
+      },
+      {
+        "no": 9,
+        "time": "21:00",
+        "img": "/img/s05e11/f9.jpg",
+        "t": "Safe at Last",
+        "en": "“Aw, piggy kisses!” The three little piggies are safe now.",
+        "cn": "“哎呀，小猪的亲亲！”三只小猪现在安全了。",
+        "key": "kisses · safe"
+      }
+    ],
+    "words": [
+      [
+        "bricks",
+        "砖块"
+      ],
+      [
+        "piggies",
+        "小猪"
+      ],
+      [
+        "wolf",
+        "大灰狼"
+      ],
+      [
+        "straw",
+        "稻草"
+      ],
+      [
+        "heavy",
+        "重的"
+      ],
+      [
+        "mountain",
+        "山"
+      ],
+      [
+        "maze",
+        "迷宫"
+      ],
+      [
+        "slipper",
+        "（水晶）鞋"
+      ],
+      [
+        "balloon",
+        "气球"
+      ],
+      [
+        "fix",
+        "修理"
+      ],
+      [
+        "huff and puff",
+        "呼呼吹气"
+      ],
+      [
+        "grande",
+        "大的（西语）"
+      ]
+    ],
+    "opener": "Today I watched Dora the Explorer. This episode is “Dora Saves the Three Little Piggies”.",
+    "ending": "In the end, the three little piggies live in a strong brick house. My favorite part is ______."
   }
 }

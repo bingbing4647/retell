@@ -1,0 +1,144 @@
+{
+  "id": "S04E03",
+  "season": 4,
+  "episode": 3,
+  "title": "Star Mountain",
+  "titleCn": "星星山",
+  "hook": "Swiper 抢走了 Dora 的项链，一路跑上星星山，追回去要过数字台阶和大雪球。",
+  "cover": "/img/s04e03/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:34",
+      "img": "/img/s04e03/f1.jpg",
+      "t": "Swiper Runs Away",
+      "en": "Swiper takes Dora's necklace and runs away fast.",
+      "cn": "Swiper 抢走 Dora 的项链，飞快地跑掉了。",
+      "key": "Swiper · necklace"
+    },
+    {
+      "no": 2,
+      "time": "03:59",
+      "img": "/img/s04e03/f2.jpg",
+      "t": "A Star on the Top",
+      "en": "Map shows a big star on top of Star Mountain.",
+      "cn": "地图上，星星山的山顶有一颗大星星。",
+      "key": "star · Mountain"
+    },
+    {
+      "no": 3,
+      "time": "06:24",
+      "img": "/img/s04e03/f3.jpg",
+      "t": "Where Is Dora?",
+      "en": "Boots calls, “Dora? Dora?” near the purple rocks.",
+      "cn": "Boots 在紫色岩石旁喊：“Dora？Dora？”",
+      "key": "Boots · rocks"
+    },
+    {
+      "no": 4,
+      "time": "08:48",
+      "img": "/img/s04e03/f4.jpg",
+      "t": "Number Steps",
+      "en": "There are numbers on the steps from six to fifteen.",
+      "cn": "台阶上写着数字，从六一直到十五。",
+      "key": "numbers · steps"
+    },
+    {
+      "no": 5,
+      "time": "11:13",
+      "img": "/img/s04e03/f5.jpg",
+      "t": "Find the Diamond",
+      "en": "Now they need to find the shiny diamond.",
+      "cn": "现在他们得找到那颗闪闪的钻石。",
+      "key": "find · diamond"
+    },
+    {
+      "no": 6,
+      "time": "13:38",
+      "img": "/img/s04e03/f6.jpg",
+      "t": "Over the Giant Snowball",
+      "en": "They climb over the giant snowball in snow clothes.",
+      "cn": "他们穿着雪地服翻过那个巨大的雪球。",
+      "key": "snowball · snow"
+    },
+    {
+      "no": 7,
+      "time": "16:02",
+      "img": "/img/s04e03/f7.jpg",
+      "t": "Check the Map",
+      "en": "They climbed the diamond. Map says, “Check!”",
+      "cn": "他们爬过了钻石那一站，地图说：“打勾！”",
+      "key": "climbed · Check"
+    },
+    {
+      "no": 8,
+      "time": "18:27",
+      "img": "/img/s04e03/f8.jpg",
+      "t": "Two Ropes",
+      "en": "Backpack gives them a short and a long rope.",
+      "cn": "背包掏出两根绳子，一短一长。",
+      "key": "Backpack · rope"
+    },
+    {
+      "no": 9,
+      "time": "20:52",
+      "img": "/img/s04e03/f9.jpg",
+      "t": "Climb, Climb, Climb",
+      "en": "Dora sings, “And climb, climb, climb, climb, climb!”",
+      "cn": "Dora 唱起来：“爬呀爬，爬呀爬呀爬！”",
+      "key": "climb · sings"
+    }
+  ],
+  "words": [
+    [
+      "necklace",
+      "项链"
+    ],
+    [
+      "star",
+      "星星"
+    ],
+    [
+      "mountain",
+      "山"
+    ],
+    [
+      "rock",
+      "岩石"
+    ],
+    [
+      "number",
+      "数字"
+    ],
+    [
+      "step",
+      "台阶"
+    ],
+    [
+      "diamond",
+      "钻石"
+    ],
+    [
+      "snowball",
+      "雪球"
+    ],
+    [
+      "rope",
+      "绳子"
+    ],
+    [
+      "climb",
+      "攀爬"
+    ],
+    [
+      "top",
+      "山顶"
+    ],
+    [
+      "¡Arriba!",
+      "往上（西语）"
+    ]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Star Mountain”.",
+  "ending": "In the end, Dora gets her necklace back on top of Star Mountain. My favorite part is ______."
+}

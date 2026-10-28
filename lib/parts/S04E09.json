@@ -1,0 +1,108 @@
+{
+  "id": "S04E09",
+  "season": 4,
+  "episode": 9,
+  "title": "A Crown for King BoBo",
+  "titleCn": "国王的王冠",
+  "hook": "BoBo 国王的生日会要开始了，可他的王冠不见了，Dora 和 Boots 帮他一路找回来。",
+  "cover": "/img/s04e09/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s04e09/f1.jpg",
+      "t": "Where's the Crown?",
+      "en": "“I always wear my crown on my head!” says King BoBo.",
+      "cn": "“我的王冠总是戴在头上的！”BoBo 国王说。",
+      "key": "crown · head"
+    },
+    {
+      "no": 2,
+      "time": "03:10",
+      "img": "/img/s04e09/f2.jpg",
+      "t": "Map Points the Way",
+      "en": "“Right!” says Map. The fountain, the swing, then the garden.",
+      "cn": "“往右！”地图说。先过喷泉，再到秋千，最后是花园。",
+      "key": "fountain · garden"
+    },
+    {
+      "no": 3,
+      "time": "05:22",
+      "img": "/img/s04e09/f3.jpg",
+      "t": "No Crown Here",
+      "en": "They look in the castle, but the crown is not there.",
+      "cn": "他们在城堡里找了一圈，可是王冠不在那儿。",
+      "key": "castle · crown"
+    },
+    {
+      "no": 4,
+      "time": "09:30",
+      "img": "/img/s04e09/f4.jpg",
+      "t": "The Flower Horses",
+      "en": "“Now do you see the garden?” The horses carry flowers on their backs.",
+      "cn": "“现在你看见花园了吗？”马背上驮着花，正往那边走。",
+      "key": "garden · flowers"
+    },
+    {
+      "no": 5,
+      "time": "11:03",
+      "img": "/img/s04e09/f5.jpg",
+      "t": "Check the Pack",
+      "en": "“I might have a long ladder in my backpack!” says Dora.",
+      "cn": "“我的背包里也许有一架长梯子！”Dora 说。",
+      "key": "ladder · backpack"
+    },
+    {
+      "no": 6,
+      "time": "13:30",
+      "img": "/img/s04e09/f6.jpg",
+      "t": "Two Ways",
+      "en": "Two paths go through the flowers: one red, one yellow.",
+      "cn": "两条小路从花丛中穿过：一条红色，一条黄色。",
+      "key": "paths · flowers"
+    },
+    {
+      "no": 7,
+      "time": "17:40",
+      "img": "/img/s04e09/f7.jpg",
+      "t": "Swiper Strikes",
+      "en": "“That sneaky fox!” Swiper takes the crown and runs away.",
+      "cn": "“那只狡猾的狐狸！”Swiper 抓起王冠就跑。",
+      "key": "sneaky · crown"
+    },
+    {
+      "no": 8,
+      "time": "19:40",
+      "img": "/img/s04e09/f8.jpg",
+      "t": "Crown Is Back",
+      "en": "“Way to go, King Juan El Bobo!” The crown is back on his head.",
+      "cn": "“太棒了，Juan El Bobo 国王！”王冠又回到了他头上。",
+      "key": "crown · head"
+    },
+    {
+      "no": 9,
+      "time": "21:50",
+      "img": "/img/s04e09/f9.jpg",
+      "t": "Happy Birthday, King",
+      "en": "“Gracias, Mommy!” The king hugs his family at the party.",
+      "cn": "“谢谢妈妈！”国王在生日会上抱住了家人。",
+      "key": "gracias · hugs"
+    }
+  ],
+  "words": [
+    ["crown", "王冠"],
+    ["king", "国王"],
+    ["castle", "城堡"],
+    ["garden", "花园"],
+    ["flowers", "花"],
+    ["ladder", "梯子"],
+    ["backpack", "背包"],
+    ["swing", "秋千"],
+    ["sneaky", "狡猾的"],
+    ["gracias", "谢谢（西语）"],
+    ["party", "派对"],
+    ["path", "小路"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “A Crown for King BoBo”.",
+  "ending": "In the end, the king gets his crown back for his birthday. My favorite part is ______."
+}

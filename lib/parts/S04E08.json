@@ -1,0 +1,108 @@
+{
+  "id": "S04E08",
+  "season": 4,
+  "episode": 8,
+  "title": "Baby Jaguar's Roar",
+  "titleCn": "小美洲豹学吼叫",
+  "hook": "小美洲豹还不会吼，Dora 和 Diego 带他一路爬过石头、渡过河，去山顶学本领。",
+  "cover": "/img/s04e08/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s04e08/f1.jpg",
+      "t": "A New Cub",
+      "en": "“His name is Baby Bear,” says Diego. “He is my new friend.”",
+      "cn": "“他叫小熊宝宝，”Diego 说，“他是我的新朋友。”",
+      "key": "Baby Bear · friend"
+    },
+    {
+      "no": 2,
+      "time": "04:21",
+      "img": "/img/s04e08/f2.jpg",
+      "t": "Three Stops",
+      "en": "Map sings: “Say it with me!” The path, the river, the mountain.",
+      "cn": "地图唱：“跟我一起说！”小路、大河、高山。",
+      "key": "river · mountain"
+    },
+    {
+      "no": 3,
+      "time": "06:21",
+      "img": "/img/s04e08/f3.jpg",
+      "t": "Over the Rocks",
+      "en": "“Climb, climb, climb!” They go up the rocks one by one.",
+      "cn": "“爬呀，爬呀，爬！”他们一块一块石头往上爬。",
+      "key": "climb · rocks"
+    },
+    {
+      "no": 4,
+      "time": "07:41",
+      "img": "/img/s04e08/f4.jpg",
+      "t": "Red or Yellow?",
+      "en": "“A red path and a yellow path. Amarillo!” Dora picks yellow.",
+      "cn": "“一条红路，一条黄路。amarillo！”Dora 选了黄色的那条。",
+      "key": "path · amarillo"
+    },
+    {
+      "no": 5,
+      "time": "09:40",
+      "img": "/img/s04e08/f5.jpg",
+      "t": "Quiet in the Jungle",
+      "en": "Dora and Boots sit with Baby Jaguar in the green jungle.",
+      "cn": "Dora 和 Boots 在绿绿的林子里陪着小美洲豹。",
+      "key": "jaguar · jungle"
+    },
+    {
+      "no": 6,
+      "time": "11:23",
+      "img": "/img/s04e08/f6.jpg",
+      "t": "Crawl Like Diego",
+      "en": "“Let's all move like jaguars do!” Diego crawls and they follow.",
+      "cn": "“我们像美洲豹那样走！”Diego 趴下爬，大家跟着学。",
+      "key": "move · jaguars"
+    },
+    {
+      "no": 7,
+      "time": "16:25",
+      "img": "/img/s04e08/f7.jpg",
+      "t": "Watch the Water",
+      "en": "“Whew, that was really, really close!” Baby Jaguar almost falls in.",
+      "cn": "“呼，真的好险！”小美洲豹差点掉进水里。",
+      "key": "close · falls"
+    },
+    {
+      "no": 8,
+      "time": "18:25",
+      "img": "/img/s04e08/f8.jpg",
+      "t": "One Big Leap",
+      "en": "“We have to jump like a jaguar to get up the mountain!”",
+      "cn": "“我们得像美洲豹那样跳，才能上到山顶！”",
+      "key": "jump · mountain"
+    },
+    {
+      "no": 9,
+      "time": "20:00",
+      "img": "/img/s04e08/f9.jpg",
+      "t": "Hugs at the Top",
+      "en": "Diego hugs Baby Bear and Baby Jaguar at the top of the mountain.",
+      "cn": "在山顶上，Diego 抱住了小熊宝宝和小美洲豹。",
+      "key": "hugs · mountain"
+    }
+  ],
+  "words": [
+    ["jaguar", "美洲豹"],
+    ["roar", "吼叫"],
+    ["bear", "小熊"],
+    ["path", "小路"],
+    ["amarillo", "黄色（西语）"],
+    ["rocks", "岩石"],
+    ["climb", "爬"],
+    ["river", "河"],
+    ["raft", "皮筏"],
+    ["mountain", "山"],
+    ["jump", "跳"],
+    ["close", "险的"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Baby Jaguar's Roar”.",
+  "ending": "In the end, they all reach the top of the mountain. My favorite part is ______."
+}
