@@ -1,0 +1,108 @@
+{
+  "id": "S03E18",
+  "season": 3,
+  "episode": 18,
+  "title": "Boots' Cuddly Dinosaur",
+  "titleCn": "Boots 的恐龙玩偶",
+  "hook": "天黑了，Boots 睡不着——他的恐龙玩偶忘在游乐场了。Dora 陪他摸黑去找。",
+  "cover": "/img/s03e18/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s03e18/f1.jpg",
+      "t": "No Dinosaur",
+      "en": "“I never go to sleep without my dinosaur,” says Boots. But where is it?",
+      "cn": "“我没有恐龙玩偶就睡不着。”Boots 说。可它在哪儿呢？",
+      "key": "sleep · dinosaur"
+    },
+    {
+      "no": 2,
+      "time": "01:55",
+      "img": "/img/s03e18/f2.jpg",
+      "t": "Remember?",
+      "en": "“We were at Play Park, remember?” Boots left it there in the afternoon.",
+      "cn": "“我们下午去过游乐园，记得吗？”Boots 把它落在那里了。",
+      "key": "Play Park · left"
+    },
+    {
+      "no": 3,
+      "time": "03:40",
+      "img": "/img/s03e18/f3.jpg",
+      "t": "The Way to Go",
+      "en": "“I'm the Map!” The red barn, then the playground. That is the way.",
+      "cn": "“我是地图！”先过红色谷仓，再到游乐场——这就是路线。",
+      "key": "Map · barn"
+    },
+    {
+      "no": 4,
+      "time": "05:30",
+      "img": "/img/s03e18/f4.jpg",
+      "t": "Missing It",
+      "en": "“Dora, I really miss that dinosaur.” The sky turns orange and dark.",
+      "cn": "“Dora，我真的好想那只恐龙。”天边慢慢变成橘红色，越来越暗。",
+      "key": "miss · dinosaur"
+    },
+    {
+      "no": 5,
+      "time": "13:30",
+      "img": "/img/s03e18/f5.jpg",
+      "t": "So Dark",
+      "en": "Boots looks in the barn window. “Hey… it's dark in there.”",
+      "cn": "Boots 往谷仓的窗户里看：“嘿……里面好黑啊。”",
+      "key": "barn · dark"
+    },
+    {
+      "no": 6,
+      "time": "15:30",
+      "img": "/img/s03e18/f6.jpg",
+      "t": "Counting Hay",
+      "en": "It is dark and full of hay. The mice count: one, two, three, four…",
+      "cn": "里面又黑又堆满干草，小老鼠们数着：一、二、三、四……",
+      "key": "hay · count"
+    },
+    {
+      "no": 7,
+      "time": "18:40",
+      "img": "/img/s03e18/f7.jpg",
+      "t": "A Wish",
+      "en": "A little star twinkles in the sky. “I hope all your wishes come true.”",
+      "cn": "天上有一颗小星星在闪：“我希望你所有的心愿都成真。”",
+      "key": "star · wishes"
+    },
+    {
+      "no": 8,
+      "time": "20:00",
+      "img": "/img/s03e18/f8.jpg",
+      "t": "Found It!",
+      "en": "In the sandbox, next to the big ball, Dora sees the orange dinosaur!",
+      "cn": "在沙坑里、大皮球旁边，Dora 看见了那只橘色的小恐龙！",
+      "key": "sandbox · dinosaur"
+    },
+    {
+      "no": 9,
+      "time": "21:10",
+      "img": "/img/s03e18/f9.jpg",
+      "t": "Back to Bed",
+      "en": "Back in bed, Boots hugs his dinosaur. “Good night, Boots!”",
+      "cn": "回到床上，Boots 抱着他的小恐龙：“晚安，Boots！”",
+      "key": "bed · Good night"
+    }
+  ],
+  "words": [
+    ["dinosaur", "恐龙"],
+    ["cuddly", "软软的、抱起来舒服的"],
+    ["pillow", "枕头"],
+    ["blanket", "毯子"],
+    ["playground", "游乐场"],
+    ["sandbox", "沙坑"],
+    ["barn", "谷仓"],
+    ["hay", "干草"],
+    ["dark", "黑暗的"],
+    ["star", "星星"],
+    ["wish", "愿望"],
+    ["miss", "想念"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Boots' Cuddly Dinosaur”.",
+  "ending": "In the end, Dora and Boots find the dinosaur in the sandbox and go back to bed. My favorite part is ______."
+}

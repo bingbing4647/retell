@@ -1,0 +1,108 @@
+{
+  "id": "S03E19",
+  "season": 3,
+  "episode": 19,
+  "title": "The Super Silly Fiesta",
+  "titleCn": "超级傻乎乎的派对",
+  "hook": "大红鸡的「超级傻派对」要开始了，Dora 和 Boots 一路猜声音、唱歌、做鬼脸赶过去。",
+  "cover": "/img/s03e19/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:10",
+      "img": "/img/s03e19/f1.jpg",
+      "t": "The Invitation",
+      "en": "“I can't wait to see!” Dora has an invitation to the Super Silly Fiesta.",
+      "cn": "“我迫不及待想去看啦！”Dora 收到了「超级傻派对」的请帖。",
+      "key": "invitation · Fiesta"
+    },
+    {
+      "no": 2,
+      "time": "04:10",
+      "img": "/img/s03e19/f2.jpg",
+      "t": "Map's Plan",
+      "en": "Map shows the boat, the gate, and the hill with the fiesta on top.",
+      "cn": "地图指路：先坐小船，再过大黄门，最后爬上开派对的小山。",
+      "key": "boat · gate"
+    },
+    {
+      "no": 3,
+      "time": "06:30",
+      "img": "/img/s03e19/f3.jpg",
+      "t": "Row the Boat",
+      "en": "“Row? Is that right?” Dora and Boots paddle down the river.",
+      "cn": "“划船？这样对吗？”Dora 和 Boots 一起顺着河划下去。",
+      "key": "Row · paddle"
+    },
+    {
+      "no": 4,
+      "time": "07:40",
+      "img": "/img/s03e19/f4.jpg",
+      "t": "Silly Sounds",
+      "en": "“Will you help us figure out the animals' sounds?” Moo! Oink!",
+      "cn": "“你能帮我们听出这些动物的叫声吗？”哞——！哼——！",
+      "key": "sounds · animals"
+    },
+    {
+      "no": 5,
+      "time": "10:40",
+      "img": "/img/s03e19/f5.jpg",
+      "t": "The Singing Gate",
+      "en": "“We need to sing it the right way!” The gate only opens for a song.",
+      "cn": "“我们得唱对才行！”这扇门只听对了歌才打开。",
+      "key": "sing · gate"
+    },
+    {
+      "no": 6,
+      "time": "13:40",
+      "img": "/img/s03e19/f6.jpg",
+      "t": "In the Tree",
+      "en": "Look up! Silly animals hide in the tree. “Let's keep looking.”",
+      "cn": "抬头看！傻乎乎的动物们躲在树上：“我们继续找吧。”",
+      "key": "animals · tree"
+    },
+    {
+      "no": 7,
+      "time": "15:20",
+      "img": "/img/s03e19/f7.jpg",
+      "t": "Make Me Laugh",
+      "en": "“Can you make a super silly face?” Everyone laughs out loud.",
+      "cn": "“你能做一个超傻的鬼脸吗？”大家都哈哈大笑。",
+      "key": "silly face · laughs"
+    },
+    {
+      "no": 8,
+      "time": "20:50",
+      "img": "/img/s03e19/f8.jpg",
+      "t": "The Big Cake",
+      "en": "The Big Red Chicken brings out a giant cake with candles on top.",
+      "cn": "大红鸡端出一个大蛋糕，上面插着蜡烛。",
+      "key": "Chicken · cake"
+    },
+    {
+      "no": 9,
+      "time": "21:30",
+      "img": "/img/s03e19/f9.jpg",
+      "t": "The Fiesta",
+      "en": "“We did it!” Everyone dances at the Super Silly Fiesta. What a day!",
+      "cn": "“我们做到啦！”大家在超级傻派对上跳舞，真是开心的一天！",
+      "key": "dances · Fiesta"
+    }
+  ],
+  "words": [
+    ["fiesta", "节日派对"],
+    ["silly", "傻乎乎的"],
+    ["invitation", "邀请、请帖"],
+    ["boat", "小船"],
+    ["paddle", "划桨"],
+    ["river", "河流"],
+    ["gate", "大门"],
+    ["sing", "唱歌"],
+    ["laugh", "大笑"],
+    ["face", "脸"],
+    ["cake", "蛋糕"],
+    ["dance", "跳舞"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “The Super Silly Fiesta”.",
+  "ending": "In the end, Dora and Boots get to the Super Silly Fiesta and dance with the Big Red Chicken. My favorite part is ______."
+}

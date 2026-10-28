@@ -1,0 +1,108 @@
+{
+  "id": "S02E12",
+  "season": 2,
+  "episode": 12,
+  "title": "A Letter for Swiper",
+  "titleCn": "给 Swiper 送信",
+  "hook": "邮差鸟看不清路，四封信要送到四个朋友手里。",
+  "cover": "/img/s02e12/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:40",
+      "img": "/img/s02e12/f1.jpg",
+      "t": "Broken Glasses",
+      "en": "The mail bird breaks her glasses. She cannot see the way!",
+      "cn": "邮差鸟把眼镜摔坏了，看不清路，信送不出去了。",
+      "key": "mail bird · glasses"
+    },
+    {
+      "no": 2,
+      "time": "04:00",
+      "img": "/img/s02e12/f2.jpg",
+      "t": "Ask the Map",
+      "en": "Map says: the forest, the barn, then Blueberry Hill.",
+      "cn": "地图指路：先过森林，再到农场，最后上蓝莓山。",
+      "key": "forest · barn · Blueberry Hill"
+    },
+    {
+      "no": 3,
+      "time": "06:00",
+      "img": "/img/s02e12/f3.jpg",
+      "t": "Let's Deliver!",
+      "en": "Dora and Boots take the letters. “Come on, let's deliver them!”",
+      "cn": "Dora 和 Boots 接过信，“走，我们把信送出去！”",
+      "key": "letters · deliver"
+    },
+    {
+      "no": 4,
+      "time": "09:20",
+      "img": "/img/s02e12/f4.jpg",
+      "t": "Four Letters",
+      "en": "There are four letters: for Swiper, Isa, Tico and Benny.",
+      "cn": "一共四封信，收信人是 Swiper、Isa、Tico 和 Benny。",
+      "key": "four · letters"
+    },
+    {
+      "no": 5,
+      "time": "12:00",
+      "img": "/img/s02e12/f5.jpg",
+      "t": "To the Barn",
+      "en": "They walk to the barn and give Benny his letter first.",
+      "cn": "他们先走到农场，把第一封信交到 Benny 手里。",
+      "key": "barn · give"
+    },
+    {
+      "no": 6,
+      "time": "15:00",
+      "img": "/img/s02e12/f6.jpg",
+      "t": "It Starts to Snow",
+      "en": "Snow starts to fall. They say “Backpack” and get warm things.",
+      "cn": "天上飘起雪花，他们喊“Backpack”，从背包里拿出保暖的东西。",
+      "key": "snow · warm"
+    },
+    {
+      "no": 7,
+      "time": "18:20",
+      "img": "/img/s02e12/f7.jpg",
+      "t": "Two Left",
+      "en": "Two letters are still in their hands. They must keep going.",
+      "cn": "手里还剩两封信，他们得顶住风雪继续往前走。",
+      "key": "two · keep going"
+    },
+    {
+      "no": 8,
+      "time": "20:20",
+      "img": "/img/s02e12/f8.jpg",
+      "t": "Up Blueberry Hill",
+      "en": "They march up Blueberry Hill as fast as they can.",
+      "cn": "他们用最快的速度，一步一步爬上蓝莓山。",
+      "key": "march · Blueberry Hill"
+    },
+    {
+      "no": 9,
+      "time": "22:20",
+      "img": "/img/s02e12/f9.jpg",
+      "t": "A Letter for Swiper",
+      "en": "At last they give Swiper his letter. His grandma sent it!",
+      "cn": "最后他们终于把信交给了 Swiper——原来是奶奶寄来的。",
+      "key": "Swiper · grandma"
+    }
+  ],
+  "words": [
+    ["letter", "信"],
+    ["mail bird", "邮差鸟"],
+    ["glasses", "眼镜"],
+    ["deliver", "投递"],
+    ["forest", "森林"],
+    ["barn", "农场（谷仓）"],
+    ["Blueberry Hill", "蓝莓山"],
+    ["snow", "雪"],
+    ["warm", "暖和的"],
+    ["march", "齐步走"],
+    ["grandma", "奶奶"],
+    ["¡Vamos!", "走吧（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “A Letter for Swiper”.",
+  "ending": "In the end, Swiper gets a letter from his grandma. My favorite part is ______."
+}

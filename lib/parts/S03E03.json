@@ -1,0 +1,108 @@
+{
+  "id": "S03E03",
+  "season": 3,
+  "episode": 3,
+  "title": "Louder!",
+  "titleCn": "大声一点！",
+  "hook": "太阳睡过头了，只有公鸡的喔喔啼能叫醒它——可公鸡嗓子哑了。",
+  "cover": "/img/s03e03/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "00:45",
+      "img": "/img/s03e03/f1.jpg",
+      "t": "The Sun Is Sleeping",
+      "en": "The sun is still sleeping. Nobody can wake it up this morning!",
+      "cn": "太阳还在呼呼大睡，今天早上谁也叫不醒它。",
+      "key": "sun · sleeping"
+    },
+    {
+      "no": 2,
+      "time": "02:10",
+      "img": "/img/s03e03/f2.jpg",
+      "t": "The Rooster's Voice",
+      "en": "“My cock-a-doodle-doo couldn't wake up anybody.” The rooster is hoarse.",
+      "cn": "“我的喔喔啼谁也吵不醒。”——公鸡的嗓子哑了。",
+      "key": "cock-a-doodle-doo · hoarse"
+    },
+    {
+      "no": 3,
+      "time": "05:35",
+      "img": "/img/s03e03/f3.jpg",
+      "t": "Map's Way",
+      "en": "Map says: the river, the waterfall, then the Highest Hill.",
+      "cn": "地图指路：先过河，再过瀑布，最后爬上最高的山。",
+      "key": "river · Highest Hill"
+    },
+    {
+      "no": 4,
+      "time": "11:20",
+      "img": "/img/s03e03/f4.jpg",
+      "t": "The Yellow Boat",
+      "en": "“Say ‘culebra’ — snake!” They get into a little yellow boat.",
+      "cn": "“跟我说 culebra——蛇！”他们坐上一条黄色小船。",
+      "key": "culebra · boat"
+    },
+    {
+      "no": 5,
+      "time": "12:05",
+      "img": "/img/s03e03/f5.jpg",
+      "t": "Do You See a Snake?",
+      "en": "“Do you see a snake?” They must stay away from the noisy snakes.",
+      "cn": "“你看见蛇了吗？”——他们得躲开水里那些吵吵闹闹的蛇。",
+      "key": "snake · noisy"
+    },
+    {
+      "no": 6,
+      "time": "14:05",
+      "img": "/img/s03e03/f6.jpg",
+      "t": "The Waterfall",
+      "en": "At the waterfall the water splashes. They put on raincoats and boots.",
+      "cn": "瀑布下溅起大水花，他们穿上雨衣和雨靴。",
+      "key": "waterfall · raincoats"
+    },
+    {
+      "no": 7,
+      "time": "18:40",
+      "img": "/img/s03e03/f7.jpg",
+      "t": "Buenos Días!",
+      "en": "On the Highest Hill they all crow together. “¡Buenos días!” The sun wakes up!",
+      "cn": "在最高的山上大家一起打鸣：“早上好！”太阳终于醒了！",
+      "key": "Buenos días · sun"
+    },
+    {
+      "no": 8,
+      "time": "21:25",
+      "img": "/img/s03e03/f8.jpg",
+      "t": "Buenos Días, Pájaros",
+      "en": "“¡Buenos días, pájaros!” All the birds sing in the new day.",
+      "cn": "“小鸟们，早上好！”鸟儿们在新的清晨里唱起歌。",
+      "key": "pájaros · birds"
+    },
+    {
+      "no": 9,
+      "time": "22:05",
+      "img": "/img/s03e03/f9.jpg",
+      "t": "We Did It!",
+      "en": "“We couldn't have done it if it weren't for you!” The sun shines again.",
+      "cn": "“没有你们帮忙可不行！”太阳重新照亮了大地。",
+      "key": "sun · shines"
+    }
+  ],
+  "words": [
+    ["sun", "太阳"],
+    ["wake up", "叫醒"],
+    ["rooster", "公鸡"],
+    ["cock-a-doodle-doo", "喔喔啼"],
+    ["hoarse", "嗓子哑的"],
+    ["river", "河"],
+    ["boat", "小船"],
+    ["culebra / snake", "蛇"],
+    ["waterfall", "瀑布"],
+    ["raincoat", "雨衣"],
+    ["hill", "山"],
+    ["Buenos días", "早上好（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Louder!”.",
+  "ending": "In the end, the sun wakes up and the day begins. My favorite part is ______."
+}

@@ -1,0 +1,814 @@
+[
+ {
+  "s": 1,
+  "e": 1,
+  "id": "S01E01",
+  "t": "Lost and Found",
+  "f": "S01E01_Lost and Found.mp4"
+ },
+ {
+  "s": 1,
+  "e": 2,
+  "id": "S01E02",
+  "t": "The Big Red Chicken",
+  "f": "S01E02_The Big Red Chicken.mp4"
+ },
+ {
+  "s": 1,
+  "e": 3,
+  "id": "S01E03",
+  "t": "Choo Choo",
+  "f": "S01E03_Choo Choo.mp4"
+ },
+ {
+  "s": 1,
+  "e": 4,
+  "id": "S01E04",
+  "t": "Hic-Boom-Ohhh",
+  "f": "S01E04_Hic-Boom-Ohhh.mp4"
+ },
+ {
+  "s": 1,
+  "e": 5,
+  "id": "S01E05",
+  "t": "Ice Cream",
+  "f": "S01E05_Ice Cream.mp4"
+ },
+ {
+  "s": 1,
+  "e": 6,
+  "id": "S01E06",
+  "t": "Three L'il Piggies",
+  "f": "S01E06_Three L'il Piggies.mp4"
+ },
+ {
+  "s": 1,
+  "e": 7,
+  "id": "S01E07",
+  "t": "Treasure Island",
+  "f": "S01E07_Treasure Island.mp4"
+ },
+ {
+  "s": 1,
+  "e": 8,
+  "id": "S01E08",
+  "t": "Beaches",
+  "f": "S01E08_Beaches.mp4"
+ },
+ {
+  "s": 1,
+  "e": 9,
+  "id": "S01E09",
+  "t": "Big River",
+  "f": "S01E09_Big River.mp4"
+ },
+ {
+  "s": 1,
+  "e": 10,
+  "id": "S01E10",
+  "t": "WizzleWishes",
+  "f": "S01E10_WizzleWishes.mp4"
+ },
+ {
+  "s": 1,
+  "e": 11,
+  "id": "S01E11",
+  "t": "Berry Hunt",
+  "f": "S01E11_Berry Hunt.mp4"
+ },
+ {
+  "s": 1,
+  "e": 12,
+  "id": "S01E12",
+  "t": "Surprise",
+  "f": "S01E12_Surprise.mp4"
+ },
+ {
+  "s": 1,
+  "e": 13,
+  "id": "S01E13",
+  "t": "Grandma's House",
+  "f": "S01E13_Grandma's House.mp4"
+ },
+ {
+  "s": 1,
+  "e": 14,
+  "id": "S01E14",
+  "t": "Sticky Tape",
+  "f": "S01E14_Sticky Tape.mp4"
+ },
+ {
+  "s": 1,
+  "e": 15,
+  "id": "S01E15",
+  "t": "Bouncing Ball",
+  "f": "S01E15_Bouncing Ball.mp4"
+ },
+ {
+  "s": 1,
+  "e": 16,
+  "id": "S01E16",
+  "t": "Bugga Bugga",
+  "f": "S01E16_Bugga Bugga.mp4"
+ },
+ {
+  "s": 1,
+  "e": 17,
+  "id": "S01E17",
+  "t": "Fish Out of Water",
+  "f": "S01E17_Fish Out of Water.mp4"
+ },
+ {
+  "s": 1,
+  "e": 18,
+  "id": "S01E18",
+  "t": "El Coqui",
+  "f": "S01E18_El Coqui.mp4"
+ },
+ {
+  "s": 1,
+  "e": 19,
+  "id": "S01E19",
+  "t": "The Chocolate Tree",
+  "f": "S01E19_The Chocolate Tree.mp4"
+ },
+ {
+  "s": 1,
+  "e": 20,
+  "id": "S01E20",
+  "t": "To the Treehouse",
+  "f": "S01E20_To the Treehouse.mp4"
+ },
+ {
+  "s": 1,
+  "e": 21,
+  "id": "S01E21",
+  "t": "Little Star",
+  "f": "S01E21_Little Star.mp4"
+ },
+ {
+  "s": 1,
+  "e": 22,
+  "id": "S01E22",
+  "t": "Call Me Mr  Riddles",
+  "f": "S01E22_Call Me Mr_ Riddles.mp4"
+ },
+ {
+  "s": 1,
+  "e": 23,
+  "id": "S01E23",
+  "t": "Te Amo",
+  "f": "S01E23_Te Amo.mp4"
+ },
+ {
+  "s": 1,
+  "e": 24,
+  "id": "S01E24",
+  "t": "Pablo's Flute",
+  "f": "S01E24_Pablo's Flute.mp4"
+ },
+ {
+  "s": 1,
+  "e": 25,
+  "id": "S01E25",
+  "t": "Dora Saves the Prince",
+  "f": "S01E25_Dora Saves the Prince.mp4"
+ },
+ {
+  "s": 1,
+  "e": 26,
+  "id": "S01E26",
+  "t": "Backpack",
+  "f": "S01E26_Backpack.mp4"
+ },
+ {
+  "s": 2,
+  "e": 1,
+  "id": "S02E01",
+  "t": "Lost Squeaky",
+  "f": "S02E01_Lost Squeaky.mp4"
+ },
+ {
+  "s": 2,
+  "e": 2,
+  "id": "S02E02",
+  "t": "The Missing Piece",
+  "f": "S02E02_The Missing Piece.mp4"
+ },
+ {
+  "s": 2,
+  "e": 3,
+  "id": "S02E03",
+  "t": "The Big Storm",
+  "f": "S02E03_The Big Storm.mp4"
+ },
+ {
+  "s": 2,
+  "e": 4,
+  "id": "S02E04",
+  "t": "The Magic Stick",
+  "f": "S02E04_The Magic Stick.mp4"
+ },
+ {
+  "s": 2,
+  "e": 5,
+  "id": "S02E05",
+  "t": "Rojo, The Firetruck",
+  "f": "S02E05_Rojo, The Firetruck.mp4"
+ },
+ {
+  "s": 2,
+  "e": 6,
+  "id": "S02E06",
+  "t": "El Dia De Las Madres",
+  "f": "S02E06_El Dia De Las Madres.mp4"
+ },
+ {
+  "s": 2,
+  "e": 7,
+  "id": "S02E07",
+  "t": "The Golden Explorers",
+  "f": "S02E07_The Golden Explorers.mp4"
+ },
+ {
+  "s": 2,
+  "e": 8,
+  "id": "S02E08",
+  "t": "Doctor Dora",
+  "f": "S02E08_Doctor Dora.mp4"
+ },
+ {
+  "s": 2,
+  "e": 9,
+  "id": "S02E09",
+  "t": "Pinto, The Pony Express",
+  "f": "S02E09_Pinto, The Pony Express.mp4"
+ },
+ {
+  "s": 2,
+  "e": 10,
+  "id": "S02E10",
+  "t": "The Big Piñata",
+  "f": "S02E10_The Big Piñata.mp4"
+ },
+ {
+  "s": 2,
+  "e": 11,
+  "id": "S02E11",
+  "t": "The Happy Old Troll",
+  "f": "S02E11_The Happy Old Troll.mp4"
+ },
+ {
+  "s": 2,
+  "e": 12,
+  "id": "S02E12",
+  "t": "A Letter For Swiper",
+  "f": "S02E12_A Letter For Swiper.mp4"
+ },
+ {
+  "s": 2,
+  "e": 13,
+  "id": "S02E13",
+  "t": "Click",
+  "f": "S02E13_Click.mp4"
+ },
+ {
+  "s": 2,
+  "e": 14,
+  "id": "S02E14",
+  "t": "Rapido Tico",
+  "f": "S02E14_Rapido Tico.mp4"
+ },
+ {
+  "s": 2,
+  "e": 15,
+  "id": "S02E15",
+  "t": "A Present For Santa",
+  "f": "S02E15_A Present For Santa.mp4"
+ },
+ {
+  "s": 2,
+  "e": 16,
+  "id": "S02E16",
+  "t": "Super Map!",
+  "f": "S02E16_Super Map!.mp4"
+ },
+ {
+  "s": 2,
+  "e": 17,
+  "id": "S02E17",
+  "t": "Lost Map",
+  "f": "S02E17_Lost Map.mp4"
+ },
+ {
+  "s": 2,
+  "e": 18,
+  "id": "S02E18",
+  "t": "Dora, La Musica",
+  "f": "S02E18_Dora, La Musica.mp4"
+ },
+ {
+  "s": 2,
+  "e": 19,
+  "id": "S02E19",
+  "t": "Egg Hunt",
+  "f": "S02E19_Egg Hunt.mp4"
+ },
+ {
+  "s": 2,
+  "e": 20,
+  "id": "S02E20",
+  "t": "To The Monkey Bars",
+  "f": "S02E20_To The Monkey Bars.mp4"
+ },
+ {
+  "s": 2,
+  "e": 21,
+  "id": "S02E21",
+  "t": "Hide And Go Seek",
+  "f": "S02E21_Hide And Go Seek.mp4"
+ },
+ {
+  "s": 2,
+  "e": 22,
+  "id": "S02E22",
+  "t": "School Pet",
+  "f": "S02E22_School Pet.mp4"
+ },
+ {
+  "s": 2,
+  "e": 23,
+  "id": "S02E23",
+  "t": "Quack! Quack!",
+  "f": "S02E23_Quack! Quack!.mp4"
+ },
+ {
+  "s": 2,
+  "e": 24,
+  "id": "S02E24",
+  "t": "Leon, The Circus Lion",
+  "f": "S02E24_Leon, The Circus Lion.mp4"
+ },
+ {
+  "s": 2,
+  "e": 25,
+  "id": "S02E25",
+  "t": "Whose Birthday is It?",
+  "f": "S02E25_Whose Birthday is It_.mp4"
+ },
+ {
+  "s": 2,
+  "e": 26,
+  "id": "S02E26",
+  "t": "Super Spies - part one",
+  "f": "S02E26_Super Spies - part one.mp4"
+ },
+ {
+  "s": 3,
+  "e": 1,
+  "id": "S03E01",
+  "t": "Dora Had A Little Lamb",
+  "f": "S03E01_Dora Had A Little Lamb.mp4"
+ },
+ {
+  "s": 3,
+  "e": 2,
+  "id": "S03E02",
+  "t": "Stuck Truck",
+  "f": "S03E02_Stuck Truck.mp4"
+ },
+ {
+  "s": 3,
+  "e": 3,
+  "id": "S03E03",
+  "t": "Louder!",
+  "f": "S03E03_Louder!.mp4"
+ },
+ {
+  "s": 3,
+  "e": 4,
+  "id": "S03E04",
+  "t": "Roberto The Robot",
+  "f": "S03E04_Roberto The Robot.mp4"
+ },
+ {
+  "s": 3,
+  "e": 5,
+  "id": "S03E05",
+  "t": "The Big Potato",
+  "f": "S03E05_The Big Potato.mp4"
+ },
+ {
+  "s": 3,
+  "e": 6,
+  "id": "S03E06",
+  "t": "Journey To The Purple Planet",
+  "f": "S03E06_Journey To The Purple Planet.mp4"
+ },
+ {
+  "s": 3,
+  "e": 7,
+  "id": "S03E07",
+  "t": "The Lost City",
+  "f": "S03E07_The Lost City.mp4"
+ },
+ {
+  "s": 3,
+  "e": 8,
+  "id": "S03E08",
+  "t": "Meet Diego!",
+  "f": "S03E08_Meet Diego!.mp4"
+ },
+ {
+  "s": 3,
+  "e": 9,
+  "id": "S03E09",
+  "t": "Save The Puppies",
+  "f": "S03E09_Save The Puppies.mp4"
+ },
+ {
+  "s": 3,
+  "e": 10,
+  "id": "S03E10",
+  "t": "Por Favor!",
+  "f": "S03E10_Por Favor!.mp4"
+ },
+ {
+  "s": 3,
+  "e": 11,
+  "id": "S03E11",
+  "t": "Baby Dino",
+  "f": "S03E11_Baby Dino.mp4"
+ },
+ {
+  "s": 3,
+  "e": 12,
+  "id": "S03E12",
+  "t": "Boots' Special Day",
+  "f": "S03E12_Boots' Special Day.mp4"
+ },
+ {
+  "s": 3,
+  "e": 13,
+  "id": "S03E13",
+  "t": "To The South Pole",
+  "f": "S03E13_To The South Pole.mp4"
+ },
+ {
+  "s": 3,
+  "e": 14,
+  "id": "S03E14",
+  "t": "Dora Saves The Game",
+  "f": "S03E14_Dora Saves The Game.mp4"
+ },
+ {
+  "s": 3,
+  "e": 15,
+  "id": "S03E15",
+  "t": "BOO!",
+  "f": "S03E15_BOO!.mp4"
+ },
+ {
+  "s": 3,
+  "e": 16,
+  "id": "S03E16",
+  "t": "What Happens Next?",
+  "f": "S03E16_What Happens Next_.mp4"
+ },
+ {
+  "s": 3,
+  "e": 17,
+  "id": "S03E17",
+  "t": "Rescue, Rescue, Rescue",
+  "f": "S03E17_Rescue, Rescue, Rescue.mp4"
+ },
+ {
+  "s": 3,
+  "e": 18,
+  "id": "S03E18",
+  "t": "Boot's Cuddly Dinosaur",
+  "f": "S03E18_Boot's Cuddly Dinosaur.mp4"
+ },
+ {
+  "s": 3,
+  "e": 19,
+  "id": "S03E19",
+  "t": "The Super Silly Fiesta",
+  "f": "S03E19_The Super Silly Fiesta.mp4"
+ },
+ {
+  "s": 3,
+  "e": 20,
+  "id": "S03E20",
+  "t": "The Fix-It Machine",
+  "f": "S03E20_The Fix-It Machine.mp4"
+ },
+ {
+  "s": 3,
+  "e": 21,
+  "id": "S03E21",
+  "t": "Baseball Boots",
+  "f": "S03E21_Baseball Boots.mp4"
+ },
+ {
+  "s": 3,
+  "e": 22,
+  "id": "S03E22",
+  "t": "Best Friends",
+  "f": "S03E22_Best Friends.mp4"
+ },
+ {
+  "s": 3,
+  "e": 23,
+  "id": "S03E23",
+  "t": "ABC Animals",
+  "f": "S03E23_ABC Animals.mp4"
+ },
+ {
+  "s": 3,
+  "e": 24,
+  "id": "S03E24",
+  "t": "Job Day",
+  "f": "S03E24_Job Day.mp4"
+ },
+ {
+  "s": 3,
+  "e": 25,
+  "id": "S03E25",
+  "t": "Dora's Pirate Adventure - HOUR SPECIAL",
+  "f": "S03E25_Dora's Pirate Adventure - HOUR SPECIAL.mp4"
+ },
+ {
+  "s": 4,
+  "e": 1,
+  "id": "S04E01",
+  "t": "Star Catcher",
+  "f": "S04E01_Star Catcher.mp4"
+ },
+ {
+  "s": 4,
+  "e": 2,
+  "id": "S04E02",
+  "t": "Dora's First Trip",
+  "f": "S04E02_Dora's First Trip.mp4"
+ },
+ {
+  "s": 4,
+  "e": 3,
+  "id": "S04E03",
+  "t": "Star Mountain",
+  "f": "S04E03_Star Mountain.mp4"
+ },
+ {
+  "s": 4,
+  "e": 4,
+  "id": "S04E04",
+  "t": "Super Spies 2  The Swiping Machine",
+  "f": "S04E04_Super Spies 2_ The Swiping Machine.mp4"
+ },
+ {
+  "s": 4,
+  "e": 5,
+  "id": "S04E05",
+  "t": "La Maestra de Musica",
+  "f": "S04E05_La Maestra de Musica.mp4"
+ },
+ {
+  "s": 4,
+  "e": 6,
+  "id": "S04E06",
+  "t": "Daisy, La Quinceanera",
+  "f": "S04E06_Daisy, La Quinceanera.mp4"
+ },
+ {
+  "s": 4,
+  "e": 7,
+  "id": "S04E07",
+  "t": "Save Diego",
+  "f": "S04E07_Save Diego.mp4"
+ },
+ {
+  "s": 4,
+  "e": 8,
+  "id": "S04E08",
+  "t": "Baby Jaguar's Roar",
+  "f": "S04E08_Baby Jaguar's Roar.mp4"
+ },
+ {
+  "s": 4,
+  "e": 9,
+  "id": "S04E09",
+  "t": "A Crown for King BoBo",
+  "f": "S04E09_A Crown for King BoBo.mp4"
+ },
+ {
+  "s": 4,
+  "e": 10,
+  "id": "S04E10",
+  "t": "Dora Saves The Mermaids",
+  "f": "S04E10_Dora Saves The Mermaids.mp4"
+ },
+ {
+  "s": 4,
+  "e": 11,
+  "id": "S04E11",
+  "t": "Big Sister Dora",
+  "f": "S04E11_Big Sister Dora.mp4"
+ },
+ {
+  "s": 4,
+  "e": 12,
+  "id": "S04E12",
+  "t": "Boots to the Rescue",
+  "f": "S04E12_Boots to the Rescue.mp4"
+ },
+ {
+  "s": 4,
+  "e": 13,
+  "id": "S04E13",
+  "t": "Super Babies",
+  "f": "S04E13_Super Babies.mp4"
+ },
+ {
+  "s": 4,
+  "e": 14,
+  "id": "S04E14",
+  "t": "We're a Team",
+  "f": "S04E14_We're a Team.mp4"
+ },
+ {
+  "s": 4,
+  "e": 15,
+  "id": "S04E15",
+  "t": "The Mixed-Up Seasons",
+  "f": "S04E15_The Mixed-Up Seasons.mp4"
+ },
+ {
+  "s": 4,
+  "e": 16,
+  "id": "S04E16",
+  "t": "The Shy Rainbow",
+  "f": "S04E16_The Shy Rainbow.mp4"
+ },
+ {
+  "s": 4,
+  "e": 17,
+  "id": "S04E17",
+  "t": "Baby Crab",
+  "f": "S04E17_Baby Crab.mp4"
+ },
+ {
+  "s": 4,
+  "e": 18,
+  "id": "S04E18",
+  "t": "Swiper the Explorer",
+  "f": "S04E18_Swiper the Explorer.mp4"
+ },
+ {
+  "s": 4,
+  "e": 19,
+  "id": "S04E19",
+  "t": "Catch the Babies",
+  "f": "S04E19_Catch the Babies.mp4"
+ },
+ {
+  "s": 4,
+  "e": 20,
+  "id": "S04E20",
+  "t": "Dora and Diego to the Rescue!",
+  "f": "S04E20_Dora and Diego to the Rescue!.mp4"
+ },
+ {
+  "s": 4,
+  "e": 21,
+  "id": "S04E21",
+  "t": "Dora's Fairytale Adventure",
+  "f": "S04E21_Dora's Fairytale Adventure.mp4"
+ },
+ {
+  "s": 5,
+  "e": 1,
+  "id": "S05E01",
+  "t": "The Backpack Parade",
+  "f": "S05E01_The Backpack Parade.mp4"
+ },
+ {
+  "s": 5,
+  "e": 2,
+  "id": "S05E02",
+  "t": "Benny's Big Race",
+  "f": "S05E02_Benny's Big Race.mp4"
+ },
+ {
+  "s": 5,
+  "e": 3,
+  "id": "S05E03",
+  "t": "Isa's Unicorn Flowers",
+  "f": "S05E03_Isa's Unicorn Flowers.mp4"
+ },
+ {
+  "s": 5,
+  "e": 4,
+  "id": "S05E04",
+  "t": "Dora's Jack-in-the-Box",
+  "f": "S05E04_Dora's Jack-in-the-Box.mp4"
+ },
+ {
+  "s": 5,
+  "e": 5,
+  "id": "S05E05",
+  "t": "Dora Saves the Snow Princess",
+  "f": "S05E05_Dora Saves the Snow Princess.mp4"
+ },
+ {
+  "s": 5,
+  "e": 7,
+  "id": "S05E07",
+  "t": "Bouncy Boots",
+  "f": "S05E07_Bouncy Boots.mp4"
+ },
+ {
+  "s": 5,
+  "e": 8,
+  "id": "S05E08",
+  "t": "The Big Red Chicken's Magic Show",
+  "f": "S05E08_The Big Red Chicken's Magic Show.mp4"
+ },
+ {
+  "s": 5,
+  "e": 9,
+  "id": "S05E09",
+  "t": "Benny's Treasure",
+  "f": "S05E09_Benny's Treasure.mp4"
+ },
+ {
+  "s": 5,
+  "e": 10,
+  "id": "S05E10",
+  "t": "Dora Saves Three Kings Day",
+  "f": "S05E10_Dora Saves Three Kings Day.mp4"
+ },
+ {
+  "s": 5,
+  "e": 11,
+  "id": "S05E11",
+  "t": "Dora Saves the Three Little Piggies",
+  "f": "S05E11_Dora Saves the Three Little Piggies.mp4"
+ },
+ {
+  "s": 5,
+  "e": 12,
+  "id": "S05E12",
+  "t": "Bark, Bark to Play Park",
+  "f": "S05E12_Bark, Bark to Play Park.mp4"
+ },
+ {
+  "s": 5,
+  "e": 13,
+  "id": "S05E13",
+  "t": "Dora Saves the Crystal Kingdom",
+  "f": "S05E13_Dora Saves the Crystal Kingdom.mp4"
+ },
+ {
+  "s": 5,
+  "e": 14,
+  "id": "S05E14",
+  "t": "Dora's Christmas Carol Adventure (1 hour)",
+  "f": "S05E14_Dora's Christmas Carol Adventure (1 hour).mp4"
+ },
+ {
+  "s": 5,
+  "e": 15,
+  "id": "S05E15",
+  "t": "Super Babies' Dream Adventure",
+  "f": "S05E15_Super Babies' Dream Adventure.mp4"
+ },
+ {
+  "s": 5,
+  "e": 16,
+  "id": "S05E16",
+  "t": "Pirate Treasure Hunt",
+  "f": "S05E16_Pirate Treasure Hunt.mp4"
+ },
+ {
+  "s": 5,
+  "e": 17,
+  "id": "S05E17",
+  "t": "First Day of School",
+  "f": "S05E17_First Day of School.mp4"
+ },
+ {
+  "s": 5,
+  "e": 18,
+  "id": "S05E18",
+  "t": "Boots' Banana Wish",
+  "f": "S05E18_Boots' Banana Wish.mp4"
+ },
+ {
+  "s": 5,
+  "e": 19,
+  "id": "S05E19",
+  "t": "Dora Helps the Birthday Wizzle",
+  "f": "S05E19_Dora Helps the Birthday Wizzle.mp4"
+ }
+]

@@ -1,0 +1,108 @@
+{
+  "id": "S03E22",
+  "season": 3,
+  "episode": 22,
+  "title": "Best Friends",
+  "titleCn": "最好的朋友",
+  "hook": "今天是「好朋友节」。Dora 提着一篮草莓，要跟最好的朋友 Boots 到彩虹岩一起分享。",
+  "cover": "/img/s03e22/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s03e22/f1.jpg",
+      "t": "Best Friends Day",
+      "en": "It is Best Friends Day! Dora will share her favorite things with Boots.",
+      "cn": "今天是好朋友节！Dora 要把自己最喜欢的东西分享给 Boots。",
+      "key": "Best Friends Day · share"
+    },
+    {
+      "no": 2,
+      "time": "02:20",
+      "img": "/img/s03e22/f2.jpg",
+      "t": "Who Do We Ask",
+      "en": "“Who do we ask for help when we don't know which way to go?”",
+      "cn": "“不知道往哪边走的时候，我们该问谁呢？”",
+      "key": "ask for help · way"
+    },
+    {
+      "no": 3,
+      "time": "03:20",
+      "img": "/img/s03e22/f3.jpg",
+      "t": "Rainbow Rock",
+      "en": "Map says the gate comes first, then Rainbow Rock with the rainbow.",
+      "cn": "地图说：先过那扇大门，再到有彩虹的彩虹岩。",
+      "key": "Rainbow Rock · gate"
+    },
+    {
+      "no": 4,
+      "time": "05:30",
+      "img": "/img/s03e22/f4.jpg",
+      "t": "The Chocolate Tree",
+      "en": "“Happy Best Friends Day, Boots.” A funny tree drops chocolate for them.",
+      "cn": "“好朋友节快乐，Boots。”一棵怪树给他们掉下了巧克力。",
+      "key": "tree · chocolate"
+    },
+    {
+      "no": 5,
+      "time": "09:00",
+      "img": "/img/s03e22/f5.jpg",
+      "t": "Which Way",
+      "en": "Boots looks at two pictures and asks, “Where do we go first?”",
+      "cn": "Boots 看着两张图问：“我们先去哪儿呢？”",
+      "key": "pictures · first"
+    },
+    {
+      "no": 6,
+      "time": "12:00",
+      "img": "/img/s03e22/f6.jpg",
+      "t": "The Key and Lock",
+      "en": "A big yellow key sits on the wall. The gate has a yellow lock.",
+      "cn": "墙上插着一把大黄钥匙，大门上还有一个黄色的锁。",
+      "key": "key · lock"
+    },
+    {
+      "no": 7,
+      "time": "18:00",
+      "img": "/img/s03e22/f7.jpg",
+      "t": "Smart Looking",
+      "en": "Backpack has scissors, rope, tape, a ladder and a net. “Smart looking!”",
+      "cn": "背包里有剪刀、绳子、胶带、梯子和网：“看得真仔细！”",
+      "key": "Backpack · ladder"
+    },
+    {
+      "no": 8,
+      "time": "20:20",
+      "img": "/img/s03e22/f8.jpg",
+      "t": "Sweet Strawberries",
+      "en": "Under the big rainbow they share the basket. “Sweet, yummy strawberries!”",
+      "cn": "在大彩虹下面，他们一起分享篮子里的草莓：“好甜、好好吃！”",
+      "key": "rainbow · strawberries"
+    },
+    {
+      "no": 9,
+      "time": "22:20",
+      "img": "/img/s03e22/f9.jpg",
+      "t": "Best Friends",
+      "en": "Dora and Boots hold hands. “You are my best friend, Boots.” Happy day!",
+      "cn": "Dora 和 Boots 手拉手：“你是我最好的朋友，Boots。”开心的一天！",
+      "key": "best friend · hands"
+    }
+  ],
+  "words": [
+    ["best friend", "最好的朋友"],
+    ["share", "分享"],
+    ["strawberry", "草莓"],
+    ["basket", "篮子"],
+    ["rainbow", "彩虹"],
+    ["gate", "大门"],
+    ["key", "钥匙"],
+    ["lock", "锁"],
+    ["chocolate", "巧克力"],
+    ["ladder", "梯子"],
+    ["hold hands", "手拉手"],
+    ["together", "一起"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Best Friends”.",
+  "ending": "In the end, Dora and Boots sit under the rainbow and share the strawberries. My favorite part is ______."
+}

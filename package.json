@@ -1,0 +1,16 @@
+{
+  "name": "dora-retell",
+  "version": "1.0.0",
+  "private": true,
+  "description": "朵拉爱冒险 · 九宫格英语复述站点",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "serve": "next dev -p 3100"
+  },
+  "dependencies": {
+    "next": "15.5.28",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  }
+}

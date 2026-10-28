@@ -1,0 +1,108 @@
+{
+  "id": "S02E18",
+  "season": 2,
+  "episode": 18,
+  "title": "Dora, La Música",
+  "titleCn": "朵拉的音乐日",
+  "hook": "游行就要开始了，音乐盒却打不开——只有演奏音乐才能打开它。",
+  "cover": "/img/s02e18/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:05",
+      "img": "/img/s02e18/f1.jpg",
+      "t": "I Want Quiet!",
+      "en": "It is the day of the big parade. But Señor Shush shouts, “I want quiet!”",
+      "cn": "今天村里要游行，大家抱着乐器又唱又跳，可“嘘先生”大喊：“我要安静！”",
+      "key": "parade · quiet"
+    },
+    {
+      "no": 2,
+      "time": "03:35",
+      "img": "/img/s02e18/f2.jpg",
+      "t": "Map's Way",
+      "en": "Map says: the piano bridge, the singing gate, then the music box.",
+      "cn": "地图指路：先过钢琴桥，再过会唱歌的大门，最后到音乐盒。",
+      "key": "piano bridge · music box"
+    },
+    {
+      "no": 3,
+      "time": "06:50",
+      "img": "/img/s02e18/f3.jpg",
+      "t": "An Instrument for Benny",
+      "en": "Benny the Bull needs an instrument too. “Backpack!” Dora calls.",
+      "cn": "小牛 Benny 也想参加，可是他没有乐器，Dora 只好向背包求助。",
+      "key": "Benny · instrument"
+    },
+    {
+      "no": 4,
+      "time": "08:40",
+      "img": "/img/s02e18/f4.jpg",
+      "t": "The Piano Bridge",
+      "en": "Uh-oh! The bridge is missing some pieces. “We have to cross the bridge, but…”",
+      "cn": "糟糕！钢琴桥缺了好几块琴键，想过桥却没有路。",
+      "key": "bridge · missing"
+    },
+    {
+      "no": 5,
+      "time": "09:30",
+      "img": "/img/s02e18/f5.jpg",
+      "t": "Larga or Corta?",
+      "en": "They tell Señor Tucán “larga” for a long piece and “corta” for a short one.",
+      "cn": "他们对巨嘴鸟先生喊“larga”（长）和“corta”（短），让他叼来合适的琴键。",
+      "key": "larga · corta"
+    },
+    {
+      "no": 6,
+      "time": "13:20",
+      "img": "/img/s02e18/f6.jpg",
+      "t": "The Singing Gate",
+      "en": "Next is the singing gate. “Hi, Singing Gate!” They must sing to go through.",
+      "cn": "接下来是会唱歌的大门，得先唱一首歌，门才肯打开。",
+      "key": "singing gate · sing"
+    },
+    {
+      "no": 7,
+      "time": "20:38",
+      "img": "/img/s02e18/f7.jpg",
+      "t": "The Music Box Opens",
+      "en": "They play their instruments and the music box opens. “We opened the music box!”",
+      "cn": "大家一起演奏，音乐盒终于打开了，游行可以开始了。",
+      "key": "music box · opens"
+    },
+    {
+      "no": 8,
+      "time": "21:26",
+      "img": "/img/s02e18/f8.jpg",
+      "t": "Join Us!",
+      "en": "“Señor Shush, would you like to join our parranda?” He says yes!",
+      "cn": "Dora 邀请嘘先生一起加入游行，他居然点头答应了。",
+      "key": "join · parranda"
+    },
+    {
+      "no": 9,
+      "time": "21:42",
+      "img": "/img/s02e18/f9.jpg",
+      "t": "Try the Cymbals",
+      "en": "“Go ahead, try the cymbals.” Now Señor Shush makes music too!",
+      "cn": "“来，试试这对铜钹。”嘘先生也成了乐队的一员。",
+      "key": "cymbals · music"
+    }
+  ],
+  "words": [
+    ["parade", "游行"],
+    ["music", "音乐"],
+    ["instrument", "乐器"],
+    ["flute", "长笛"],
+    ["maracas", "沙锤"],
+    ["drum", "鼓"],
+    ["piano", "钢琴"],
+    ["bridge", "桥"],
+    ["gate", "大门"],
+    ["music box", "音乐盒"],
+    ["cymbals", "铜钹"],
+    ["quiet", "安静"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Dora, La Música”.",
+  "ending": "In the end, the music box opens and everyone plays music. My favorite part is ______."
+}

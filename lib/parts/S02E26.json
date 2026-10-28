@@ -1,0 +1,108 @@
+{
+  "id": "S02E26",
+  "season": 2,
+  "episode": 26,
+  "title": "Super Spies",
+  "titleCn": "超级小侦探（上）",
+  "hook": "Swiper 要去偷 Isa 的纸杯蛋糕，Dora 和 Boots 变身超级小侦探。",
+  "cover": "/img/s02e26/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s02e26/f1.jpg",
+      "t": "Super Spy Monkey",
+      "en": "“Right! That's Boots, the Super Spy Monkey!” Dora says.",
+      "cn": "“对！他就是 Boots——超级小侦探猴子！”Dora 说。",
+      "key": "Boots · Super Spy"
+    },
+    {
+      "no": 2,
+      "time": "02:10",
+      "img": "/img/s02e26/f2.jpg",
+      "t": "Spy Gear",
+      "en": "Backpack gives them spy glasses, a visor and a spy bag. “Cool!”",
+      "cn": "背包里掏出侦探眼镜、遮阳帽和侦探包，“太酷了！”",
+      "key": "spy glasses · Cool"
+    },
+    {
+      "no": 3,
+      "time": "05:30",
+      "img": "/img/s02e26/f3.jpg",
+      "t": "Map's Way",
+      "en": "Map says: the flowery garden, the boat-car, then Isa's party.",
+      "cn": "地图指路：先过花花园，再坐小船车，最后到 Isa 的派对。",
+      "key": "flowery garden · party"
+    },
+    {
+      "no": 4,
+      "time": "09:20",
+      "img": "/img/s02e26/f4.jpg",
+      "t": "Look Through the Spy Glass",
+      "en": "“There it is!” Dora looks through her spy glass. Something moves!",
+      "cn": "“就在那儿！”Dora 举起侦探镜一看，有东西在动！",
+      "key": "spy glass · moves"
+    },
+    {
+      "no": 5,
+      "time": "15:20",
+      "img": "/img/s02e26/f5.jpg",
+      "t": "The Super Spy Boat-Car",
+      "en": "They ride in the Super Spy Boat-Car. It goes fast on land and water!",
+      "cn": "他们坐上“超级侦探船车”，陆地和水上都能飞快前进。",
+      "key": "Boat-Car · fast"
+    },
+    {
+      "no": 6,
+      "time": "20:30",
+      "img": "/img/s02e26/f6.jpg",
+      "t": "Ready?",
+      "en": "“Ready, Super Spy Dora?” “Ready!” They zip down the line.",
+      "cn": "“准备好了吗，超级小侦探 Dora？”——“出发！”他们顺着滑索飞下去。",
+      "key": "Ready · zip"
+    },
+    {
+      "no": 7,
+      "time": "20:55",
+      "img": "/img/s02e26/f7.jpg",
+      "t": "Warn Isa!",
+      "en": "“We have to warn you!” Isa's cupcakes are on the table.",
+      "cn": "“我们是来提醒你的！”桌上摆满了 Isa 做的纸杯蛋糕。",
+      "key": "warn · cupcakes"
+    },
+    {
+      "no": 8,
+      "time": "21:40",
+      "img": "/img/s02e26/f8.jpg",
+      "t": "Swiper Stopped",
+      "en": "Swiper tries to grab them, but the super spies stop him. “Oh, man!”",
+      "cn": "Swiper 刚伸手就被超级小侦探拦住了，“真倒霉！”",
+      "key": "Swiper · stop"
+    },
+    {
+      "no": 9,
+      "time": "22:10",
+      "img": "/img/s02e26/f9.jpg",
+      "t": "We Did It!",
+      "en": "“We did it!” Boots holds up a cupcake. The party can begin.",
+      "cn": "“我们做到了！”Boots 举起一个纸杯蛋糕，派对可以开始啦。",
+      "key": "cupcake · party"
+    }
+  ],
+  "words": [
+    ["super spy", "超级小侦探"],
+    ["spy glass / binoculars", "望远镜"],
+    ["disguise", "伪装"],
+    ["whisper", "悄悄话"],
+    ["secret", "秘密"],
+    ["garden", "花园"],
+    ["boat-car", "船车"],
+    ["zip line", "滑索"],
+    ["warn", "提醒"],
+    ["cupcake", "纸杯蛋糕"],
+    ["party", "派对"],
+    ["catch", "抓住"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Super Spies”.",
+  "ending": "In the end, the super spies save Isa's cupcakes. My favorite part is ______."
+}

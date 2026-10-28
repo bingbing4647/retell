@@ -1,0 +1,108 @@
+{
+  "id": "S02E11",
+  "season": 2,
+  "episode": 11,
+  "title": "The Happy Old Troll",
+  "titleCn": "快乐的巨魔",
+  "hook": "什么东西都哄不好的巨魔，其实只要三样东西。",
+  "cover": "/img/s02e11/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s02e11/f1.jpg",
+      "t": "A Grumpy Troll",
+      "en": "The old troll sits by his bridge. Nothing makes him smile today.",
+      "cn": "老巨魔坐在桥边，一脸不高兴，什么都提不起他的兴趣。",
+      "key": "troll · bridge"
+    },
+    {
+      "no": 2,
+      "time": "03:20",
+      "img": "/img/s02e11/f2.jpg",
+      "t": "Ask the Map",
+      "en": "Only three things make him happy. Map shows where they are.",
+      "cn": "只有三样东西能让他开心，地图指出了它们在哪里。",
+      "key": "three things · happy"
+    },
+    {
+      "no": 3,
+      "time": "06:00",
+      "img": "/img/s02e11/f3.jpg",
+      "t": "Red Bush First",
+      "en": "First they go to the red bush to look for a flower.",
+      "cn": "第一站是红色的灌木，他们要在那儿找一朵花。",
+      "key": "red bush · flower"
+    },
+    {
+      "no": 4,
+      "time": "08:00",
+      "img": "/img/s02e11/f4.jpg",
+      "t": "Stop Swiper!",
+      "en": "Swiper comes along! They must stop him and keep going.",
+      "cn": "Swiper 突然冒出来捣蛋，他们把他赶走才继续赶路。",
+      "key": "Swiper · stop"
+    },
+    {
+      "no": 5,
+      "time": "10:00",
+      "img": "/img/s02e11/f5.jpg",
+      "t": "A Purple Flower",
+      "en": "At last they find a purple flower for the old troll.",
+      "cn": "他们终于找到一朵紫色的小花，这是巨魔最喜欢的第一样东西。",
+      "key": "purple flower · find"
+    },
+    {
+      "no": 6,
+      "time": "13:20",
+      "img": "/img/s02e11/f6.jpg",
+      "t": "Across the River",
+      "en": "The Big Red Chicken helps them get across the river. ¡Vamos!",
+      "cn": "大红鸟驮着他们过了大河，大家一起喊“¡Vamos!”。",
+      "key": "across · river"
+    },
+    {
+      "no": 7,
+      "time": "16:00",
+      "img": "/img/s02e11/f7.jpg",
+      "t": "From the Backpack",
+      "en": "They say “Backpack” and find what they need inside.",
+      "cn": "他们一喊“Backpack”，背包里就跳出需要的东西。",
+      "key": "Backpack · inside"
+    },
+    {
+      "no": 8,
+      "time": "18:20",
+      "img": "/img/s02e11/f8.jpg",
+      "t": "Up in a Balloon",
+      "en": "They ride a big balloon up high to find the flying horses.",
+      "cn": "他们坐上彩色热气球往高处升，去找会飞的小马。",
+      "key": "balloon · flying horses"
+    },
+    {
+      "no": 9,
+      "time": "21:40",
+      "img": "/img/s02e11/f9.jpg",
+      "t": "A Happy Dance",
+      "en": "The troll has all three things. He jumps up and dances!",
+      "cn": "三样东西都齐了，老巨魔高兴得跳起来，跳了一支开心舞。",
+      "key": "dance · jump up"
+    }
+  ],
+  "words": [
+    ["troll", "巨魔"],
+    ["bridge", "桥"],
+    ["grumpy", "不高兴的"],
+    ["purple flower", "紫色的花"],
+    ["fireworks", "烟花"],
+    ["flying horse", "飞马"],
+    ["red bush", "红灌木"],
+    ["balloon", "热气球"],
+    ["across", "穿过"],
+    ["dance", "跳舞"],
+    ["happy", "开心的"],
+    ["¡Vamos!", "走吧（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “The Happy Old Troll”.",
+  "ending": "In the end, the troll dances a happy dance. My favorite part is ______."
+}

@@ -1,0 +1,108 @@
+{
+  "id": "S02E22",
+  "season": 2,
+  "episode": 22,
+  "title": "School Pet",
+  "titleCn": "班级宠物",
+  "hook": "带宠物上学的日子，班里的小仓鼠 Mimo 却不见了。",
+  "cover": "/img/s02e22/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:30",
+      "img": "/img/s02e22/f1.jpg",
+      "t": "Mimo Is Missing",
+      "en": "It is show-and-tell day. But oh no — Mimo is missing!",
+      "cn": "今天是“带宠物上学”的日子，可糟糕——小仓鼠 Mimo 不见了！",
+      "key": "Mimo · missing"
+    },
+    {
+      "no": 2,
+      "time": "04:35",
+      "img": "/img/s02e22/f2.jpg",
+      "t": "Map's Way",
+      "en": "Map says: cross the bridge, go through the jungle, then the pyramids!",
+      "cn": "地图指路：先过桥，再穿过丛林，最后到金字塔。",
+      "key": "bridge · pyramids"
+    },
+    {
+      "no": 3,
+      "time": "07:20",
+      "img": "/img/s02e22/f3.jpg",
+      "t": "The Broken Bridge",
+      "en": "The bridge is missing some boards. They must step on the planks.",
+      "cn": "桥板缺了好几块，只能踩着一块块木板跳过去。",
+      "key": "bridge · boards"
+    },
+    {
+      "no": 4,
+      "time": "08:40",
+      "img": "/img/s02e22/f4.jpg",
+      "t": "Oops, a Crocodile!",
+      "en": "“Oops! That's a crocodile!” The planks are on its back!",
+      "cn": "“糟了，那是鳄鱼！”原来木板就搭在鳄鱼背上。",
+      "key": "crocodile · planks"
+    },
+    {
+      "no": 5,
+      "time": "10:00",
+      "img": "/img/s02e22/f5.jpg",
+      "t": "Backpack, Backpack",
+      "en": "They call Backpack for more planks, then cross the bridge safely.",
+      "cn": "他们喊来背包，多拿几块木板，稳稳当当过了桥。",
+      "key": "Backpack · planks"
+    },
+    {
+      "no": 6,
+      "time": "14:00",
+      "img": "/img/s02e22/f6.jpg",
+      "t": "Swing Through the Jungle",
+      "en": "In the jungle they swing on vines. “The blue one or the red one?”",
+      "cn": "丛林里他们抓着藤蔓荡过去：“选蓝色的还是红色的？”",
+      "key": "jungle · vines"
+    },
+    {
+      "no": 7,
+      "time": "18:20",
+      "img": "/img/s02e22/f7.jpg",
+      "t": "The Three Pyramids",
+      "en": "Three pyramids, three stars: blue, yellow and rainbow. Which one?",
+      "cn": "三座金字塔，三颗星——蓝星、黄星、彩虹星，走哪一座？",
+      "key": "pyramids · stars"
+    },
+    {
+      "no": 8,
+      "time": "20:40",
+      "img": "/img/s02e22/f8.jpg",
+      "t": "There's Mimo!",
+      "en": "There is Mimo, peeking out of a little door in the pyramid!",
+      "cn": "找到了！Mimo 正从金字塔的小门里探出头来。",
+      "key": "Mimo · pyramid"
+    },
+    {
+      "no": 9,
+      "time": "22:00",
+      "img": "/img/s02e22/f9.jpg",
+      "t": "Back in the Classroom",
+      "en": "Mimo is back in its cage. “Yay!” Everybody is happy again.",
+      "cn": "Mimo 回到笼子里了，全班一起欢呼，教室又热闹起来。",
+      "key": "cage · happy"
+    }
+  ],
+  "words": [
+    ["school pet", "班级宠物"],
+    ["hamster", "仓鼠"],
+    ["cage", "笼子"],
+    ["missing", "不见了"],
+    ["bridge", "桥"],
+    ["plank", "木板"],
+    ["crocodile", "鳄鱼"],
+    ["jungle", "丛林"],
+    ["vine", "藤蔓"],
+    ["pyramid", "金字塔"],
+    ["star", "星星"],
+    ["rescue", "救出"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “School Pet”.",
+  "ending": "In the end, they bring Mimo back to its cage. My favorite part is ______."
+}

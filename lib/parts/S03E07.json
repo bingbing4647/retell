@@ -1,0 +1,108 @@
+{
+  "id": "S03E07",
+  "season": 3,
+  "episode": 7,
+  "title": "The Lost City",
+  "titleCn": "失落的城市",
+  "hook": "小熊 Osito 跑丢了，Dora 和 Boots 要沿着星星一路找到失落之城。",
+  "cover": "/img/s03e07/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s03e07/f1.jpg",
+      "t": "Osito Is Lost",
+      "en": "“I can't find him anywhere!” Osito the teddy bear is lost.",
+      "cn": "“我到处都找不到他！”——小熊 Osito 不见了。",
+      "key": "lost · teddy bear"
+    },
+    {
+      "no": 2,
+      "time": "02:50",
+      "img": "/img/s03e07/f2.jpg",
+      "t": "Map's Way",
+      "en": "Map says: the river, the maze, then the Lost City.",
+      "cn": "地图指路：先过河，再走迷宫，最后到失落的城市。",
+      "key": "river · maze"
+    },
+    {
+      "no": 3,
+      "time": "04:40",
+      "img": "/img/s03e07/f3.jpg",
+      "t": "The Star Pocket",
+      "en": "“Let's put the stars in the star pocket.” Boots catches the stars.",
+      "cn": "“把星星放进星星口袋。”Boots 把闪亮的星星一颗颗收起来。",
+      "key": "stars · pocket"
+    },
+    {
+      "no": 4,
+      "time": "09:20",
+      "img": "/img/s03e07/f4.jpg",
+      "t": "Count the Steps",
+      "en": "“Seven, eight, nine. Good counting!” They step on the right stones.",
+      "cn": "“七、八、九，数得真好！”他们踩着正确的石阶往上走。",
+      "key": "counting · steps"
+    },
+    {
+      "no": 5,
+      "time": "12:00",
+      "img": "/img/s03e07/f5.jpg",
+      "t": "The Pyramid",
+      "en": "There it is — a big pyramid with a red path going up.",
+      "cn": "找到了——一座大金字塔，一条红色小路盘上去。",
+      "key": "pyramid · path"
+    },
+    {
+      "no": 6,
+      "time": "14:40",
+      "img": "/img/s03e07/f6.jpg",
+      "t": "A Shortcut",
+      "en": "“Wow, that really was a shortcut.” They crawl through the green tunnel.",
+      "cn": "“哇，这真是条近路。”他们从绿色的拱洞里爬过去。",
+      "key": "shortcut · tunnel"
+    },
+    {
+      "no": 7,
+      "time": "18:40",
+      "img": "/img/s03e07/f7.jpg",
+      "t": "The Lost City",
+      "en": "“No one has ever found the Lost City before!” It is full of toys.",
+      "cn": "“以前从来没人找到过失落的城市！”里面全是玩具。",
+      "key": "Lost City · toys"
+    },
+    {
+      "no": 8,
+      "time": "19:30",
+      "img": "/img/s03e07/f8.jpg",
+      "t": "There's Osito!",
+      "en": "“¡Allí, Osito!” The teddy bear is sitting on the tile floor.",
+      "cn": "“Osito 在那儿！”小熊正坐在花砖地上。",
+      "key": "Osito · floor"
+    },
+    {
+      "no": 9,
+      "time": "22:40",
+      "img": "/img/s03e07/f9.jpg",
+      "t": "Count the Stars",
+      "en": "“Let's see how many stars we caught.” One, two, three… ten!",
+      "cn": "“看看我们抓了几颗星星。”一、二、三……十颗！",
+      "key": "stars · caught"
+    }
+  ],
+  "words": [
+    ["lost", "迷路的、丢失的"],
+    ["teddy bear", "小熊玩偶"],
+    ["river", "河"],
+    ["maze", "迷宫"],
+    ["star", "星星"],
+    ["pocket", "口袋"],
+    ["count", "数"],
+    ["steps", "台阶"],
+    ["pyramid", "金字塔"],
+    ["shortcut", "近路"],
+    ["tunnel", "隧道"],
+    ["Lost City", "失落的城市"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “The Lost City”.",
+  "ending": "In the end, they find Osito in the Lost City. My favorite part is ______."
+}

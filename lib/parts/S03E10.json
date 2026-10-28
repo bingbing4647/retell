@@ -1,0 +1,108 @@
+{
+  "id": "S03E10",
+  "season": 3,
+  "episode": 10,
+  "title": "Por Favor!",
+  "titleCn": "请！",
+  "hook": "要去城堡送王冠，一路上都得会说那句神奇的话：¡Por favor!",
+  "cover": "/img/s03e10/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:00",
+      "img": "/img/s03e10/f1.jpg",
+      "t": "Once Upon a Time",
+      "en": "Once upon a time, in a far away kingdom, the king needs his crown.",
+      "cn": "很久很久以前，在一个遥远的王国里，国王需要他的王冠。",
+      "key": "kingdom · crown"
+    },
+    {
+      "no": 2,
+      "time": "05:40",
+      "img": "/img/s03e10/f2.jpg",
+      "t": "Map's Way",
+      "en": "Map says: the forest, the drawbridge, then the castle.",
+      "cn": "地图指路：先过森林，再走吊桥，最后到城堡。",
+      "key": "forest · castle"
+    },
+    {
+      "no": 3,
+      "time": "10:00",
+      "img": "/img/s03e10/f3.jpg",
+      "t": "The Drawbridge",
+      "en": "A big gate is closed. “We have to say ‘open, please.’”",
+      "cn": "大门关得紧紧的：“我们得说‘请开一下’。”",
+      "key": "gate · please"
+    },
+    {
+      "no": 4,
+      "time": "11:40",
+      "img": "/img/s03e10/f4.jpg",
+      "t": "A Dragon!",
+      "en": "“A dragon!” It is sleeping on the path. They must be very quiet.",
+      "cn": "“有条龙！”它睡在小路上，他们得轻轻地走过去。",
+      "key": "dragon · quiet"
+    },
+    {
+      "no": 5,
+      "time": "16:10",
+      "img": "/img/s03e10/f5.jpg",
+      "t": "Where Next?",
+      "en": "“Where do we go next?” They look at the map again.",
+      "cn": "“接下来往哪儿走？”他们又看了一遍地图。",
+      "key": "next · map"
+    },
+    {
+      "no": 6,
+      "time": "18:50",
+      "img": "/img/s03e10/f6.jpg",
+      "t": "The Lion of Wigamore",
+      "en": "“I am the lion of Wigamore.” The stone lion guards the stairs.",
+      "cn": "“我是威格莫尔的狮子。”石狮子守着台阶。",
+      "key": "lion · stairs"
+    },
+    {
+      "no": 7,
+      "time": "20:50",
+      "img": "/img/s03e10/f7.jpg",
+      "t": "Swiper, No Swiping",
+      "en": "“We have to say, ‘Swiper, no swiping.’” And away he goes!",
+      "cn": "“我们得说‘Swiper，不许抢’。”——他只好走了！",
+      "key": "Swiper · no swiping"
+    },
+    {
+      "no": 8,
+      "time": "21:30",
+      "img": "/img/s03e10/f8.jpg",
+      "t": "The Crown",
+      "en": "“We did it!” The king has his crown, and everyone cheers.",
+      "cn": "“我们做到了！”国王拿回了王冠，大家一起欢呼。",
+      "key": "crown · cheers"
+    },
+    {
+      "no": 9,
+      "time": "22:40",
+      "img": "/img/s03e10/f9.jpg",
+      "t": "Count the Stars",
+      "en": "One, two, three, four… seven stars! “¡Por favor!” works every time.",
+      "cn": "一、二、三、四……七颗星！“请”这句话每次都管用。",
+      "key": "stars · Por favor"
+    }
+  ],
+  "words": [
+    ["please", "请"],
+    ["por favor", "请（西语）"],
+    ["king", "国王"],
+    ["crown", "王冠"],
+    ["castle", "城堡"],
+    ["forest", "森林"],
+    ["drawbridge", "吊桥"],
+    ["dragon", "龙"],
+    ["gate", "大门"],
+    ["lion", "狮子"],
+    ["stairs", "楼梯"],
+    ["magic word", "魔法词语"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Por Favor!”.",
+  "ending": "In the end, the king gets his crown back. My favorite part is ______."
+}

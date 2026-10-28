@@ -1,0 +1,108 @@
+{
+  "id": "S03E23",
+  "season": 3,
+  "episode": 23,
+  "title": "ABC Animals",
+  "titleCn": "动物字母书",
+  "hook": "字母书里的动物全跑出来了！Dora 和 Boots 顺着 A、B、C 一路把动物找回来。",
+  "cover": "/img/s03e23/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s03e23/f1.jpg",
+      "t": "The ABC Book",
+      "en": "Dora opens her big ABC book. “A, B, C, D, E, F, G!”",
+      "cn": "Dora 翻开大大的字母书：“A、B、C、D、E、F、G！”",
+      "key": "ABC book · A, B, C"
+    },
+    {
+      "no": 2,
+      "time": "02:00",
+      "img": "/img/s03e23/f2.jpg",
+      "t": "Out of the Book",
+      "en": "An armadillo jumps out of the book and runs away! “Armadillo!”",
+      "cn": "一只犰狳从书里跳出来跑掉了：“犰狳！”",
+      "key": "armadillo · book"
+    },
+    {
+      "no": 3,
+      "time": "04:40",
+      "img": "/img/s03e23/f3.jpg",
+      "t": "The Letter Path",
+      "en": "Big letters stand along the path. A is for apple, B is for…?",
+      "cn": "路边立着大大的字母。A 是 apple（苹果），B 是什么呢？",
+      "key": "letters · apple"
+    },
+    {
+      "no": 4,
+      "time": "06:00",
+      "img": "/img/s03e23/f4.jpg",
+      "t": "B Is for Bear",
+      "en": "A white shape appears. “What animal's missing that starts with B?”",
+      "cn": "出现一个白色的影子：“少了哪只以 B 开头的动物？”",
+      "key": "animal · starts with B"
+    },
+    {
+      "no": 5,
+      "time": "09:40",
+      "img": "/img/s03e23/f5.jpg",
+      "t": "F Is for Fire Truck",
+      "en": "A red fire truck drives past the trees. “F is for fire truck!”",
+      "cn": "一辆红色消防车从树旁开过：“F 就是 fire truck（消防车）！”",
+      "key": "fire truck · trees"
+    },
+    {
+      "no": 6,
+      "time": "14:20",
+      "img": "/img/s03e23/f6.jpg",
+      "t": "Q Is for Quetzal",
+      "en": "The armadillo finds his old friend, a white quetzal on a rock.",
+      "cn": "犰狳找到了老朋友——一只站在石头上的白色凤尾绿咬鹃。",
+      "key": "quetzal · rock"
+    },
+    {
+      "no": 7,
+      "time": "19:20",
+      "img": "/img/s03e23/f7.jpg",
+      "t": "X Is for X-Ray Fish",
+      "en": "“What animal's missing that starts with X?” An x-ray fish swims by.",
+      "cn": "“少了哪只以 X 开头的动物？”一条 X 光鱼游了过来。",
+      "key": "starts with X · fish"
+    },
+    {
+      "no": 8,
+      "time": "21:00",
+      "img": "/img/s03e23/f8.jpg",
+      "t": "All the Animals",
+      "en": "Kangaroo, bear, giraffe and zebra are back. “Hip, hip, hooray!”",
+      "cn": "袋鼠、熊、长颈鹿和斑马都回来了：“好耶，好耶！”",
+      "key": "zebra · hooray"
+    },
+    {
+      "no": 9,
+      "time": "22:20",
+      "img": "/img/s03e23/f9.jpg",
+      "t": "Back in the Book",
+      "en": "“We did it!” Seven stars shine and all the animals are home again.",
+      "cn": "“我们做到啦！”七颗星星亮起来，动物们全都回家了。",
+      "key": "stars · animals"
+    }
+  ],
+  "words": [
+    ["alphabet", "字母表"],
+    ["letter", "字母"],
+    ["armadillo", "犰狳"],
+    ["bear", "熊"],
+    ["fire truck", "消防车"],
+    ["quetzal", "凤尾绿咬鹃"],
+    ["kangaroo", "袋鼠"],
+    ["giraffe", "长颈鹿"],
+    ["zebra", "斑马"],
+    ["umbrella", "雨伞"],
+    ["missing", "不见了的"],
+    ["hooray", "好耶"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “ABC Animals”.",
+  "ending": "In the end, Dora and Boots put all the ABC animals back in the book. My favorite part is ______."
+}

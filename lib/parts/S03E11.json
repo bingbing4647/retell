@@ -1,0 +1,108 @@
+{
+  "id": "S03E11",
+  "season": 3,
+  "episode": 11,
+  "title": "Baby Dino",
+  "titleCn": "恐龙宝宝",
+  "hook": "一只蓝色恐龙宝宝在找妈妈，得送它去恐龙岛。",
+  "cover": "/img/s03e11/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:50",
+      "img": "/img/s03e11/f1.jpg",
+      "t": "A Baby Dino",
+      "en": "“Is it a baby cow?” No, it is a baby dinosaur! It lost its mamá.",
+      "cn": "“这是小牛吗？”不是，是一只恐龙宝宝——它找不到妈妈了。",
+      "key": "baby dinosaur · mamá"
+    },
+    {
+      "no": 2,
+      "time": "05:50",
+      "img": "/img/s03e11/f2.jpg",
+      "t": "Dino Island",
+      "en": "“I know where Baby Dino's mommy is — at Dino Island.”",
+      "cn": "“我知道恐龙宝宝的妈妈在哪儿——在恐龙岛。”",
+      "key": "Dino Island · mommy"
+    },
+    {
+      "no": 3,
+      "time": "10:10",
+      "img": "/img/s03e11/f3.jpg",
+      "t": "Little Dinosaurs",
+      "en": "“These are little Compsognathus dinosaurs.” They are very small and fast.",
+      "cn": "“这些是小巧的腔骨龙。”它们又小又灵活。",
+      "key": "little dinosaurs · small"
+    },
+    {
+      "no": 4,
+      "time": "14:20",
+      "img": "/img/s03e11/f4.jpg",
+      "t": "A Flower for Mommy",
+      "en": "“Aw, Baby Dino picked a flower for his mommy.” What a sweet dinosaur!",
+      "cn": "“哇，恐龙宝宝给妈妈摘了一朵花。”真是只贴心的恐龙。",
+      "key": "flower · mommy"
+    },
+    {
+      "no": 5,
+      "time": "16:40",
+      "img": "/img/s03e11/f5.jpg",
+      "t": "Tiptoe Past the T. Rex",
+      "en": "“Will you help us tiptoe past the T. rex?” Shhh — walk softly!",
+      "cn": "“你能帮我们悄悄走过霸王龙吗？”嘘——脚步要轻！",
+      "key": "tiptoe · T. rex"
+    },
+    {
+      "no": 6,
+      "time": "18:50",
+      "img": "/img/s03e11/f6.jpg",
+      "t": "Dino Island",
+      "en": "Dino Island is across the water. The big blue dinosaur looks at the sea.",
+      "cn": "恐龙岛就在水对面，大蓝恐龙望着海面。",
+      "key": "Dino Island · sea"
+    },
+    {
+      "no": 7,
+      "time": "21:10",
+      "img": "/img/s03e11/f7.jpg",
+      "t": "Mommy!",
+      "en": "“Mommy.” Baby Dino gives the yellow flower to his mother at last.",
+      "cn": "“妈妈。”恐龙宝宝终于把那朵黄花送到了妈妈手里。",
+      "key": "Mommy · flower"
+    },
+    {
+      "no": 8,
+      "time": "21:55",
+      "img": "/img/s03e11/f8.jpg",
+      "t": "We Did It!",
+      "en": "“We did it!” Dora and Boots dance with the dinosaur family.",
+      "cn": "“我们做到了！”Dora 和 Boots 跟恐龙一家一起跳舞。",
+      "key": "We did it · family"
+    },
+    {
+      "no": 9,
+      "time": "22:40",
+      "img": "/img/s03e11/f9.jpg",
+      "t": "Count the Stars",
+      "en": "“Una, dos, tres, cuatro, cinco, seis, siete.” Seven stars for today!",
+      "cn": "“一、二、三、四、五、六、七。”今天得了七颗星！",
+      "key": "stars · siete"
+    }
+  ],
+  "words": [
+    ["dinosaur", "恐龙"],
+    ["baby", "宝宝"],
+    ["mamá / mommy", "妈妈"],
+    ["Dino Island", "恐龙岛"],
+    ["flower", "花"],
+    ["tiptoe", "踮着脚走"],
+    ["T. rex", "霸王龙"],
+    ["island", "岛"],
+    ["sea", "海"],
+    ["family", "一家"],
+    ["star", "星星"],
+    ["pick", "摘"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Baby Dino”.",
+  "ending": "In the end, Baby Dino finds his mommy on Dino Island. My favorite part is ______."
+}

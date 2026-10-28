@@ -1,0 +1,108 @@
+{
+  "id": "S02E06",
+  "season": 2,
+  "episode": 6,
+  "title": "El Día de las Madres",
+  "titleCn": "母亲节的蛋糕",
+  "hook": "十根香蕉、六颗坚果、一块巧克力，一样都不能少。",
+  "cover": "/img/s02e06/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s02e06/f1.jpg",
+      "t": "A Surprise for Mami",
+      "en": "Mami wants to make a surprise cake for Mother's Day today.",
+      "cn": "母亲节到了，Mami 想烤一个特别的蛋糕给大家一个惊喜。",
+      "key": "surprise · Mother's Day"
+    },
+    {
+      "no": 2,
+      "time": "02:30",
+      "img": "/img/s02e06/f2.jpg",
+      "t": "What We Need",
+      "en": "Ten bananas, six nuts, and one piece of chocolate. That is all!",
+      "cn": "材料清单：十根香蕉、六颗坚果、一块巧克力，齐了就能开烤。",
+      "key": "bananas · nuts · chocolate"
+    },
+    {
+      "no": 3,
+      "time": "04:40",
+      "img": "/img/s02e06/f3.jpg",
+      "t": "Ask the Map",
+      "en": "Map shows the way to the bananas, the nuts, and home.",
+      "cn": "地图指了路：先找香蕉，再找坚果，最后回家。",
+      "key": "way · home"
+    },
+    {
+      "no": 4,
+      "time": "08:40",
+      "img": "/img/s02e06/f4.jpg",
+      "t": "Count the Bananas",
+      "en": "At the banana tree, they count one, two, three, up to ten.",
+      "cn": "到了香蕉树，他们一根一根地数，一直数到十根。",
+      "key": "banana tree · count"
+    },
+    {
+      "no": 5,
+      "time": "13:20",
+      "img": "/img/s02e06/f5.jpg",
+      "t": "Find the Nuts",
+      "en": "They look here and there in the forest for little nuts.",
+      "cn": "他们在树林里东找西找，寻找一颗颗小小的坚果。",
+      "key": "look for · nuts"
+    },
+    {
+      "no": 6,
+      "time": "15:00",
+      "img": "/img/s02e06/f6.jpg",
+      "t": "Six Nuts",
+      "en": "They count six nuts and put them all in the basket.",
+      "cn": "他们数出六颗坚果，全部放进小篮子里。",
+      "key": "six · basket"
+    },
+    {
+      "no": 7,
+      "time": "18:00",
+      "img": "/img/s02e06/f7.jpg",
+      "t": "Flowers for Mami",
+      "en": "Boots picks white flowers for Mami. What a sweet gift!",
+      "cn": "Boots 摘了一把白色的小花，这是给妈妈的另一份礼物。",
+      "key": "pick · flowers"
+    },
+    {
+      "no": 8,
+      "time": "21:20",
+      "img": "/img/s02e06/f8.jpg",
+      "t": "The Mother's Day Party",
+      "en": "All the mommies come to the party. Isa brings her mommy too.",
+      "cn": "妈妈们都来参加派对，Isa 也把自己的妈妈带来了。",
+      "key": "party · mommy"
+    },
+    {
+      "no": 9,
+      "time": "22:10",
+      "img": "/img/s02e06/f9.jpg",
+      "t": "We Did It!",
+      "en": "The cake is ready. Everyone shouts, “Happy Mother's Day!”",
+      "cn": "蛋糕烤好了，大家一齐喊“母亲节快乐！”",
+      "key": "cake · Happy Mother's Day"
+    }
+  ],
+  "words": [
+    ["Mother's Day", "母亲节"],
+    ["ingredients", "材料"],
+    ["banana", "香蕉"],
+    ["nut", "坚果"],
+    ["chocolate", "巧克力"],
+    ["basket", "篮子"],
+    ["count", "数数"],
+    ["cake", "蛋糕"],
+    ["party", "派对"],
+    ["flowers", "花"],
+    ["Mami", "妈妈（西语）"],
+    ["surprise", "惊喜"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “El Día de las Madres”.",
+  "ending": "In the end, they make a cake for Mami. My favorite part is ______."
+}

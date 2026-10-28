@@ -1,0 +1,108 @@
+{
+  "id": "S03E01",
+  "season": 3,
+  "episode": 1,
+  "title": "Dora Had A Little Lamb",
+  "titleCn": "朵拉的小羊",
+  "hook": "儿歌书里跳出一只小羊，要把它送回 Mary 家。",
+  "cover": "/img/s03e01/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s03e01/f1.jpg",
+      "t": "Out of the Book",
+      "en": "A little lamb jumps out of the nursery rhyme book! “Where is my Mary?”",
+      "cn": "一只小羊从儿歌书里跳了出来：“我的 Mary 在哪儿呀？”",
+      "key": "lamb · book"
+    },
+    {
+      "no": 2,
+      "time": "03:20",
+      "img": "/img/s03e01/f2.jpg",
+      "t": "Map's Way",
+      "en": "Map says: the water, the moon, then Mary's house.",
+      "cn": "地图指路：先过水，再上月亮，最后到 Mary 家。",
+      "key": "water · moon"
+    },
+    {
+      "no": 3,
+      "time": "10:00",
+      "img": "/img/s03e01/f3.jpg",
+      "t": "The Water",
+      "en": "The water tap turns on! They must find a way across the water.",
+      "cn": "大水龙头被拧开了，他们得想办法从水上过去。",
+      "key": "water · across"
+    },
+    {
+      "no": 4,
+      "time": "12:40",
+      "img": "/img/s03e01/f4.jpg",
+      "t": "Hickory Dickory Dare",
+      "en": "“Hickory-dickory-dare!” they sing, and the lamb follows them.",
+      "cn": "他们边走边唱儿歌，小羊一步不落地跟着。",
+      "key": "Hickory · sing"
+    },
+    {
+      "no": 5,
+      "time": "14:40",
+      "img": "/img/s03e01/f5.jpg",
+      "t": "Humpty Dumpty",
+      "en": "Humpty Dumpty falls off the wall. They put him back together again!",
+      "cn": "蛋头先生从墙上摔了下来，他们又把他拼回去了。",
+      "key": "Humpty Dumpty · together"
+    },
+    {
+      "no": 6,
+      "time": "15:40",
+      "img": "/img/s03e01/f6.jpg",
+      "t": "The Cow and the Moon",
+      "en": "“The cow speaks Spanish!” The cow jumps over the moon. Moo!",
+      "cn": "“这头牛会说西班牙语！”它一下子跳过月亮，哞——",
+      "key": "cow · moon"
+    },
+    {
+      "no": 7,
+      "time": "17:20",
+      "img": "/img/s03e01/f7.jpg",
+      "t": "Home Fast",
+      "en": "“I've got to get home fast,” says the lamb. “My Mary is waiting.”",
+      "cn": "“我得快点回家，”小羊说，“Mary 在等我呢。”",
+      "key": "home · waiting"
+    },
+    {
+      "no": 8,
+      "time": "20:00",
+      "img": "/img/s03e01/f8.jpg",
+      "t": "The Nursery Rhyme Friends",
+      "en": "“Good rub-a-dub-dubbing!” The nursery rhyme children give them a ride.",
+      "cn": "“扑通扑通洗个澡！”儿歌里的小朋友们用小车送了他们一程。",
+      "key": "nursery rhyme · ride"
+    },
+    {
+      "no": 9,
+      "time": "21:30",
+      "img": "/img/s03e01/f9.jpg",
+      "t": "Mary's House",
+      "en": "“Everywhere that you go, Mary.” The lamb is home at last.",
+      "cn": "“你走到哪儿，我就跟到哪儿，Mary。”小羊终于回家了。",
+      "key": "Mary · home"
+    }
+  ],
+  "words": [
+    ["lamb", "小羊"],
+    ["fleece", "羊毛"],
+    ["nursery rhyme", "儿歌"],
+    ["book", "书"],
+    ["water", "水"],
+    ["moon", "月亮"],
+    ["wall", "墙"],
+    ["cow", "奶牛"],
+    ["jump over", "跳过去"],
+    ["together", "拼在一起"],
+    ["home", "家"],
+    ["Mary", "玛丽"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Dora Had A Little Lamb”.",
+  "ending": "In the end, the little lamb gets back to Mary. My favorite part is ______."
+}

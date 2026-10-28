@@ -1,0 +1,108 @@
+{
+  "id": "S03E12",
+  "season": 3,
+  "episode": 12,
+  "title": "Boots' Special Day",
+  "titleCn": "Boots 的特别日子",
+  "hook": "今天是 Boots 的特别日子，他戴上王冠，想玩什么就玩什么。",
+  "cover": "/img/s03e12/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "03:20",
+      "img": "/img/s03e12/f1.jpg",
+      "t": "Boots' Special Day",
+      "en": "“We can do anything you want.” Boots has a crown — it is his special day!",
+      "cn": "“你想玩什么都行。”Boots 戴上了王冠——今天是他的特别日子！",
+      "key": "crown · special day"
+    },
+    {
+      "no": 2,
+      "time": "06:10",
+      "img": "/img/s03e12/f2.jpg",
+      "t": "Map's Way",
+      "en": "Map says: the bouncy park, the stars, then the big ride.",
+      "cn": "地图指路：先去蹦蹦公园，再找星星，最后坐大游乐设施。",
+      "key": "park · stars"
+    },
+    {
+      "no": 3,
+      "time": "10:10",
+      "img": "/img/s03e12/f3.jpg",
+      "t": "The Party",
+      "en": "All their friends are waiting with balloons. “Happy special day, Boots!”",
+      "cn": "朋友们举着气球在等他：“特别日子快乐，Boots！”",
+      "key": "friends · balloons"
+    },
+    {
+      "no": 4,
+      "time": "13:00",
+      "img": "/img/s03e12/f4.jpg",
+      "t": "Swiper, No Swiping",
+      "en": "“Swiper, no swiping!” The octopus waves and Swiper runs away.",
+      "cn": "“Swiper，不许抢！”章鱼挥挥手，Swiper 只好跑了。",
+      "key": "Swiper · octopus"
+    },
+    {
+      "no": 5,
+      "time": "13:40",
+      "img": "/img/s03e12/f5.jpg",
+      "t": "A Helping Hand",
+      "en": "The purple octopus shows them the way to the next ride.",
+      "cn": "紫色章鱼给他们指路，告诉他们下一个游乐项目在哪儿。",
+      "key": "octopus · way"
+    },
+    {
+      "no": 6,
+      "time": "18:50",
+      "img": "/img/s03e12/f6.jpg",
+      "t": "The Little Train",
+      "en": "A little orange train puffs by. “Would you like a ride?”",
+      "cn": "一列橙色小火车呜呜开过来：“要坐一程吗？”",
+      "key": "train · ride"
+    },
+    {
+      "no": 7,
+      "time": "20:50",
+      "img": "/img/s03e12/f7.jpg",
+      "t": "Wow!",
+      "en": "“Wow!” The roller coaster is huge. Boots draws it in the sky.",
+      "cn": "“哇！”过山车好高呀，Boots 在天上画出了它的样子。",
+      "key": "roller coaster · huge"
+    },
+    {
+      "no": 8,
+      "time": "22:10",
+      "img": "/img/s03e12/f8.jpg",
+      "t": "The Best Day",
+      "en": "Boots and Dora walk home together. “This was the best day!”",
+      "cn": "Boots 和 Dora 一起走回家：“今天真是最棒的一天！”",
+      "key": "best day · home"
+    },
+    {
+      "no": 9,
+      "time": "23:10",
+      "img": "/img/s03e12/f9.jpg",
+      "t": "Gracias",
+      "en": "“¡Gracias!” Boots waves goodbye. A star drops into his hand.",
+      "cn": "“谢谢！”Boots 挥手告别，一颗星星落进他手心。",
+      "key": "Gracias · star"
+    }
+  ],
+  "words": [
+    ["special day", "特别的日子"],
+    ["crown", "王冠"],
+    ["balloon", "气球"],
+    ["party", "聚会"],
+    ["octopus", "章鱼"],
+    ["train", "小火车"],
+    ["ride", "游乐设施"],
+    ["roller coaster", "过山车"],
+    ["swing", "秋千"],
+    ["slide", "滑梯"],
+    ["best", "最好的"],
+    ["gracias", "谢谢（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Boots' Special Day”.",
+  "ending": "In the end, Boots says it was the best day ever. My favorite part is ______."
+}

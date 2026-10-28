@@ -1,0 +1,108 @@
+{
+  "id": "S03E06",
+  "season": 3,
+  "episode": 6,
+  "title": "Journey To The Purple Planet",
+  "titleCn": "紫色星球之旅",
+  "hook": "几个小外星人迷路了，Dora 和 Boots 要开火箭送它们回紫色星球。",
+  "cover": "/img/s03e06/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "03:20",
+      "img": "/img/s03e06/f1.jpg",
+      "t": "Little Creatures",
+      "en": "Four little creatures from outer space land in the park. “I promise!”",
+      "cn": "四个外星小生物落在公园里，Dora 答应送它们回家。",
+      "key": "creatures · space"
+    },
+    {
+      "no": 2,
+      "time": "04:40",
+      "img": "/img/s03e06/f2.jpg",
+      "t": "Map's Way",
+      "en": "Map says: the Milky Way, the space rocks, then the Purple Planet.",
+      "cn": "地图指路：先过银河，再穿太空岩石，最后到紫色星球。",
+      "key": "Milky Way · Purple Planet"
+    },
+    {
+      "no": 3,
+      "time": "08:00",
+      "img": "/img/s03e06/f3.jpg",
+      "t": "Countdown",
+      "en": "“Will you count backwards from ten with me?” Ten, nine, eight… blast off!",
+      "cn": "“跟我一起从十倒数好吗？”十、九、八……发射！",
+      "key": "count backwards · blast off"
+    },
+    {
+      "no": 4,
+      "time": "09:20",
+      "img": "/img/s03e06/f4.jpg",
+      "t": "Into Space",
+      "en": "The rocket flies up into space. The stars are all around them.",
+      "cn": "火箭飞进太空，四周全是闪闪的星星。",
+      "key": "rocket · stars"
+    },
+    {
+      "no": 5,
+      "time": "11:20",
+      "img": "/img/s03e06/f5.jpg",
+      "t": "The Milky Way",
+      "en": "“To get through the Milky Way, do this way.” They join the stars 1 to 6.",
+      "cn": "“想过银河，就照这样做。”他们按 1 到 6 把星星连起来。",
+      "key": "Milky Way · stars"
+    },
+    {
+      "no": 6,
+      "time": "12:40",
+      "img": "/img/s03e06/f6.jpg",
+      "t": "Rocks Ahead",
+      "en": "“Rocks…” The space rocks are coming. Everybody holds on tight!",
+      "cn": "“前面是岩石……”太空碎石飞过来了，大家抓紧！",
+      "key": "rocks · tight"
+    },
+    {
+      "no": 7,
+      "time": "18:40",
+      "img": "/img/s03e06/f7.jpg",
+      "t": "Past the Rocks",
+      "en": "“We made it past all the space rocks!” The Purple Planet is near.",
+      "cn": "“我们穿过所有太空岩石啦！”紫色星球就在前面。",
+      "key": "made it · Purple Planet"
+    },
+    {
+      "no": 8,
+      "time": "20:40",
+      "img": "/img/s03e06/f8.jpg",
+      "t": "Landing",
+      "en": "“Whoa!” Dora and Boots step out onto the purple ground.",
+      "cn": "“哇！”Dora 和 Boots 踩上了紫色的地面。",
+      "key": "landing · purple"
+    },
+    {
+      "no": 9,
+      "time": "21:20",
+      "img": "/img/s03e06/f9.jpg",
+      "t": "Welcome Home",
+      "en": "“Home! Home! Home!” The little creatures are home at last.",
+      "cn": "“家！家！家！”小外星人们终于回到家了。",
+      "key": "Home · creatures"
+    }
+  ],
+  "words": [
+    ["outer space", "外太空"],
+    ["creature", "生物"],
+    ["rocket", "火箭"],
+    ["blast off", "发射"],
+    ["Milky Way", "银河"],
+    ["star", "星星"],
+    ["space rock", "太空岩石"],
+    ["planet", "星球"],
+    ["purple", "紫色"],
+    ["count backwards", "倒数"],
+    ["astronaut", "宇航员"],
+    ["home", "家"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Journey To The Purple Planet”.",
+  "ending": "In the end, the little creatures get back to the Purple Planet. My favorite part is ______."
+}

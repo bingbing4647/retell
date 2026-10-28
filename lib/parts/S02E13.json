@@ -1,0 +1,108 @@
+{
+  "id": "S02E13",
+  "season": 2,
+  "episode": 13,
+  "title": "Click",
+  "titleCn": "咔嚓，拍下来",
+  "hook": "想赢摄影比赛，得先拍到那些躲起来的动物。",
+  "cover": "/img/s02e13/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s02e13/f1.jpg",
+      "t": "Photos on the Wall",
+      "en": "Look at all these animal photos on the wall. How nice!",
+      "cn": "墙上挂满了动物的照片，一张比一张好看。",
+      "key": "photos · animals"
+    },
+    {
+      "no": 2,
+      "time": "04:40",
+      "img": "/img/s02e13/f2.jpg",
+      "t": "Ask the Map",
+      "en": "Map says: the rain forest, the tallest mountain, then Blueberry Hill.",
+      "cn": "地图指路：雨林 → 最高的山 → 蓝莓山。",
+      "key": "rain forest · tallest mountain · Blueberry Hill"
+    },
+    {
+      "no": 3,
+      "time": "06:40",
+      "img": "/img/s02e13/f3.jpg",
+      "t": "Let's Look for Animals",
+      "en": "Dora holds her camera. “Let's look for animals!” Click, click!",
+      "cn": "Dora 举起相机：“我们去找动物吧！”咔嚓，咔嚓。",
+      "key": "camera · look for"
+    },
+    {
+      "no": 4,
+      "time": "09:00",
+      "img": "/img/s02e13/f4.jpg",
+      "t": "In the Rain Forest",
+      "en": "They walk into the green rain forest. What can they see?",
+      "cn": "他们走进绿油油的雨林，这里会藏着什么动物呢？",
+      "key": "rain forest · see"
+    },
+    {
+      "no": 5,
+      "time": "10:40",
+      "img": "/img/s02e13/f5.jpg",
+      "t": "Say Buenos Días",
+      "en": "A blue sloth hangs in the tree. “Say buenos días!” Click!",
+      "cn": "一只蓝色树懒挂在树上，他们说“Buenos días”（早上好）再拍照。",
+      "key": "sloth · Buenos días"
+    },
+    {
+      "no": 6,
+      "time": "13:20",
+      "img": "/img/s02e13/f6.jpg",
+      "t": "The Tallest Mountain",
+      "en": "There it is, the tallest mountain. It looks like a big cone.",
+      "cn": "最高的山到了，尖尖的像一个大圆锥，真高啊。",
+      "key": "tallest mountain · high"
+    },
+    {
+      "no": 7,
+      "time": "15:40",
+      "img": "/img/s02e13/f7.jpg",
+      "t": "Next Comes Blueberry Hill",
+      "en": "Next comes Blueberry Hill. They are nearly at the end!",
+      "cn": "下一站就是蓝莓山，他们的拍摄之旅快完成了。",
+      "key": "next · Blueberry Hill"
+    },
+    {
+      "no": 8,
+      "time": "18:00",
+      "img": "/img/s02e13/f8.jpg",
+      "t": "From the Backpack",
+      "en": "“Backpack!” They need a camera and a battery inside.",
+      "cn": "他们喊“Backpack”，从背包里拿出相机和电池。",
+      "key": "Backpack · battery"
+    },
+    {
+      "no": 9,
+      "time": "21:40",
+      "img": "/img/s02e13/f9.jpg",
+      "t": "Our Photos!",
+      "en": "All their photos are on the wall now. What a great day!",
+      "cn": "他们拍的照片全都挂上了墙，这一天真没白忙。",
+      "key": "photos · wall"
+    }
+  ],
+  "words": [
+    ["camera", "相机"],
+    ["photo", "照片"],
+    ["click", "咔嚓（按快门）"],
+    ["rain forest", "雨林"],
+    ["tallest mountain", "最高的山"],
+    ["Blueberry Hill", "蓝莓山"],
+    ["sloth", "树懒"],
+    ["animal", "动物"],
+    ["battery", "电池"],
+    ["take a picture", "拍照"],
+    ["¡Buenos días!", "早上好（西语）"],
+    ["¡Abre!", "打开（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Click”.",
+  "ending": "In the end, their animal photos go on the wall. My favorite part is ______."
+}

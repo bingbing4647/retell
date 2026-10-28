@@ -1,0 +1,108 @@
+{
+  "id": "S03E21",
+  "season": 3,
+  "episode": 21,
+  "title": "Baseball Boots",
+  "titleCn": "棒球手 Boots",
+  "hook": "Boots 想参加大棒球赛，可他总打不中球。Dora 陪他一路练习，还找到了教练。",
+  "cover": "/img/s03e21/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s03e21/f1.jpg",
+      "t": "Ready to Play",
+      "en": "Dora has a glove and a cap. “You get to catch the ball, too.”",
+      "cn": "Dora 戴好帽子和手套：“你也要去接球哦。”",
+      "key": "glove · catch"
+    },
+    {
+      "no": 2,
+      "time": "02:00",
+      "img": "/img/s03e21/f2.jpg",
+      "t": "Boots' Dream",
+      "en": "Boots holds the bat and sings, “When I hit the baseball, all will cheer.”",
+      "cn": "Boots 举着球棒唱：“等我打中棒球，大家都会为我欢呼。”",
+      "key": "bat · baseball"
+    },
+    {
+      "no": 3,
+      "time": "03:20",
+      "img": "/img/s03e21/f3.jpg",
+      "t": "Who Do We Ask",
+      "en": "“Who's the guy you need to know when you've got a place to go?” Map!",
+      "cn": "“想去一个地方，要问谁呢？”——地图！",
+      "key": "Map · place"
+    },
+    {
+      "no": 4,
+      "time": "09:20",
+      "img": "/img/s03e21/f4.jpg",
+      "t": "Count the Balls",
+      "en": "Six baseballs sit on the board. “Count with me in Spanish!”",
+      "cn": "计分板上有六个棒球：“跟我用西班牙语数一数！”",
+      "key": "baseballs · Spanish"
+    },
+    {
+      "no": 5,
+      "time": "14:20",
+      "img": "/img/s03e21/f5.jpg",
+      "t": "The Green Square",
+      "en": "“To open this gate, find the green square.” A turtle swims by.",
+      "cn": "“要开这扇门，先找到绿色的正方形。”一只乌龟游了过来。",
+      "key": "green square · turtle"
+    },
+    {
+      "no": 6,
+      "time": "17:00",
+      "img": "/img/s03e21/f6.jpg",
+      "t": "From Backpack",
+      "en": "Backpack, Backpack! Out come a mitt, a ball, tape and a bat.",
+      "cn": "背包，背包！——手套、棒球、胶带和球棒都出来了。",
+      "key": "mitt · bat"
+    },
+    {
+      "no": 7,
+      "time": "19:30",
+      "img": "/img/s03e21/f7.jpg",
+      "t": "Three Tries",
+      "en": "The coach says, “Remember, Boots. You have three tries to hit the ball.”",
+      "cn": "教练说：“记住，Boots，你有三次机会打到球。”",
+      "key": "coach · three tries"
+    },
+    {
+      "no": 8,
+      "time": "20:40",
+      "img": "/img/s03e21/f8.jpg",
+      "t": "At the Plate",
+      "en": "“When you see the ball, yell Pelota!” Boots stands at the plate.",
+      "cn": "“看到球就喊 Pelota（球）！”Boots 站到了击球位上。",
+      "key": "Pelota · plate"
+    },
+    {
+      "no": 9,
+      "time": "22:50",
+      "img": "/img/s03e21/f9.jpg",
+      "t": "Four Stars",
+      "en": "“Four stars!” Dora and Boots jump and cheer after the big game.",
+      "cn": "“四颗星星！”大比赛结束后，Dora 和 Boots 又跳又欢呼。",
+      "key": "stars · cheer"
+    }
+  ],
+  "words": [
+    ["baseball", "棒球"],
+    ["bat", "球棒"],
+    ["mitt", "棒球手套"],
+    ["glove", "手套"],
+    ["coach", "教练"],
+    ["pitcher", "投手"],
+    ["hit", "击打"],
+    ["catch", "接住"],
+    ["throw", "投、扔"],
+    ["stadium", "球场"],
+    ["cheer", "欢呼"],
+    ["try", "尝试"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Baseball Boots”.",
+  "ending": "In the end, Boots plays in the big baseball game and everybody cheers for him. My favorite part is ______."
+}

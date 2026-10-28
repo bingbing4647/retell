@@ -1,0 +1,108 @@
+{
+  "id": "S02E20",
+  "season": 2,
+  "episode": 20,
+  "title": "To The Monkey Bars",
+  "titleCn": "去猴架那儿",
+  "hook": "Dora 一直有个小秘密：她从来没爬完过那排猴架。",
+  "cover": "/img/s02e20/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "00:50",
+      "img": "/img/s02e20/f1.jpg",
+      "t": "My Photo Album",
+      "en": "Dora reads her photo album to the little kids. “And I'm Boots.”",
+      "cn": "Dora 翻开相册，一页一页讲给小朋友听。",
+      "key": "photo album · kids"
+    },
+    {
+      "no": 2,
+      "time": "01:44",
+      "img": "/img/s02e20/f2.jpg",
+      "t": "I've Tried and Tried",
+      "en": "Dora has a secret: the monkey bars. “I've tried and I've tried.”",
+      "cn": "Dora 说出一个小秘密——那排猴架，她试了好多次都没爬完。",
+      "key": "monkey bars · tried"
+    },
+    {
+      "no": 3,
+      "time": "02:55",
+      "img": "/img/s02e20/f3.jpg",
+      "t": "Three Places",
+      "en": "Map says: the troll's bridge, the windy hill, then the play park.",
+      "cn": "地图指路：先过巨魔桥，再翻风山，最后到游乐场。",
+      "key": "bridge · windy hill"
+    },
+    {
+      "no": 4,
+      "time": "06:40",
+      "img": "/img/s02e20/f4.jpg",
+      "t": "Under the Bridge",
+      "en": "A grumpy troll lives under the bridge. He sings a song and lets them pass.",
+      "cn": "桥下住着一个怪脾气的巨魔，他唱完一首歌才肯放行。",
+      "key": "troll · bridge"
+    },
+    {
+      "no": 5,
+      "time": "15:00",
+      "img": "/img/s02e20/f5.jpg",
+      "t": "Zip Up Your Coats",
+      "en": "On the windy hill it is cold. Backpack gives them warm coats and hats.",
+      "cn": "风山上很冷，背包里掏出厚外套和帽子，还拉好了拉链。",
+      "key": "coats · cold"
+    },
+    {
+      "no": 6,
+      "time": "16:24",
+      "img": "/img/s02e20/f6.jpg",
+      "t": "The Strongest Wind",
+      "en": "They stomp their feet and climb. “I'll give you a ride down!”",
+      "cn": "他们跺着脚往上爬，风笑着说：“那我送你们滑下去吧！”",
+      "key": "stomp · climb"
+    },
+    {
+      "no": 7,
+      "time": "19:25",
+      "img": "/img/s02e20/f7.jpg",
+      "t": "The Play Park",
+      "en": "There he is — Tico is on the swings at the play park!",
+      "cn": "游乐场到了，Tico 正在秋千上荡得高高的。",
+      "key": "play park · swings"
+    },
+    {
+      "no": 8,
+      "time": "20:50",
+      "img": "/img/s02e20/f8.jpg",
+      "t": "All Ten Monkey Bars",
+      "en": "“Will you help me climb all the way across all ten monkey bars?”",
+      "cn": "“你们能帮我一起数，爬完这十根猴架吗？”",
+      "key": "ten · monkey bars"
+    },
+    {
+      "no": 9,
+      "time": "21:40",
+      "img": "/img/s02e20/f9.jpg",
+      "t": "We Made It!",
+      "en": "“We made it! All the way across the monkey bars!”",
+      "cn": "“我们做到了！一口气爬过整排猴架！”",
+      "key": "made it · across"
+    }
+  ],
+  "words": [
+    ["photo album", "相册"],
+    ["monkey bars", "猴架"],
+    ["secret", "秘密"],
+    ["troll", "巨魔"],
+    ["bridge", "桥"],
+    ["windy hill", "风山"],
+    ["coat", "外套"],
+    ["stomp", "跺脚"],
+    ["swing", "秋千"],
+    ["slide", "滑梯"],
+    ["play park", "游乐场"],
+    ["climb", "爬"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “To The Monkey Bars”.",
+  "ending": "In the end, Dora climbs across all ten monkey bars. My favorite part is ______."
+}

@@ -1,0 +1,108 @@
+{
+  "id": "S02E08",
+  "season": 2,
+  "episode": 8,
+  "title": "Doctor Dora",
+  "titleCn": "朵拉小医生",
+  "hook": "Benny 一直打喷嚏，到底是什么让他过敏？",
+  "cover": "/img/s02e08/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s02e08/f1.jpg",
+      "t": "Doctor Dora",
+      "en": "Dora is a doctor today. She checks her friends one by one.",
+      "cn": "今天 Dora 当小医生，一个一个给朋友们检查身体。",
+      "key": "doctor · check"
+    },
+    {
+      "no": 2,
+      "time": "04:00",
+      "img": "/img/s02e08/f2.jpg",
+      "t": "Ask the Map",
+      "en": "Map says the way is the mole hill, the red rock, then the barn.",
+      "cn": "地图指路：先过地鼠山，再经过红石，最后到谷仓。",
+      "key": "mole hill · red rock · barn"
+    },
+    {
+      "no": 3,
+      "time": "04:40",
+      "img": "/img/s02e08/f3.jpg",
+      "t": "Find the Sneezes",
+      "en": "Benny keeps sneezing. They must find out what makes him sneeze!",
+      "cn": "Benny 一直打喷嚏，他们得找出到底是什么让他过敏。",
+      "key": "sneeze · find out"
+    },
+    {
+      "no": 4,
+      "time": "07:20",
+      "img": "/img/s02e08/f4.jpg",
+      "t": "Come On, Vamonos!",
+      "en": "“Come on, ¡vamonos!” They walk to the barn to help Benny.",
+      "cn": "“走吧！”他们出发去谷仓，要帮 Benny 治好过敏。",
+      "key": "walk · help"
+    },
+    {
+      "no": 5,
+      "time": "11:20",
+      "img": "/img/s02e08/f5.jpg",
+      "t": "Help the Chicken",
+      "en": "First they help the Big Red Chicken. His foot is stuck!",
+      "cn": "路上先帮大红鸟，它的一只脚被卡住动不了了。",
+      "key": "help · stuck"
+    },
+    {
+      "no": 6,
+      "time": "14:00",
+      "img": "/img/s02e08/f6.jpg",
+      "t": "Azul the Blue Train",
+      "en": "They meet Azul, the blue train, and he gives them a ride.",
+      "cn": "他们遇到蓝色小火车 Azul，它载着大家继续往前走。",
+      "key": "train · ride"
+    },
+    {
+      "no": 7,
+      "time": "16:40",
+      "img": "/img/s02e08/f7.jpg",
+      "t": "A Treat for Benny",
+      "en": "Backpack has a lollipop and a sticker for poor Benny.",
+      "cn": "他们说“Backpack”，从背包里拿出棒棒糖和贴纸送给 Benny。",
+      "key": "lollipop · sticker"
+    },
+    {
+      "no": 8,
+      "time": "20:40",
+      "img": "/img/s02e08/f8.jpg",
+      "t": "The Feather Pillow",
+      "en": "At the barn, a feather pillow makes Benny sneeze again!",
+      "cn": "到了谷仓，原来是羽毛枕头让 Benny 又打起了喷嚏。",
+      "key": "feather pillow · sneeze"
+    },
+    {
+      "no": 9,
+      "time": "22:40",
+      "img": "/img/s02e08/f9.jpg",
+      "t": "All Better",
+      "en": "They take the pillow away. Benny feels much better now!",
+      "cn": "把羽毛枕头拿走，Benny 立刻舒服多了，大家都笑了。",
+      "key": "better · away"
+    }
+  ],
+  "words": [
+    ["doctor", "医生"],
+    ["check", "检查"],
+    ["sneeze", "打喷嚏"],
+    ["allergy", "过敏"],
+    ["mole hill", "地鼠山"],
+    ["red rock", "红石"],
+    ["barn", "谷仓"],
+    ["feather pillow", "羽毛枕头"],
+    ["lollipop", "棒棒糖"],
+    ["sticker", "贴纸"],
+    ["train", "火车"],
+    ["¡Vamonos!", "走吧（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Doctor Dora”.",
+  "ending": "In the end, Benny stops sneezing. My favorite part is ______."
+}

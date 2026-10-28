@@ -1,0 +1,108 @@
+{
+  "id": "S03E17",
+  "season": 3,
+  "episode": 17,
+  "title": "Rescue, Rescue, Rescue",
+  "titleCn": "救援，救援，再救援",
+  "hook": "Dora 和 Boots 救完一个又一个：树枝上的美洲豹宝宝、沙坑里的小犰狳、还有喷泉上的公牛。",
+  "cover": "/img/s03e17/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:40",
+      "img": "/img/s03e17/f1.jpg",
+      "t": "A Rescue Call",
+      "en": "“Help! Help!” Dora and Boots hear someone calling. It is time to rescue!",
+      "cn": "“救命！救命！”Dora 和 Boots 听见有人呼救，出发救援的时刻到了！",
+      "key": "Help · rescue"
+    },
+    {
+      "no": 2,
+      "time": "03:10",
+      "img": "/img/s03e17/f2.jpg",
+      "t": "Hanging On",
+      "en": "Baby Jaguar is hanging on by his little claws, high up on a branch.",
+      "cn": "美洲豹宝宝只用小爪子挂着，吊在高高的树枝上。",
+      "key": "Baby Jaguar · claws"
+    },
+    {
+      "no": 3,
+      "time": "05:00",
+      "img": "/img/s03e17/f3.jpg",
+      "t": "Three Stops",
+      "en": "Map shows the way: the tall tree, the sandy hole, and the Gooey Geyser.",
+      "cn": "地图指路：高高的树、沙坑，还有黏黏的喷泉。",
+      "key": "Map · Geyser"
+    },
+    {
+      "no": 4,
+      "time": "07:50",
+      "img": "/img/s03e17/f4.jpg",
+      "t": "From the Backpack",
+      "en": "“Say Backpack!” Out come a net, a rope, sticky tape and a big horn.",
+      "cn": "“说背包！”——网、绳子、黏胶带，还有一个大喇叭都出来了。",
+      "key": "net · rope"
+    },
+    {
+      "no": 5,
+      "time": "10:20",
+      "img": "/img/s03e17/f5.jpg",
+      "t": "The Sand Hole",
+      "en": "Red ants march along the cliff. The little armadillo is stuck down there.",
+      "cn": "红蚂蚁沿着崖边排队走，小犰狳被困在下面的沙坑里。",
+      "key": "ants · armadillo"
+    },
+    {
+      "no": 6,
+      "time": "13:00",
+      "img": "/img/s03e17/f6.jpg",
+      "t": "Out of the Hole",
+      "en": "“Climb, climb, climb!” They pull the ladder up and climb out.",
+      "cn": "“爬呀爬，爬呀爬！”他们把梯子拉上来，一起爬了出去。",
+      "key": "climb · ladder"
+    },
+    {
+      "no": 7,
+      "time": "16:40",
+      "img": "/img/s03e17/f7.jpg",
+      "t": "On the Geyser",
+      "en": "“Benny! Benny!” Benny the bull is sitting on top of the Gooey Geyser.",
+      "cn": "“Benny！Benny！”公牛 Benny 正坐在黏黏喷泉的顶上。",
+      "key": "Benny · bull"
+    },
+    {
+      "no": 8,
+      "time": "21:20",
+      "img": "/img/s03e17/f8.jpg",
+      "t": "The Balloon",
+      "en": "They tape the big balloon to the basket. Benny floats up and away!",
+      "cn": "他们把大气球粘在篮子上，Benny 就飘起来飞走了！",
+      "key": "balloon · basket"
+    },
+    {
+      "no": 9,
+      "time": "22:30",
+      "img": "/img/s03e17/f9.jpg",
+      "t": "All Rescued",
+      "en": "“We did it!” Dora holds Baby Jaguar. Everyone is safe now.",
+      "cn": "“我们做到啦！”Dora 抱着美洲豹宝宝，大家现在都安全了。",
+      "key": "safe · We did it"
+    }
+  ],
+  "words": [
+    ["rescue", "营救"],
+    ["claw", "爪子"],
+    ["branch", "树枝"],
+    ["ladder", "梯子"],
+    ["net", "网"],
+    ["rope", "绳子"],
+    ["geyser", "喷泉"],
+    ["balloon", "气球"],
+    ["basket", "篮子"],
+    ["ant", "蚂蚁"],
+    ["armadillo", "犰狳"],
+    ["stuck", "被困住"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Rescue, Rescue, Rescue”.",
+  "ending": "In the end, Dora and Boots rescue Baby Jaguar, the armadillo and Benny. My favorite part is ______."
+}

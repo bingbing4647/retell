@@ -1,0 +1,108 @@
+{
+  "id": "S03E09",
+  "season": 3,
+  "episode": 9,
+  "title": "Save The Puppies",
+  "titleCn": "救救小狗",
+  "hook": "狗妈妈的十只小宝宝跑丢了，Dora 和 Boots 要一只一只找回来。",
+  "cover": "/img/s03e09/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "00:45",
+      "img": "/img/s03e09/f1.jpg",
+      "t": "Ten Puppies",
+      "en": "“¡Hola!” Mamá Dog has ten puppies. But now they are all lost!",
+      "cn": "“你好呀！”狗妈妈有十只小宝宝，可现在它们全跑丢了。",
+      "key": "puppies · lost"
+    },
+    {
+      "no": 2,
+      "time": "04:10",
+      "img": "/img/s03e09/f2.jpg",
+      "t": "One Puppy",
+      "en": "“We found one puppy!” Dora picks up the little white dog.",
+      "cn": "“找到一只啦！”Dora 把这只小白狗抱起来。",
+      "key": "found · puppy"
+    },
+    {
+      "no": 3,
+      "time": "06:50",
+      "img": "/img/s03e09/f3.jpg",
+      "t": "The Star Pocket",
+      "en": "“Let's put them in the star pocket.” Each puppy earns a star.",
+      "cn": "“把它们放进星星口袋。”每找回一只小狗就亮起一颗星。",
+      "key": "star pocket · star"
+    },
+    {
+      "no": 4,
+      "time": "09:20",
+      "img": "/img/s03e09/f4.jpg",
+      "t": "Through the Doghouse",
+      "en": "“We have to get through this doghouse.” They crawl in one by one.",
+      "cn": "“我们得从这个狗屋里穿过去。”他们一个接一个爬进去。",
+      "key": "doghouse · through"
+    },
+    {
+      "no": 5,
+      "time": "12:00",
+      "img": "/img/s03e09/f5.jpg",
+      "t": "Count Them",
+      "en": "“Uno, dos, tres…” Dora counts the puppies in her arms.",
+      "cn": "“一、二、三……”Dora 数着怀里的几只小狗。",
+      "key": "count · puppies"
+    },
+    {
+      "no": 6,
+      "time": "14:40",
+      "img": "/img/s03e09/f6.jpg",
+      "t": "Another Red Box",
+      "en": "“Look, he found another red box.” A puppy is hiding inside!",
+      "cn": "“看，他又找到一个红箱子。”里面躲着一只小狗！",
+      "key": "red box · hiding"
+    },
+    {
+      "no": 7,
+      "time": "17:30",
+      "img": "/img/s03e09/f7.jpg",
+      "t": "The Yellow Raft",
+      "en": "“We got away from the dogcatcher.” They float down the river.",
+      "cn": "“我们甩开抓狗人啦。”他们坐着黄色小筏顺流而下。",
+      "key": "raft · river"
+    },
+    {
+      "no": 8,
+      "time": "20:10",
+      "img": "/img/s03e09/f8.jpg",
+      "t": "Super-Jump!",
+      "en": "“Super-jump!” Dora and Boots jump high with the puppies.",
+      "cn": "“超级跳！”Dora、Boots 和小狗们一起跳得高高的。",
+      "key": "super-jump · high"
+    },
+    {
+      "no": 9,
+      "time": "21:30",
+      "img": "/img/s03e09/f9.jpg",
+      "t": "All Ten",
+      "en": "All ten puppies run back to Mamá Dog. “We did it!”",
+      "cn": "十只小狗一起跑回狗妈妈身边：“我们做到了！”",
+      "key": "ten puppies · Mamá"
+    }
+  ],
+  "words": [
+    ["puppy", "小狗"],
+    ["Mamá Dog", "狗妈妈"],
+    ["lost", "丢失的"],
+    ["star pocket", "星星口袋"],
+    ["doghouse", "狗屋"],
+    ["red box", "红箱子"],
+    ["count", "数"],
+    ["raft", "小筏子"],
+    ["river", "河"],
+    ["jump", "跳"],
+    ["dogcatcher", "抓狗人"],
+    ["ten", "十"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Save The Puppies”.",
+  "ending": "In the end, all ten puppies go back to Mamá Dog. My favorite part is ______."
+}

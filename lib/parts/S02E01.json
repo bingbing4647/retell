@@ -1,0 +1,108 @@
+{
+  "id": "S02E01",
+  "season": 2,
+  "episode": 1,
+  "title": "Lost Squeaky",
+  "titleCn": "找回吱吱鸭",
+  "hook": "洗澡玩具被挤飞，一路追到会喷黏浆的间歇泉。",
+  "cover": "/img/s02e01/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:10",
+      "img": "/img/s02e01/f1.jpg",
+      "t": "A New Toy",
+      "en": "Boots has a new bath toy. He squeezes it and it squeaks!",
+      "cn": "Boots 有个新洗澡玩具，一捏就“吱吱”叫，他给它取名 Squeaky。",
+      "key": "bath toy · squeak"
+    },
+    {
+      "no": 2,
+      "time": "04:00",
+      "img": "/img/s02e01/f2.jpg",
+      "t": "Squeaky Flies Away",
+      "en": "Boots squeezes too hard, so Squeaky flies away. Can you help them?",
+      "cn": "他挤得太用力，Squeaky 一下飞出双手，一路滚下山坡。",
+      "key": "squeeze · fly away"
+    },
+    {
+      "no": 3,
+      "time": "05:50",
+      "img": "/img/s02e01/f3.jpg",
+      "t": "Ask the Map",
+      "en": "Map says Squeaky is going to the Gooey Geyser. They must hurry!",
+      "cn": "地图说 Squeaky 正飘向黏糊糊间歇泉，得赶快去追。",
+      "key": "Gooey Geyser · hurry"
+    },
+    {
+      "no": 4,
+      "time": "08:00",
+      "img": "/img/s02e01/f4.jpg",
+      "t": "Let's Go!",
+      "en": "First they go to Bubble Bridge. Come on, let's get to it!",
+      "cn": "三个地方记牢：泡泡桥、泥巴山、间歇泉。先冲向泡泡桥。",
+      "key": "Bubble Bridge · get to it"
+    },
+    {
+      "no": 5,
+      "time": "10:00",
+      "img": "/img/s02e01/f5.jpg",
+      "t": "Pop the Bubbles",
+      "en": "Big bubbles block the bridge. They pop, pop, pop them all!",
+      "cn": "大泡泡把桥堵住了，他们用手指一个个戳破，才走过去。",
+      "key": "bubble · pop"
+    },
+    {
+      "no": 6,
+      "time": "15:00",
+      "img": "/img/s02e01/f6.jpg",
+      "t": "Ride with Tico",
+      "en": "Tico drives them over Muddy Mountain. They shout “¡Para!” to stop!",
+      "cn": "下一站泥巴山，Tico 开车载他们，看到泥浆就喊“¡Para!”（停）。",
+      "key": "Muddy Mountain · ¡Para!"
+    },
+    {
+      "no": 7,
+      "time": "20:00",
+      "img": "/img/s02e01/f7.jpg",
+      "t": "Pink Goo",
+      "en": "The geyser shoots out pink goo. They keep looking for Squeaky.",
+      "cn": "间歇泉喷出粉色的黏浆，大家打着伞继续找 Squeaky。",
+      "key": "geyser · goo"
+    },
+    {
+      "no": 8,
+      "time": "20:50",
+      "img": "/img/s02e01/f8.jpg",
+      "t": "Squeaky Is Back!",
+      "en": "Squeaky bounces out of the goo. Everyone shouts, “Squeeze him!”",
+      "cn": "Squeaky 从黏浆里蹦了出来，大家一起喊“快捏捏他”，把它接住。",
+      "key": "bounce out · squeeze"
+    },
+    {
+      "no": 9,
+      "time": "22:30",
+      "img": "/img/s02e01/f9.jpg",
+      "t": "Hooray!",
+      "en": "Boots is happy again. What a lucky day for little Squeaky!",
+      "cn": "Squeaky 回来了，Boots 又开心起来，大家一起欢呼。",
+      "key": "happy · lucky day"
+    }
+  ],
+  "words": [
+    ["bath toy", "洗澡玩具"],
+    ["squeak", "吱吱叫"],
+    ["squeeze", "捏、挤"],
+    ["Gooey Geyser", "黏糊糊间歇泉"],
+    ["geyser", "间歇泉"],
+    ["goo", "黏浆"],
+    ["Bubble Bridge", "泡泡桥"],
+    ["pop", "戳破"],
+    ["Muddy Mountain", "泥巴山"],
+    ["mud", "泥巴"],
+    ["¡Para!", "停（西语）"],
+    ["umbrella", "雨伞"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Lost Squeaky”.",
+  "ending": "In the end, Boots gets Squeaky back. My favorite part is ______."
+}

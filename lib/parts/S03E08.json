@@ -1,0 +1,108 @@
+{
+  "id": "S03E08",
+  "season": 3,
+  "episode": 8,
+  "title": "Meet Diego!",
+  "titleCn": "认识 Diego！",
+  "hook": "小美洲豹困在河心石头上，动物救援员 Diego 来帮忙。",
+  "cover": "/img/s03e08/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:30",
+      "img": "/img/s03e08/f1.jpg",
+      "t": "Cousin Diego",
+      "en": "A boy zips through the trees. It is Cousin Diego, the animal rescuer!",
+      "cn": "一个男孩顺着绳索飞过树林——是表哥 Diego，动物救援员！",
+      "key": "Diego · rescuer"
+    },
+    {
+      "no": 2,
+      "time": "04:10",
+      "img": "/img/s03e08/f2.jpg",
+      "t": "Meet Diego",
+      "en": "“Louder!” Dora introduces Boots to Diego. They are going to help animals.",
+      "cn": "“大声点！”Dora 把 Boots 介绍给 Diego，他们要一起去救动物。",
+      "key": "Louder · help animals"
+    },
+    {
+      "no": 3,
+      "time": "06:50",
+      "img": "/img/s03e08/f3.jpg",
+      "t": "Swing, Swing, Swing",
+      "en": "“¡Swing, swing, swing!” They swing on vines through the rain forest.",
+      "cn": "“荡啊、荡啊、荡！”他们抓着藤蔓荡过雨林。",
+      "key": "swing · rain forest"
+    },
+    {
+      "no": 4,
+      "time": "10:50",
+      "img": "/img/s03e08/f4.jpg",
+      "t": "Up the Zip Line",
+      "en": "“Can't catch us!” They zip across the jungle on the line.",
+      "cn": "“抓不到我们！”他们顺着滑索一下子飞过丛林。",
+      "key": "zip · jungle"
+    },
+    {
+      "no": 5,
+      "time": "13:30",
+      "img": "/img/s03e08/f5.jpg",
+      "t": "The Big Cave",
+      "en": "“Ooh, big cave!” The path goes right into a big rocky cave.",
+      "cn": "“哇，好大的山洞！”小路一直通进一个大岩洞。",
+      "key": "cave · path"
+    },
+    {
+      "no": 6,
+      "time": "15:40",
+      "img": "/img/s03e08/f6.jpg",
+      "t": "Find the Waterfall",
+      "en": "“We need to find the waterfall!” The baby jaguar is near the water.",
+      "cn": "“我们得找到瀑布！”小美洲豹就在水边等着。",
+      "key": "waterfall · baby jaguar"
+    },
+    {
+      "no": 7,
+      "time": "18:40",
+      "img": "/img/s03e08/f7.jpg",
+      "t": "Bounce, Bounce!",
+      "en": "“Bounce, bounce, bounce!” They ride the river dolphin down the water.",
+      "cn": "“弹、弹、弹！”他们骑着河豚顺流冲下去。",
+      "key": "dolphin · bounce"
+    },
+    {
+      "no": 8,
+      "time": "21:30",
+      "img": "/img/s03e08/f8.jpg",
+      "t": "The Baby Jaguar",
+      "en": "“We zipped through the rain forest.” The baby jaguar is safe with its mother.",
+      "cn": "“我们飞过了雨林。”小美洲豹平安回到妈妈身边。",
+      "key": "jaguar · safe"
+    },
+    {
+      "no": 9,
+      "time": "22:10",
+      "img": "/img/s03e08/f9.jpg",
+      "t": "We Did It!",
+      "en": "“My favorite part was when we figured out…” Diego gives them badges.",
+      "cn": "“我最喜欢的是我们一起想办法的时候……”Diego 给他们发救援徽章。",
+      "key": "badges · favorite part"
+    }
+  ],
+  "words": [
+    ["cousin", "表兄弟"],
+    ["rescuer", "救援员"],
+    ["animal", "动物"],
+    ["rain forest", "雨林"],
+    ["swing", "荡"],
+    ["zip line", "滑索"],
+    ["cave", "山洞"],
+    ["waterfall", "瀑布"],
+    ["jaguar", "美洲豹"],
+    ["dolphin", "河豚、海豚"],
+    ["safe", "安全的"],
+    ["badge", "徽章"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Meet Diego!”.",
+  "ending": "In the end, they save the baby jaguar and get rescuer badges. My favorite part is ______."
+}

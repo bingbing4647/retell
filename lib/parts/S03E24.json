@@ -1,0 +1,108 @@
+{
+  "id": "S03E24",
+  "season": 3,
+  "episode": 24,
+  "title": "Job Day",
+  "titleCn": "职业体验日",
+  "hook": "今天是「职业日」。Dora 画下了长大想做的事，还坐上消防车、赶到金字塔，体验各种工作。",
+  "cover": "/img/s03e24/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s03e24/f1.jpg",
+      "t": "When I Grow Up",
+      "en": "“I want to be an astronaut,” says Dora, “so I can study the stars.”",
+      "cn": "“我长大想当宇航员，”Dora 说，“这样就能研究星星了。”",
+      "key": "astronaut · stars"
+    },
+    {
+      "no": 2,
+      "time": "03:20",
+      "img": "/img/s03e24/f2.jpg",
+      "t": "Three Stops",
+      "en": "Map says: the farmhouse, then the blue bridge, then the big pyramid.",
+      "cn": "地图说：先过农舍，再走蓝色小桥，最后到大金字塔。",
+      "key": "farmhouse · pyramid"
+    },
+    {
+      "no": 3,
+      "time": "04:40",
+      "img": "/img/s03e24/f3.jpg",
+      "t": "Where Is It?",
+      "en": "“Where is the firehouse?” Dora and Boots look down the long path.",
+      "cn": "“消防局在哪儿呢？”Dora 和 Boots 顺着长长的小路望去。",
+      "key": "firehouse · path"
+    },
+    {
+      "no": 4,
+      "time": "07:20",
+      "img": "/img/s03e24/f4.jpg",
+      "t": "Seat Belts",
+      "en": "They ride in the red fire truck. “Seat belts, everybody!” Off they go.",
+      "cn": "他们坐上红色消防车：“大家系好安全带！”出发啦。",
+      "key": "fire truck · Seat belts"
+    },
+    {
+      "no": 5,
+      "time": "12:00",
+      "img": "/img/s03e24/f5.jpg",
+      "t": "Backpack's Tools",
+      "en": "Backpack has a stethoscope, a flashlight, a whistle and a brush.",
+      "cn": "背包里有听诊器、手电筒、哨子和刷子。",
+      "key": "stethoscope · flashlight"
+    },
+    {
+      "no": 6,
+      "time": "14:40",
+      "img": "/img/s03e24/f6.jpg",
+      "t": "Shapes at the Pyramid",
+      "en": "The pyramid has empty shapes. “A triangle, right!” They fill it in.",
+      "cn": "金字塔上留着一块块空形状：“是三角形，对吧！”他们把它补上。",
+      "key": "pyramid · triangle"
+    },
+    {
+      "no": 7,
+      "time": "16:40",
+      "img": "/img/s03e24/f7.jpg",
+      "t": "Someone to Help",
+      "en": "Some little hens want to cross the road. “We need someone to help!”",
+      "cn": "几只小母鸡想过马路：“我们需要有人来帮忙！”",
+      "key": "hens · help"
+    },
+    {
+      "no": 8,
+      "time": "20:20",
+      "img": "/img/s03e24/f8.jpg",
+      "t": "Swiper and the Jewel",
+      "en": "“He's going to try to swipe the jewel!” Not this time, Swiper!",
+      "cn": "“他要去偷那颗宝石了！”这次可不行，Swiper！",
+      "key": "swipe · jewel"
+    },
+    {
+      "no": 9,
+      "time": "23:00",
+      "img": "/img/s03e24/f9.jpg",
+      "t": "A Great Job",
+      "en": "“We couldn't have done it without you!” Everyone learned about jobs.",
+      "cn": "“没有你我们可做不到！”今天每个人都认识了新的职业。",
+      "key": "done it · jobs"
+    }
+  ],
+  "words": [
+    ["job", "工作、职业"],
+    ["firefighter", "消防员"],
+    ["fire truck", "消防车"],
+    ["astronaut", "宇航员"],
+    ["vet", "兽医"],
+    ["musician", "音乐家"],
+    ["baker", "面包师"],
+    ["pyramid", "金字塔"],
+    ["stethoscope", "听诊器"],
+    ["jewel", "宝石"],
+    ["hen", "母鸡"],
+    ["triangle", "三角形"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Job Day”.",
+  "ending": "In the end, Dora and Boots get to the pyramid and everyone talks about their jobs. My favorite part is ______."
+}

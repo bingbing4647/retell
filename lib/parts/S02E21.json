@@ -1,0 +1,108 @@
+{
+  "id": "S02E21",
+  "season": 2,
+  "episode": 21,
+  "title": "Hide And Go Seek",
+  "titleCn": "捉迷藏",
+  "hook": "玩捉迷藏啦！把八个朋友全找到，就能赢得金色大奖杯。",
+  "cover": "/img/s02e21/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:25",
+      "img": "/img/s02e21/f1.jpg",
+      "t": "Hide and Go Seek",
+      "en": "Everybody wants to play hide and go seek. “Find all our friends and we win the big trophy!”",
+      "cn": "大家一起来玩捉迷藏：把朋友全都找到，就能赢走金色大奖杯。",
+      "key": "hide and go seek · trophy"
+    },
+    {
+      "no": 2,
+      "time": "02:10",
+      "img": "/img/s02e21/f2.jpg",
+      "t": "Eight Friends",
+      "en": "Eight friends are super-good at hiding. Can you count them?",
+      "cn": "八个好朋友都特别会藏，你能一个不少地数出来吗？",
+      "key": "eight friends · count"
+    },
+    {
+      "no": 3,
+      "time": "05:40",
+      "img": "/img/s02e21/f3.jpg",
+      "t": "Map's Way",
+      "en": "Map shows the way: the big tree, then the squirrel trees.",
+      "cn": "地图指路：先到大树，再去松鼠树。",
+      "key": "big tree · squirrel trees"
+    },
+    {
+      "no": 4,
+      "time": "09:20",
+      "img": "/img/s02e21/f4.jpg",
+      "t": "Found You!",
+      "en": "“¡Me encontraron!” Someone is found hiding under a big purple blanket.",
+      "cn": "“我被找到啦！”藏在紫色大布下面的伙伴被发现了。",
+      "key": "found · hiding"
+    },
+    {
+      "no": 5,
+      "time": "11:40",
+      "img": "/img/s02e21/f5.jpg",
+      "t": "Swiper at the Cave",
+      "en": "At the cave, Swiper comes. “Swiper, no swiping!” He runs away.",
+      "cn": "山洞前 Swiper 又来了，“Swiper，不许抢！”他只好溜走。",
+      "key": "cave · Swiper"
+    },
+    {
+      "no": 6,
+      "time": "15:10",
+      "img": "/img/s02e21/f6.jpg",
+      "t": "The Squirrel Trees",
+      "en": "The squirrel trees are busy. Squirrels paint, water plants and read.",
+      "cn": "松鼠树上热闹极了，松鼠们画画、浇花、看书。",
+      "key": "squirrel trees · busy"
+    },
+    {
+      "no": 7,
+      "time": "16:10",
+      "img": "/img/s02e21/f7.jpg",
+      "t": "Did We Find Everybody?",
+      "en": "“Did we find everybody?” “Yes! Everybody is here!”",
+      "cn": "“所有人都找到了吗？”——“找齐啦，一个都不少！”",
+      "key": "everybody · here"
+    },
+    {
+      "no": 8,
+      "time": "20:45",
+      "img": "/img/s02e21/f8.jpg",
+      "t": "The Red Cable Car",
+      "en": "Señor Tucán gives them a ride home in the red cable car.",
+      "cn": "巨嘴鸟先生让他们坐上红色缆车，一路送回家。",
+      "key": "cable car · Señor Tucán"
+    },
+    {
+      "no": 9,
+      "time": "22:34",
+      "img": "/img/s02e21/f9.jpg",
+      "t": "The Big Trophy",
+      "en": "Dora holds up the big gold trophy. “¡Ganaste el trofeo!”",
+      "cn": "Dora 举起金色大奖杯——捉迷藏冠军是他们！",
+      "key": "trophy · gold"
+    }
+  ],
+  "words": [
+    ["hide and go seek", "捉迷藏"],
+    ["trophy", "奖杯"],
+    ["hide", "躲藏"],
+    ["find", "找到"],
+    ["friend", "朋友"],
+    ["cave", "山洞"],
+    ["blanket", "毯子"],
+    ["squirrel", "松鼠"],
+    ["cable car", "缆车"],
+    ["everybody", "每个人"],
+    ["count", "数"],
+    ["gold", "金色的"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Hide And Go Seek”.",
+  "ending": "In the end, they find everybody and win the big trophy. My favorite part is ______."
+}

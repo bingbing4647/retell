@@ -1,0 +1,108 @@
+{
+  "id": "S02E19",
+  "season": 2,
+  "episode": 19,
+  "title": "Egg Hunt",
+  "titleCn": "找彩蛋",
+  "hook": "找彩蛋啦！篮子里要凑满十二个蛋，最大的奖品藏在大金蛋里。",
+  "cover": "/img/s02e19/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "00:52",
+      "img": "/img/s02e19/f1.jpg",
+      "t": "The Egg Hunt",
+      "en": "Dora and Boots are going on an egg hunt. There are prizes inside the eggs!",
+      "cn": "Dora 和 Boots 去参加找彩蛋活动，每个彩蛋里都藏着奖品。",
+      "key": "egg hunt · prizes"
+    },
+    {
+      "no": 2,
+      "time": "04:45",
+      "img": "/img/s02e19/f2.jpg",
+      "t": "Where Are the Eggs?",
+      "en": "Map says: the river, the big yellow egg, then Grandma's house.",
+      "cn": "地图指路：先到河边，再找大金蛋，最后去奶奶家。",
+      "key": "river · big yellow egg"
+    },
+    {
+      "no": 3,
+      "time": "06:00",
+      "img": "/img/s02e19/f3.jpg",
+      "t": "Let's Find Them All",
+      "en": "“Come on! Let's go find all the eggs!” They carry a big basket.",
+      "cn": "“走吧，把所有彩蛋都找出来！”他们拎着一个大篮子出发。",
+      "key": "find · eggs"
+    },
+    {
+      "no": 4,
+      "time": "09:25",
+      "img": "/img/s02e19/f4.jpg",
+      "t": "A Bunny Helper",
+      "en": "A white bunny shows them where to look. Thank you, bunny!",
+      "cn": "一只白兔蹦出来给他们带路，谢谢小兔子！",
+      "key": "bunny · shows"
+    },
+    {
+      "no": 5,
+      "time": "12:40",
+      "img": "/img/s02e19/f5.jpg",
+      "t": "An Egg in the Flowers",
+      "en": "“An egg!” Dora finds one hiding in the yellow flowers.",
+      "cn": "“找到一个！”Dora 在黄花丛里摸出一个彩蛋。",
+      "key": "egg · flowers"
+    },
+    {
+      "no": 6,
+      "time": "14:40",
+      "img": "/img/s02e19/f6.jpg",
+      "t": "On the Farm",
+      "en": "At the farm they ask: which animal says “moo, moo”? The cow!",
+      "cn": "到了农场，他们要猜：哪种动物“哞哞”叫？——是奶牛！",
+      "key": "farm · moo"
+    },
+    {
+      "no": 7,
+      "time": "16:40",
+      "img": "/img/s02e19/f7.jpg",
+      "t": "A Surprise in the Hay",
+      "en": "Three orange cats sit on the hay. And look — an egg is there too!",
+      "cn": "干草堆上坐着三只橘猫，它们身下还藏着一个彩蛋。",
+      "key": "cats · hay"
+    },
+    {
+      "no": 8,
+      "time": "20:50",
+      "img": "/img/s02e19/f8.jpg",
+      "t": "All Twelve!",
+      "en": "They find all twelve eggs. The basket is full of colours!",
+      "cn": "十二个彩蛋全找到了，篮子里花花绿绿，装得满满的。",
+      "key": "twelve · basket"
+    },
+    {
+      "no": 9,
+      "time": "21:36",
+      "img": "/img/s02e19/f9.jpg",
+      "t": "The Big Yellow Egg",
+      "en": "At Grandma's house they open the big yellow egg. Confetti everywhere!",
+      "cn": "在奶奶家门口敲开大金蛋，彩纸撒了满天。",
+      "key": "big yellow egg · confetti"
+    }
+  ],
+  "words": [
+    ["egg hunt", "找彩蛋"],
+    ["cascarón", "彩蛋壳"],
+    ["prize", "奖品"],
+    ["basket", "篮子"],
+    ["river", "河"],
+    ["bunny", "小兔子"],
+    ["farm", "农场"],
+    ["cow", "奶牛"],
+    ["hay", "干草"],
+    ["twelve", "十二"],
+    ["big yellow egg", "大金蛋"],
+    ["confetti", "彩纸屑"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Egg Hunt”.",
+  "ending": "In the end, they open the big yellow egg at Grandma's house. My favorite part is ______."
+}

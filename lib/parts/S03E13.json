@@ -1,0 +1,108 @@
+{
+  "id": "S03E13",
+  "season": 3,
+  "episode": 13,
+  "title": "To The South Pole",
+  "titleCn": "去南极",
+  "hook": "一只小企鹅走丢了，Dora 和 Diego 要坐飞机把它送回南极的家。",
+  "cover": "/img/s03e13/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:10",
+      "img": "/img/s03e13/f1.jpg",
+      "t": "A Baby Penguin",
+      "en": "“We need to say hello to the penguin.” A little penguin is far from home.",
+      "cn": "“我们得跟小企鹅打个招呼。”这只小企鹅离家的路太远了。",
+      "key": "penguin · hello"
+    },
+    {
+      "no": 2,
+      "time": "04:50",
+      "img": "/img/s03e13/f2.jpg",
+      "t": "Map's Way",
+      "en": "Map says: the icy water, the icebergs, then the South Pole.",
+      "cn": "地图指路：先过冰水，再翻冰山，最后到南极。",
+      "key": "icy water · South Pole"
+    },
+    {
+      "no": 3,
+      "time": "07:30",
+      "img": "/img/s03e13/f3.jpg",
+      "t": "The Yellow Plane",
+      "en": "“Yeah, let's go!” They fly off in a little yellow plane.",
+      "cn": "“好，出发！”他们坐上一架黄色小飞机。",
+      "key": "plane · fly"
+    },
+    {
+      "no": 4,
+      "time": "09:20",
+      "img": "/img/s03e13/f4.jpg",
+      "t": "Snow Clothes",
+      "en": "It is very cold. They put on big coats, boots and gloves.",
+      "cn": "那里冷得很，他们穿上厚外套、雪地靴和手套。",
+      "key": "cold · coats"
+    },
+    {
+      "no": 5,
+      "time": "11:40",
+      "img": "/img/s03e13/f5.jpg",
+      "t": "Across the Icy Water",
+      "en": "A long chain goes across the icy water. They hold on and go.",
+      "cn": "一条长链子横过冰水，他们抓紧链子往前挪。",
+      "key": "chain · icy water"
+    },
+    {
+      "no": 6,
+      "time": "14:50",
+      "img": "/img/s03e13/f6.jpg",
+      "t": "Watch for Seals",
+      "en": "“If you see a seal, clap and say…” They keep their eyes open.",
+      "cn": "“看到海豹就拍手说……”他们睁大眼睛盯着冰面。",
+      "key": "seal · clap"
+    },
+    {
+      "no": 7,
+      "time": "18:20",
+      "img": "/img/s03e13/f7.jpg",
+      "t": "Up the Iceberg",
+      "en": "“Okay, little penguin, here we go.” They climb up the iceberg.",
+      "cn": "“好啦小企鹅，我们走。”他们一起爬上冰山。",
+      "key": "climb · iceberg"
+    },
+    {
+      "no": 8,
+      "time": "20:30",
+      "img": "/img/s03e13/f8.jpg",
+      "t": "The Penguin Family",
+      "en": "“Say ‘ork, ork!’” Hundreds of penguins are waiting at the South Pole.",
+      "cn": "“跟我叫 ork、ork！”南极有几百只企鹅在等着。",
+      "key": "penguins · South Pole"
+    },
+    {
+      "no": 9,
+      "time": "22:10",
+      "img": "/img/s03e13/f9.jpg",
+      "t": "We Did It!",
+      "en": "“I liked that, too.” The little penguin is home with its family.",
+      "cn": "“我也喜欢那一段。”小企鹅终于和家人团聚了。",
+      "key": "home · family"
+    }
+  ],
+  "words": [
+    ["penguin", "企鹅"],
+    ["South Pole", "南极"],
+    ["icy", "结冰的"],
+    ["iceberg", "冰山"],
+    ["plane", "飞机"],
+    ["coat", "外套"],
+    ["gloves", "手套"],
+    ["chain", "链子"],
+    ["seal", "海豹"],
+    ["climb", "爬"],
+    ["family", "家人"],
+    ["cold", "冷的"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “To The South Pole”.",
+  "ending": "In the end, the little penguin finds its family at the South Pole. My favorite part is ______."
+}

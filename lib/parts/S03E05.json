@@ -1,0 +1,108 @@
+{
+  "id": "S03E05",
+  "season": 3,
+  "episode": 5,
+  "title": "The Big Potato",
+  "titleCn": "大土豆",
+  "hook": "Benny 一觉醒来变成了一颗大土豆，得送他去城堡变回原样。",
+  "cover": "/img/s03e05/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:00",
+      "img": "/img/s03e05/f1.jpg",
+      "t": "Where's Benny?",
+      "en": "“Hey, where's Benny?” A big potato is standing in his place!",
+      "cn": "“咦，Benny 呢？”——一颗大土豆站在他刚才的位置上！",
+      "key": "Benny · big potato"
+    },
+    {
+      "no": 2,
+      "time": "03:30",
+      "img": "/img/s03e05/f2.jpg",
+      "t": "Map's Way",
+      "en": "Map says: the flower garden, the big gate, then the castle.",
+      "cn": "地图指路：先过花园，再走大门，最后到城堡。",
+      "key": "garden · castle"
+    },
+    {
+      "no": 3,
+      "time": "06:40",
+      "img": "/img/s03e05/f3.jpg",
+      "t": "Rolling Along",
+      "en": "The big potato rolls down the hill. “He can keep rolling all the way!”",
+      "cn": "大土豆顺着山坡骨碌碌滚下去：“就让他这么一路滚过去吧！”",
+      "key": "rolls · hill"
+    },
+    {
+      "no": 4,
+      "time": "10:10",
+      "img": "/img/s03e05/f4.jpg",
+      "t": "No Path",
+      "en": "“But, Dora, there's no path through the garden.” The flowers are too tall.",
+      "cn": "“可是 Dora，花园里没有路呀。”花长得比人还高。",
+      "key": "path · flowers"
+    },
+    {
+      "no": 5,
+      "time": "14:40",
+      "img": "/img/s03e05/f5.jpg",
+      "t": "The Dragon",
+      "en": "A pink dragon is asleep in the way. They sing softly: “La lechuza.”",
+      "cn": "一只粉红恐龙挡在路上睡着了，他们轻轻唱起摇篮曲。",
+      "key": "dragon · lechuza"
+    },
+    {
+      "no": 6,
+      "time": "17:30",
+      "img": "/img/s03e05/f6.jpg",
+      "t": "Almost There",
+      "en": "The castle is very close now. But the gate will not open.",
+      "cn": "城堡就在眼前了，可大门怎么也推不开。",
+      "key": "castle · gate"
+    },
+    {
+      "no": 7,
+      "time": "20:10",
+      "img": "/img/s03e05/f7.jpg",
+      "t": "The Magic Wand",
+      "en": "“Dora needs you to find the wizard's magic wand.” Backpack has it!",
+      "cn": "“Dora 需要你帮忙找巫师的魔杖。”——背包里正好有！",
+      "key": "magic wand · Backpack"
+    },
+    {
+      "no": 8,
+      "time": "22:40",
+      "img": "/img/s03e05/f8.jpg",
+      "t": "Say “Estrellas”",
+      "en": "“Say ‘estrellas’ — stars!” The stars light up the way to the castle.",
+      "cn": "“跟我说 estrellas——星星！”星星亮起来，照出一条通往城堡的路。",
+      "key": "estrellas · stars"
+    },
+    {
+      "no": 9,
+      "time": "23:15",
+      "img": "/img/s03e05/f9.jpg",
+      "t": "We Did It!",
+      "en": "At the castle the potato turns back into Benny. “We did it!”",
+      "cn": "在城堡里，土豆变回了 Benny：“我们做到了！”",
+      "key": "castle · We did it"
+    }
+  ],
+  "words": [
+    ["potato", "土豆"],
+    ["castle", "城堡"],
+    ["garden", "花园"],
+    ["gate", "大门"],
+    ["roll", "滚"],
+    ["dragon", "恐龙"],
+    ["asleep", "睡着的"],
+    ["path", "小路"],
+    ["magic wand", "魔杖"],
+    ["wizard", "巫师"],
+    ["estrella / star", "星星"],
+    ["turn back", "变回原样"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “The Big Potato”.",
+  "ending": "In the end, the big potato turns back into Benny. My favorite part is ______."
+}

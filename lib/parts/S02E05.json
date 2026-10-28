@@ -1,0 +1,108 @@
+{
+  "id": "S02E05",
+  "season": 2,
+  "episode": 5,
+  "title": "Rojo, the Fire Truck",
+  "titleCn": "消防车罗霍",
+  "hook": "新消防车第一次出任务，小猫困在树上，云梯够得着吗？",
+  "cover": "/img/s02e05/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s02e05/f1.jpg",
+      "t": "The Newest Fire Truck",
+      "en": "Dora and Boots go to the station to meet the newest fire truck.",
+      "cn": "Dora 和 Boots 跑到消防站，去认识新来的消防车。",
+      "key": "station · fire truck"
+    },
+    {
+      "no": 2,
+      "time": "03:20",
+      "img": "/img/s02e05/f2.jpg",
+      "t": "My Firefighters",
+      "en": "Rojo says, “You can be my firefighters!” They put on helmets.",
+      "cn": "消防车 Rojo 说“你们可以当我的消防员”，两人戴上黄头盔。",
+      "key": "firefighter · helmet"
+    },
+    {
+      "no": 3,
+      "time": "04:40",
+      "img": "/img/s02e05/f3.jpg",
+      "t": "Ask the Map",
+      "en": "Map shows the road. A kitten is stuck high in a tree!",
+      "cn": "地图指出路线：有只小猫困在一棵很高的大树上。",
+      "key": "road · stuck"
+    },
+    {
+      "no": 4,
+      "time": "07:20",
+      "img": "/img/s02e05/f4.jpg",
+      "t": "Go, Rojo, Go!",
+      "en": "They drive down the road fast. “Go, Rojo, go!”",
+      "cn": "消防车沿着大路飞快地开，大家一起喊“Rojo，快跑！”",
+      "key": "drive · go"
+    },
+    {
+      "no": 5,
+      "time": "11:20",
+      "img": "/img/s02e05/f5.jpg",
+      "t": "Count to Ten",
+      "en": "Rojo needs to start. They count from one up to ten.",
+      "cn": "消防车要发动了，大家一起从一数到十给它加油。",
+      "key": "start · count"
+    },
+    {
+      "no": 6,
+      "time": "18:40",
+      "img": "/img/s02e05/f6.jpg",
+      "t": "Which Button?",
+      "en": "Which button sounds the siren? The blue one, of course!",
+      "cn": "该按哪个按钮才会响警笛？当然是蓝色的那一个！",
+      "key": "button · siren"
+    },
+    {
+      "no": 7,
+      "time": "20:30",
+      "img": "/img/s02e05/f7.jpg",
+      "t": "At the Big Tree",
+      "en": "They stop at the big tree. The kitten is still up there.",
+      "cn": "他们停在大树下面，小猫还高高地待在树枝上。",
+      "key": "big tree · kitten"
+    },
+    {
+      "no": 8,
+      "time": "21:20",
+      "img": "/img/s02e05/f8.jpg",
+      "t": "Up the Ladder",
+      "en": "Rojo lifts the ladder high. Dora climbs up to the kitten.",
+      "cn": "Rojo 把云梯升得高高的，Dora 爬上去抱住了小猫。",
+      "key": "ladder · climb"
+    },
+    {
+      "no": 9,
+      "time": "22:40",
+      "img": "/img/s02e05/f9.jpg",
+      "t": "Thank You, Rojo!",
+      "en": "The kitten is safe. Everyone says, “Thank you for the rescue!”",
+      "cn": "小猫得救了，大家一起说“谢谢你来救我们！”",
+      "key": "safe · rescue"
+    }
+  ],
+  "words": [
+    ["fire truck", "消防车"],
+    ["Rojo", "罗霍（西语：红）"],
+    ["firefighter", "消防员"],
+    ["helmet", "头盔"],
+    ["siren", "警笛"],
+    ["button", "按钮"],
+    ["ladder", "云梯"],
+    ["kitten", "小猫"],
+    ["stuck", "被困住"],
+    ["rescue", "救援"],
+    ["road", "大路"],
+    ["safe", "安全的"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Rojo, the Fire Truck”.",
+  "ending": "In the end, Rojo saves the kitten in the tree. My favorite part is ______."
+}

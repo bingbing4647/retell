@@ -1,0 +1,108 @@
+{
+  "id": "S02E02",
+  "season": 2,
+  "episode": 2,
+  "title": "The Missing Piece",
+  "titleCn": "缺了一块拼图",
+  "hook": "拼图少了一块，那块是巫师的魔法棒，藏在彩虹尽头。",
+  "cover": "/img/s02e02/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:40",
+      "img": "/img/s02e02/f1.jpg",
+      "t": "A Puzzle",
+      "en": "Dora and Boots put the puzzle together, piece by piece. It is a wizard!",
+      "cn": "Dora 和 Boots 一块一块拼拼图，拼出来的是一位巫师。",
+      "key": "puzzle · piece by piece"
+    },
+    {
+      "no": 2,
+      "time": "02:30",
+      "img": "/img/s02e02/f2.jpg",
+      "t": "The Wand Is Missing",
+      "en": "Oh no! The wizard's magic wand is missing. He cannot do magic!",
+      "cn": "糟糕，巫师 El Encantador 少了魔法棒那一块，变不了魔术了。",
+      "key": "magic wand · magic"
+    },
+    {
+      "no": 3,
+      "time": "03:50",
+      "img": "/img/s02e02/f3.jpg",
+      "t": "Ask the Map",
+      "en": "Map says the wand is at the end of the rainbow, far away.",
+      "cn": "地图说魔法棒在彩虹的尽头，得先过鳄鱼湖、再穿红隧道。",
+      "key": "end of the rainbow · far away"
+    },
+    {
+      "no": 4,
+      "time": "10:20",
+      "img": "/img/s02e02/f4.jpg",
+      "t": "Crocodile Lake",
+      "en": "Here is Crocodile Lake. Benny's boat has no oars at all!",
+      "cn": "到了鳄鱼湖，Benny 的小船连船桨都没有，根本划不动。",
+      "key": "Crocodile Lake · oars"
+    },
+    {
+      "no": 5,
+      "time": "11:10",
+      "img": "/img/s02e02/f5.jpg",
+      "t": "Row, Row, Row",
+      "en": "They row across the lake fast. Crocodiles swim after the boat!",
+      "cn": "他们用力划船穿过湖面，一群鳄鱼在后面追着船游。",
+      "key": "row · crocodiles"
+    },
+    {
+      "no": 6,
+      "time": "15:00",
+      "img": "/img/s02e02/f6.jpg",
+      "t": "A Missing Tire",
+      "en": "Tico's yellow car cannot go. One of its tires is missing!",
+      "cn": "Tico 的黄车走不了，原来少了一个轮胎，装上才能开。",
+      "key": "tire · missing"
+    },
+    {
+      "no": 7,
+      "time": "18:30",
+      "img": "/img/s02e02/f7.jpg",
+      "t": "The Rainbow",
+      "en": "They come out of the red tunnel. A big rainbow is right there!",
+      "cn": "穿过红隧道，一道大彩虹就在眼前，彩虹尽头快到了。",
+      "key": "red tunnel · rainbow"
+    },
+    {
+      "no": 8,
+      "time": "21:10",
+      "img": "/img/s02e02/f8.jpg",
+      "t": "My Wand!",
+      "en": "“Oh, my wand, my wand!” The wizard finds it at last!",
+      "cn": "“我的魔法棒，我的魔法棒！”巫师终于在彩虹尽头找到了它。",
+      "key": "find · at last"
+    },
+    {
+      "no": 9,
+      "time": "22:30",
+      "img": "/img/s02e02/f9.jpg",
+      "t": "We Found It!",
+      "en": "Everyone cheers under the rainbow. The wizard can do magic again!",
+      "cn": "大家在彩虹下欢呼，巫师又能变魔术了，拼图也完整了。",
+      "key": "cheer · again"
+    }
+  ],
+  "words": [
+    ["puzzle", "拼图"],
+    ["wizard", "巫师"],
+    ["El Encantador", "巫师（西语名）"],
+    ["magic wand", "魔法棒"],
+    ["Crocodile Lake", "鳄鱼湖"],
+    ["oars", "船桨"],
+    ["row", "划船"],
+    ["crocodile", "鳄鱼"],
+    ["red tunnel", "红隧道"],
+    ["tire", "轮胎"],
+    ["rainbow", "彩虹"],
+    ["¡Vamos!", "走吧（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “The Missing Piece”.",
+  "ending": "In the end, the wizard gets his magic wand back. My favorite part is ______."
+}

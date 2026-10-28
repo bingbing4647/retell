@@ -1,0 +1,108 @@
+{
+  "id": "S03E20",
+  "season": 3,
+  "episode": 20,
+  "title": "The Fix-It Machine",
+  "titleCn": "修东西机器",
+  "hook": "Boots 的红靴子破了个洞，Dora 带他去找那台什么都能修的「超级修东西机器」。",
+  "cover": "/img/s03e20/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "00:50",
+      "img": "/img/s03e20/f1.jpg",
+      "t": "Hide and Seek",
+      "en": "“I'm hiding!” Dora plays hide and seek in the jungle with Boots.",
+      "cn": "“我在躲呢！”Dora 和 Boots 在丛林里玩捉迷藏。",
+      "key": "hiding · hide and seek"
+    },
+    {
+      "no": 2,
+      "time": "02:10",
+      "img": "/img/s03e20/f2.jpg",
+      "t": "Oh No, My Boot",
+      "en": "“My boot!” Boots looks down. His red boot has a big hole in it.",
+      "cn": "“我的靴子！”Boots 低头一看，红靴子上破了一个大洞。",
+      "key": "boot · hole"
+    },
+    {
+      "no": 3,
+      "time": "02:50",
+      "img": "/img/s03e20/f3.jpg",
+      "t": "What It Does",
+      "en": "“You just put in your boot,” and the machine will fix it right up.",
+      "cn": "“只要把靴子放进去，”机器就会把它修好。",
+      "key": "machine · fix"
+    },
+    {
+      "no": 4,
+      "time": "04:00",
+      "img": "/img/s03e20/f4.jpg",
+      "t": "Crocodile Lake",
+      "en": "Map says: first go across Crocodile Lake, then to the Fix-It Machine.",
+      "cn": "地图说：先穿过鳄鱼湖，再到修东西机器那儿。",
+      "key": "Crocodile Lake · Machine"
+    },
+    {
+      "no": 5,
+      "time": "10:00",
+      "img": "/img/s03e20/f5.jpg",
+      "t": "Across the Water",
+      "en": "Everybody rows the boat. “Put your hands out in front of you!”",
+      "cn": "大家一起划船：“把手伸到前面去！”",
+      "key": "rows · boat"
+    },
+    {
+      "no": 6,
+      "time": "12:20",
+      "img": "/img/s03e20/f6.jpg",
+      "t": "The Furry Troll",
+      "en": "A big furry troll sits on a log and eats a big piece of cheese.",
+      "cn": "一个毛茸茸的大巨魔坐在木头上，啃着一大块奶酪。",
+      "key": "troll · cheese"
+    },
+    {
+      "no": 7,
+      "time": "17:20",
+      "img": "/img/s03e20/f7.jpg",
+      "t": "Abuelo's Machine",
+      "en": "“It will take anything and fix it right up.” The old man smiles.",
+      "cn": "“不管什么，它都能修得好好的。”老爷爷笑着说。",
+      "key": "fix · old man"
+    },
+    {
+      "no": 8,
+      "time": "19:20",
+      "img": "/img/s03e20/f8.jpg",
+      "t": "Good as New",
+      "en": "“My boot, my boot!” The old man gives Boots his red boot back.",
+      "cn": "“我的靴子，我的靴子！”老爷爷把红靴子还给 Boots。",
+      "key": "boot · back"
+    },
+    {
+      "no": 9,
+      "time": "21:20",
+      "img": "/img/s03e20/f9.jpg",
+      "t": "All Fixed",
+      "en": "“We did it!” Confetti flies. Everything is fixed and everyone is happy.",
+      "cn": "“我们做到啦！”彩纸飞舞，东西全修好了，大家都很开心。",
+      "key": "fixed · happy"
+    }
+  ],
+  "words": [
+    ["fix", "修理"],
+    ["machine", "机器"],
+    ["broken", "坏了的"],
+    ["boot", "靴子"],
+    ["hole", "洞"],
+    ["puddle", "水坑"],
+    ["crocodile", "鳄鱼"],
+    ["lake", "湖"],
+    ["boat", "小船"],
+    ["row", "划（船）"],
+    ["troll", "巨魔"],
+    ["cheese", "奶酪"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “The Fix-It Machine”.",
+  "ending": "In the end, the old man fixes Boots' boot with the machine. My favorite part is ______."
+}

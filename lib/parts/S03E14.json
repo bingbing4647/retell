@@ -1,0 +1,108 @@
+{
+  "id": "S03E14",
+  "season": 3,
+  "episode": 14,
+  "title": "Dora Saves The Game",
+  "titleCn": "朵拉救场比赛",
+  "hook": "黄队少了一个球员，比赛马上就要开始了，Dora 得赶紧赶到球场。",
+  "cover": "/img/s03e14/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:30",
+      "img": "/img/s03e14/f1.jpg",
+      "t": "Game Day",
+      "en": "“We're ready to start today's big soccer game!” But one player is missing.",
+      "cn": "“今天的足球大赛马上开始！”可黄队还少一个人。",
+      "key": "soccer game · missing"
+    },
+    {
+      "no": 2,
+      "time": "03:30",
+      "img": "/img/s03e14/f2.jpg",
+      "t": "Map's Way",
+      "en": "Map says: the river, the bridge, then the soccer field.",
+      "cn": "地图指路：先过河，再过桥，最后到球场。",
+      "key": "river · soccer field"
+    },
+    {
+      "no": 3,
+      "time": "06:20",
+      "img": "/img/s03e14/f3.jpg",
+      "t": "Say “Salta”",
+      "en": "“You need to say the Spanish word ‘salta’ — jump!” Up they go.",
+      "cn": "“跟我说这个西班牙语词 salta——跳！”他们一下子跳上去。",
+      "key": "salta · jump"
+    },
+    {
+      "no": 4,
+      "time": "07:40",
+      "img": "/img/s03e14/f4.jpg",
+      "t": "The Ball Wagon",
+      "en": "A wagon full of balls rolls away. They must catch every ball!",
+      "cn": "装满球的小车骨碌碌滚走了，他们得把球一个个追回来。",
+      "key": "wagon · balls"
+    },
+    {
+      "no": 5,
+      "time": "13:40",
+      "img": "/img/s03e14/f5.jpg",
+      "t": "Corre, Dora, Corre",
+      "en": "“¡Corre, Dora, corre!” Run, Dora, run! The horses run with her.",
+      "cn": "“跑呀 Dora，快跑！”马儿跟着她一起飞奔。",
+      "key": "corre · run"
+    },
+    {
+      "no": 6,
+      "time": "16:30",
+      "img": "/img/s03e14/f6.jpg",
+      "t": "Count the Otters",
+      "en": "“Count with me.” The giant otters help them cross the river.",
+      "cn": "“跟我一起数。”大水獭帮他们过了河。",
+      "key": "otters · river"
+    },
+    {
+      "no": 7,
+      "time": "18:50",
+      "img": "/img/s03e14/f7.jpg",
+      "t": "Dora, Dora, Dora!",
+      "en": "“Dora, Dora, Dora!” Diego and Boots cheer her on.",
+      "cn": "“Dora！Dora！Dora！”Diego 和 Boots 大声给她加油。",
+      "key": "cheer · Dora"
+    },
+    {
+      "no": 8,
+      "time": "20:50",
+      "img": "/img/s03e14/f8.jpg",
+      "t": "On the Field",
+      "en": "Dora runs onto the field in her yellow shirt and kicks the ball.",
+      "cn": "Dora 穿上黄色球衣冲进球场，一脚把球踢了出去。",
+      "key": "field · kicks"
+    },
+    {
+      "no": 9,
+      "time": "21:40",
+      "img": "/img/s03e14/f9.jpg",
+      "t": "The Yellow Team Wins",
+      "en": "“Then the giant otters helped us fix the bridge.” The Yellow Team wins!",
+      "cn": "“后来大水獭帮我们修好了桥。”黄队赢啦！",
+      "key": "Yellow Team · wins"
+    }
+  ],
+  "words": [
+    ["soccer", "足球"],
+    ["game", "比赛"],
+    ["team", "球队"],
+    ["player", "球员"],
+    ["field", "球场"],
+    ["kick", "踢"],
+    ["goalie", "守门员"],
+    ["jump", "跳"],
+    ["salta", "跳（西语）"],
+    ["corre", "跑（西语）"],
+    ["referee", "裁判"],
+    ["win", "赢"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Dora Saves The Game”.",
+  "ending": "In the end, the Yellow Team wins the game. My favorite part is ______."
+}

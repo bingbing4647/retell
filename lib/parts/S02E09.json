@@ -1,0 +1,108 @@
+{
+  "id": "S02E09",
+  "season": 2,
+  "episode": 9,
+  "title": "Pinto, the Pony Express",
+  "titleCn": "小马快递",
+  "hook": "牛仔要送一袋饼干，可路上还有 Swiper 在等着。",
+  "cover": "/img/s02e09/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s02e09/f1.jpg",
+      "t": "Yee-Ha!",
+      "en": "Cowgirl Dora and Cowboy Boots ride Pinto the pony. Yee-ha!",
+      "cn": "牛仔 Dora 和牛仔 Boots 骑上小马 Pinto，喊着“Yee-ha”出发。",
+      "key": "cowgirl · pony"
+    },
+    {
+      "no": 2,
+      "time": "03:20",
+      "img": "/img/s02e09/f2.jpg",
+      "t": "Ask the Map",
+      "en": "Map says: the cactus tunnel, the rocks, then Benny's barn.",
+      "cn": "地图指路：仙人掌隧道 → 岩石 → Benny 的谷仓。",
+      "key": "cactus tunnel · rocks · barn"
+    },
+    {
+      "no": 3,
+      "time": "04:00",
+      "img": "/img/s02e09/f3.jpg",
+      "t": "Say It with Us",
+      "en": "They say it again and again so they will not forget.",
+      "cn": "他们一遍又一遍念着这三个地方，怕走错了路。",
+      "key": "again and again · forget"
+    },
+    {
+      "no": 4,
+      "time": "06:40",
+      "img": "/img/s02e09/f4.jpg",
+      "t": "Just a Cactus?",
+      "en": "“Is that just a cactus?” They ride across the hot desert.",
+      "cn": "“那只是一棵仙人掌吗？”他们骑着马穿过炎热的沙漠。",
+      "key": "cactus · desert"
+    },
+    {
+      "no": 5,
+      "time": "10:00",
+      "img": "/img/s02e09/f5.jpg",
+      "t": "Seven Gold Stones",
+      "en": "In the dark tunnel, they follow seven little gold stones.",
+      "cn": "走进黑黑的仙人掌隧道，他们跟着七颗小石头往前走。",
+      "key": "tunnel · gold stones"
+    },
+    {
+      "no": 6,
+      "time": "12:40",
+      "img": "/img/s02e09/f6.jpg",
+      "t": "Watch Out!",
+      "en": "“Sounds like a snake!” They ride on very carefully.",
+      "cn": "“好像有蛇！”他们放慢速度，小心地往前骑。",
+      "key": "snake · careful"
+    },
+    {
+      "no": 7,
+      "time": "16:00",
+      "img": "/img/s02e09/f7.jpg",
+      "t": "Benny's Barn",
+      "en": "At last they see the red barn. Benny is waiting inside!",
+      "cn": "终于看见红色的谷仓，Benny 正在里面等着收饼干。",
+      "key": "red barn · waiting"
+    },
+    {
+      "no": 8,
+      "time": "18:00",
+      "img": "/img/s02e09/f8.jpg",
+      "t": "Swiper!",
+      "en": "Uh-oh, here comes Swiper! They must keep the cookies safe.",
+      "cn": "糟糕，Swiper 出现了！他们得把饼干藏好，不能让它偷走。",
+      "key": "Swiper · safe"
+    },
+    {
+      "no": 9,
+      "time": "21:20",
+      "img": "/img/s02e09/f9.jpg",
+      "t": "Yum, Yum!",
+      "en": "The cookies are safe. Everyone eats them up. Yum, yum!",
+      "cn": "饼干保住了，大家一起吃得津津有味，Yum yum！",
+      "key": "cookies · eat"
+    }
+  ],
+  "words": [
+    ["cowgirl", "牛仔女孩"],
+    ["pony", "小马"],
+    ["Pinto", "小马的名字"],
+    ["desert", "沙漠"],
+    ["cactus", "仙人掌"],
+    ["cactus tunnel", "仙人掌隧道"],
+    ["gold stones", "金色的石头"],
+    ["barn", "谷仓"],
+    ["cookies", "饼干"],
+    ["Swiper", "捣蛋鬼狐狸"],
+    ["Yee-ha!", "牛仔的欢呼声"],
+    ["careful", "小心的"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Pinto, the Pony Express”.",
+  "ending": "In the end, Benny gets his cookies. My favorite part is ______."
+}

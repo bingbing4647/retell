@@ -1,0 +1,108 @@
+{
+  "id": "S02E07",
+  "season": 2,
+  "episode": 7,
+  "title": "The Golden Explorers",
+  "titleCn": "金色探险家队",
+  "hook": "和恐龙踢一场足球，球门到底藏在哪儿？",
+  "cover": "/img/s02e07/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:00",
+      "img": "/img/s02e07/f1.jpg",
+      "t": "A Soccer Game",
+      "en": "Dora and her friends meet some dinosaurs. They all want to play soccer!",
+      "cn": "Dora 和朋友们遇到一群恐龙，大家约好来踢一场足球赛。",
+      "key": "dinosaurs · soccer"
+    },
+    {
+      "no": 2,
+      "time": "06:00",
+      "img": "/img/s02e07/f2.jpg",
+      "t": "Kick It into the Net",
+      "en": "They must kick the ball into the net to score a goal.",
+      "cn": "要把球踢进球门才能得分，可球门在很远的地方。",
+      "key": "kick · net · goal"
+    },
+    {
+      "no": 3,
+      "time": "08:00",
+      "img": "/img/s02e07/f3.jpg",
+      "t": "Ask the Map",
+      "en": "Map shows the way to the net. They must pass a tall tree.",
+      "cn": "地图指路：去球门要先经过一棵很高的大树。",
+      "key": "way · tall tree"
+    },
+    {
+      "no": 4,
+      "time": "09:20",
+      "img": "/img/s02e07/f4.jpg",
+      "t": "Tree, Tall, Net",
+      "en": "They say it together: “Tree, tall, net!” to remember the way.",
+      "cn": "他们一起念口诀“树、高高的、球门”，生怕把路忘了。",
+      "key": "remember · the way"
+    },
+    {
+      "no": 5,
+      "time": "10:40",
+      "img": "/img/s02e07/f5.jpg",
+      "t": "Where Is He?",
+      "en": "Where is the little dinosaur? He hides behind the trees.",
+      "cn": "小恐龙躲到树林里去了，大家一起找他藏在哪儿。",
+      "key": "hide · behind"
+    },
+    {
+      "no": 6,
+      "time": "14:00",
+      "img": "/img/s02e07/f6.jpg",
+      "t": "Keep Walking",
+      "en": "They walk on and on with the ball. Where is the net?",
+      "cn": "他们带着球一直往前走，球门到底还有多远？",
+      "key": "walk on · ball"
+    },
+    {
+      "no": 7,
+      "time": "16:40",
+      "img": "/img/s02e07/f7.jpg",
+      "t": "In the Middle",
+      "en": "One big dinosaur sits right in the middle of the field.",
+      "cn": "一只大恐龙坐在球场正中间，把前面的路挡得死死的。",
+      "key": "sit · middle of the field"
+    },
+    {
+      "no": 8,
+      "time": "19:20",
+      "img": "/img/s02e07/f8.jpg",
+      "t": "Do You See the Net?",
+      "en": "Do you see the net? Look carefully. They are almost there!",
+      "cn": "你看见球门了吗？仔细找一找，就快到了。",
+      "key": "see · net"
+    },
+    {
+      "no": 9,
+      "time": "22:00",
+      "img": "/img/s02e07/f9.jpg",
+      "t": "¡Lo Hicimos!",
+      "en": "“¡Lo Hicimos!” They score a goal and win the whole game!",
+      "cn": "“我们做到了！”他们踢进一球，赢下了整场比赛。",
+      "key": "score · win · ¡Lo Hicimos!"
+    }
+  ],
+  "words": [
+    ["soccer", "足球"],
+    ["kick", "踢"],
+    ["ball", "球"],
+    ["net", "球门"],
+    ["goal", "进球"],
+    ["dinosaur", "恐龙"],
+    ["team", "球队"],
+    ["Golden Explorers", "金色探险家队"],
+    ["field", "球场"],
+    ["pass", "传球"],
+    ["win", "赢"],
+    ["¡Lo Hicimos!", "我们做到了（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “The Golden Explorers”.",
+  "ending": "In the end, their team scores a goal. My favorite part is ______."
+}

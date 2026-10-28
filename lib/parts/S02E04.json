@@ -1,0 +1,108 @@
+{
+  "id": "S02E04",
+  "season": 2,
+  "episode": 4,
+  "title": "The Magic Stick",
+  "titleCn": "神奇的小棍子",
+  "hook": "从土里拔出一根小棍，它到底能做什么？答案在最高的山顶。",
+  "cover": "/img/s02e04/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "03:20",
+      "img": "/img/s02e04/f1.jpg",
+      "t": "Pull, Pull, Pull",
+      "en": "Boots pulls a little stick out of the ground. Is it magic?",
+      "cn": "Boots 从土里拔出一根小棍子，它会不会是一根魔法棒？",
+      "key": "pull · stick"
+    },
+    {
+      "no": 2,
+      "time": "05:10",
+      "img": "/img/s02e04/f2.jpg",
+      "t": "Ask the Map",
+      "en": "Map says they must cross the river and go over the wall.",
+      "cn": "地图说路线：先过河，再翻过一堵高墙，才能到山顶。",
+      "key": "river · wall"
+    },
+    {
+      "no": 3,
+      "time": "07:20",
+      "img": "/img/s02e04/f3.jpg",
+      "t": "Where Are We Going?",
+      "en": "They walk and walk. Where are they going with the stick?",
+      "cn": "他们一路走一路问“我们要去哪儿”，跟着地图往前走。",
+      "key": "walk · where"
+    },
+    {
+      "no": 4,
+      "time": "10:00",
+      "img": "/img/s02e04/f4.jpg",
+      "t": "Cross the River",
+      "en": "To cross the river, they ask Backpack for a paddle.",
+      "cn": "要过河，他们喊来 Backpack，从背包里找出一支船桨。",
+      "key": "cross · paddle"
+    },
+    {
+      "no": 5,
+      "time": "11:20",
+      "img": "/img/s02e04/f5.jpg",
+      "t": "Watch the Snakes",
+      "en": "Snakes are in the grass. They walk away from them slowly.",
+      "cn": "草丛里藏着蛇，他们慢慢绕开，小心别踩到。",
+      "key": "snake · grass"
+    },
+    {
+      "no": 6,
+      "time": "14:40",
+      "img": "/img/s02e04/f6.jpg",
+      "t": "A Long Stick",
+      "en": "A toucan calls “Gordo!” A long stick lies on the ground.",
+      "cn": "大嘴鸟喊了一声“Gordo”，地上正好躺着一根长长的树枝。",
+      "key": "toucan · long stick"
+    },
+    {
+      "no": 7,
+      "time": "17:20",
+      "img": "/img/s02e04/f7.jpg",
+      "t": "Climb the Ladder",
+      "en": "They count one, two, three and climb the tall ladder.",
+      "cn": "他们一边数一二三，一边爬上高高的梯子，翻过墙。",
+      "key": "count · ladder"
+    },
+    {
+      "no": 8,
+      "time": "20:00",
+      "img": "/img/s02e04/f8.jpg",
+      "t": "On the Top",
+      "en": "On the top of the hill, they put the stick in the ground.",
+      "cn": "到了最高的山顶，他们把魔法棒插进土里，等它施展魔力。",
+      "key": "top of the hill · ground"
+    },
+    {
+      "no": 9,
+      "time": "22:00",
+      "img": "/img/s02e04/f9.jpg",
+      "t": "The Hill Is Alive",
+      "en": "Flowers bloom everywhere! “You brought our hill back to life!”",
+      "cn": "满山的花一下子全开了，青蛙说“你让我们的山活了过来！”",
+      "key": "flowers · bloom"
+    }
+  ],
+  "words": [
+    ["stick", "小棍子"],
+    ["magic", "魔法"],
+    ["pull", "拔"],
+    ["river", "河"],
+    ["wall", "墙"],
+    ["paddle", "船桨"],
+    ["snake", "蛇"],
+    ["toucan", "大嘴鸟"],
+    ["¡Gordo!", "胖胖的（西语）"],
+    ["ladder", "梯子"],
+    ["hill", "山丘"],
+    ["flowers", "花"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “The Magic Stick”.",
+  "ending": "In the end, the stick brings flowers to the hill. My favorite part is ______."
+}

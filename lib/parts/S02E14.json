@@ -1,0 +1,108 @@
+{
+  "id": "S02E14",
+  "season": 2,
+  "episode": 14,
+  "title": "¡Rápido, Tico!",
+  "titleCn": "快一点，Tico！",
+  "hook": "包裹是空的，玩具消防车跑到雪山山顶去了。",
+  "cover": "/img/s02e14/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s02e14/f1.jpg",
+      "t": "An Empty Box",
+      "en": "Boots opens the box. It is empty! Where is his fire truck?",
+      "cn": "Boots 打开包裹，里面空空的——他的消防车玩具不见了。",
+      "key": "box · empty"
+    },
+    {
+      "no": 2,
+      "time": "04:00",
+      "img": "/img/s02e14/f2.jpg",
+      "t": "Ask the Map",
+      "en": "Map says: the hill, the big slide, then Snowy Mountain.",
+      "cn": "地图指路：先过长满草的山丘，再走大滑梯，最后到雪山。",
+      "key": "hill · slide · Snowy Mountain"
+    },
+    {
+      "no": 3,
+      "time": "07:20",
+      "img": "/img/s02e14/f3.jpg",
+      "t": "Tico's Yellow Car",
+      "en": "Tico drives up in his yellow car. “Hop in, amigos!”",
+      "cn": "Tico 开着黄色小车赶来：“朋友们，快上车！”",
+      "key": "yellow car · hop in"
+    },
+    {
+      "no": 4,
+      "time": "09:20",
+      "img": "/img/s02e14/f4.jpg",
+      "t": "¡Para!",
+      "en": "Something blocks the road. “¡Para!” Tico stops the car.",
+      "cn": "前面有东西挡住路，他们喊“¡Para!”（停），Tico 赶紧刹车。",
+      "key": "¡Para! · stop"
+    },
+    {
+      "no": 5,
+      "time": "13:20",
+      "img": "/img/s02e14/f5.jpg",
+      "t": "From the Backpack",
+      "en": "They say “Backpack” to get the things they need for the trip.",
+      "cn": "他们喊“Backpack”，把路上要用到的东西从背包里取出来。",
+      "key": "Backpack · need"
+    },
+    {
+      "no": 6,
+      "time": "14:40",
+      "img": "/img/s02e14/f6.jpg",
+      "t": "Swiper Is Tricky",
+      "en": "They must cross the water. But that Swiper is pretty tricky!",
+      "cn": "他们要过湖，可那只 Swiper 总是花样百出地来捣乱。",
+      "key": "cross · tricky"
+    },
+    {
+      "no": 7,
+      "time": "18:40",
+      "img": "/img/s02e14/f7.jpg",
+      "t": "Which Way?",
+      "en": "Hill, slide, snowy mountain. They say it again to remember.",
+      "cn": "山丘、滑梯、雪山，他们再念一遍，怕走错方向。",
+      "key": "which way · remember"
+    },
+    {
+      "no": 8,
+      "time": "20:40",
+      "img": "/img/s02e14/f8.jpg",
+      "t": "Pedal, Pedal!",
+      "en": "They pedal hard in the little flying machine. Up they go!",
+      "cn": "他们用力踩着那台小飞行器，一点点往山顶升上去。",
+      "key": "pedal · up"
+    },
+    {
+      "no": 9,
+      "time": "22:40",
+      "img": "/img/s02e14/f9.jpg",
+      "t": "The Fire Truck!",
+      "en": "There it is, the red fire truck, right on top of the snow!",
+      "cn": "找到了！红色的玩具消防车就停在雪山顶上。",
+      "key": "fire truck · on top"
+    }
+  ],
+  "words": [
+    ["box", "盒子"],
+    ["empty", "空的"],
+    ["fire truck", "消防车"],
+    ["hill", "山丘"],
+    ["slide", "滑梯"],
+    ["Snowy Mountain", "雪山"],
+    ["¡Para!", "停（西语）"],
+    ["¡Rápido!", "快一点（西语）"],
+    ["pedal", "踩踏板"],
+    ["cross", "穿过"],
+    ["tricky", "狡猾的"],
+    ["amigos", "朋友们（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “¡Rápido, Tico!”.",
+  "ending": "In the end, Boots finds his toy fire truck. My favorite part is ______."
+}

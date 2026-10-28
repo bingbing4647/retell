@@ -1,0 +1,108 @@
+{
+  "id": "S02E16",
+  "season": 2,
+  "episode": 16,
+  "title": "Super Map!",
+  "titleCn": "超级地图",
+  "hook": "天上掉下一件红斗篷，地图一下子变成了会飞的“超级地图”。",
+  "cover": "/img/s02e16/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:00",
+      "img": "/img/s02e16/f1.jpg",
+      "t": "A Super Surprise",
+      "en": "Something red flies down from the sky. It is a red cape — for Map!",
+      "cn": "天上飞下来一件红红的东西——是一件红斗篷，正好给地图用。",
+      "key": "cape · red"
+    },
+    {
+      "no": 2,
+      "time": "04:55",
+      "img": "/img/s02e16/f2.jpg",
+      "t": "Super Map!",
+      "en": "Now Map is Super Map! He can fly and use his super breath.",
+      "cn": "地图从此变成“超级地图”，会飞，还会吹出超级大风。",
+      "key": "fly · super breath"
+    },
+    {
+      "no": 3,
+      "time": "05:30",
+      "img": "/img/s02e16/f3.jpg",
+      "t": "Three Places",
+      "en": "Map says: “Jungle, river, Dora's House!” They must walk all the way home.",
+      "cn": "地图指路：先过丛林，再下河，最后走回家。",
+      "key": "jungle · river"
+    },
+    {
+      "no": 4,
+      "time": "06:40",
+      "img": "/img/s02e16/f4.jpg",
+      "t": "Hi, Baby Birds",
+      "en": "In the jungle they say hello to the baby birds. “Chipi, chipi!”",
+      "cn": "丛林里有一群小鸟，他们挥手打招呼：“chipi，chipi！”",
+      "key": "baby birds · hello"
+    },
+    {
+      "no": 5,
+      "time": "09:00",
+      "img": "/img/s02e16/f5.jpg",
+      "t": "Snakes and Spiders",
+      "en": "Oh no! There are lots of snakes and spiders on this path.",
+      "cn": "糟糕，这条路上到处都是蛇和蜘蛛，不能走。",
+      "key": "snakes · spiders"
+    },
+    {
+      "no": 6,
+      "time": "11:00",
+      "img": "/img/s02e16/f6.jpg",
+      "t": "Super Jump!",
+      "en": "They have to super-jump across the logs. One, two, three — jump!",
+      "cn": "他们只能“超级跳”，一根一根木头跳过去。",
+      "key": "jump · logs"
+    },
+    {
+      "no": 7,
+      "time": "17:05",
+      "img": "/img/s02e16/f7.jpg",
+      "t": "Down the River",
+      "en": "They row a little red boat down the river. Super Map flies above them.",
+      "cn": "他们坐上小红船顺流而下，超级地图在头顶飞着带路。",
+      "key": "boat · river"
+    },
+    {
+      "no": 8,
+      "time": "21:05",
+      "img": "/img/s02e16/f8.jpg",
+      "t": "The Super Duper Slide",
+      "en": "At Dora's house there is a super duper slide. Down they go — whee!",
+      "cn": "家门口有个超大的滑梯，他们一路滑下来，开心极了。",
+      "key": "slide · house"
+    },
+    {
+      "no": 9,
+      "time": "22:00",
+      "img": "/img/s02e16/f9.jpg",
+      "t": "We Did It!",
+      "en": "Mami and Papi are waiting. “We did it!” everyone shouts.",
+      "cn": "妈妈和爸爸在院子里等着，大家一起喊“我们做到了！”",
+      "key": "We did it"
+    }
+  ],
+  "words": [
+    ["cape", "斗篷"],
+    ["surprise", "惊喜"],
+    ["jungle", "丛林"],
+    ["river", "河"],
+    ["log", "木头"],
+    ["snake", "蛇"],
+    ["spider", "蜘蛛"],
+    ["super breath", "超级大风"],
+    ["super jump", "超级跳"],
+    ["boat", "小船"],
+    ["slide", "滑梯"],
+    ["baby bird", "小鸟"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Super Map!”.",
+  "ending": "In the end, Super Map helps them get home. My favorite part is ______."
+}

@@ -1,0 +1,108 @@
+{
+  "id": "S03E15",
+  "season": 3,
+  "episode": 15,
+  "title": "BOO!",
+  "titleCn": "哇！万圣节",
+  "hook": "万圣节的晚上，Dora 扮成小猫、Boots 扮成海盗，一起去要糖果。",
+  "cover": "/img/s03e15/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s03e15/f1.jpg",
+      "t": "Trick or Treat",
+      "en": "“There's Boots.” He is a pirate with a goody bag. “Happy Halloween!”",
+      "cn": "“Boots 在那儿。”他扮成海盗，手里提着糖果袋：“万圣节快乐！”",
+      "key": "pirate · goody bag"
+    },
+    {
+      "no": 2,
+      "time": "04:10",
+      "img": "/img/s03e15/f2.jpg",
+      "t": "Map's Way",
+      "en": "Map says: the pumpkin patch, then the Good Witch's forest.",
+      "cn": "地图指路：先过南瓜地，再穿好心女巫的森林。",
+      "key": "pumpkin patch · forest"
+    },
+    {
+      "no": 3,
+      "time": "09:00",
+      "img": "/img/s03e15/f3.jpg",
+      "t": "The Pumpkin Patch",
+      "en": "“To get through the patch…” A scarecrow stands in the pumpkins.",
+      "cn": "“要穿过南瓜地……”一个稻草人立在南瓜堆里。",
+      "key": "scarecrow · pumpkins"
+    },
+    {
+      "no": 4,
+      "time": "10:20",
+      "img": "/img/s03e15/f4.jpg",
+      "t": "Which Way?",
+      "en": "Pumpkins, witch, house. “Which one comes next?” The witch!",
+      "cn": "南瓜地、女巫、房子——“下一个是哪一个？”是女巫！",
+      "key": "witch · next"
+    },
+    {
+      "no": 5,
+      "time": "12:00",
+      "img": "/img/s03e15/f5.jpg",
+      "t": "What's His Costume?",
+      "en": "“What's his costume?” He is dressed as a big pink pig. Oink!",
+      "cn": "“他扮的是什么？”——一头粉红色的大猪。哼哼！",
+      "key": "costume · pig"
+    },
+    {
+      "no": 6,
+      "time": "14:40",
+      "img": "/img/s03e15/f6.jpg",
+      "t": "Boo!",
+      "en": "A white ghost floats out of the trees. “Boo!” they all shout.",
+      "cn": "一只白幽灵从树后飘出来，大家一起喊：“哇！”",
+      "key": "ghost · Boo"
+    },
+    {
+      "no": 7,
+      "time": "16:50",
+      "img": "/img/s03e15/f7.jpg",
+      "t": "Fly Through the Forest",
+      "en": "“To fly through the forest, we'd better hang on tight!”",
+      "cn": "“要飞过森林，我们最好抓稳一点！”",
+      "key": "fly · hang on"
+    },
+    {
+      "no": 8,
+      "time": "20:10",
+      "img": "/img/s03e15/f8.jpg",
+      "t": "I'm Home!",
+      "en": "“I'm home, I'm home!” The purple monsters run to their door.",
+      "cn": "“我回来啦，我回来啦！”紫色小怪物跑向自己家门口。",
+      "key": "monsters · home"
+    },
+    {
+      "no": 9,
+      "time": "21:30",
+      "img": "/img/s03e15/f9.jpg",
+      "t": "Happy Halloween",
+      "en": "Even Swiper gets a goody bag. “Happy Halloween to all!”",
+      "cn": "连 Swiper 也拿到了糖果袋：“祝大家万圣节快乐！”",
+      "key": "Swiper · Happy Halloween"
+    }
+  ],
+  "words": [
+    ["Halloween", "万圣节"],
+    ["costume", "服装、装扮"],
+    ["trick or treat", "不给糖就捣蛋"],
+    ["goody bag", "糖果袋"],
+    ["pumpkin", "南瓜"],
+    ["scarecrow", "稻草人"],
+    ["witch", "女巫"],
+    ["ghost", "幽灵"],
+    ["bat", "蝙蝠"],
+    ["monster", "怪物"],
+    ["Boo", "哇（吓人声）"],
+    ["candy", "糖果"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “BOO!”.",
+  "ending": "In the end, everyone gets candy on Halloween night. My favorite part is ______."
+}

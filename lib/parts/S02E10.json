@@ -1,0 +1,108 @@
+{
+  "id": "S02E10",
+  "season": 2,
+  "episode": 10,
+  "title": "The Big Piñata",
+  "titleCn": "大皮纳塔",
+  "hook": "十张黄票才能换到那个大皮纳塔，还差几张？",
+  "cover": "/img/s02e10/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s02e10/f1.jpg",
+      "t": "The Carnival",
+      "en": "Dora and Boots come to the carnival. There is so much to do!",
+      "cn": "Dora 和 Boots 来到嘉年华，这里好玩的东西太多了。",
+      "key": "carnival · so much"
+    },
+    {
+      "no": 2,
+      "time": "03:20",
+      "img": "/img/s02e10/f2.jpg",
+      "t": "Ask the Map",
+      "en": "Map says: past the ferris wheel, then the merry-go-round, then the piñata.",
+      "cn": "地图指路：经过摩天轮 → 旋转木马 → 大皮纳塔。",
+      "key": "ferris wheel · merry-go-round · piñata"
+    },
+    {
+      "no": 3,
+      "time": "06:00",
+      "img": "/img/s02e10/f3.jpg",
+      "t": "Win the Tickets",
+      "en": "To win the big piñata, they must get ten yellow tickets.",
+      "cn": "想赢到那个大皮纳塔，得先集满十张黄色奖券。",
+      "key": "win · yellow tickets"
+    },
+    {
+      "no": 4,
+      "time": "09:20",
+      "img": "/img/s02e10/f4.jpg",
+      "t": "A Piece Is Missing",
+      "en": "They play a game, but one piece is missing. Where is it?",
+      "cn": "他们玩一个拼图游戏，可少了一块，得把它找出来。",
+      "key": "game · piece"
+    },
+    {
+      "no": 5,
+      "time": "12:00",
+      "img": "/img/s02e10/f5.jpg",
+      "t": "Let's Go Win It",
+      "en": "“Come on, let's go win the big piñata!” They run on.",
+      "cn": "“走，去把大皮纳塔赢回来！”他们又跑着往前赶。",
+      "key": "win · run on"
+    },
+    {
+      "no": 6,
+      "time": "15:20",
+      "img": "/img/s02e10/f6.jpg",
+      "t": "Look Out!",
+      "en": "Look out! Is that Swiper by the shop? They hurry away.",
+      "cn": "小心！商店旁边那个是 Swiper 吗？他们赶紧跑开。",
+      "key": "look out · hurry"
+    },
+    {
+      "no": 7,
+      "time": "18:20",
+      "img": "/img/s02e10/f7.jpg",
+      "t": "The Merry-Go-Round",
+      "en": "They ride the merry-go-round and win more yellow tickets.",
+      "cn": "他们坐上旋转木马，又赢到了几张黄票。",
+      "key": "merry-go-round · tickets"
+    },
+    {
+      "no": 8,
+      "time": "20:40",
+      "img": "/img/s02e10/f8.jpg",
+      "t": "Ten Yellow Tickets",
+      "en": "“We have ten yellow tickets!” Now they can get the piñata.",
+      "cn": "“我们有十张黄票啦！”这下终于可以换大皮纳塔了。",
+      "key": "ten · tickets"
+    },
+    {
+      "no": 9,
+      "time": "22:40",
+      "img": "/img/s02e10/f9.jpg",
+      "t": "What a Day!",
+      "en": "The piñata breaks open. Toys and candy fall out for everyone!",
+      "cn": "皮纳塔被打开，玩具和糖果撒了一地，人人都有份。",
+      "key": "break open · candy"
+    }
+  ],
+  "words": [
+    ["carnival", "嘉年华"],
+    ["piñata", "皮纳塔（装礼物的纸偶）"],
+    ["ticket", "奖券"],
+    ["yellow tickets", "黄色奖券"],
+    ["ferris wheel", "摩天轮"],
+    ["merry-go-round", "旋转木马"],
+    ["game", "游戏"],
+    ["win", "赢"],
+    ["candy", "糖果"],
+    ["toys", "玩具"],
+    ["look out", "小心"],
+    ["piece", "一块"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “The Big Piñata”.",
+  "ending": "In the end, they win the big piñata. My favorite part is ______."
+}

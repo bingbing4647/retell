@@ -1,0 +1,108 @@
+{
+  "id": "S03E16",
+  "season": 3,
+  "episode": 16,
+  "title": "What Happens Next?",
+  "titleCn": "后来发生了什么",
+  "hook": "童话书的结尾全掉了，Dora 和 Boots 要走进故事里，把「后来呢」找回来告诉国王。",
+  "cover": "/img/s03e16/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "00:45",
+      "img": "/img/s03e16/f1.jpg",
+      "t": "The Story Book",
+      "en": "“Hola!” Dora opens her story book. But every ending is missing!",
+      "cn": "“你好！”Dora 翻开童话书——可每个故事的结尾都不见了！",
+      "key": "story book · ending"
+    },
+    {
+      "no": 2,
+      "time": "02:10",
+      "img": "/img/s03e16/f2.jpg",
+      "t": "The Big Bad Wolf",
+      "en": "The wolf huffs and puffs, but the little pig's brick house does not fall down.",
+      "cn": "大灰狼又吹又吼，可小猪的砖房子一点儿也没倒。",
+      "key": "wolf · brick house"
+    },
+    {
+      "no": 3,
+      "time": "03:20",
+      "img": "/img/s03e16/f3.jpg",
+      "t": "Thank You, King",
+      "en": "“Oh, thank you, thank you, King.” The little pig is safe in his new house.",
+      "cn": "“谢谢您，谢谢您，国王。”小猪在新房子里很安全。",
+      "key": "King · safe"
+    },
+    {
+      "no": 4,
+      "time": "07:00",
+      "img": "/img/s03e16/f4.jpg",
+      "t": "Hurry to the Castle",
+      "en": "Dora and Boots run up the green hill. “We have to get to the castle!”",
+      "cn": "Dora 和 Boots 跑上绿色的小山坡：“我们得赶到城堡去！”",
+      "key": "hill · castle"
+    },
+    {
+      "no": 5,
+      "time": "09:30",
+      "img": "/img/s03e16/f5.jpg",
+      "t": "The Three Bears",
+      "en": "“I wanted to sit down, but I broke one of your chairs,” says Baby Bear.",
+      "cn": "小熊说：“我想坐下来，可是把你们的一把椅子坐坏了。”",
+      "key": "sit down · chair"
+    },
+    {
+      "no": 6,
+      "time": "10:40",
+      "img": "/img/s03e16/f6.jpg",
+      "t": "Through the Door",
+      "en": "“We made it!” Dora and Boots knock on the big wooden door of the castle.",
+      "cn": "“我们到啦！”Dora 和 Boots 敲响城堡那扇大木门。",
+      "key": "door · castle"
+    },
+    {
+      "no": 7,
+      "time": "15:00",
+      "img": "/img/s03e16/f7.jpg",
+      "t": "Map's Three Stops",
+      "en": "Map says: the story house, then the tall tree, and the rainbow by the castle.",
+      "cn": "地图说：先到故事小屋，再到那棵高树，最后是城堡边的彩虹。",
+      "key": "story house · rainbow"
+    },
+    {
+      "no": 8,
+      "time": "18:20",
+      "img": "/img/s03e16/f8.jpg",
+      "t": "Backpack, Backpack",
+      "en": "Backpack has a spoon, a crayon, a whistle, a lollipop and a bubble wand.",
+      "cn": "背包里有勺子、蜡笔、哨子、棒棒糖和吹泡泡棒。",
+      "key": "Backpack · lollipop"
+    },
+    {
+      "no": 9,
+      "time": "21:30",
+      "img": "/img/s03e16/f9.jpg",
+      "t": "The Rainbow Ending",
+      "en": "The King and Queen clap. “Now we know what happens next!” A rainbow shines.",
+      "cn": "国王和王后鼓掌：“现在我们知道了后来发生了什么！”彩虹亮起来。",
+      "key": "King · rainbow"
+    }
+  ],
+  "words": [
+    ["story", "故事"],
+    ["ending", "结尾"],
+    ["castle", "城堡"],
+    ["king", "国王"],
+    ["queen", "王后"],
+    ["wolf", "狼"],
+    ["brick", "砖"],
+    ["chair", "椅子"],
+    ["rainbow", "彩虹"],
+    ["happen", "发生"],
+    ["next", "接下来"],
+    ["safe", "安全的"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “What Happens Next?”.",
+  "ending": "In the end, Dora finds every missing ending and tells the King. My favorite part is ______."
+}

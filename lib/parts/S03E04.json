@@ -1,0 +1,108 @@
+{
+  "id": "S03E04",
+  "season": 3,
+  "episode": 4,
+  "title": "Roberto The Robot",
+  "titleCn": "机器人罗贝托",
+  "hook": "机器人 Roberto 坏了，得找齐零件把他修好，再送他回家。",
+  "cover": "/img/s03e04/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:30",
+      "img": "/img/s03e04/f1.jpg",
+      "t": "Roberto Is Broken",
+      "en": "Roberto the robot is broken. He needs batteries and lots of tools.",
+      "cn": "机器人 Roberto 坏了，他需要电池，还需要一堆工具。",
+      "key": "robot · batteries"
+    },
+    {
+      "no": 2,
+      "time": "04:50",
+      "img": "/img/s03e04/f2.jpg",
+      "t": "Map's Way",
+      "en": "Map says: the bridge, then past the volcano, then Grandpa's house.",
+      "cn": "地图指路：先过桥，再绕过火山，最后到爷爷家。",
+      "key": "bridge · volcano"
+    },
+    {
+      "no": 3,
+      "time": "09:30",
+      "img": "/img/s03e04/f3.jpg",
+      "t": "Up in the Tree House",
+      "en": "Roberto climbs up to the tree house. “I can fix myself here!”",
+      "cn": "Roberto 爬上树屋：“我可以在这里把自己修好！”",
+      "key": "climbs · tree house"
+    },
+    {
+      "no": 4,
+      "time": "11:30",
+      "img": "/img/s03e04/f4.jpg",
+      "t": "The Blue Bridge",
+      "en": "They come to a long blue bridge. One step, two steps, three!",
+      "cn": "他们来到一座长长的蓝桥边，一步一步往前走。",
+      "key": "blue bridge · steps"
+    },
+    {
+      "no": 5,
+      "time": "12:50",
+      "img": "/img/s03e04/f5.jpg",
+      "t": "Across We Go",
+      "en": "“Yeah, there it is.” Roberto walks across the bridge by himself.",
+      "cn": "“对，就是那儿。”Roberto 自己走过了桥。",
+      "key": "across · by himself"
+    },
+    {
+      "no": 6,
+      "time": "14:50",
+      "img": "/img/s03e04/f6.jpg",
+      "t": "Up and Down",
+      "en": "“Up and down, up and down.” Roberto's legs go up and down.",
+      "cn": "“上去、下来，上去、下来。”Roberto 的腿一抬一放，走得很稳。",
+      "key": "up and down · legs"
+    },
+    {
+      "no": 7,
+      "time": "17:30",
+      "img": "/img/s03e04/f7.jpg",
+      "t": "The Last Stop",
+      "en": "Only one place left: Grandpa's house. The volcano is behind them.",
+      "cn": "只剩最后一站——爷爷家，火山已经被他们甩在身后。",
+      "key": "Grandpa's house · left"
+    },
+    {
+      "no": 8,
+      "time": "19:40",
+      "img": "/img/s03e04/f8.jpg",
+      "t": "The Tandem Bike",
+      "en": "They all ride a big bike together. “Hold on tight!”",
+      "cn": "他们一起骑上三人自行车：“抓稳啦！”",
+      "key": "bike · together"
+    },
+    {
+      "no": 9,
+      "time": "20:40",
+      "img": "/img/s03e04/f9.jpg",
+      "t": "Roberto Goes Home",
+      "en": "There is Grandpa's house. “We got Roberto home!” Everyone cheers.",
+      "cn": "爷爷家到了。“我们把 Roberto 送回家了！”大家欢呼起来。",
+      "key": "home · cheers"
+    }
+  ],
+  "words": [
+    ["robot", "机器人"],
+    ["battery", "电池"],
+    ["tool", "工具"],
+    ["wrench", "扳手"],
+    ["screwdriver", "螺丝刀"],
+    ["ruler", "尺子"],
+    ["bridge", "桥"],
+    ["volcano", "火山"],
+    ["climb", "爬"],
+    ["up and down", "上上下下"],
+    ["bike", "自行车"],
+    ["home", "家"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Roberto The Robot”.",
+  "ending": "In the end, they bring Roberto back to his grandpa. My favorite part is ______."
+}

@@ -1,0 +1,108 @@
+{
+  "id": "S02E23",
+  "season": 2,
+  "episode": 23,
+  "title": "Quack! Quack!",
+  "titleCn": "嘎嘎，嘎嘎！",
+  "hook": "涂色本里的小黄鸭跳出来了，得把它送回鸭妈妈身边。",
+  "cover": "/img/s02e23/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s02e23/f1.jpg",
+      "t": "The Coloring Book",
+      "en": "Dora colours a duck pond for Mommy Duck. Five eggs wait in the grass.",
+      "cn": "Dora 在涂色本上给鸭妈妈画一个池塘，草里还等着五个白白的蛋。",
+      "key": "coloring book · pond"
+    },
+    {
+      "no": 2,
+      "time": "03:20",
+      "img": "/img/s02e23/f2.jpg",
+      "t": "A Duckling Comes Alive",
+      "en": "A little yellow duckling jumps out of the book! “Quack, quack!”",
+      "cn": "一只小黄鸭从书里跳了出来：“嘎嘎，嘎嘎！”",
+      "key": "duckling · quack"
+    },
+    {
+      "no": 3,
+      "time": "07:40",
+      "img": "/img/s02e23/f3.jpg",
+      "t": "Map's Way",
+      "en": "Map says: the rainbow, then the duck pond. “We'll bring your baby home soon.”",
+      "cn": "地图指路：先上彩虹桥，再到鸭子池塘——“我们很快把宝宝送回家。”",
+      "key": "rainbow · duck pond"
+    },
+    {
+      "no": 4,
+      "time": "10:00",
+      "img": "/img/s02e23/f4.jpg",
+      "t": "Color It In",
+      "en": "The duckling wants colours. “Colour it red!” Then green, then blue.",
+      "cn": "小鸭子喜欢颜色，他们把画涂成红的、绿的、蓝的。",
+      "key": "colour · red"
+    },
+    {
+      "no": 5,
+      "time": "13:20",
+      "img": "/img/s02e23/f5.jpg",
+      "t": "Colors and Shapes",
+      "en": "At the market there are so many colours and shapes. Which do they need?",
+      "cn": "市场上有好多颜色和形状，他们该拿哪一个呢？",
+      "key": "colours · shapes"
+    },
+    {
+      "no": 6,
+      "time": "16:00",
+      "img": "/img/s02e23/f6.jpg",
+      "t": "Paint and Brushes",
+      "en": "They take paint and brushes to finish the picture for the duckling.",
+      "cn": "他们带上颜料和刷子，把画一点点补完整。",
+      "key": "paint · brushes"
+    },
+    {
+      "no": 7,
+      "time": "18:20",
+      "img": "/img/s02e23/f7.jpg",
+      "t": "There's a Rainbow!",
+      "en": "“Look! There's a rainbow!” It makes a bridge for them to cross.",
+      "cn": "“快看，是彩虹！”彩虹变成了一座桥，让他们走过去。",
+      "key": "rainbow · bridge"
+    },
+    {
+      "no": 8,
+      "time": "21:00",
+      "img": "/img/s02e23/f8.jpg",
+      "t": "Do You See Mommy Duck?",
+      "en": "“Do you see Mommy Duck?” “Yes! She's by the pond!”",
+      "cn": "“你看见鸭妈妈了吗？”——“看见了，就在池塘边上！”",
+      "key": "Mommy Duck · pond"
+    },
+    {
+      "no": 9,
+      "time": "22:00",
+      "img": "/img/s02e23/f9.jpg",
+      "t": "Back with Mommy",
+      "en": "“¡Gracias por su ayuda!” Mommy Duck has all her ducklings again.",
+      "cn": "“谢谢你们帮忙！”鸭妈妈又和它的宝宝们团聚了。",
+      "key": "ducklings · Gracias"
+    }
+  ],
+  "words": [
+    ["duck", "鸭子"],
+    ["duckling", "小鸭子"],
+    ["quack", "嘎嘎叫"],
+    ["coloring book", "涂色本"],
+    ["crayon", "蜡笔"],
+    ["paint", "颜料"],
+    ["brush", "刷子"],
+    ["rainbow", "彩虹"],
+    ["pond", "池塘"],
+    ["egg", "蛋"],
+    ["shape", "形状"],
+    ["colour / color", "颜色"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Quack! Quack!”.",
+  "ending": "In the end, the duckling finds Mommy Duck at the pond. My favorite part is ______."
+}

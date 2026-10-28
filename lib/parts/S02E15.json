@@ -1,0 +1,108 @@
+{
+  "id": "S02E15",
+  "season": 2,
+  "episode": 15,
+  "title": "A Present For Santa",
+  "titleCn": "给圣诞老人的礼物",
+  "hook": "平安夜，多出来一份礼物——是给圣诞老人的，可圣诞老人住在北极。",
+  "cover": "/img/s02e15/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:40",
+      "img": "/img/s02e15/f1.jpg",
+      "t": "Christmas at Abuela's",
+      "en": "It is Christmas Eve. Dora is at Abuela's house. She has a present for Boots.",
+      "cn": "平安夜，Dora 在奶奶家，树下的礼物堆得像小山，她给 Boots 准备了一份。",
+      "key": "Christmas Eve · present"
+    },
+    {
+      "no": 2,
+      "time": "04:45",
+      "img": "/img/s02e15/f2.jpg",
+      "t": "A Present for Santa",
+      "en": "There is one more present. It is for Santa! But Santa lives at the North Pole.",
+      "cn": "还剩一份礼物，是送给圣诞老人的！可圣诞老人住在遥远的北极。",
+      "key": "Santa · North Pole"
+    },
+    {
+      "no": 3,
+      "time": "05:50",
+      "img": "/img/s02e15/f3.jpg",
+      "t": "Map's Plan",
+      "en": "Map says: “Mountains, river, North Pole!” First they must cross the mountains.",
+      "cn": "地图指路：先过雪山，再过河，最后到北极。",
+      "key": "Map · mountains"
+    },
+    {
+      "no": 4,
+      "time": "07:20",
+      "img": "/img/s02e15/f4.jpg",
+      "t": "All Aboard!",
+      "en": "A little blue train comes. “We're going to the North Pole!” says Dora.",
+      "cn": "蓝色小火车开过来，Dora 抱着礼物说：“我们要去北极啦！”",
+      "key": "train · North Pole"
+    },
+    {
+      "no": 5,
+      "time": "11:20",
+      "img": "/img/s02e15/f5.jpg",
+      "t": "Riding Through the Snow",
+      "en": "The train goes through the snow. The present is shaped like a rectangle.",
+      "cn": "小火车穿过雪地，礼物盒是长方形的，抱在怀里稳稳的。",
+      "key": "snow · rectangle"
+    },
+    {
+      "no": 6,
+      "time": "14:00",
+      "img": "/img/s02e15/f6.jpg",
+      "t": "The Snow Cat",
+      "en": "On the mountain they meet a big snow cat. It is white and very funny.",
+      "cn": "雪山上他们遇到一只大雪猫，白白的，样子特别逗。",
+      "key": "mountain · snow cat"
+    },
+    {
+      "no": 7,
+      "time": "17:20",
+      "img": "/img/s02e15/f7.jpg",
+      "t": "Do You See the North Pole?",
+      "en": "They walk and walk. “Do you see the North Pole?” “Yes! Over there!”",
+      "cn": "他们走啊走，互相问：“你看到北极了没有？”——“看到了，就在那边！”",
+      "key": "walk · North Pole"
+    },
+    {
+      "no": 8,
+      "time": "20:40",
+      "img": "/img/s02e15/f8.jpg",
+      "t": "Santa's Guitar",
+      "en": "Santa opens the present. It is a guitar! He plays it and sings “¡Feliz Navidad!”",
+      "cn": "圣诞老人打开礼物——是一把吉他！他弹起来，唱着“圣诞快乐”。",
+      "key": "guitar · present"
+    },
+    {
+      "no": 9,
+      "time": "21:30",
+      "img": "/img/s02e15/f9.jpg",
+      "t": "Merry Christmas!",
+      "en": "Santa and the elves say thank you. Everyone is happy on Christmas Eve.",
+      "cn": "圣诞老人和小精灵一起道谢，平安夜的雪地里全是笑声。",
+      "key": "elves · thank you"
+    }
+  ],
+  "words": [
+    ["Christmas Eve", "平安夜"],
+    ["present", "礼物"],
+    ["Santa", "圣诞老人"],
+    ["North Pole", "北极"],
+    ["mountain", "山"],
+    ["river", "河"],
+    ["train", "火车"],
+    ["snow", "雪"],
+    ["rectangle", "长方形"],
+    ["guitar", "吉他"],
+    ["elf / elves", "小精灵"],
+    ["Merry Christmas", "圣诞快乐"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “A Present For Santa”.",
+  "ending": "In the end, Santa gets the guitar and plays it. My favorite part is ______."
+}

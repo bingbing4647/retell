@@ -1,0 +1,108 @@
+{
+  "id": "S03E25",
+  "season": 3,
+  "episode": 25,
+  "title": "Dora's Pirate Adventure",
+  "titleCn": "朵拉的海盗冒险",
+  "hook": "Dora 和朋友们要演一出海盗剧，可海盗服装不见了！他们真的扬帆出海，去把宝箱找回来。",
+  "cover": "/img/s03e25/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s03e25/f1.jpg",
+      "t": "A Pirate Play",
+      "en": "“Let's put on a pirate play!” Dora and all her friends are ready.",
+      "cn": "“我们来演一出海盗剧吧！”Dora 和朋友们都准备好了。",
+      "key": "pirate play · friends"
+    },
+    {
+      "no": 2,
+      "time": "04:00",
+      "img": "/img/s03e25/f2.jpg",
+      "t": "No Costumes",
+      "en": "“We can't do the play without our pirate costumes!” Oh no!",
+      "cn": "“没有海盗服装，我们就演不成了！”糟糕！",
+      "key": "play · costumes"
+    },
+    {
+      "no": 3,
+      "time": "10:30",
+      "img": "/img/s03e25/f3.jpg",
+      "t": "The Map",
+      "en": "“The Pirate Piggies took the treasure chest!” Map shows Treasure Island.",
+      "cn": "“海盗小猪们把宝箱拿走了！”地图上画着宝藏岛的位置。",
+      "key": "Piggies · Treasure Island"
+    },
+    {
+      "no": 4,
+      "time": "21:20",
+      "img": "/img/s03e25/f4.jpg",
+      "t": "Set Sail",
+      "en": "The pirate ship sails across the sea. Everybody stands on the deck.",
+      "cn": "海盗船在大海上航行，大家都站在甲板上。",
+      "key": "pirate ship · deck"
+    },
+    {
+      "no": 5,
+      "time": "22:30",
+      "img": "/img/s03e25/f5.jpg",
+      "t": "Silly Bird",
+      "en": "In the foggy fog they meet Silly Bird, a funny green parrot.",
+      "cn": "在大雾里，他们遇到了 Silly Bird——一只好玩的绿鹦鹉。",
+      "key": "fog · parrot"
+    },
+    {
+      "no": 6,
+      "time": "31:00",
+      "img": "/img/s03e25/f6.jpg",
+      "t": "Turn the Wheel",
+      "en": "“Isa, turn the wheel!” Isa helps the ship go the right way.",
+      "cn": "“Isa，转方向盘！”Isa 帮船开到了正确的方向。",
+      "key": "wheel · ship"
+    },
+    {
+      "no": 7,
+      "time": "38:20",
+      "img": "/img/s03e25/f7.jpg",
+      "t": "The Pirate Piggies",
+      "en": "“Give us back the treasure!” “No, we won't!” say the pirate piggies.",
+      "cn": "“把宝藏还给我们！”“才不呢！”海盗小猪们说。",
+      "key": "treasure · piggies"
+    },
+    {
+      "no": 8,
+      "time": "40:00",
+      "img": "/img/s03e25/f8.jpg",
+      "t": "Found It",
+      "en": "There it is! The treasure chest is open, full of bright colors.",
+      "cn": "找到啦！宝箱打开了，里面全是亮闪闪的颜色。",
+      "key": "chest · open"
+    },
+    {
+      "no": 9,
+      "time": "44:45",
+      "img": "/img/s03e25/f9.jpg",
+      "t": "The Show",
+      "en": "“I liked that, too.” The pirate play is a big hit with everyone.",
+      "cn": "“我也喜欢那一段。”这出海盗剧大受大家欢迎。",
+      "key": "pirate play · everyone"
+    }
+  ],
+  "words": [
+    ["pirate", "海盗"],
+    ["play", "戏剧、演出"],
+    ["costume", "戏服、装扮"],
+    ["treasure", "宝藏"],
+    ["chest", "箱子"],
+    ["island", "岛屿"],
+    ["ship", "船"],
+    ["sail", "航行"],
+    ["deck", "甲板"],
+    ["parrot", "鹦鹉"],
+    ["wheel", "方向盘、舵轮"],
+    ["flag", "旗子"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Dora's Pirate Adventure”.",
+  "ending": "In the end, Dora and her friends get the treasure chest back and put on their pirate play. My favorite part is ______."
+}

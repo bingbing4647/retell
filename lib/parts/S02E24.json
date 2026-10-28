@@ -1,0 +1,108 @@
+{
+  "id": "S02E24",
+  "season": 2,
+  "episode": 24,
+  "title": "León, The Circus Lion",
+  "titleCn": "马戏团狮子 León",
+  "hook": "狮子 León 想进马戏团当演员，可他有点儿不敢。",
+  "cover": "/img/s02e24/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:05",
+      "img": "/img/s02e24/f1.jpg",
+      "t": "Meet León",
+      "en": "A lion pops up right behind them. “Hi! I'm León.”",
+      "cn": "一头狮子忽然从他们背后冒出来：“嗨，我是 León。”",
+      "key": "lion · León"
+    },
+    {
+      "no": 2,
+      "time": "04:45",
+      "img": "/img/s02e24/f2.jpg",
+      "t": "Map's Way",
+      "en": "Map says: the swinging forest, the bridge, then the circus.",
+      "cn": "地图指路：先过“秋千森林”，再走长桥，最后到马戏团。",
+      "key": "swinging forest · circus"
+    },
+    {
+      "no": 3,
+      "time": "06:40",
+      "img": "/img/s02e24/f3.jpg",
+      "t": "The Swinging Forest",
+      "en": "First they go through the swinging forest. Swings, swings everywhere!",
+      "cn": "先穿过“秋千森林”，到处都是荡来荡去的秋千。",
+      "key": "swinging forest · swings"
+    },
+    {
+      "no": 4,
+      "time": "09:20",
+      "img": "/img/s02e24/f4.jpg",
+      "t": "Riding León",
+      "en": "“Put your feet in the air!” They ride on León's back. Whee!",
+      "cn": "“把脚翘起来！”他们骑在 León 背上，一路飞跑。",
+      "key": "feet · León"
+    },
+    {
+      "no": 5,
+      "time": "10:40",
+      "img": "/img/s02e24/f5.jpg",
+      "t": "Yes!",
+      "en": "“Do you see the swings?” “Yes!” They swing across the forest.",
+      "cn": "“看见秋千了吗？”——“看见了！”他们荡着秋千穿过森林。",
+      "key": "swings · across"
+    },
+    {
+      "no": 6,
+      "time": "15:00",
+      "img": "/img/s02e24/f6.jpg",
+      "t": "The Long Bridge",
+      "en": "Then they walk and walk across the long bridge.",
+      "cn": "接着他们走上长长的吊桥，一步一步往前走。",
+      "key": "walk · bridge"
+    },
+    {
+      "no": 7,
+      "time": "19:48",
+      "img": "/img/s02e24/f7.jpg",
+      "t": "Up on the Trapeze",
+      "en": "At the circus León climbs up high. “This is my greatest trick!”",
+      "cn": "到了马戏团，León 爬上高高的秋千架：“这是我最好的一招！”",
+      "key": "climbs · trick"
+    },
+    {
+      "no": 8,
+      "time": "21:40",
+      "img": "/img/s02e24/f8.jpg",
+      "t": "Ladies and Gentlemen",
+      "en": "“Damas y caballeros, niños y niñas…” The show begins!",
+      "cn": "“女士们、先生们，小朋友们……”演出开始啦！",
+      "key": "Damas y caballeros · show"
+    },
+    {
+      "no": 9,
+      "time": "22:00",
+      "img": "/img/s02e24/f9.jpg",
+      "t": "A Real Circus Lion",
+      "en": "“Now I'm a real circus lion!” Everyone claps and cheers.",
+      "cn": "“现在我是一头真正的马戏团狮子了！”全场鼓掌欢呼。",
+      "key": "real circus lion · claps"
+    }
+  ],
+  "words": [
+    ["circus", "马戏团"],
+    ["lion", "狮子"],
+    ["trapeze", "高空秋千"],
+    ["swing", "秋千"],
+    ["bridge", "桥"],
+    ["trick", "绝招"],
+    ["ringmaster", "马戏团团长"],
+    ["clap", "鼓掌"],
+    ["brave", "勇敢的"],
+    ["forest", "森林"],
+    ["high", "高的"],
+    ["show", "演出"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “León, The Circus Lion”.",
+  "ending": "In the end, León does his trick and becomes a real circus lion. My favorite part is ______."
+}

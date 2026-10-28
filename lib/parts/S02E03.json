@@ -1,0 +1,108 @@
+{
+  "id": "S02E03",
+  "season": 2,
+  "episode": 3,
+  "title": "The Big Storm",
+  "titleCn": "大暴风雨",
+  "hook": "雨云一路追着他们跑，唱首歌真的能把雨赶走吗？",
+  "cover": "/img/s02e03/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s02e03/f1.jpg",
+      "t": "Look at the Sky",
+      "en": "Dora looks up at the clouds. A big storm is coming soon!",
+      "cn": "Dora 抬头看云，乌云越聚越多，一场大暴风雨要来了。",
+      "key": "clouds · storm"
+    },
+    {
+      "no": 2,
+      "time": "03:50",
+      "img": "/img/s02e03/f2.jpg",
+      "t": "Ask the Map",
+      "en": "Map shows the quick way home before the big storm comes.",
+      "cn": "地图指了一条最快的回家路，要赶在暴风雨前面到家。",
+      "key": "way home · before"
+    },
+    {
+      "no": 3,
+      "time": "05:40",
+      "img": "/img/s02e03/f3.jpg",
+      "t": "Bush, Forest, Home",
+      "en": "First the bush, then the forest, then Dora's house!",
+      "cn": "先穿过灌木丛，再穿过森林，最后就到 Dora 的家。",
+      "key": "bush · forest"
+    },
+    {
+      "no": 4,
+      "time": "07:20",
+      "img": "/img/s02e03/f4.jpg",
+      "t": "Rain, Rain, Go Away",
+      "en": "They sing, “Rain, rain, go away. Come again some other day!”",
+      "cn": "他们一起唱《雨啊雨啊快走开》，想把雨云赶跑。",
+      "key": "rain · go away"
+    },
+    {
+      "no": 5,
+      "time": "11:40",
+      "img": "/img/s02e03/f5.jpg",
+      "t": "Benny's Tree House",
+      "en": "The wind breaks Benny's tree house. They need pieces of wood.",
+      "cn": "大风吹坏了 Benny 的树屋，得先找木片才能修。",
+      "key": "tree house · wood"
+    },
+    {
+      "no": 6,
+      "time": "15:00",
+      "img": "/img/s02e03/f6.jpg",
+      "t": "A Red Triangle",
+      "en": "Here is a red triangle. It can be the roof of the house!",
+      "cn": "找到一块红色的三角形木片，正好可以当屋顶。",
+      "key": "triangle · roof"
+    },
+    {
+      "no": 7,
+      "time": "16:40",
+      "img": "/img/s02e03/f7.jpg",
+      "t": "The Blue Path",
+      "en": "Tico must take the blue path. They shout “Azul!” to help him.",
+      "cn": "Tico 得走蓝色那条路，大家喊“Azul”（蓝色）给他指路。",
+      "key": "blue path · Azul"
+    },
+    {
+      "no": 8,
+      "time": "18:20",
+      "img": "/img/s02e03/f8.jpg",
+      "t": "The Rain Stops",
+      "en": "The tree house is fixed and the rain stops. Everyone shouts, “Yay!”",
+      "cn": "树屋修好了，雨也停了，大家高兴地欢呼起来。",
+      "key": "fix · stop"
+    },
+    {
+      "no": 9,
+      "time": "22:30",
+      "img": "/img/s02e03/f9.jpg",
+      "t": "A Big Rainbow",
+      "en": "A big rainbow comes out. They stopped the storm together!",
+      "cn": "天边出现一道大彩虹——他们真的把暴风雨赶走了。",
+      "key": "rainbow · together"
+    }
+  ],
+  "words": [
+    ["storm", "暴风雨"],
+    ["cloud", "云"],
+    ["bush", "灌木丛"],
+    ["forest", "森林"],
+    ["rain", "雨"],
+    ["go away", "走开"],
+    ["tree house", "树屋"],
+    ["wood", "木头"],
+    ["triangle", "三角形"],
+    ["roof", "屋顶"],
+    ["¡Azul!", "蓝色（西语）"],
+    ["rainbow", "彩虹"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “The Big Storm”.",
+  "ending": "In the end, they fix the tree house and the rain stops. My favorite part is ______."
+}

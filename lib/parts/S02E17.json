@@ -1,0 +1,108 @@
+{
+  "id": "S02E17",
+  "season": 2,
+  "episode": 17,
+  "title": "Lost Map",
+  "titleCn": "丢失的地图",
+  "hook": "傻大鸟把地图叼去当鸟窝的树枝，Dora 只好自己画一张地图。",
+  "cover": "/img/s02e17/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:00",
+      "img": "/img/s02e17/f1.jpg",
+      "t": "Come Back, Bird!",
+      "en": "A big silly bird takes Map away. “Come back, bird!” shouts Dora.",
+      "cn": "一只傻乎乎的大鸟把地图叼走了，Dora 边追边喊：“回来，大鸟！”",
+      "key": "bird · Map"
+    },
+    {
+      "no": 2,
+      "time": "02:30",
+      "img": "/img/s02e17/f2.jpg",
+      "t": "I Know!",
+      "en": "“How can we find Map?” “I know! I will draw a map!”",
+      "cn": "没有地图怎么找路？Dora 说：“我知道！我自己画一张！”",
+      "key": "draw a map"
+    },
+    {
+      "no": 3,
+      "time": "07:20",
+      "img": "/img/s02e17/f3.jpg",
+      "t": "The Butterfly Garden",
+      "en": "First they come to the butterfly garden. There are flowers everywhere.",
+      "cn": "第一站是蝴蝶花园，一眼望去全是盛开的花。",
+      "key": "butterfly garden · flowers"
+    },
+    {
+      "no": 4,
+      "time": "12:40",
+      "img": "/img/s02e17/f4.jpg",
+      "t": "The Cornfield",
+      "en": "Next is the cornfield. “Whoa! That corn is really high!”",
+      "cn": "第二站是玉米地，“哇，这些玉米长得真高！”",
+      "key": "cornfield · high"
+    },
+    {
+      "no": 5,
+      "time": "16:00",
+      "img": "/img/s02e17/f5.jpg",
+      "t": "Which Color?",
+      "en": "Three paths go through the corn. “What's the third color?” Blue!",
+      "cn": "玉米地里有三条彩色小路，第三条是蓝色的，走这条！",
+      "key": "path · color"
+    },
+    {
+      "no": 6,
+      "time": "17:20",
+      "img": "/img/s02e17/f6.jpg",
+      "t": "The Tallest Mountain",
+      "en": "“Right!” Now they can see the Tallest Mountain far away.",
+      "cn": "“对，往右！”抬头就能看见远处最高的那座山。",
+      "key": "Tallest Mountain"
+    },
+    {
+      "no": 7,
+      "time": "18:20",
+      "img": "/img/s02e17/f7.jpg",
+      "t": "Rolling Watermelons",
+      "en": "Watermelons roll down the hill! They must jump over them, one by one.",
+      "cn": "西瓜骨碌碌从坡上滚下来，他们只能一个一个跳过去。",
+      "key": "watermelons · jump"
+    },
+    {
+      "no": 8,
+      "time": "20:30",
+      "img": "/img/s02e17/f8.jpg",
+      "t": "Map in the Nest",
+      "en": "At the top, the silly bird used Map as a stick for its nest.",
+      "cn": "爬上山顶才看清：那只傻鸟把地图当成树枝，插在鸟窝里。",
+      "key": "nest · stick"
+    },
+    {
+      "no": 9,
+      "time": "21:10",
+      "img": "/img/s02e17/f9.jpg",
+      "t": "Their Own Map",
+      "en": "Dora's own map works! “You went to the butterfly garden…”",
+      "cn": "Dora 亲手画的地图真的管用，一路把他们带到了山顶。",
+      "key": "own map · works"
+    }
+  ],
+  "words": [
+    ["map", "地图"],
+    ["bird", "鸟"],
+    ["nest", "鸟窝"],
+    ["draw", "画"],
+    ["butterfly", "蝴蝶"],
+    ["garden", "花园"],
+    ["cornfield", "玉米地"],
+    ["path", "小路"],
+    ["Tallest Mountain", "最高的山"],
+    ["watermelon", "西瓜"],
+    ["jump over", "跳过去"],
+    ["stick", "树枝"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Lost Map”.",
+  "ending": "In the end, they find Map in the bird's nest. My favorite part is ______."
+}
