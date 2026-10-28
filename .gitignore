@@ -36,3 +36,8 @@ next-env.d.ts
 
 # local temp
 /.workbuddy/
+
+# 构建/部署残留
+/.stale-*/
+/_iotest/
+/dist-site/

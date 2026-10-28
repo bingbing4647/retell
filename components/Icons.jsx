@@ -110,3 +110,27 @@ export function IconClock(p) {
     </svg>
   );
 }
+
+export function IconPlay(p) {
+  return (
+    <svg {...base} {...p}>
+      <path d="M8 5.5v13l11-6.5z" />
+    </svg>
+  );
+}
+
+export function IconClose(p) {
+  return (
+    <svg {...base} {...p}>
+      <path d="m6 6 12 12M18 6 6 18" />
+    </svg>
+  );
+}
+
+export function IconExpand(p) {
+  return (
+    <svg {...base} {...p}>
+      <path d="M9 4H4v5M15 4h5v5M15 20h5v-5M9 20H4v-5" />
+    </svg>
+  );
+}

@@ -5,7 +5,7 @@
   "description": "朵拉爱冒险 · 九宫格英语复述站点",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node scripts/build.mjs",
     "serve": "next dev -p 3100",
     "pdf": "node scripts/make-pdfs.js && python scripts/merge-pdf.py",
     "pdf:one": "node scripts/make-pdfs.js",

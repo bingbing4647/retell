@@ -16,11 +16,27 @@
 ```bash
 npm install
 npm run dev          # 开发预览 http://localhost:3000
-npm run build        # 导出静态站到 out/
+npm run build        # 导出静态站到 out/（内部走 scripts/build.mjs）
 npx serve out        # 或任意静态服务器
 ```
 
-> 注：Windows 上若 `next build` 在沙箱环境报 `EPERM`，需在非沙箱终端执行。
+> **本机构建踩过的坑，`npm run build` 已全部内置处理**（详见 `scripts/build.mjs` 注释）：
+> 1. `next build` 直接跑会在 `Collecting build traces` 报 `EPERM: .next/trace` → 用
+>    `scripts/no-trace.cjs` 把这个纯日志文件改成空写（不影响产物）。
+> 2. WorkBuddy 注入的 fs shim 会拦批量删除、并让 `fs.cpSync` 段错误 → 构建脚本先以空
+>    `NODE_OPTIONS` 重启自己再清理。
+> 3. 首次全量构建偶发 `.nft.json` 还没落盘就 ENOENT → 脚本保留缓存自动重试（最多 3 次）。
+> 4. **构建前必须先停掉任何在 serve `out/` 的本地服务**（`python -m http.server` 等），
+>    否则它持有文件句柄，Next 清空 `out/` 会 `ENOTEMPTY`。
+
+## 单集播放模式（PPT 式翻页）
+
+每个单集页顶部的「播放模式」按钮会打开全屏播放器（`components/Slideshow.jsx`）：
+
+- 页面顺序：封面（3×3 缩略图）→ 9 张单页 → 收尾页（Word Bank + 复述框架）
+- 手机竖屏「上图下文」，横屏与桌面自动切成「左图右文」，都按一屏放得下排版
+- 交互：点击左右区域、键盘 `←` `→` `空格` `Home` `End`、手机左右滑动、底部进度点
+- 进页自动朗读该句英文（右上角可关）；`?play=1` 可直接进播放模式
 
 ## 目录结构
 

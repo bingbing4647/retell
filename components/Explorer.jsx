@@ -4,6 +4,7 @@ import { useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import episodes from "../lib/episodes.json";
 import { IconSearch, IconCheck, IconGrid, IconDownload } from "./Icons";
+import { seasonPdfName } from "../lib/filename";
 
 const SEASONS = [1, 2, 3, 4, 5];
 
@@ -123,7 +124,10 @@ export default function Explorer({ readyIds, seasonPdfs = {} }) {
                 <a
                   className="btn primary"
                   href={seasonPdfs[String(season)].url}
-                  download
+                  download={seasonPdfName(
+                    season,
+                    seasonPdfs[String(season)].episodes
+                  )}
                   title="把这一季所有已上线的集合并成一个 PDF 下载"
                 >
                   <IconDownload />

@@ -11,7 +11,10 @@ import {
   IconArrowL,
   IconArrowR,
   IconClock,
+  IconPlay,
 } from "./Icons";
+import Slideshow from "./Slideshow";
+import { episodePdfName, seasonPdfName } from "../lib/filename";
 
 const A4W = 793.7; // 210mm @96dpi
 const A4H = 1122.5; // 297mm @96dpi
@@ -23,6 +26,27 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
   const [speaking, setSpeaking] = useState(0);
   const [busy, setBusy] = useState(false);
   const [canSpeak, setCanSpeak] = useState(false);
+  const [deckAt, setDeckAt] = useState(-1); // -1 = 未打开；数字 = 从第几页开始
+
+  /* ---------- 打开播放器（顺带支持 ?play=1 直接播） ---------- */
+  const openDeck = useCallback(
+    (at = 0) => {
+      if (busy) {
+        cancelRef.current = true;
+        window.speechSynthesis?.cancel();
+        setSpeaking(0);
+        setBusy(false);
+      }
+      setDeckAt(at);
+    },
+    [busy]
+  );
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const q = new URLSearchParams(window.location.search);
+    if (q.get("play") === "1") setDeckAt(0);
+  }, []);
 
   /* ---------- 纸张自适应缩放 ---------- */
   useEffect(() => {
@@ -161,11 +185,24 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
         </div>
 
         <div className="actbar no-print">
-          <button type="button" className="btn primary" onClick={doPrint}>
+          <button
+            type="button"
+            className="btn primary"
+            onClick={() => openDeck(0)}
+            title="像放 PPT 一样一页一页看，手机横竖屏自适应"
+          >
+            <IconPlay /> 播放模式
+          </button>
+          <button type="button" className="btn" onClick={doPrint}>
             <IconPrint /> 打印这一页
           </button>
           {lesson.pdf && (
-            <a className="btn" href={lesson.pdf} download>
+            <a
+              className="btn"
+              href={lesson.pdf}
+              download={episodePdfName(lesson)}
+              title={`下载后文件名：${episodePdfName(lesson)}`}
+            >
               <IconDownload /> 下载本集 PDF
             </a>
           )}
@@ -173,7 +210,7 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
             <a
               className="btn ghost"
               href={seasonPdf.url}
-              download
+              download={seasonPdfName(lesson.season, seasonPdf.episodes)}
               title={`把 Season ${lesson.season} 全部 ${seasonPdf.episodes} 集合成一个 PDF`}
             >
               <IconDownload /> 整季 PDF（{seasonPdf.episodes} 集）
@@ -235,10 +272,20 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
                   key={c.no}
                   className={`cell ${speaking === c.no ? "reading" : ""}`}
                 >
-                  <div className="cell-pic">
+                  <div
+                    className="cell-pic"
+                    onClick={(e) => {
+                      if (e.target.closest("button")) return;
+                      openDeck(c.no);
+                    }}
+                    title="放大播放这一页"
+                  >
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img src={c.img} alt={c.t} />
                     <span className="cell-no">{c.no}</span>
+                    <span className="cell-play" aria-hidden="true">
+                      <IconPlay width={15} height={15} />
+                    </span>
                     <div className="cell-tools">
                       <span className="tool-chip">
                         <IconClock /> {c.time}
@@ -303,6 +350,14 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
           </div>
         </div>
       </div>
+
+      {deckAt >= 0 && (
+        <Slideshow
+          lesson={lesson}
+          start={deckAt}
+          onClose={() => setDeckAt(-1)}
+        />
+      )}
     </>
   );
 }
