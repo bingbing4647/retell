@@ -209,15 +209,15 @@
   "2": {
    "url": "/pdf/season-02.pdf",
    "episodes": 26,
-   "pages": 26,
-   "bytes": 14250468,
+   "pages": 28,
+   "bytes": 12333318,
    "label": "S2"
   },
   "3": {
    "url": "/pdf/season-03.pdf",
    "episodes": 25,
-   "pages": 25,
-   "bytes": 14010438,
+   "pages": 27,
+   "bytes": 12346142,
    "label": "S3"
   }
  }

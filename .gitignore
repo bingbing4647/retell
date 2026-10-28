@@ -41,3 +41,6 @@ next-env.d.ts
 /.stale-*/
 /_iotest/
 /dist-site/
+
+# PDF 校验用的临时截图
+scripts/_chk/
