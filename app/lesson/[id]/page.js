@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import NineGrid from "../../../components/NineGrid";
-import { getLesson, readyList } from "../../../lib/lessons";
+import { getLesson, readyList, seasonPdfs } from "../../../lib/lessons";
 import { IconGrid } from "../../../components/Icons";
 
 export function generateStaticParams() {
@@ -49,7 +49,12 @@ export default async function LessonPage({ params }) {
         </div>
       </header>
 
-      <NineGrid lesson={lesson} prev={prev} next={next} />
+      <NineGrid
+        lesson={lesson}
+        prev={prev}
+        next={next}
+        seasonPdf={seasonPdfs[String(lesson.season)] || null}
+      />
     </>
   );
 }

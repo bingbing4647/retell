@@ -16,7 +16,7 @@ import {
 const A4W = 793.7; // 210mm @96dpi
 const A4H = 1122.5; // 297mm @96dpi
 
-export default function NineGrid({ lesson, prev, next }) {
+export default function NineGrid({ lesson, prev, next, seasonPdf }) {
   const stageRef = useRef(null);
   const paperRef = useRef(null);
   const cancelRef = useRef(false);
@@ -166,7 +166,17 @@ export default function NineGrid({ lesson, prev, next }) {
           </button>
           {lesson.pdf && (
             <a className="btn" href={lesson.pdf} download>
-              <IconDownload /> 下载 PDF
+              <IconDownload /> 下载本集 PDF
+            </a>
+          )}
+          {seasonPdf && (
+            <a
+              className="btn ghost"
+              href={seasonPdf.url}
+              download
+              title={`把 Season ${lesson.season} 全部 ${seasonPdf.episodes} 集合成一个 PDF`}
+            >
+              <IconDownload /> 整季 PDF（{seasonPdf.episodes} 集）
             </a>
           )}
           {canSpeak && (

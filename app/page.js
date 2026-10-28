@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Explorer from "../components/Explorer";
 import { allEpisodes } from "../lib/episodes";
-import { readyList } from "../lib/lessons";
+import { readyList, seasonPdfs } from "../lib/lessons";
 import { IconGrid } from "../components/Icons";
 
 export default function Home() {
@@ -52,7 +52,7 @@ export default function Home() {
         </div>
       </section>
 
-      <Explorer readyIds={readyList} />
+      <Explorer readyIds={readyList} seasonPdfs={seasonPdfs} />
     </>
   );
 }

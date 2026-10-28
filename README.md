@@ -44,6 +44,28 @@ scripts/merge-lessons.py  校验 + 合并分片
 合并脚本会校验：9 格序号连续、12 组词、图片真实存在且 > 4KB、
 英文句 6–22 词、`key` 里的词确实出现在句子里。
 
+## PDF 下载（单集 / 整季）
+
+站点提供两种下载：
+
+- **单集**：详情页「下载本集 PDF」→ `public/pdf/SxxEyy.pdf`
+- **整季**：首页切到某一季，顶部出现「整季 PDF · N 页」→ `public/pdf/season-XX.pdf`
+  （整季文件带每集书签，可直接跳转）
+
+PDF 是**构建期预生成**的静态文件，不是浏览器打印：
+
+```bash
+npm run build            # 先导出 out/
+npx serve out            # 或 python -m http.server 3111 -d out
+npm run pdf              # Playwright 逐集打印 A4 → public/pdf/*.pdf
+                         # 再用 pypdf 按季合并 + 生成 manifest.json
+```
+
+- `npm run pdf:one S03E01` 只重做指定集；`ONLY_MISSING=1` 跳过已存在的
+- 依赖：`playwright`（本机已装 Chromium）+ Python `pypdf`
+- `manifest.json` 记录每集页数与体积，站点按钮文案从这里读；
+  文件缺失时按钮自动隐藏，不会出现死链
+
 ## 内容标准（三年级）
 
 - 每格英文 8–14 词，只用一般现在时 / `there is` / `can`

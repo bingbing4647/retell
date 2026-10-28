@@ -3,7 +3,7 @@
 import { useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import episodes from "../lib/episodes.json";
-import { IconSearch, IconCheck, IconGrid } from "./Icons";
+import { IconSearch, IconCheck, IconGrid, IconDownload } from "./Icons";
 
 const SEASONS = [1, 2, 3, 4, 5];
 
@@ -11,7 +11,13 @@ function pad(n) {
   return String(n).padStart(2, "0");
 }
 
-export default function Explorer({ readyIds }) {
+function fmtSize(bytes) {
+  if (!bytes) return "";
+  if (bytes < 1048576) return `${Math.round(bytes / 1024)} KB`;
+  return `${(bytes / 1048576).toFixed(1)} MB`;
+}
+
+export default function Explorer({ readyIds, seasonPdfs = {} }) {
   const ready = useMemo(() => new Set(readyIds), [readyIds]);
   const [season, setSeason] = useState(0); // 0 = 全部
   const [q, setQ] = useState("");
@@ -103,6 +109,35 @@ export default function Explorer({ readyIds }) {
 
       <div className="grid-area">
         <div className="wrap">
+          {season !== 0 && (
+            <div className="season-bar">
+              <div className="sb-txt">
+                <b>S{season}</b>
+                <span>
+                  共 {counts[season] || 0} 集 · 已上线{" "}
+                  {episodes.filter((e) => e.s === season && ready.has(e.id)).length} 集
+                </span>
+              </div>
+              <div className="sb-sp" />
+              {seasonPdfs[String(season)] ? (
+                <a
+                  className="btn primary"
+                  href={seasonPdfs[String(season)].url}
+                  download
+                  title="把这一季所有已上线的集合并成一个 PDF 下载"
+                >
+                  <IconDownload />
+                  整季 PDF · {seasonPdfs[String(season)].pages} 页
+                  {seasonPdfs[String(season)].bytes
+                    ? ` · ${fmtSize(seasonPdfs[String(season)].bytes)}`
+                    : ""}
+                </a>
+              ) : (
+                <span className="sb-hint">整季 PDF 正在生成中</span>
+              )}
+            </div>
+          )}
+
           <div className="section-note">
             <IconGrid width={14} height={14} />
             {sorted.length} 集 · 点亮的可以进去做复述，其余正在陆续上线

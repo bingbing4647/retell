@@ -6,7 +6,10 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "serve": "next dev -p 3100"
+    "serve": "next dev -p 3100",
+    "pdf": "node scripts/make-pdfs.js && python scripts/merge-pdf.py",
+    "pdf:one": "node scripts/make-pdfs.js",
+    "pdf:merge": "python scripts/merge-pdf.py --check && python scripts/merge-pdf.py"
   },
   "dependencies": {
     "next": "15.5.28",
