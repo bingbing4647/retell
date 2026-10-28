@@ -2,7 +2,8 @@
 
 // 全屏「一页一页」播放器：封面 → 9 张单页 → 收尾页。
 // 手机竖屏走「上图下文」，横屏（含桌面）自动切成「左图右文」。
-// 交互：点击左右区域 / 键盘 ←→ 空格 / 手机左右滑动 / 底部进度点。
+// 翻页：左右边缘居中的大按钮 / 键盘 ←→ 空格 / 手机左右滑动 / 底部进度点。
+// 朗读一律手动点「朗读这句」，进页不自动出声。
 
 import { useCallback, useEffect, useRef, useState } from "react";
 import {
@@ -12,7 +13,6 @@ import {
   IconExpand,
   IconPlay,
   IconSpeak,
-  IconStop,
   IconCheck,
 } from "./Icons";
 
@@ -24,7 +24,6 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
   const [i, setI] = useState(Math.min(Math.max(start, 0), total - 1));
   const [dir, setDir] = useState(1);
   const [canSpeak, setCanSpeak] = useState(false);
-  const [voiceOn, setVoiceOn] = useState(true);
   const [talking, setTalking] = useState(false);
   const [isFs, setIsFs] = useState(false);
   const [fsOk, setFsOk] = useState(false);
@@ -32,7 +31,6 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
   const rootRef = useRef(null);
   const touchRef = useRef(null);
   const voiceRef = useRef(null);
-  const spokeRef = useRef(-1); // 已经朗读过的页码，避免重复
   const skipClickRef = useRef(false);
 
   /* ---------- 语音 ---------- */
@@ -96,21 +94,22 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
     [total]
   );
 
-  /* 翻到英文页自动朗读 */
-  useEffect(() => {
-    if (spokeRef.current === i) return;
-    const cell = i >= 1 && i <= cells.length ? cells[i - 1] : null;
-    if (!cell) {
-      setTalking(false);
-      return;
-    }
-    if (!canSpeak || !voiceOn) return;
-    const t = window.setTimeout(() => {
-      spokeRef.current = i;
+  /* 手动朗读（进页不自动读） */
+  const speakCell = useCallback(
+    (cell) => {
+      if (!cell || !canSpeak) return;
       say(cell.en);
-    }, 260);
-    return () => window.clearTimeout(t);
-  }, [i, canSpeak, voiceOn, cells, say]);
+    },
+    [canSpeak, say]
+  );
+
+  /* 翻到别的页时，把没读完的语音停掉 */
+  useEffect(() => {
+    setTalking(false);
+    return () => {
+      window.speechSynthesis?.cancel();
+    };
+  }, [i]);
 
   /* ---------- 锁滚动 ---------- */
   useEffect(() => {
@@ -217,22 +216,6 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
           <span>{lesson.title}</span>
         </div>
         <div className="deck-tools">
-          {canSpeak && (
-            <button
-              type="button"
-              className={`dk-btn ${voiceOn ? "on" : ""}`}
-              onClick={() => {
-                setVoiceOn((v) => {
-                  if (v) say(null);
-                  return !v;
-                });
-              }}
-              aria-label={voiceOn ? "关闭自动朗读" : "开启自动朗读"}
-              title={voiceOn ? "自动朗读：开" : "自动朗读：关"}
-            >
-              {voiceOn ? <IconSpeak /> : <IconStop />}
-            </button>
-          )}
           {fsOk && (
             <button
               type="button"
@@ -254,6 +237,32 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
         onTouchStart={onTouchStart}
         onTouchEnd={onTouchEnd}
       >
+        {/* 左右边缘居中的翻页按钮（最主要的上手入口） */}
+        <button
+          type="button"
+          className="deck-edge prev"
+          onClick={(e) => {
+            e.stopPropagation();
+            step(-1);
+          }}
+          disabled={i === 0}
+          aria-label="上一页"
+        >
+          <IconArrowL width={26} height={26} />
+        </button>
+        <button
+          type="button"
+          className="deck-edge next"
+          onClick={(e) => {
+            e.stopPropagation();
+            step(1);
+          }}
+          disabled={i === total - 1}
+          aria-label="下一页"
+        >
+          <IconArrowR width={26} height={26} />
+        </button>
+
         {/* 封面 */}
         {i === 0 && (
           <div className={`${slideCls} sl-cover`}>
@@ -281,17 +290,11 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
             <button
               type="button"
               className="sl-start"
-              onClick={() => {
-                goto(1);
-                if (canSpeak && voiceOn) {
-                  spokeRef.current = 1;
-                  say(cells[0].en);
-                }
-              }}
+              onClick={() => goto(1)}
             >
               <IconPlay width={17} height={17} /> 开始播放
             </button>
-            <p className="sl-tip">左右滑动 / ← → 翻页 · 空格下一页 · Esc 退出</p>
+            <p className="sl-tip">点左右圆形按钮翻页 · 也可左右滑动 / 键盘 ← → · Esc 退出</p>
           </div>
         )}
 
@@ -317,12 +320,10 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
                   <button
                     type="button"
                     className={`sl-again ${talking ? "on" : ""}`}
-                    onClick={() => {
-                      spokeRef.current = i;
-                      say(cell.en);
-                    }}
+                    onClick={() => speakCell(cell)}
+                    title="点这里才朗读，翻页不会自动出声"
                   >
-                    <IconSpeak width={14} height={14} /> 再读一遍
+                    <IconSpeak width={15} height={15} /> 朗读这句
                   </button>
                 )}
               </div>
@@ -366,17 +367,8 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
         )}
       </div>
 
-      {/* 底栏 */}
+      {/* 底栏：进度点 + 页码（翻页交给左右大按钮） */}
       <div className="deck-bot">
-        <button
-          type="button"
-          className="dk-nav"
-          onClick={() => step(-1)}
-          disabled={i === 0}
-          aria-label="上一页"
-        >
-          <IconArrowL />
-        </button>
         <div className="deck-dots">
           {Array.from({ length: total }).map((_, n) => (
             <button
@@ -391,15 +383,6 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
         <span className="deck-count">
           {i + 1} / {total}
         </span>
-        <button
-          type="button"
-          className="dk-nav"
-          onClick={() => step(1)}
-          disabled={i === total - 1}
-          aria-label="下一页"
-        >
-          <IconArrowR />
-        </button>
       </div>
     </div>
   );

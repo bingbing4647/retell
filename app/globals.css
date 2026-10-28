@@ -1329,10 +1329,63 @@ img {
 
 /* --- 舞台 --- */
 .deck-stage {
+  position: relative;
   flex: 1 1 auto;
   min-height: 0;
   display: flex;
   padding: clamp(6px, 1.6vh, 14px) clamp(14px, 3.4vw, 44px);
+}
+
+/* 左右边缘居中的翻页大按钮 */
+.deck-edge {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 5;
+  width: clamp(40px, 3.6vw, 56px);
+  height: clamp(40px, 3.6vw, 56px);
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: #fff;
+  color: var(--orange);
+  border: 1.5px solid #f5d2b0;
+  box-shadow: 0 6px 20px rgba(62, 47, 35, 0.18);
+  transition: 0.16s;
+}
+
+.deck-edge.prev {
+  left: clamp(6px, 1.2vw, 16px);
+}
+
+.deck-edge.next {
+  right: clamp(6px, 1.2vw, 16px);
+}
+
+.deck-edge:hover:not(:disabled) {
+  background: var(--orange);
+  border-color: var(--orange);
+  color: #fff;
+  transform: translateY(-50%) scale(1.06);
+  box-shadow: 0 10px 26px rgba(245, 130, 31, 0.38);
+}
+
+.deck-edge:active:not(:disabled) {
+  transform: translateY(-50%) scale(0.96);
+}
+
+.deck-edge:disabled {
+  opacity: 0.3;
+  box-shadow: none;
+  cursor: default;
+}
+
+/* 竖屏时按钮再大一点，手指好点 */
+@media (orientation: portrait) {
+  .deck-edge {
+    width: 46px;
+    height: 46px;
+  }
 }
 
 .slide {
@@ -1496,26 +1549,33 @@ img {
 .sl-again {
   display: inline-flex;
   align-items: center;
-  gap: 5px;
-  height: 30px;
-  padding: 0 12px;
+  gap: 6px;
+  height: 34px;
+  padding: 0 14px;
   border-radius: 99px;
-  border: 1px solid var(--line);
+  border: 1.4px solid #f3c79a;
   background: #fff;
-  color: var(--ink-2);
-  font-size: 12.5px;
-  font-weight: 600;
+  color: var(--orange);
+  font-size: 13px;
+  font-weight: 700;
   transition: 0.16s;
 }
 
 .sl-again:hover,
 .sl-again.on {
+  background: var(--orange);
   border-color: var(--orange);
-  color: var(--orange);
+  color: #fff;
 }
 
 /* --- 横屏 / 桌面：左图右文 --- */
 @media (orientation: landscape) {
+  /* 左右给翻页按钮留出空间，避免压住图片和文字 */
+  .deck-stage {
+    padding-left: clamp(56px, 5vw, 76px);
+    padding-right: clamp(56px, 5vw, 76px);
+  }
+
   .sl-cell {
     flex-direction: row;
     align-items: center;
@@ -1574,7 +1634,8 @@ img {
   }
 
   .sl-again {
-    height: 26px;
+    height: 30px;
+    padding: 0 11px;
     font-size: 12px;
   }
 
@@ -1771,35 +1832,13 @@ img {
   flex-wrap: wrap;
 }
 
-/* --- 底栏 --- */
+/* --- 底栏（只剩进度点 + 页码） --- */
 .deck-bot {
   flex: 0 0 auto;
   display: flex;
   align-items: center;
-  gap: clamp(8px, 2vw, 16px);
-  padding: 4px clamp(12px, 3vw, 26px) calc(10px + env(safe-area-inset-bottom));
-}
-
-.dk-nav {
-  width: 40px;
-  height: 40px;
-  flex: 0 0 auto;
-  display: grid;
-  place-items: center;
-  border-radius: 50%;
-  border: 1px solid var(--line);
-  background: #fff;
-  color: var(--ink-2);
-  transition: 0.16s;
-}
-
-.dk-nav:disabled {
-  opacity: 0.32;
-}
-
-.dk-nav:hover:not(:disabled) {
-  border-color: var(--orange);
-  color: var(--orange);
+  gap: clamp(10px, 2vw, 18px);
+  padding: 2px clamp(20px, 4vw, 40px) calc(10px + env(safe-area-inset-bottom));
 }
 
 .deck-dots {
