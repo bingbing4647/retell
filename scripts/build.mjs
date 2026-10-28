@@ -81,3 +81,25 @@ if (html < 2 || imgs === 0) {
   console.error("输出异常：页面或图片缺失");
   process.exit(1);
 }
+
+// 发布目录在工作区根的 retell-site/（2026-10-28 重建应用后定的），
+// 构建完顺手同步一份，省得每次手工搬。目录不存在就跳过。
+const SITE = path.join(path.dirname(ROOT), "retell-site");
+if (fs.existsSync(SITE)) {
+  const copyTree = (src, dest) => {
+    fs.mkdirSync(dest, { recursive: true });
+    for (const e of fs.readdirSync(src, { withFileTypes: true })) {
+      const s = path.join(src, e.name);
+      const d = path.join(dest, e.name);
+      if (e.isDirectory()) copyTree(s, d);
+      else fs.copyFileSync(s, d);
+    }
+  };
+  try {
+    fs.rmSync(SITE, { recursive: true, force: true });
+    copyTree(OUT, SITE);
+    console.log(`==> 已同步到发布目录 ${SITE}`);
+  } catch (err) {
+    console.warn(`==> 同步发布目录失败（out/ 仍可用）：${err.message}`);
+  }
+}
