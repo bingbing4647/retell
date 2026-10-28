@@ -982,6 +982,22 @@ img {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  cursor: pointer;
+  border-radius: 6px;
+  padding: 2px 4px;
+  margin: -2px -4px;
+  transition: background 0.15s;
+}
+
+/* 屏幕上：点词听发音（打印不显示底色） */
+@media screen {
+  .p-w:hover {
+    background: rgba(13, 148, 136, 0.1);
+  }
+  .p-w.speaking {
+    background: rgba(13, 148, 136, 0.16);
+    outline: 1.5px solid var(--teal);
+  }
 }
 
 .p-w b {
@@ -1824,6 +1840,35 @@ img {
   color: var(--orange);
   font-weight: 700;
   margin-right: 4px;
+}
+
+/* ---------- 可点读的词卡 / 句子（神经网络语音） ---------- */
+.sl-w {
+  cursor: pointer;
+  transition: border-color 0.15s, box-shadow 0.15s, transform 0.15s;
+}
+
+.sl-w:hover {
+  border-color: var(--teal);
+  box-shadow: 0 1px 6px rgba(13, 148, 136, 0.18);
+}
+
+.sl-w.on {
+  border-color: var(--teal);
+  background: #f0fdfa;
+  transform: scale(1.04);
+}
+
+.sl-sayable {
+  cursor: pointer;
+  border-radius: 8px;
+  padding: 3px 6px;
+  margin: 0 -6px;
+  transition: background 0.15s;
+}
+
+.sl-sayable:hover {
+  background: rgba(13, 148, 136, 0.08);
 }
 
 .sl-final {

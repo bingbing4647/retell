@@ -20,6 +20,7 @@ import {
   IconStar,
 } from "./Icons";
 import { BLIND_WAIT, SPEEDS, useRetell } from "../lib/progress";
+import { speakLine, stopSpeak as stopTts, warmAudio } from "../lib/tts";
 
 const SWIPE_MIN = 44;
 const RATE_LABEL = { 0.75: "慢速跟读", 1: "原速", 1.25: "快听" };
@@ -32,6 +33,7 @@ export default function Slideshow({ lesson, start = 0, onClose, blind = false, o
   const [dir, setDir] = useState(1);
   const [canSpeak, setCanSpeak] = useState(false);
   const [talking, setTalking] = useState(false);
+  const [talkingWord, setTalkingWord] = useState(-1);
   const [isFs, setIsFs] = useState(false);
   const [fsOk, setFsOk] = useState(false);
   const [revealed, setRevealed] = useState(false);
@@ -44,54 +46,39 @@ export default function Slideshow({ lesson, start = 0, onClose, blind = false, o
 
   const rootRef = useRef(null);
   const touchRef = useRef(null);
-  const voiceRef = useRef(null);
   const skipClickRef = useRef(false);
 
   /* ---------- 语音 ---------- */
   useEffect(() => {
-    if (typeof window === "undefined" || !("speechSynthesis" in window)) return;
+    if (typeof window === "undefined") return;
+    // 预生成的神经网络语音不依赖系统音色，manifest 一到就能播
+    warmAudio();
     setCanSpeak(true);
-    const pick = () => {
-      const vs = window.speechSynthesis.getVoices() || [];
-      voiceRef.current =
-        vs.find(
-          (v) =>
-            /en[-_]US/i.test(v.lang) &&
-            /female|samantha|zira|aria|google us english/i.test(v.name)
-        ) ||
-        vs.find((v) => /en[-_]US/i.test(v.lang)) ||
-        vs.find((v) => /^en/i.test(v.lang)) ||
-        null;
-    };
-    pick();
-    window.speechSynthesis.onvoiceschanged = pick;
-    return () => {
-      window.speechSynthesis.onvoiceschanged = null;
-      window.speechSynthesis.cancel();
-    };
+    return () => stopTts();
   }, []);
 
+  // speak(text, key?)：key 命中预生成音频就用它，否则回退系统语音
   const say = useCallback(
-    (text, speed = rate) => {
-      if (typeof window === "undefined" || !("speechSynthesis" in window)) return;
-      const synth = window.speechSynthesis;
-      synth.cancel();
+    (text, key, speed = rate) => {
+      if (typeof window === "undefined") return;
       if (!text) {
         setTalking(false);
+        setTalkingWord(-1);
         return;
       }
-      const u = new SpeechSynthesisUtterance(text);
-      if (voiceRef.current) u.voice = voiceRef.current;
-      u.lang = "en-US";
-      u.rate = speed;
-      u.pitch = 1;
-      u.onstart = () => setTalking(true);
-      u.onend = () => setTalking(false);
-      u.onerror = () => setTalking(false);
-      // cancel 之后立刻 speak 在部分浏览器会静默失败，让出一帧
-      window.setTimeout(() => synth.speak(u), 60);
+      speakLine({
+        lessonId: lesson.id,
+        key,
+        text,
+        rate: speed,
+        onStart: () => setTalking(true),
+        onEnd: () => {
+          setTalking(false);
+          setTalkingWord(-1);
+        },
+      });
     },
-    [rate]
+    [lesson.id, rate]
   );
 
   /* ---------- 翻页 ---------- */
@@ -115,7 +102,7 @@ export default function Slideshow({ lesson, start = 0, onClose, blind = false, o
   const speakCell = useCallback(
     (cell) => {
       if (!cell || !canSpeak) return;
-      say(cell.en);
+      say(cell.en, `c${cell.no}`);
     },
     [canSpeak, say]
   );
@@ -123,8 +110,9 @@ export default function Slideshow({ lesson, start = 0, onClose, blind = false, o
   /* 翻到别的页时，把没读完的语音停掉，并重置「我先说」 */
   useEffect(() => {
     setTalking(false);
+    setTalkingWord(-1);
     return () => {
-      window.speechSynthesis?.cancel();
+      stopTts();
     };
   }, [i]);
 
@@ -463,8 +451,27 @@ export default function Slideshow({ lesson, start = 0, onClose, blind = false, o
             )}
 
             <div className="sl-words">
-              {lesson.words.map(([w, cn]) => (
-                <div className="sl-w" key={w}>
+              {lesson.words.map(([w, cn], wi) => (
+                <div
+                  className={`sl-w ${talkingWord === wi ? "on" : ""}`}
+                  key={w}
+                  role="button"
+                  tabIndex={0}
+                  title="点一下听发音"
+                  onClick={(e) => {
+                    e.stopPropagation(); // 别把点击冒泡成翻页
+                    setTalkingWord(wi);
+                    say(w, `w${wi + 1}`);
+                  }}
+                  onKeyDown={(e) => {
+                    if (e.key === "Enter" || e.key === " ") {
+                      e.preventDefault();
+                      e.stopPropagation(); // 别冒泡成翻页（空格/回车是翻页键）
+                      setTalkingWord(wi);
+                      say(w, `w${wi + 1}`);
+                    }
+                  }}
+                >
                   <b>{w}</b>
                   <span>{cn}</span>
                 </div>
@@ -473,11 +480,25 @@ export default function Slideshow({ lesson, start = 0, onClose, blind = false, o
 
             <div className="sl-frame">
               <p className="sl-chain">First → Then → Next → After that → Finally</p>
-              <p>
+              <p
+                className="sl-sayable"
+                title="点一下听示范"
+                onClick={(e) => {
+                  e.stopPropagation();
+                  say(lesson.opener, "op");
+                }}
+              >
                 <span className="lbl">开头：</span>
                 {lesson.opener}
               </p>
-              <p>
+              <p
+                className="sl-sayable"
+                title="点一下听示范"
+                onClick={(e) => {
+                  e.stopPropagation();
+                  say(lesson.ending, "ed");
+                }}
+              >
                 <span className="lbl">结尾：</span>
                 {lesson.ending}
               </p>

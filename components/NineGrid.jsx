@@ -20,6 +20,7 @@ import Slideshow from "./Slideshow";
 import RetellLab from "./RetellLab";
 import { episodePdfName, seasonPdfName } from "../lib/filename";
 import { useRetell } from "../lib/progress";
+import { speakLine, stopSpeak as stopTts, warmAudio } from "../lib/tts";
 
 const A4W = 793.7; // 210mm @96dpi
 const A4H = 1122.5; // 297mm @96dpi
@@ -29,6 +30,7 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
   const paperRef = useRef(null);
   const cancelRef = useRef(false);
   const [speaking, setSpeaking] = useState(0);
+  const [speakingWord, setSpeakingWord] = useState(-1);
   const [busy, setBusy] = useState(false);
   const [canSpeak, setCanSpeak] = useState(false);
   const [deckAt, setDeckAt] = useState(-1); // -1 = 未打开；数字 = 从第几页开始
@@ -42,7 +44,7 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
     (at = 0) => {
       if (busy) {
         cancelRef.current = true;
-        window.speechSynthesis?.cancel();
+        stopTts();
         setSpeaking(0);
         setBusy(false);
       }
@@ -85,80 +87,54 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
     };
   }, []);
 
-  /* ---------- 语音合成可用性 ---------- */
+  /* ---------- 语音可用性：预生成音频不依赖系统音色，一律可用 ---------- */
   useEffect(() => {
     if (typeof window === "undefined") return;
-    if (!("speechSynthesis" in window)) return;
+    warmAudio();
     setCanSpeak(true);
-    // 预热 voice 列表（部分浏览器首次为空）
-    const warm = () => window.speechSynthesis.getVoices();
-    warm();
-    window.speechSynthesis.onvoiceschanged = warm;
+    return () => stopTts();
   }, []);
-
-  const pickVoice = () => {
-    const vs = window.speechSynthesis.getVoices() || [];
-    return (
-      vs.find((v) => /en[-_]US/i.test(v.lang) && /female|samantha|zira|aria/i.test(v.name)) ||
-      vs.find((v) => /en[-_]US/i.test(v.lang)) ||
-      vs.find((v) => /^en/i.test(v.lang)) ||
-      null
-    );
-  };
 
   const speakOne = useCallback(
     (text, no) => {
       if (!canSpeak) return;
-      const synth = window.speechSynthesis;
-      synth.cancel();
       cancelRef.current = true; // 打断连读
-      const u = new SpeechSynthesisUtterance(text);
-      const v = pickVoice();
-      if (v) u.voice = v;
-      u.lang = "en-US";
-      u.rate = rate;
-      u.pitch = 1;
-      u.onstart = () => setSpeaking(no);
-      u.onend = () => setSpeaking(0);
-      u.onerror = () => setSpeaking(0);
-      synth.speak(u);
+      setSpeaking(typeof no === "number" ? no : 0);
+      speakLine({
+        lessonId: lesson.id,
+        key: typeof no === "number" ? `c${no}` : no,
+        text,
+        rate,
+        onEnd: () => {
+          setSpeaking(0);
+          setSpeakingWord(-1);
+        },
+      });
     },
-    [canSpeak, rate]
+    [canSpeak, lesson.id, rate]
   );
 
   const speakAll = useCallback(async () => {
     if (!canSpeak || busy) return;
-    const synth = window.speechSynthesis;
-    synth.cancel();
     cancelRef.current = false;
     setBusy(true);
-    const voice = pickVoice();
 
     for (let i = 0; i < lesson.cells.length; i++) {
       if (cancelRef.current) break;
       const c = lesson.cells[i];
       setSpeaking(c.no);
-      await new Promise((resolve) => {
-        const u = new SpeechSynthesisUtterance(c.en);
-        if (voice) u.voice = voice;
-        u.lang = "en-US";
-        u.rate = rate;
-        u.onend = resolve;
-        u.onerror = resolve;
-        synth.speak(u);
-        // 兜底：极端情况下 onend 不触发
-        setTimeout(resolve, 9000);
-      });
+      await speakLine({ lessonId: lesson.id, key: `c${c.no}`, text: c.en, rate });
       // 句间留一点呼吸
+      if (cancelRef.current) break;
       await new Promise((r) => setTimeout(r, 260));
     }
     setSpeaking(0);
     setBusy(false);
-  }, [canSpeak, busy, lesson.cells, rate]);
+  }, [canSpeak, busy, lesson.id, lesson.cells, rate]);
 
   const stopAll = () => {
     cancelRef.current = true;
-    window.speechSynthesis?.cancel();
+    stopTts();
     setSpeaking(0);
     setBusy(false);
   };
@@ -343,8 +319,25 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
                   WORD BANK <span>看图说句子，用上这些词</span>
                 </h3>
                 <div className="p-words">
-                  {lesson.words.map(([w, cn]) => (
-                    <div className="p-w" key={w}>
+                  {lesson.words.map(([w, cn], wi) => (
+                    <div
+                      className={`p-w ${speakingWord === wi ? "speaking" : ""}`}
+                      key={w}
+                      role="button"
+                      tabIndex={0}
+                      title="点一下听发音"
+                      onClick={() => {
+                        setSpeakingWord(wi);
+                        speakOne(w, `w${wi + 1}`);
+                      }}
+                      onKeyDown={(e) => {
+                        if (e.key === "Enter" || e.key === " ") {
+                          e.preventDefault();
+                          setSpeakingWord(wi);
+                          speakOne(w, `w${wi + 1}`);
+                        }
+                      }}
+                    >
                       <b>{w}</b>
                       <span>{cn}</span>
                     </div>
