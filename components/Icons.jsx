@@ -127,6 +127,34 @@ export function IconClose(p) {
   );
 }
 
+export function IconEye(p) {
+  return (
+    <svg {...base} {...p}>
+      <path d="M2.6 12S6 5.8 12 5.8 21.4 12 21.4 12 18 18.2 12 18.2 2.6 12 2.6 12Z" />
+      <circle cx="12" cy="12" r="3.1" />
+    </svg>
+  );
+}
+
+export function IconEyeOff(p) {
+  return (
+    <svg {...base} {...p}>
+      <path d="M4.2 8.7C3.1 10 2.6 12 2.6 12s3.4 6.2 9.4 6.2c1.6 0 3-.4 4.2-1.1" />
+      <path d="M9.6 6.2c.8-.3 1.6-.4 2.4-.4 6 0 9.4 6.2 9.4 6.2s-1 1.9-2.8 3.4" />
+      <path d="M10 10a3 3 0 0 0 4 4" />
+      <path d="m4 4 16 16" />
+    </svg>
+  );
+}
+
+export function IconStar(p) {
+  return (
+    <svg {...base} width={13} height={13} {...p}>
+      <path d="m12 3.7 2.6 5.3 5.8.85-4.2 4.1 1 5.8-5.2-2.75-5.2 2.75 1-5.8-4.2-4.1 5.8-.85z" />
+    </svg>
+  );
+}
+
 export function IconExpand(p) {
   return (
     <svg {...base} {...p}>

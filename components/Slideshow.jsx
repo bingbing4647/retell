@@ -4,6 +4,7 @@
 // 手机竖屏走「上图下文」，横屏（含桌面）自动切成「左图右文」。
 // 翻页：左右边缘居中的大按钮 / 键盘 ←→ 空格 / 手机左右滑动 / 底部进度点。
 // 朗读一律手动点「朗读这句」，进页不自动出声。
+// 「我先说」= 延迟复述：先遮住句子，自己说完再看答案，然后自评星。
 
 import { useCallback, useEffect, useRef, useState } from "react";
 import {
@@ -11,14 +12,20 @@ import {
   IconArrowR,
   IconClose,
   IconExpand,
+  IconEye,
+  IconEyeOff,
   IconPlay,
   IconSpeak,
   IconCheck,
+  IconStar,
 } from "./Icons";
+import { BLIND_WAIT, SPEEDS, useRetell } from "../lib/progress";
 
 const SWIPE_MIN = 44;
+const RATE_LABEL = { 0.75: "慢速跟读", 1: "原速", 1.25: "快听" };
+const STAR_LABEL = { 1: "说了一句", 2: "说了三四句", 3: "整段讲下来" };
 
-export default function Slideshow({ lesson, start = 0, onClose }) {
+export default function Slideshow({ lesson, start = 0, onClose, blind = false, onBlind }) {
   const cells = lesson.cells;
   const total = cells.length + 2; // 封面 + 9 页 + 收尾
   const [i, setI] = useState(Math.min(Math.max(start, 0), total - 1));
@@ -27,6 +34,13 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
   const [talking, setTalking] = useState(false);
   const [isFs, setIsFs] = useState(false);
   const [fsOk, setFsOk] = useState(false);
+  const [revealed, setRevealed] = useState(false);
+  const [remain, setRemain] = useState(BLIND_WAIT);
+
+  const [store, api] = useRetell();
+  const rate = store.settings.rate || 1;
+  const stars = store.stars[lesson.id] || {};
+  const five = store.five[lesson.id] || {};
 
   const rootRef = useRef(null);
   const touchRef = useRef(null);
@@ -57,25 +71,28 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
     };
   }, []);
 
-  const say = useCallback((text) => {
-    if (typeof window === "undefined" || !("speechSynthesis" in window)) return;
-    const synth = window.speechSynthesis;
-    synth.cancel();
-    if (!text) {
-      setTalking(false);
-      return;
-    }
-    const u = new SpeechSynthesisUtterance(text);
-    if (voiceRef.current) u.voice = voiceRef.current;
-    u.lang = "en-US";
-    u.rate = 0.82;
-    u.pitch = 1;
-    u.onstart = () => setTalking(true);
-    u.onend = () => setTalking(false);
-    u.onerror = () => setTalking(false);
-    // cancel 之后立刻 speak 在部分浏览器会静默失败，让出一帧
-    window.setTimeout(() => synth.speak(u), 60);
-  }, []);
+  const say = useCallback(
+    (text, speed = rate) => {
+      if (typeof window === "undefined" || !("speechSynthesis" in window)) return;
+      const synth = window.speechSynthesis;
+      synth.cancel();
+      if (!text) {
+        setTalking(false);
+        return;
+      }
+      const u = new SpeechSynthesisUtterance(text);
+      if (voiceRef.current) u.voice = voiceRef.current;
+      u.lang = "en-US";
+      u.rate = speed;
+      u.pitch = 1;
+      u.onstart = () => setTalking(true);
+      u.onend = () => setTalking(false);
+      u.onerror = () => setTalking(false);
+      // cancel 之后立刻 speak 在部分浏览器会静默失败，让出一帧
+      window.setTimeout(() => synth.speak(u), 60);
+    },
+    [rate]
+  );
 
   /* ---------- 翻页 ---------- */
   const step = useCallback(
@@ -103,13 +120,26 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
     [canSpeak, say]
   );
 
-  /* 翻到别的页时，把没读完的语音停掉 */
+  /* 翻到别的页时，把没读完的语音停掉，并重置「我先说」 */
   useEffect(() => {
     setTalking(false);
     return () => {
       window.speechSynthesis?.cancel();
     };
   }, [i]);
+
+  /* 「我先说」：每页从 10 秒开始倒数，到点自动放答案 */
+  useEffect(() => {
+    setRevealed(false);
+    if (!blind) return;
+    setRemain(BLIND_WAIT);
+    const t = setInterval(() => setRemain((v) => Math.max(0, v - 1)), 1000);
+    return () => clearInterval(t);
+  }, [i, blind]);
+
+  useEffect(() => {
+    if (blind && remain === 0) setRevealed(true);
+  }, [blind, remain]);
 
   /* ---------- 锁滚动 ---------- */
   useEffect(() => {
@@ -197,6 +227,15 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
 
   const cell = i >= 1 && i <= cells.length ? cells[i - 1] : null;
   const slideCls = `slide ${dir < 0 ? "back" : ""}`;
+  const cellStar = cell ? stars[cell.no] || 0 : 0;
+  const gate = !!cell && blind && !revealed;
+  const fivePairs = [
+    ["who", "Who"],
+    ["what", "What"],
+    ["where", "Where"],
+    ["when", "When"],
+    ["how", "How"],
+  ].filter(([k]) => (five[k] || "").trim());
 
   return (
     <div
@@ -216,6 +255,34 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
           <span>{lesson.title}</span>
         </div>
         <div className="deck-tools">
+          {/* 变速复述：偏快先慢速跟读，偏慢用快听磨耳朵 */}
+          <div className="dk-rate" role="group" aria-label="朗读速度">
+            {SPEEDS.map((r) => (
+              <button
+                type="button"
+                key={r}
+                className={rate === r ? "on" : ""}
+                onClick={() => api.setSetting("rate", r)}
+                title={RATE_LABEL[r]}
+              >
+                {r === 1 ? "1×" : `${r}×`}
+              </button>
+            ))}
+          </div>
+          <button
+            type="button"
+            className={`dk-pill ${blind ? "on" : ""}`}
+            onClick={() => onBlind?.(!blind)}
+            aria-pressed={blind}
+            title={
+              blind
+                ? `我先说已开：每页先遮住 ${BLIND_WAIT} 秒，自己说完再看答案`
+                : "我先说：先遮住英文，自己说完再看答案"
+            }
+          >
+            {blind ? <IconEyeOff width={15} height={15} /> : <IconEye width={15} height={15} />}
+            <span>我先说</span>
+          </button>
           {fsOk && (
             <button
               type="button"
@@ -284,6 +351,7 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
                   {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img src={c.img} alt="" loading="lazy" />
                   <span>{c.no}</span>
+                  {stars[c.no] ? <i className="sl-thumb-st" /> : null}
                 </button>
               ))}
             </div>
@@ -310,10 +378,35 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
             <div className="sl-txt">
               <div className="sl-step">
                 STEP {cell.no} <span>/ {cells.length}</span>
+                {blind && <em className="sl-blind-tag">我先说</em>}
               </div>
               <h3 className="sl-t">{cell.t}</h3>
-              <p className="sl-en">{cell.en}</p>
-              <p className="sl-cn">{cell.cn}</p>
+
+              {gate ? (
+                <div className="sl-gate">
+                  <p className="sg-tip">看着剧照，自己把这一格说一遍</p>
+                  <div className="sg-ring" style={{ "--p": remain / BLIND_WAIT }}>
+                    <b>{remain}</b>
+                    <i>秒</i>
+                  </div>
+                  <button
+                    type="button"
+                    className="sg-btn"
+                    onClick={() => setRevealed(true)}
+                  >
+                    我说完了 · 看句子
+                  </button>
+                  <p className="sg-hint">
+                    {remain > 0 ? `${remain} 秒后自动给答案` : "时间到，答案放出来了"}
+                  </p>
+                </div>
+              ) : (
+                <>
+                  <p className="sl-en">{cell.en}</p>
+                  <p className="sl-cn">{cell.cn}</p>
+                </>
+              )}
+
               <div className="sl-foot-row">
                 {cell.key && <span className="sl-key">{cell.key}</span>}
                 {canSpeak && (
@@ -327,6 +420,27 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
                   </button>
                 )}
               </div>
+
+              {blind && revealed && (
+                <div className="sl-rate">
+                  <span className="sr-q">刚才说得怎么样？</span>
+                  <div className="sr-btns">
+                    {[1, 2, 3].map((n) => (
+                      <button
+                        type="button"
+                        key={n}
+                        className={`sr-b ${cellStar >= n ? "on" : ""}`}
+                        onClick={() => api.setStar(lesson.id, cell.no, cellStar === n ? 0 : n)}
+                        title={STAR_LABEL[n]}
+                        aria-label={STAR_LABEL[n]}
+                      >
+                        <IconStar />
+                      </button>
+                    ))}
+                  </div>
+                  <span className="sr-l">{STAR_LABEL[cellStar] || "点星星记一下"}</span>
+                </div>
+              )}
             </div>
           </div>
         )}
@@ -336,6 +450,18 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
           <div className={`${slideCls} sl-outro`}>
             <div className="sl-kicker">全部讲完啦 · Let&apos;s say it again</div>
             <h2 className="sl-title sm">用九句话说完整个故事</h2>
+
+            {fivePairs.length > 0 && (
+              <div className="sl-five">
+                {fivePairs.map(([k, en]) => (
+                  <span key={k}>
+                    <b>{en}</b>
+                    {five[k]}
+                  </span>
+                ))}
+              </div>
+            )}
+
             <div className="sl-words">
               {lesson.words.map(([w, cn]) => (
                 <div className="sl-w" key={w}>
@@ -344,6 +470,7 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
                 </div>
               ))}
             </div>
+
             <div className="sl-frame">
               <p className="sl-chain">First → Then → Next → After that → Finally</p>
               <p>
@@ -355,6 +482,19 @@ export default function Slideshow({ lesson, start = 0, onClose }) {
                 {lesson.ending}
               </p>
             </div>
+
+            {/* 三阶复述：往上再走两级 */}
+            <div className="sl-up">
+              <div>
+                <b>② 概要</b>
+                <p>This episode is about ______ .</p>
+              </div>
+              <div>
+                <b>③ 观点</b>
+                <p>I think ______ because ______ .</p>
+              </div>
+            </div>
+
             <div className="sl-final">
               <button type="button" className="sl-start" onClick={() => goto(0)}>
                 <IconCheck width={16} height={16} /> 重看一遍

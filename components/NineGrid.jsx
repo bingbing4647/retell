@@ -12,9 +12,14 @@ import {
   IconArrowR,
   IconClock,
   IconPlay,
+  IconStar,
+  IconEye,
+  IconEyeOff,
 } from "./Icons";
 import Slideshow from "./Slideshow";
+import RetellLab from "./RetellLab";
 import { episodePdfName, seasonPdfName } from "../lib/filename";
+import { useRetell } from "../lib/progress";
 
 const A4W = 793.7; // 210mm @96dpi
 const A4H = 1122.5; // 297mm @96dpi
@@ -27,6 +32,10 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
   const [busy, setBusy] = useState(false);
   const [canSpeak, setCanSpeak] = useState(false);
   const [deckAt, setDeckAt] = useState(-1); // -1 = 未打开；数字 = 从第几页开始
+  const [store, api] = useRetell();
+  const blind = !!store.settings.blind;
+  const rate = store.settings.rate || 1;
+  const stars = store.stars[lesson.id] || {};
 
   /* ---------- 打开播放器（顺带支持 ?play=1 直接播） ---------- */
   const openDeck = useCallback(
@@ -107,14 +116,14 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
       const v = pickVoice();
       if (v) u.voice = v;
       u.lang = "en-US";
-      u.rate = 0.82;
+      u.rate = rate;
       u.pitch = 1;
       u.onstart = () => setSpeaking(no);
       u.onend = () => setSpeaking(0);
       u.onerror = () => setSpeaking(0);
       synth.speak(u);
     },
-    [canSpeak]
+    [canSpeak, rate]
   );
 
   const speakAll = useCallback(async () => {
@@ -133,7 +142,7 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
         const u = new SpeechSynthesisUtterance(c.en);
         if (voice) u.voice = voice;
         u.lang = "en-US";
-        u.rate = 0.82;
+        u.rate = rate;
         u.onend = resolve;
         u.onerror = resolve;
         synth.speak(u);
@@ -145,7 +154,7 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
     }
     setSpeaking(0);
     setBusy(false);
-  }, [canSpeak, busy, lesson.cells]);
+  }, [canSpeak, busy, lesson.cells, rate]);
 
   const stopAll = () => {
     cancelRef.current = true;
@@ -192,6 +201,18 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
             title="像放 PPT 一样一页一页看，手机横竖屏自适应"
           >
             <IconPlay /> 播放模式
+          </button>
+          <button
+            type="button"
+            className={`btn toggle ${blind ? "on" : ""}`}
+            onClick={() => {
+              api.setSetting("blind", !blind);
+              if (!blind) openDeck(1);
+            }}
+            aria-pressed={blind}
+            title="我先说：进播放模式后先遮住句子，自己说完再看答案"
+          >
+            {blind ? <IconEyeOff /> : <IconEye />} 我先说
           </button>
           <button type="button" className="btn" onClick={doPrint}>
             <IconPrint /> 打印这一页
@@ -283,6 +304,12 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img src={c.img} alt={c.t} />
                     <span className="cell-no">{c.no}</span>
+                    {stars[c.no] ? (
+                      <span className="cell-st no-print" title="这格已经自测过">
+                        <IconStar />
+                        {stars[c.no]}
+                      </span>
+                    ) : null}
                     <span className="cell-play" aria-hidden="true">
                       <IconPlay width={15} height={15} />
                     </span>
@@ -351,11 +378,22 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
         </div>
       </div>
 
+      <RetellLab
+        lesson={lesson}
+        onPlay={() => openDeck(1)}
+        onPractice={() => {
+          api.setSetting("blind", true);
+          openDeck(1);
+        }}
+      />
+
       {deckAt >= 0 && (
         <Slideshow
           lesson={lesson}
           start={deckAt}
           onClose={() => setDeckAt(-1)}
+          blind={blind}
+          onBlind={(v) => api.setSetting("blind", v)}
         />
       )}
     </>
