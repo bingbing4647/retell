@@ -3463,7 +3463,6 @@
     "titleCn": "今天是谁的生日？",
     "hook": "一路猜是谁过生日，最后气球打开的答案谁也没想到。",
     "cover": "/img/s02e25/f1.jpg",
-    "pdf": "/pdf/S02E25.pdf",
     "cells": [
       {
         "no": 1,
@@ -3598,7 +3597,8 @@
       ]
     ],
     "opener": "Today I watched Dora the Explorer. This episode is “Whose Birthday Is It?”",
-    "ending": "In the end, they find out it is Swiper's birthday. My favorite part is ______."
+    "ending": "In the end, they find out it is Swiper's birthday. My favorite part is ______.",
+    "pdf": "/pdf/S02E25.pdf"
   },
   "S02E26": {
     "id": "S02E26",

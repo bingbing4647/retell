@@ -1,0 +1,145 @@
+{
+  "id": "S02E25",
+  "season": 2,
+  "episode": 25,
+  "title": "Whose Birthday Is It?",
+  "titleCn": "今天是谁的生日？",
+  "hook": "一路猜是谁过生日，最后气球打开的答案谁也没想到。",
+  "cover": "/img/s02e25/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:18",
+      "img": "/img/s02e25/f1.jpg",
+      "t": "A Big Balloon",
+      "en": "Dora and Boots see a big birthday balloon in the sky. It has cake inside!",
+      "cn": "天上飘来一个生日气球，里面装着蛋糕和彩带。",
+      "key": "birthday balloon · cake"
+    },
+    {
+      "no": 2,
+      "time": "01:36",
+      "img": "/img/s02e25/f2.jpg",
+      "t": "Whose Birthday?",
+      "en": "“It's not my birthday,” says Dora. “Not mine!” says Boots. Whose birthday is it?",
+      "cn": "不是 Dora 的生日，也不是 Boots 的——那到底是谁的？",
+      "key": "my · mine · whose"
+    },
+    {
+      "no": 3,
+      "time": "02:50",
+      "img": "/img/s02e25/f3.jpg",
+      "t": "Let's Ask Map!",
+      "en": "Map says: “Go over Cupcake Mountain, cross Sneezing Snake Lake, then Play Park.”",
+      "cn": "地图指路：翻过纸杯蛋糕山 → 穿过打喷嚏蛇湖 → 到游乐公园。",
+      "key": "over · cross · then"
+    },
+    {
+      "no": 4,
+      "time": "06:10",
+      "img": "/img/s02e25/f4.jpg",
+      "t": "Find Tico",
+      "en": "They hear a party blower. It is Tico! But it is not his birthday.",
+      "cn": "顺着喇叭声找到 Tico，可这天也不是他的生日。",
+      "key": "hear · party blower"
+    },
+    {
+      "no": 5,
+      "time": "09:40",
+      "img": "/img/s02e25/f5.jpg",
+      "t": "Up the Mountain",
+      "en": "They ride three elevators. They say “¡Vamos!” and up they go.",
+      "cn": "坐三部电梯上山顶，喊 “¡Vamos!”（走啦）电梯才动。",
+      "key": "elevator · up · ¡Vamos!"
+    },
+    {
+      "no": 6,
+      "time": "10:05",
+      "img": "/img/s02e25/f6.jpg",
+      "t": "Yummy Cupcakes",
+      "en": "On the top, they eat cupcakes. “¡Qué rico!” Yum, yum!",
+      "cn": "山顶上吃纸杯蛋糕，“¡Qué rico!” 真好吃。",
+      "key": "on the top · ¡Qué rico!"
+    },
+    {
+      "no": 7,
+      "time": "14:46",
+      "img": "/img/s02e25/f7.jpg",
+      "t": "Across the Lake",
+      "en": "They put on lifejackets and get on a raft. A snake comes! Turn the wheel!",
+      "cn": "穿上救生衣坐上木筏过湖，看到蛇就赶紧转方向盘。",
+      "key": "lifejacket · raft · turn the wheel"
+    },
+    {
+      "no": 8,
+      "time": "20:40",
+      "img": "/img/s02e25/f8.jpg",
+      "t": "Swiper's Birthday!",
+      "en": "At Play Park, the balloon opens. Surprise! It is Swiper's birthday!",
+      "cn": "到了游乐公园，气球打开——原来是 Swiper 的生日！",
+      "key": "open · surprise · Swiper"
+    },
+    {
+      "no": 9,
+      "time": "21:25",
+      "img": "/img/s02e25/f9.jpg",
+      "t": "Happy Birthday!",
+      "en": "Everyone sings “Happy Birthday” to Swiper. What a fun day!",
+      "cn": "大家一起给 Swiper 唱生日歌，真是开心的一天。",
+      "key": "sing · fun day"
+    }
+  ],
+  "words": [
+    [
+      "birthday balloon",
+      "生日气球"
+    ],
+    [
+      "streamers",
+      "彩带"
+    ],
+    [
+      "Cupcake Mountain",
+      "纸杯蛋糕山"
+    ],
+    [
+      "Sneezing Snake",
+      "打喷嚏的蛇"
+    ],
+    [
+      "Play Park",
+      "游乐公园"
+    ],
+    [
+      "elevator",
+      "电梯"
+    ],
+    [
+      "¡Vamos!",
+      "走啦（西语）"
+    ],
+    [
+      "¡Qué rico!",
+      "真好吃（西语）"
+    ],
+    [
+      "lifejacket",
+      "救生衣"
+    ],
+    [
+      "raft",
+      "木筏"
+    ],
+    [
+      "turn the wheel",
+      "转方向盘"
+    ],
+    [
+      "surprise",
+      "惊喜"
+    ]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Whose Birthday Is It?”",
+  "ending": "In the end, they find out it is Swiper's birthday. My favorite part is ______.",
+  "pdf": "/pdf/S02E25.pdf"
+}
