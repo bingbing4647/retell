@@ -1,0 +1,108 @@
+{
+  "id": "S05E10",
+  "season": 5,
+  "episode": 10,
+  "title": "Dora Saves Three Kings Day",
+  "titleCn": "朵拉拯救三王节",
+  "hook": "三位国王的动物要在天黑前送到派对，朵拉和伙伴们分头去找。",
+  "cover": "/img/s05e10/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "00:58",
+      "img": "/img/s05e10/f1.jpg",
+      "t": "Dressed as Kings",
+      "en": "Dora, Boots and Diego dress up like kings at the Rescue Center.",
+      "cn": "朵拉、布茨和迪亚哥在动物救助中心扮成国王。",
+      "key": "kings · Rescue Center"
+    },
+    {
+      "no": 2,
+      "time": "01:36",
+      "img": "/img/s05e10/f2.jpg",
+      "t": "Diego Explains",
+      "en": "Diego says the three kings ride their animals to the party.",
+      "cn": "迪亚哥说，三位国王要骑着动物去参加派对。",
+      "key": "kings · animals"
+    },
+    {
+      "no": 3,
+      "time": "03:03",
+      "img": "/img/s05e10/f3.jpg",
+      "t": "Pick a Horse",
+      "en": "“El caballo is the horse,” says Dora. “I take this one.”",
+      "cn": "“El caballo 就是马，”朵拉说，“我就要这一匹。”",
+      "key": "caballo · horse"
+    },
+    {
+      "no": 4,
+      "time": "06:55",
+      "img": "/img/s05e10/f4.jpg",
+      "t": "Find Them All",
+      "en": "Diego sings that they must find all the animals today.",
+      "cn": "迪亚哥唱着说，今天一定要把所有动物都找到。",
+      "key": "find · animals"
+    },
+    {
+      "no": 5,
+      "time": "09:18",
+      "img": "/img/s05e10/f5.jpg",
+      "t": "Elephant and Gifts",
+      "en": "They find the elephant, and the elephant brings the golden rings.",
+      "cn": "他们找到了大象，大象背上驮着金戒指。",
+      "key": "elephant · rings"
+    },
+    {
+      "no": 6,
+      "time": "10:57",
+      "img": "/img/s05e10/f6.jpg",
+      "t": "Lost in the Desert",
+      "en": "It is hard to find the camel in the dark desert.",
+      "cn": "天黑了，在沙漠里找那匹骆驼真不容易。",
+      "key": "camel · desert"
+    },
+    {
+      "no": 7,
+      "time": "13:35",
+      "img": "/img/s05e10/f7.jpg",
+      "t": "Boots Asks First",
+      "en": "“Can I ride him now, Diego?” asks Boots with a smile.",
+      "cn": "“我现在能骑他了吗，迪亚哥？”布茨笑着问。",
+      "key": "ride · Boots"
+    },
+    {
+      "no": 8,
+      "time": "17:00",
+      "img": "/img/s05e10/f8.jpg",
+      "t": "Fast White Horse",
+      "en": "The white horse runs fast, and the children laugh and cheer.",
+      "cn": "白马跑得飞快，孩子们笑着欢呼。",
+      "key": "horse · runs"
+    },
+    {
+      "no": 9,
+      "time": "21:03",
+      "img": "/img/s05e10/f9.jpg",
+      "t": "The Party Begins",
+      "en": "At last they get to the party. ¡Felicidades! Everyone is happy.",
+      "cn": "他们终于赶到了派对。¡Felicidades！大家都很开心。",
+      "key": "party · happy"
+    }
+  ],
+  "words": [
+    ["kings", "国王（三王）"],
+    ["Rescue Center", "动物救助中心"],
+    ["costume", "装扮服装"],
+    ["horse", "马"],
+    ["caballo", "马（西语）"],
+    ["elephant", "大象"],
+    ["camel", "骆驼"],
+    ["rings", "戒指"],
+    ["desert", "沙漠"],
+    ["dark", "黑暗的"],
+    ["party", "派对"],
+    ["¡Felicidades!", "恭喜！（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Dora Saves Three Kings Day”.",
+  "ending": "In the end, Dora and her friends bring all the animals to the Three Kings Day party. My favorite part is ______."
+}

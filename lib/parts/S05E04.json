@@ -1,0 +1,108 @@
+{
+  "id": "S05E04",
+  "season": 5,
+  "episode": 4,
+  "title": "Dora's Jack-in-the-Box",
+  "titleCn": "Dora 的玩偶盒",
+  "hook": "为了哄哭闹的双胞胎弟妹，Dora 和 Boots 带着玩偶盒去找玩具，要先找到娃娃、再唱开钢琴大门才到家。",
+  "cover": "/img/s05e04/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s05e04/f1.jpg",
+      "t": "At the Toy Store",
+      "en": "Dora and Boots are at the toy store, and they say, “We do too!”",
+      "cn": "Dora 和 Boots 在玩具店里，他们说：“我们也一样！”",
+      "key": "toy store · Dora"
+    },
+    {
+      "no": 2,
+      "time": "01:50",
+      "img": "/img/s05e04/f2.jpg",
+      "t": "Wind the Crank",
+      "en": "“Help me wind the crank to play Jack's song,” says Dora.",
+      "cn": "Dora 说：“帮我转动摇柄，放 Jack 的歌吧。”",
+      "key": "crank · song"
+    },
+    {
+      "no": 3,
+      "time": "05:00",
+      "img": "/img/s05e04/f3.jpg",
+      "t": "Three Stops",
+      "en": "Map says the way is the doll, the gate, then Dora's house.",
+      "cn": "地图说路线是：娃娃、大门，最后到 Dora 家。",
+      "key": "doll · gate"
+    },
+    {
+      "no": 4,
+      "time": "07:32",
+      "img": "/img/s05e04/f4.jpg",
+      "t": "Swiper Runs Away",
+      "en": "“Yay, we stopped Swiper!” Dora and Boots cheer in the forest.",
+      "cn": "“太好啦，我们拦住了 Swiper！”Dora 和 Boots 在森林里欢呼。",
+      "key": "Swiper · forest"
+    },
+    {
+      "no": 5,
+      "time": "09:20",
+      "img": "/img/s05e04/f5.jpg",
+      "t": "Big and Small",
+      "en": "There are five dolls here, and the biggest doll holds smaller ones.",
+      "cn": "这里一共有五个娃娃，最大的那个里面装着小娃娃。",
+      "key": "dolls · biggest"
+    },
+    {
+      "no": 6,
+      "time": "11:30",
+      "img": "/img/s05e04/f6.jpg",
+      "t": "A Ride from Tico",
+      "en": "Tico drives his red car, and Dora and Boots ride in the back.",
+      "cn": "Tico 开着红色小车，Dora 和 Boots 坐在后面。",
+      "key": "Tico · car"
+    },
+    {
+      "no": 7,
+      "time": "12:30",
+      "img": "/img/s05e04/f7.jpg",
+      "t": "Watch the Hole",
+      "en": "“Un hoyo! Cuidado!” They see a big hole in the road.",
+      "cn": "“Un hoyo（一个洞）！小心！”他们看见路上有个大洞。",
+      "key": "hoyo · road"
+    },
+    {
+      "no": 8,
+      "time": "14:08",
+      "img": "/img/s05e04/f8.jpg",
+      "t": "Sing to Open",
+      "en": "They sing Old MacDonald at the giant piano gate to open it.",
+      "cn": "他们在巨大的钢琴门前唱《Old MacDonald》，门才会打开。",
+      "key": "sing · piano"
+    },
+    {
+      "no": 9,
+      "time": "20:18",
+      "img": "/img/s05e04/f9.jpg",
+      "t": "Babies Smile Again",
+      "en": "Jack pops out of the box, and the baby twins laugh at last.",
+      "cn": "Jack 从盒子里弹出来，双胞胎宝宝终于笑了。",
+      "key": "Jack · twins"
+    }
+  ],
+  "words": [
+    ["toy store", "玩具店"],
+    ["crank", "摇柄"],
+    ["doll", "娃娃"],
+    ["gate", "大门"],
+    ["forest", "森林"],
+    ["hole", "洞"],
+    ["road", "马路"],
+    ["piano", "钢琴"],
+    ["sing", "唱歌"],
+    ["clown", "小丑"],
+    ["twins", "双胞胎"],
+    ["un hoyo", "一个洞（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Dora's Jack-in-the-Box”.",
+  "ending": "In the end, Jack pops out and the baby twins laugh and feel better. My favorite part is ______."
+}

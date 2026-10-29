@@ -1,0 +1,108 @@
+{
+  "id": "S05E13",
+  "season": 5,
+  "episode": 13,
+  "title": "Dora Saves the Crystal Kingdom",
+  "titleCn": "Dora 拯救水晶王国",
+  "hook": "故事书里的蓝水晶碎了，水晶王国的颜色正在一点点消失，Dora 和 Boots 要跳进书里，找齐四颗水晶才能把颜色还回来。",
+  "cover": "/img/s05e13/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:52",
+      "img": "/img/s05e13/f1.jpg",
+      "t": "The Blue Crystal",
+      "en": "The blue crystal made the sky and the ocean blue.",
+      "cn": "蓝水晶让天空和海洋都变成了蓝色。",
+      "key": "blue crystal · ocean"
+    },
+    {
+      "no": 2,
+      "time": "04:22",
+      "img": "/img/s05e13/f2.jpg",
+      "t": "A Greedy King",
+      "en": "“But the king was so greedy, he didn't care,” says Dora.",
+      "cn": "“可是国王太贪心了，他根本不在乎。”Dora 说。",
+      "key": "king · greedy"
+    },
+    {
+      "no": 3,
+      "time": "09:21",
+      "img": "/img/s05e13/f3.jpg",
+      "t": "Into the Story",
+      "en": "Map shows the red crystal is still inside the Crystal Kingdom story.",
+      "cn": "地图显示，红水晶还在水晶王国的故事里。",
+      "key": "red crystal · Crystal Kingdom"
+    },
+    {
+      "no": 4,
+      "time": "11:51",
+      "img": "/img/s05e13/f4.jpg",
+      "t": "A Knight in Armor",
+      "en": "A knight in silver armor holds a sword and a shield.",
+      "cn": "一个穿银色盔甲的骑士，手拿长剑和盾牌。",
+      "key": "knight · armor"
+    },
+    {
+      "no": 5,
+      "time": "19:20",
+      "img": "/img/s05e13/f5.jpg",
+      "t": "Three More Crystals",
+      "en": "“We need to get three more crystals,” Dora tells the princess.",
+      "cn": "“我们还需要找三颗水晶。”Dora 对公主说。",
+      "key": "three · crystals"
+    },
+    {
+      "no": 6,
+      "time": "21:50",
+      "img": "/img/s05e13/f6.jpg",
+      "t": "An Invisible Butterfly",
+      "en": "“When you see the butterfly that can't be seen,” the princess says.",
+      "cn": "“当你看见那只看不见的蝴蝶时……”公主说。",
+      "key": "butterfly · seen"
+    },
+    {
+      "no": 7,
+      "time": "26:49",
+      "img": "/img/s05e13/f7.jpg",
+      "t": "Find the Crystal Blue",
+      "en": "“You can only find the crystal blue,” the princess tells them.",
+      "cn": "“只有这样才找得到蓝色水晶。”公主告诉他们。",
+      "key": "crystal blue · princess"
+    },
+    {
+      "no": 8,
+      "time": "31:49",
+      "img": "/img/s05e13/f8.jpg",
+      "t": "A Magic Hat",
+      "en": "The magician lifts his wand over a big black magic hat.",
+      "cn": "魔术师把魔杖举在一个黑色大礼帽上方。",
+      "key": "magician · hat"
+    },
+    {
+      "no": 9,
+      "time": "35:33",
+      "img": "/img/s05e13/f9.jpg",
+      "t": "Flap, Flap, Flap",
+      "en": "“Flap, flap, flap!” They fly up to the tall grey mountain.",
+      "cn": "“啪嗒、啪嗒、啪嗒！”他们飞向高高的灰色山。",
+      "key": "Flap · mountain"
+    }
+  ],
+  "words": [
+    ["crystal", "水晶"],
+    ["Crystal Kingdom", "水晶王国"],
+    ["story", "故事"],
+    ["king", "国王"],
+    ["greedy", "贪心"],
+    ["knight", "骑士"],
+    ["armor", "盔甲"],
+    ["princess", "公主"],
+    ["butterfly", "蝴蝶"],
+    ["magician", "魔术师"],
+    ["magic hat", "魔术帽"],
+    ["¡Vamos!", "我们走吧（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Dora Saves the Crystal Kingdom”.",
+  "ending": "In the end, they find all the crystals and the colors come back to the Crystal Kingdom. My favorite part is ______."
+}

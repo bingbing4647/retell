@@ -1,0 +1,108 @@
+{
+  "id": "S05E09",
+  "season": 5,
+  "episode": 9,
+  "title": "Benny's Treasure",
+  "titleCn": "Benny 的宝贝",
+  "hook": "今天是废品日，Benny 捡了满满一车旧东西要送去废品场，路上得先学会巨怪的声音，再折一只纸天鹅过湖。",
+  "cover": "/img/s05e09/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s05e09/f1.jpg",
+      "t": "A Wagon of Junk",
+      "en": "Benny's wagon is full of the stuff people throw away.",
+      "cn": "Benny 的小车里装满了人们扔掉的旧东西。",
+      "key": "wagon · throw away"
+    },
+    {
+      "no": 2,
+      "time": "04:40",
+      "img": "/img/s05e09/f2.jpg",
+      "t": "Over the Bridge",
+      "en": "Map says, “First the bridge, then across Swan Lake.”",
+      "cn": "地图说：“先过桥，再穿过天鹅湖。”",
+      "key": "bridge · Swan Lake"
+    },
+    {
+      "no": 3,
+      "time": "08:40",
+      "img": "/img/s05e09/f3.jpg",
+      "t": "Match the Sounds",
+      "en": "“We need to match the sounds that the troll makes,” says Dora.",
+      "cn": "“我们要模仿巨怪发出的声音。”Dora 说。",
+      "key": "sounds · troll"
+    },
+    {
+      "no": 4,
+      "time": "09:20",
+      "img": "/img/s05e09/f4.jpg",
+      "t": "The Alarm Clock",
+      "en": "“Yeah, that alarm clock!” The troll's bell sounds just like it.",
+      "cn": "“对，就是那个闹钟！”巨怪的铃铛声跟它一模一样。",
+      "key": "alarm clock · bell"
+    },
+    {
+      "no": 5,
+      "time": "10:40",
+      "img": "/img/s05e09/f5.jpg",
+      "t": "Across the Bridge",
+      "en": "“Thanks, Mr. Troll!” They walk across the bridge with the wagon.",
+      "cn": "“谢谢，巨怪先生！”他们推着车走过了桥。",
+      "key": "Troll · bridge"
+    },
+    {
+      "no": 6,
+      "time": "12:00",
+      "img": "/img/s05e09/f6.jpg",
+      "t": "A Funny Hat",
+      "en": "Benny puts a big silver bowl on his head and looks funny.",
+      "cn": "Benny 把一个大银碗扣在头上，看起来很好笑。",
+      "key": "bowl · head"
+    },
+    {
+      "no": 7,
+      "time": "13:40",
+      "img": "/img/s05e09/f7.jpg",
+      "t": "Isa Has Paper",
+      "en": "“Yeah, I have all sorts of paper,” says Isa on the sand.",
+      "cn": "“有啊，我有各种各样的纸。”Isa 在沙滩上说。",
+      "key": "paper · Isa"
+    },
+    {
+      "no": 8,
+      "time": "15:20",
+      "img": "/img/s05e09/f8.jpg",
+      "t": "A Paper Swan",
+      "en": "“It can fly?” Benny and Dora ride on a big paper swan.",
+      "cn": "“它会飞吗？”Benny 和 Dora 坐上了一只大纸天鹅。",
+      "key": "fly · swan"
+    },
+    {
+      "no": 9,
+      "time": "21:40",
+      "img": "/img/s05e09/f9.jpg",
+      "t": "The Crane Helps",
+      "en": "At the junkyard, the big crane lifts Benny's heavy wagon.",
+      "cn": "在废品场，大吊车把 Benny 沉重的车吊了起来。",
+      "key": "crane · wagon"
+    }
+  ],
+  "words": [
+    ["wagon", "小车"],
+    ["junk", "废品"],
+    ["bridge", "桥"],
+    ["troll", "巨怪"],
+    ["sounds", "声音"],
+    ["alarm clock", "闹钟"],
+    ["ukulele", "尤克里里"],
+    ["paper", "纸"],
+    ["swan", "天鹅"],
+    ["lake", "湖"],
+    ["crane", "吊车"],
+    ["¡Vámonos!", "我们走吧！（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Benny's Treasure”.",
+  "ending": "In the end, the crane lifts Benny's wagon and all the junk goes to the junkyard. My favorite part is ______."
+}

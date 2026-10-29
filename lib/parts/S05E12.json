@@ -1,0 +1,108 @@
+{
+  "id": "S05E12",
+  "season": 5,
+  "episode": 12,
+  "title": "Bark, Bark to Play Park",
+  "titleCn": "汪汪叫，去游乐场",
+  "hook": "双胞胎节到了，Perrito 的孪生兄弟不见了，他们穿过会说话的狗屋、翻过双峰山，去游乐场找它。",
+  "cover": "/img/s05e12/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:40",
+      "img": "/img/s05e12/f1.jpg",
+      "t": "Two Little Puppies",
+      "en": "Here are Perrito and his twin as little puppies.",
+      "cn": "照片里是 Perrito 和他的双胞胎兄弟小时候的样子。",
+      "key": "Perrito · twin"
+    },
+    {
+      "no": 2,
+      "time": "04:10",
+      "img": "/img/s05e12/f2.jpg",
+      "t": "Reading the Cards",
+      "en": "“The doghouse, right!” Dora points at the first stop on the map.",
+      "cn": "“对，是狗屋！”Dora 指着路线图上的第一站。",
+      "key": "doghouse · map"
+    },
+    {
+      "no": 3,
+      "time": "07:30",
+      "img": "/img/s05e12/f3.jpg",
+      "t": "Talking to the House",
+      "en": "Boots says, “Computer, open the door!” The doghouse door opens.",
+      "cn": "Boots 说：“电脑，开门！”狗屋的门就打开了。",
+      "key": "Computer · door"
+    },
+    {
+      "no": 4,
+      "time": "09:45",
+      "img": "/img/s05e12/f4.jpg",
+      "t": "One Stop Marked",
+      "en": "“We made it through the doghouse, check!” Dora looks at her three cards.",
+      "cn": "“我们穿过狗屋啦，打勾！”Dora 看着手里的三张路线卡。",
+      "key": "doghouse · check"
+    },
+    {
+      "no": 5,
+      "time": "12:50",
+      "img": "/img/s05e12/f5.jpg",
+      "t": "One Peak Is Bare",
+      "en": "“Where is the snow on the other mountain?” The two mountains look alike.",
+      "cn": "“另一座山上的雪去哪儿了？”两座山长得一模一样。",
+      "key": "snow · mountain"
+    },
+    {
+      "no": 6,
+      "time": "14:23",
+      "img": "/img/s05e12/f6.jpg",
+      "t": "Up the Rock Wall",
+      "en": "The boy says, “These handles help us climb up the rocks.”",
+      "cn": "小男孩说：“这些把手能帮我们爬上岩石。”",
+      "key": "handles · climb"
+    },
+    {
+      "no": 7,
+      "time": "17:00",
+      "img": "/img/s05e12/f7.jpg",
+      "t": "Asking the Way",
+      "en": "Dora asks, “¿Dónde está la fiesta?” They look for the party.",
+      "cn": "Dora 问：“庆典在哪儿呀？”他们到处找派对。",
+      "key": "fiesta · party"
+    },
+    {
+      "no": 8,
+      "time": "19:29",
+      "img": "/img/s05e12/f8.jpg",
+      "t": "At the Playground",
+      "en": "“Do you see his twin?” The park is full of trucks and swings.",
+      "cn": "“你看到他的双胞胎兄弟了吗？”公园里满是秋千和小卡车。",
+      "key": "twin · park"
+    },
+    {
+      "no": 9,
+      "time": "21:40",
+      "img": "/img/s05e12/f9.jpg",
+      "t": "Both Puppies Meet",
+      "en": "They find out Swiper's puppy is Perrito's twin brother.",
+      "cn": "他们发现，Swiper 的小狗就是 Perrito 的双胞胎兄弟。",
+      "key": "Swiper's · brother"
+    }
+  ],
+  "words": [
+    ["twin", "双胞胎"],
+    ["puppy", "小狗"],
+    ["play park", "游乐场"],
+    ["party", "派对"],
+    ["doghouse", "狗屋"],
+    ["computer", "电脑"],
+    ["mountain", "山"],
+    ["snow", "雪"],
+    ["climb", "爬"],
+    ["handles", "把手"],
+    ["brother", "兄弟"],
+    ["fiesta", "庆典（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Bark, Bark to Play Park”.",
+  "ending": "In the end, they find out Swiper's puppy is Perrito's twin brother, and all the puppies go to the Twins Day party. My favorite part is ______."
+}

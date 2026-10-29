@@ -1,0 +1,108 @@
+{
+  "id": "S05E06",
+  "season": 5,
+  "episode": 6,
+  "title": "The Mayan Adventure",
+  "titleCn": "玛雅大冒险",
+  "hook": "Hoon 和 Balan 两兄弟进不了球赛，Dora 得先找到月亮碎片，打开金字塔里那扇门。",
+  "cover": "/img/s05e06/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "03:32",
+      "img": "/img/s05e06/f1.jpg",
+      "t": "The Twins Are Sad",
+      "en": "Hoon and Balan cannot play in the championship today.",
+      "cn": "Hoon 和 Balan 今天不能参加球赛了。",
+      "key": "Hoon · championship"
+    },
+    {
+      "no": 2,
+      "time": "07:22",
+      "img": "/img/s05e06/f2.jpg",
+      "t": "Map Shows The Way",
+      "en": "Map says, “First you go to the pyramid.”",
+      "cn": "地图说：“先到金字塔去。”",
+      "key": "Map · pyramid"
+    },
+    {
+      "no": 3,
+      "time": "09:18",
+      "img": "/img/s05e06/f3.jpg",
+      "t": "The Moon Door",
+      "en": "“To open the door, we need the pieces of the moon.”",
+      "cn": "“要打开这扇门，我们得找到月亮的碎片。”",
+      "key": "door · moon"
+    },
+    {
+      "no": 4,
+      "time": "10:30",
+      "img": "/img/s05e06/f4.jpg",
+      "t": "Up Or Down",
+      "en": "There are steps to go up and a slide to go down.",
+      "cn": "这里有上去的台阶，也有滑下去的滑梯。",
+      "key": "steps · slide"
+    },
+    {
+      "no": 5,
+      "time": "11:00",
+      "img": "/img/s05e06/f5.jpg",
+      "t": "Watch The Snakes",
+      "en": "“We don't want to run into the snakes,” says Dora.",
+      "cn": "“我们可不想撞上那些蛇。”Dora 说。",
+      "key": "snakes · run"
+    },
+    {
+      "no": 6,
+      "time": "15:40",
+      "img": "/img/s05e06/f6.jpg",
+      "t": "Stars In The Sky",
+      "en": "And look how much brighter the constellations are.",
+      "cn": "看，天上的星座一下子亮多了。",
+      "key": "brighter · constellations"
+    },
+    {
+      "no": 7,
+      "time": "16:40",
+      "img": "/img/s05e06/f7.jpg",
+      "t": "Almost There",
+      "en": "“We're going to the ball game!” everyone sings.",
+      "cn": "大家一起唱：“我们要去看球赛啦！”",
+      "key": "ball game · sings"
+    },
+    {
+      "no": 8,
+      "time": "19:32",
+      "img": "/img/s05e06/f8.jpg",
+      "t": "The Ball Comes Back",
+      "en": "The pink monkey bumps the ball back to Dora.",
+      "cn": "粉色小猴子把球顶回给 Dora。",
+      "key": "monkey · ball"
+    },
+    {
+      "no": 9,
+      "time": "20:10",
+      "img": "/img/s05e06/f9.jpg",
+      "t": "Happy Twins",
+      "en": "“And then the game is more fun to play,” says Hoon.",
+      "cn": "“这样球赛就更好玩了。”Hoon 说。",
+      "key": "game · fun"
+    }
+  ],
+  "words": [
+    ["pyramid", "金字塔"],
+    ["door", "门"],
+    ["moon", "月亮"],
+    ["pieces", "碎片"],
+    ["steps", "台阶"],
+    ["slide", "滑梯"],
+    ["snakes", "蛇"],
+    ["constellations", "星座"],
+    ["ball game", "球赛"],
+    ["championship", "锦标赛"],
+    ["¡Vamos!", "走吧！"],
+    ["¡Hola!", "你好！"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “The Mayan Adventure”.",
+  "ending": "In the end, Hoon and Balan play in the ball game. My favorite part is ______."
+}

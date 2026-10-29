@@ -1,0 +1,108 @@
+{
+  "id": "S05E16",
+  "season": 5,
+  "episode": 16,
+  "title": "Pirate Treasure Hunt",
+  "titleCn": "海盗寻宝",
+  "hook": "小猪想当一天海盗、参加寻宝比赛，Dora 和 Boots 陪它找到最后那棵棕榈树、歌唱桥，还要穿过猴子洞才能上海盗船。",
+  "cover": "/img/s05e16/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "00:58",
+      "img": "/img/s05e16/f1.jpg",
+      "t": "Do You Like Pirates?",
+      "en": "“Do you like pirates?” Dora, Boots and the piggy stand on the beach.",
+      "cn": "“你喜欢海盗吗？”Dora、Boots 和小猪站在沙滩上。",
+      "key": "pirates · beach"
+    },
+    {
+      "no": 2,
+      "time": "01:36",
+      "img": "/img/s05e16/f2.jpg",
+      "t": "A Pirate for a Day",
+      "en": "“I wish I could be a pirate and be in the treasure hunt.”",
+      "cn": "“我真想当一天海盗，去参加寻宝比赛。”",
+      "key": "pirate · treasure hunt"
+    },
+    {
+      "no": 3,
+      "time": "05:26",
+      "img": "/img/s05e16/f3.jpg",
+      "t": "Through the Cave",
+      "en": "Map says, “Then through the monkey cave,” and shows the ship.",
+      "cn": "地图说：“然后要穿过猴子洞。”还画出了海盗船。",
+      "key": "Map · monkey cave"
+    },
+    {
+      "no": 4,
+      "time": "09:55",
+      "img": "/img/s05e16/f4.jpg",
+      "t": "Hungry Mermaids",
+      "en": "“These mermaids are hungry and want to be fed,” says Dora.",
+      "cn": "“这些美人鱼饿了，想吃东西。”Dora 说。",
+      "key": "mermaids · hungry"
+    },
+    {
+      "no": 5,
+      "time": "13:07",
+      "img": "/img/s05e16/f5.jpg",
+      "t": "Con Permiso",
+      "en": "“In Spanish we say ‘con permiso,’” Dora tells the piggy.",
+      "cn": "“西班牙语里我们说‘con permiso（借过）’。”Dora 告诉小猪。",
+      "key": "Spanish · con permiso"
+    },
+    {
+      "no": 6,
+      "time": "16:58",
+      "img": "/img/s05e16/f6.jpg",
+      "t": "A Big Stone Face",
+      "en": "“Again!” The big stone face blocks the way to the cave.",
+      "cn": "“再来一次！”大石头脸挡住了去洞穴的路。",
+      "key": "stone face · cave"
+    },
+    {
+      "no": 7,
+      "time": "18:15",
+      "img": "/img/s05e16/f7.jpg",
+      "t": "To the Pirate Ship",
+      "en": "At sunset they sail on the wooden ship to find the chest.",
+      "cn": "太阳落山时，他们坐上木船去找宝箱。",
+      "key": "sunset · ship"
+    },
+    {
+      "no": 8,
+      "time": "20:10",
+      "img": "/img/s05e16/f8.jpg",
+      "t": "The Pirate Crew",
+      "en": "“Yay!” The pirate monkeys and the crew cheer on the ship.",
+      "cn": "“耶！”海盗猴子们和船员在船上欢呼。",
+      "key": "pirate monkeys · crew"
+    },
+    {
+      "no": 9,
+      "time": "21:26",
+      "img": "/img/s05e16/f9.jpg",
+      "t": "Pretend to Be Monkeys",
+      "en": "They pretend to be monkeys and sing to get through the cave.",
+      "cn": "他们假装成猴子，一边唱一边穿过洞穴。",
+      "key": "pretend · monkeys"
+    }
+  ],
+  "words": [
+    ["pirate", "海盗"],
+    ["treasure", "宝物"],
+    ["chest", "宝箱"],
+    ["beach", "沙滩"],
+    ["cave", "洞穴"],
+    ["mermaids", "美人鱼"],
+    ["hungry", "饿"],
+    ["ship", "船"],
+    ["crew", "船员"],
+    ["sunset", "日落"],
+    ["con permiso", "借过（西语）"],
+    ["¡Vámonos!", "我们走吧（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Pirate Treasure Hunt”.",
+  "ending": "In the end, they find the pirate treasure chest and everyone cheers. My favorite part is ______."
+}

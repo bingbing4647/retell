@@ -1,0 +1,108 @@
+{
+  "id": "S05E17",
+  "season": 5,
+  "episode": 17,
+  "title": "First Day of School",
+  "titleCn": "开学第一天",
+  "hook": "今天是 Boots 和 Tico 第一天上学校，路上要先过小河、从乌龟背上过去，Swiper 还跑来捣乱。",
+  "cover": "/img/s05e17/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "00:58",
+      "img": "/img/s05e17/f1.jpg",
+      "t": "Spanish and English",
+      "en": "“At our school we get to learn Spanish and English,” says Boots.",
+      "cn": "“在学校我们可以学西班牙语和英语。”Boots 说。",
+      "key": "school · Spanish"
+    },
+    {
+      "no": 2,
+      "time": "03:35",
+      "img": "/img/s05e17/f2.jpg",
+      "t": "River, Forest, School",
+      "en": "Map says, “River, forest, school,” and then points the way.",
+      "cn": "地图说：“小河、森林、学校。”然后指出了路。",
+      "key": "Map · forest"
+    },
+    {
+      "no": 3,
+      "time": "05:26",
+      "img": "/img/s05e17/f3.jpg",
+      "t": "That's a Frog",
+      "en": "“Right, that's a frog!” They see a green frog on a log.",
+      "cn": "“对，那是一只青蛙！”他们看见木头上蹲着一只绿青蛙。",
+      "key": "frog · log"
+    },
+    {
+      "no": 4,
+      "time": "07:21",
+      "img": "/img/s05e17/f4.jpg",
+      "t": "Look Carefully",
+      "en": "“We have to look very carefully for them,” says Dora.",
+      "cn": "“我们得非常仔细地找它们。”Dora 说。",
+      "key": "carefully · Dora"
+    },
+    {
+      "no": 5,
+      "time": "09:17",
+      "img": "/img/s05e17/f5.jpg",
+      "t": "Which Turtle?",
+      "en": "“Which turtle should Boots ride?” There are three big turtles.",
+      "cn": "“Boots 该骑哪只乌龟呢？”草地上有三只大乌龟。",
+      "key": "turtle · three"
+    },
+    {
+      "no": 6,
+      "time": "11:50",
+      "img": "/img/s05e17/f6.jpg",
+      "t": "Tico Comes Too",
+      "en": "“Let's take Boots and Tico to their first day of school ever.”",
+      "cn": "“我们带 Boots 和 Tico 去他们人生第一天的学校吧。”",
+      "key": "Tico · first day"
+    },
+    {
+      "no": 7,
+      "time": "14:24",
+      "img": "/img/s05e17/f7.jpg",
+      "t": "Swiper Shows Up",
+      "en": "“Swiper, no swiping!” They stop the fox on the path.",
+      "cn": "“Swiper，不许偷！”他们在小路上拦住了这只狐狸。",
+      "key": "Swiper · fox"
+    },
+    {
+      "no": 8,
+      "time": "19:30",
+      "img": "/img/s05e17/f8.jpg",
+      "t": "In the Classroom",
+      "en": "“My name is Dora,” she sings to her class at school.",
+      "cn": "“我叫 Dora。”她在学校对着全班唱。",
+      "key": "name · class"
+    },
+    {
+      "no": 9,
+      "time": "20:11",
+      "img": "/img/s05e17/f9.jpg",
+      "t": "Me Llamo Tico",
+      "en": "“Me llamo Tico!” Tico holds his new backpack and smiles.",
+      "cn": "“我叫 Tico（me llamo Tico）！”Tico 抱着新书包笑了。",
+      "key": "Me llamo · backpack"
+    }
+  ],
+  "words": [
+    ["school", "学校"],
+    ["first day", "第一天"],
+    ["Spanish", "西班牙语"],
+    ["English", "英语"],
+    ["river", "小河"],
+    ["forest", "森林"],
+    ["frog", "青蛙"],
+    ["turtle", "乌龟"],
+    ["backpack", "书包"],
+    ["name", "名字"],
+    ["me llamo", "我叫（西语）"],
+    ["maestra", "女老师（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “First Day of School”.",
+  "ending": "In the end, Boots and Tico get to school and say their names to the class. My favorite part is ______."
+}

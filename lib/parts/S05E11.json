@@ -1,0 +1,108 @@
+{
+  "id": "S05E11",
+  "season": 5,
+  "episode": 11,
+  "title": "Dora Saves the Three Little Piggies",
+  "titleCn": "救救三只小猪",
+  "hook": "故事书里的大灰狼吹倒了小猪的砖房，Dora 和 Boots 要进故事里帮小猪运砖修房子。",
+  "cover": "/img/s05e11/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:40",
+      "img": "/img/s05e11/f1.jpg",
+      "t": "The Wolf Boasts",
+      "en": "The big wolf says, “I can't blow the piggies' bricks down.”",
+      "cn": "大灰狼说：“我吹不倒小猪们的砖房。”",
+      "key": "wolf · bricks"
+    },
+    {
+      "no": 2,
+      "time": "03:20",
+      "img": "/img/s05e11/f2.jpg",
+      "t": "Load the Cart",
+      "en": "“Bring the bricks back to the three little piggies,” says Dora.",
+      "cn": "Dora 说：“把砖块运回去，送给三只小猪。”",
+      "key": "bricks · piggies"
+    },
+    {
+      "no": 3,
+      "time": "04:50",
+      "img": "/img/s05e11/f3.jpg",
+      "t": "Reading the Route",
+      "en": "The story map shows a straw mountain and a maze of sticks.",
+      "cn": "故事书的地图上画着草山和树枝迷宫。",
+      "key": "map · maze"
+    },
+    {
+      "no": 4,
+      "time": "07:30",
+      "img": "/img/s05e11/f4.jpg",
+      "t": "Too Heavy",
+      "en": "The bricks are too heavy to roll up the straw mountain.",
+      "cn": "砖块太重了，推不上草山。",
+      "key": "heavy · mountain"
+    },
+    {
+      "no": 5,
+      "time": "09:20",
+      "img": "/img/s05e11/f5.jpg",
+      "t": "Make It Bigger",
+      "en": "“Say ‘mucho más grande!’” The boy wants a bigger balloon.",
+      "cn": "“说‘再大一点！’”小男孩想要一个更大的气球。",
+      "key": "grande · balloon"
+    },
+    {
+      "no": 6,
+      "time": "12:50",
+      "img": "/img/s05e11/f6.jpg",
+      "t": "A Princess Needs Help",
+      "en": "“Cinderella's slipper is up in the tree,” says Dora.",
+      "cn": "Dora 说：“灰姑娘的水晶鞋挂在树上呢。”",
+      "key": "slipper · tree"
+    },
+    {
+      "no": 7,
+      "time": "18:20",
+      "img": "/img/s05e11/f7.jpg",
+      "t": "Here Come the Bricks",
+      "en": "“We come to fix your house of bricks,” Dora tells the piggies.",
+      "cn": "Dora 对小猪们说：“我们来帮你们修砖房啦。”",
+      "key": "fix · house"
+    },
+    {
+      "no": 8,
+      "time": "20:00",
+      "img": "/img/s05e11/f8.jpg",
+      "t": "Huff and Puff",
+      "en": "“He's starting to huff and puff!” The wolf blows at the wall.",
+      "cn": "“他开始呼呼地吹气了！”大灰狼对着墙猛吹。",
+      "key": "huff · blows"
+    },
+    {
+      "no": 9,
+      "time": "21:00",
+      "img": "/img/s05e11/f9.jpg",
+      "t": "Safe at Last",
+      "en": "“Aw, piggy kisses!” The three little piggies are safe now.",
+      "cn": "“哎呀，小猪的亲亲！”三只小猪现在安全了。",
+      "key": "kisses · safe"
+    }
+  ],
+  "words": [
+    ["bricks", "砖块"],
+    ["piggies", "小猪"],
+    ["wolf", "大灰狼"],
+    ["straw", "稻草"],
+    ["heavy", "重的"],
+    ["mountain", "山"],
+    ["maze", "迷宫"],
+    ["slipper", "（水晶）鞋"],
+    ["balloon", "气球"],
+    ["fix", "修理"],
+    ["huff and puff", "呼呼吹气"],
+    ["grande", "大的（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Dora Saves the Three Little Piggies”.",
+  "ending": "In the end, the three little piggies live in a strong brick house. My favorite part is ______."
+}

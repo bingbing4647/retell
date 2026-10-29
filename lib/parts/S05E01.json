@@ -1,0 +1,108 @@
+{
+  "id": "S05E01",
+  "season": 5,
+  "episode": 1,
+  "title": "The Backpack Parade",
+  "titleCn": "背包大游行",
+  "hook": "Backpack 要在游行上唱开场歌，可她一路打喷嚏，背里的东西全飞了出去。",
+  "cover": "/img/s05e01/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "03:00",
+      "img": "/img/s05e01/f1.jpg",
+      "t": "The Parade Needs Her",
+      "en": "Backpack says, “The parade can't start without my song.”",
+      "cn": "Backpack 说：“没有我的歌，游行就没法开始。”",
+      "key": "Backpack · song"
+    },
+    {
+      "no": 2,
+      "time": "05:00",
+      "img": "/img/s05e01/f2.jpg",
+      "t": "Down the Long Path",
+      "en": "Dora, Boots and Backpack walk down the long path together.",
+      "cn": "Dora、Boots 和 Backpack 一起沿着长长的小路往前走。",
+      "key": "Boots · path"
+    },
+    {
+      "no": 3,
+      "time": "08:40",
+      "img": "/img/s05e01/f3.jpg",
+      "t": "A Square Fits",
+      "en": "“Correct, a square!” The bridge is fixed, so they can cross.",
+      "cn": "“答对了，是正方形！”桥修好了，他们能过河了。",
+      "key": "square · bridge"
+    },
+    {
+      "no": 4,
+      "time": "11:00",
+      "img": "/img/s05e01/f4.jpg",
+      "t": "A Big Sneeze",
+      "en": "“Achoo!” Backpack sneezes and her things fly up in the air.",
+      "cn": "“啊嚏！”Backpack 打了个大喷嚏，她的东西全飞了起来。",
+      "key": "sneezes · things"
+    },
+    {
+      "no": 5,
+      "time": "13:20",
+      "img": "/img/s05e01/f5.jpg",
+      "t": "All Over the Grass",
+      "en": "Her sticky tape, books and ruler lie on the green grass.",
+      "cn": "她的胶带、书本和尺子都掉在绿草地上了。",
+      "key": "sticky tape · grass"
+    },
+    {
+      "no": 6,
+      "time": "14:00",
+      "img": "/img/s05e01/f6.jpg",
+      "t": "The Trees Are Asleep",
+      "en": "“Hey, they're not waking up.” The trees with faces sleep.",
+      "cn": "“嘿，怎么叫都叫不醒。”长着脸的树全在睡觉。",
+      "key": "trees · waking"
+    },
+    {
+      "no": 7,
+      "time": "16:40",
+      "img": "/img/s05e01/f7.jpg",
+      "t": "Watch Out for Swiper",
+      "en": "“That sneaky fox is always trying to swipe our stuff.”",
+      "cn": "“那只狡猾的狐狸总想偷我们的东西。”",
+      "key": "fox · swipe"
+    },
+    {
+      "no": 8,
+      "time": "18:00",
+      "img": "/img/s05e01/f8.jpg",
+      "t": "A Backpack for Him",
+      "en": "“Thank you, thank you.” Now Swiper has a backpack for the parade.",
+      "cn": "“谢谢，谢谢！”现在 Swiper 也有参加游行的背包了。",
+      "key": "Swiper · backpack"
+    },
+    {
+      "no": 9,
+      "time": "19:40",
+      "img": "/img/s05e01/f9.jpg",
+      "t": "Her Big Moment",
+      "en": "“Time to sing!” Dora lifts Backpack up at the parade.",
+      "cn": "“到唱歌的时间啦！”Dora 在游行上把 Backpack 高高举起。",
+      "key": "sing · parade"
+    }
+  ],
+  "words": [
+    ["parade", "游行"],
+    ["backpack", "背包"],
+    ["song", "歌"],
+    ["path", "小路"],
+    ["bridge", "桥"],
+    ["square", "正方形"],
+    ["sneeze", "打喷嚏"],
+    ["sticky tape", "胶带"],
+    ["ruler", "尺子"],
+    ["trees", "树"],
+    ["Swiper", "捣蛋鬼"],
+    ["sing", "唱歌"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “The Backpack Parade”.",
+  "ending": "In the end, Backpack sings at the parade and Swiper gets a backpack too. My favorite part is ______."
+}

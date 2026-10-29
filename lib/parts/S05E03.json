@@ -1,0 +1,108 @@
+{
+  "id": "S05E03",
+  "season": 5,
+  "episode": 3,
+  "title": "Isa's Unicorn Flowers",
+  "titleCn": "Isa 的独角兽花",
+  "hook": "独角兽的角上会开满小花，可是它想让妈妈也有花，于是 Dora 和 Isa 陪它一路去找白锥子，还得先让拦路的红龙让开。",
+  "cover": "/img/s05e03/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s05e03/f1.jpg",
+      "t": "In the Garden",
+      "en": "Dora and Isa are in the garden, and Isa says, “Great!”",
+      "cn": "Dora 和 Isa 在花园里，Isa 说：“太棒了！”",
+      "key": "garden · Isa"
+    },
+    {
+      "no": 2,
+      "time": "03:20",
+      "img": "/img/s05e03/f2.jpg",
+      "t": "A Unicorn Appears",
+      "en": "A white unicorn asks, “Would you like some flowers for your mommy?”",
+      "cn": "一只白色独角兽问：“你想带些花回去送给妈妈吗？”",
+      "key": "unicorn · flowers"
+    },
+    {
+      "no": 3,
+      "time": "08:00",
+      "img": "/img/s05e03/f3.jpg",
+      "t": "Three Jars",
+      "en": "Map shows three jars: one flower, one umbrella, one candy cane.",
+      "cn": "地图上画着三个罐子：一朵花、一把雨伞、一根拐杖糖。",
+      "key": "Map · jars"
+    },
+    {
+      "no": 4,
+      "time": "09:40",
+      "img": "/img/s05e03/f4.jpg",
+      "t": "Dragons in the Way",
+      "en": "“If we all dragon dance, he'll get out of the way!” says Dora.",
+      "cn": "“我们一起跳龙舞，他就会让开！”Dora 说。",
+      "key": "dance · way"
+    },
+    {
+      "no": 5,
+      "time": "11:00",
+      "img": "/img/s05e03/f5.jpg",
+      "t": "The Dance Works",
+      "en": "The red dragons dance away, and everyone cheers, “Yay!”",
+      "cn": "红龙们跳着走开了，大家一起欢呼：“耶！”",
+      "key": "dragons · cheers"
+    },
+    {
+      "no": 6,
+      "time": "13:00",
+      "img": "/img/s05e03/f6.jpg",
+      "t": "Looking for Cones",
+      "en": "“So we need to look for white cones,” Dora tells the unicorn.",
+      "cn": "“所以我们要去找白色的锥子。”Dora 对独角兽说。",
+      "key": "cones · unicorn"
+    },
+    {
+      "no": 7,
+      "time": "16:00",
+      "img": "/img/s05e03/f7.jpg",
+      "t": "Purple Flowers Bloom",
+      "en": "“Oh, I love purple flowers!” Dora and Isa stand by the gate.",
+      "cn": "“噢，我喜欢紫色的花！”Dora 和 Isa 站在大门边。",
+      "key": "purple · gate"
+    },
+    {
+      "no": 8,
+      "time": "20:40",
+      "img": "/img/s05e03/f8.jpg",
+      "t": "Unicorn Flowers",
+      "en": "“Ooh, unicorn flowers!” Dora sees flowers near the unicorn's horn.",
+      "cn": "“哇，独角兽花！”Dora 看见独角兽角边上开满了花。",
+      "key": "Unicorn Flowers · horn"
+    },
+    {
+      "no": 9,
+      "time": "21:40",
+      "img": "/img/s05e03/f9.jpg",
+      "t": "Flowers for Everyone",
+      "en": "Now all the unicorns have flowers, and they sing, “We did it!”",
+      "cn": "现在所有独角兽都有花了，它们一起唱：“我们做到了！”",
+      "key": "unicorns · sing"
+    }
+  ],
+  "words": [
+    ["garden", "花园"],
+    ["unicorn", "独角兽"],
+    ["flowers", "花"],
+    ["jar", "罐子"],
+    ["dragon", "龙"],
+    ["dance", "跳舞"],
+    ["cones", "锥子"],
+    ["purple", "紫色"],
+    ["gate", "大门"],
+    ["horn", "角"],
+    ["¡Crezcan, flores!", "快长大吧，花！（西语）"],
+    ["¡Lo hicimos!", "我们做到了！（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Isa's Unicorn Flowers”.",
+  "ending": "In the end, the unicorns give flowers to their mommy and everyone is happy. My favorite part is ______."
+}

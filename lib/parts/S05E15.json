@@ -1,0 +1,108 @@
+{
+  "id": "S05E15",
+  "season": 5,
+  "episode": 15,
+  "title": "Super Babies' Dream Adventure",
+  "titleCn": "超级宝宝的梦境大冒险",
+  "hook": "梦幻仙子睡着了，超级宝宝要飞到她的城堡把她叫醒，一路还得修好破毯子、学公鸡打鸣。",
+  "cover": "/img/s05e15/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s05e15/f1.jpg",
+      "t": "The Super Babies Story",
+      "en": "“Do you want to hear the Super Babies story?” Dora asks.",
+      "cn": "“你想听超级宝宝的故事吗？”Dora 问。",
+      "key": "Super Babies · story"
+    },
+    {
+      "no": 2,
+      "time": "02:00",
+      "img": "/img/s05e15/f2.jpg",
+      "t": "The Dream Fairy",
+      "en": "The Dream Fairy waves her wand and says, “Dulces sueños.”",
+      "cn": "梦幻仙子挥动魔杖，说：“Dulces sueños（好梦）。”",
+      "key": "Dream Fairy · Dulces sueños"
+    },
+    {
+      "no": 3,
+      "time": "04:40",
+      "img": "/img/s05e15/f3.jpg",
+      "t": "Where First?",
+      "en": "“Where do we go first?” Dora shows the forest, mountain and castle.",
+      "cn": "“我们先去哪儿？”Dora 举起森林、高山和城堡的卡片。",
+      "key": "forest · castle"
+    },
+    {
+      "no": 4,
+      "time": "05:20",
+      "img": "/img/s05e15/f4.jpg",
+      "t": "Off They Go",
+      "en": "The Super Babies ride their stroller and sing, “Super Babies!”",
+      "cn": "超级宝宝坐着小推车出发，唱着“Super Babies！”",
+      "key": "stroller · sing"
+    },
+    {
+      "no": 5,
+      "time": "08:40",
+      "img": "/img/s05e15/f5.jpg",
+      "t": "A Baby in the Wind",
+      "en": "A big whirlwind lifts one baby high up in the forest.",
+      "cn": "一阵大旋风把一个小宝宝卷到了森林上空。",
+      "key": "whirlwind · baby"
+    },
+    {
+      "no": 6,
+      "time": "12:00",
+      "img": "/img/s05e15/f6.jpg",
+      "t": "On the Mountain",
+      "en": "Two babies sit on the big mountain and look all around.",
+      "cn": "两个宝宝坐在大山上四处张望。",
+      "key": "babies · mountain"
+    },
+    {
+      "no": 7,
+      "time": "13:40",
+      "img": "/img/s05e15/f7.jpg",
+      "t": "Azul, Azul, Rojo",
+      "en": "“Azul, azul, rojo!” The blanket has a red and blue pattern.",
+      "cn": "“蓝、蓝、红（azul, azul, rojo）！”毯子上是红蓝相间的花纹。",
+      "key": "Azul · rojo"
+    },
+    {
+      "no": 8,
+      "time": "17:40",
+      "img": "/img/s05e15/f8.jpg",
+      "t": "Yell Like a Rooster",
+      "en": "“We all have to yell super loud like a rooster,” says Dora.",
+      "cn": "“我们要像公鸡一样大声叫。”Dora 说。",
+      "key": "yell · rooster"
+    },
+    {
+      "no": 9,
+      "time": "19:00",
+      "img": "/img/s05e15/f9.jpg",
+      "t": "Sweet Dreams",
+      "en": "“To give the dragons chili pepper dreams, say ‘dulces sueños.’”",
+      "cn": "“要给小龙送去辣椒梦，就说‘dulces sueños（好梦）’。”",
+      "key": "dragons · chili pepper"
+    }
+  ],
+  "words": [
+    ["dream", "梦"],
+    ["Dream Fairy", "梦幻仙子"],
+    ["castle", "城堡"],
+    ["forest", "森林"],
+    ["mountain", "高山"],
+    ["rooster", "公鸡"],
+    ["blanket", "毯子"],
+    ["pattern", "花纹"],
+    ["azul", "蓝色（西语）"],
+    ["rojo", "红色（西语）"],
+    ["dulces sueños", "好梦（西语）"],
+    ["chili pepper", "辣椒"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Super Babies' Dream Adventure”.",
+  "ending": "In the end, the Super Babies wake the Dream Fairy and everyone gets happy dreams. My favorite part is ______."
+}

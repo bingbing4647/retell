@@ -287,6 +287,82 @@
   "S04E21": {
    "pages": 1,
    "bytes": 713827
+  },
+  "S05E01": {
+   "pages": 1,
+   "bytes": 778350
+  },
+  "S05E02": {
+   "pages": 1,
+   "bytes": 778578
+  },
+  "S05E03": {
+   "pages": 1,
+   "bytes": 806028
+  },
+  "S05E04": {
+   "pages": 1,
+   "bytes": 827896
+  },
+  "S05E05": {
+   "pages": 1,
+   "bytes": 709235
+  },
+  "S05E06": {
+   "pages": 1,
+   "bytes": 886609
+  },
+  "S05E07": {
+   "pages": 1,
+   "bytes": 769177
+  },
+  "S05E08": {
+   "pages": 1,
+   "bytes": 791313
+  },
+  "S05E09": {
+   "pages": 1,
+   "bytes": 821140
+  },
+  "S05E10": {
+   "pages": 1,
+   "bytes": 811214
+  },
+  "S05E11": {
+   "pages": 1,
+   "bytes": 867691
+  },
+  "S05E12": {
+   "pages": 1,
+   "bytes": 766854
+  },
+  "S05E13": {
+   "pages": 1,
+   "bytes": 694788
+  },
+  "S05E14": {
+   "pages": 1,
+   "bytes": 872121
+  },
+  "S05E15": {
+   "pages": 1,
+   "bytes": 761931
+  },
+  "S05E16": {
+   "pages": 1,
+   "bytes": 782838
+  },
+  "S05E17": {
+   "pages": 1,
+   "bytes": 727197
+  },
+  "S05E18": {
+   "pages": 1,
+   "bytes": 836084
+  },
+  "S05E19": {
+   "pages": 1,
+   "bytes": 735908
   }
  },
  "seasons": {
@@ -310,6 +386,13 @@
    "pages": 23,
    "bytes": 14116812,
    "label": "S4"
+  },
+  "5": {
+   "url": "/pdf/season-05.pdf",
+   "episodes": 19,
+   "pages": 21,
+   "bytes": 13975198,
+   "label": "S5"
   }
  }
 }

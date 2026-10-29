@@ -1,0 +1,108 @@
+{
+  "id": "S05E14",
+  "season": 5,
+  "episode": 14,
+  "title": "Dora's Christmas Carol Adventure (1 hour)",
+  "titleCn": "圣诞颂歌大冒险",
+  "hook": "Swiper 上了淘气名单，只有把偷走的东西还回去才能下名单。Dora 陪他回到过去的圣诞节，一样一样把节日还给大家。",
+  "cover": "/img/s05e14/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:00",
+      "img": "/img/s05e14/f1.jpg",
+      "t": "At the North Pole",
+      "en": "Santa and his elves sing together at the North Pole.",
+      "cn": "圣诞老人和小精灵们在北极一起唱歌。",
+      "key": "Santa · elves"
+    },
+    {
+      "no": 2,
+      "time": "05:59",
+      "img": "/img/s05e14/f2.jpg",
+      "t": "The Naughty List",
+      "en": "“La lista de los que se portaron mal” means the naughty list.",
+      "cn": "“La lista de los que se portaron mal”就是淘气名单。",
+      "key": "lista · naughty list"
+    },
+    {
+      "no": 3,
+      "time": "11:19",
+      "img": "/img/s05e14/f3.jpg",
+      "t": "The Grumpy Old Troll",
+      "en": "“The Grumpy Old Troll can help?” Dora asks Swiper in the snow.",
+      "cn": "“暴躁老巨怪能帮忙吗？”Dora 在雪地里问 Swiper。",
+      "key": "Troll · Swiper"
+    },
+    {
+      "no": 4,
+      "time": "13:58",
+      "img": "/img/s05e14/f4.jpg",
+      "t": "A Friend in a Santa Hat",
+      "en": "Their yellow friend wears a Santa hat and waves by the bridge.",
+      "cn": "他们的黄色朋友戴着圣诞帽，在桥边挥手。",
+      "key": "Santa hat · bridge"
+    },
+    {
+      "no": 5,
+      "time": "20:37",
+      "img": "/img/s05e14/f5.jpg",
+      "t": "What Baby Is This?",
+      "en": "“What baby is this?” A little baby sits in a red carrier.",
+      "cn": "“这是哪个宝宝？”一个小宝宝坐在红色提篮里。",
+      "key": "baby · carrier"
+    },
+    {
+      "no": 6,
+      "time": "25:56",
+      "img": "/img/s05e14/f6.jpg",
+      "t": "Always Swiped",
+      "en": "“Yes, Swiper, but you always swiped on Christmas,” they sing.",
+      "cn": "“是啊 Swiper，可你每年圣诞节都要偷东西。”他们唱道。",
+      "key": "Swiper · Christmas"
+    },
+    {
+      "no": 7,
+      "time": "33:55",
+      "img": "/img/s05e14/f7.jpg",
+      "t": "Good Remembering",
+      "en": "“Good remembering!” Dora and her friends walk the snowy path.",
+      "cn": "“记性真好！”Dora 和朋友们走在雪路上。",
+      "key": "remembering · path"
+    },
+    {
+      "no": 8,
+      "time": "36:35",
+      "img": "/img/s05e14/f8.jpg",
+      "t": "Old Swiper",
+      "en": "An old Swiper sits in a big chair and looks at the door.",
+      "cn": "老 Swiper 坐在大椅子上，望着门口。",
+      "key": "old Swiper · chair"
+    },
+    {
+      "no": 9,
+      "time": "41:54",
+      "img": "/img/s05e14/f9.jpg",
+      "t": "A Christmas Present",
+      "en": "“But, Dora, I really want to give you a Christmas present.”",
+      "cn": "“可是 Dora，我真的很想送你一份圣诞礼物。”",
+      "key": "present · Christmas"
+    }
+  ],
+  "words": [
+    ["Christmas", "圣诞节"],
+    ["Santa", "圣诞老人"],
+    ["elves", "小精灵"],
+    ["naughty list", "淘气名单"],
+    ["present", "礼物"],
+    ["snow", "雪"],
+    ["troll", "巨怪"],
+    ["baby", "宝宝"],
+    ["sleigh", "雪橇"],
+    ["carol", "圣诞颂歌"],
+    ["Feliz Navidad", "圣诞快乐（西语）"],
+    ["la lista", "名单（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Dora's Christmas Carol Adventure”.",
+  "ending": "In the end, Swiper gives Dora a Christmas present and gets off the naughty list. My favorite part is ______."
+}

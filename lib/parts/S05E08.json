@@ -1,0 +1,108 @@
+{
+  "id": "S05E08",
+  "season": 5,
+  "episode": 8,
+  "title": "The Big Red Chicken's Magic Show",
+  "titleCn": "大红鸡的魔术秀",
+  "hook": "魔术秀开始了，可大红鸡被卡在小山里出不来，Dora 和 Boots 要穿过城堡和森林，学会咒语才能帮它。",
+  "cover": "/img/s05e08/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s05e08/f1.jpg",
+      "t": "The Magic Show",
+      "en": "Dora and Boots are at the magic show with two little mice.",
+      "cn": "Dora 和 Boots 来看魔术秀，台上还有两只小老鼠。",
+      "key": "magic show · Boots"
+    },
+    {
+      "no": 2,
+      "time": "03:20",
+      "img": "/img/s05e08/f2.jpg",
+      "t": "Back to Magic Land",
+      "en": "“The bunny must have gone back to Magic Land,” says Boots.",
+      "cn": "“小兔子一定是回魔法世界去了。”Boots 说。",
+      "key": "bunny · Magic Land"
+    },
+    {
+      "no": 3,
+      "time": "05:40",
+      "img": "/img/s05e08/f3.jpg",
+      "t": "Three Places",
+      "en": "Dora's cards show a castle, a forest and a bunny hill.",
+      "cn": "Dora 的卡片上是城堡、森林，还有兔子山。",
+      "key": "castle · forest"
+    },
+    {
+      "no": 4,
+      "time": "08:00",
+      "img": "/img/s05e08/f4.jpg",
+      "t": "The Card Trick",
+      "en": "“Comencemos!” The Queen of Hearts holds up her cards.",
+      "cn": "“我们开始吧（comencemos）！”红心王后举起了她的牌。",
+      "key": "Comencemos · cards"
+    },
+    {
+      "no": 5,
+      "time": "09:40",
+      "img": "/img/s05e08/f5.jpg",
+      "t": "One More Heart",
+      "en": "“One, we need one more heart,” Dora and Boots count.",
+      "cn": "“一个，还差一个红心。”Dora 和 Boots 一起数着。",
+      "key": "heart · count"
+    },
+    {
+      "no": 6,
+      "time": "12:20",
+      "img": "/img/s05e08/f6.jpg",
+      "t": "Abracadabra!",
+      "en": "“Abracadabra!” The white dove flies up from the log.",
+      "cn": "“Abracadabra（变）！”白鸽子从木头上飞了起来。",
+      "key": "dove · log"
+    },
+    {
+      "no": 7,
+      "time": "18:40",
+      "img": "/img/s05e08/f7.jpg",
+      "t": "The Magic Door",
+      "en": "“Can you say ‘abre, puerta’?” Dora asks at the blue door.",
+      "cn": "“你会说‘abre, puerta（开门）’吗？”Dora 在蓝色小门前问。",
+      "key": "abre, puerta · door"
+    },
+    {
+      "no": 8,
+      "time": "20:00",
+      "img": "/img/s05e08/f8.jpg",
+      "t": "Help the Chicken",
+      "en": "“I need your help to get out of the hill!” says the chicken.",
+      "cn": "“我需要你们帮忙，我才能从山里出来！”大红鸡说。",
+      "key": "help · hill"
+    },
+    {
+      "no": 9,
+      "time": "21:40",
+      "img": "/img/s05e08/f9.jpg",
+      "t": "Big Again",
+      "en": "“Whoo!” The Big Red Chicken is big again at the show.",
+      "cn": "“呼！”大红鸡在舞台上又变大了。",
+      "key": "Whoo · show"
+    }
+  ],
+  "words": [
+    ["magic show", "魔术秀"],
+    ["magician", "魔术师"],
+    ["bunny", "小兔子"],
+    ["castle", "城堡"],
+    ["forest", "森林"],
+    ["cards", "纸牌"],
+    ["heart", "红心"],
+    ["dove", "鸽子"],
+    ["hill", "小山"],
+    ["wand", "魔杖"],
+    ["abracadabra", "变！（咒语）"],
+    ["abre, puerta", "开门（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “The Big Red Chicken's Magic Show”.",
+  "ending": "In the end, the Big Red Chicken gets out of the hill and is big again. My favorite part is ______."
+}

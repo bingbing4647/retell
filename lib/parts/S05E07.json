@@ -1,0 +1,108 @@
+{
+  "id": "S05E07",
+  "season": 5,
+  "episode": 7,
+  "title": "Bouncy Boots",
+  "titleCn": "会弹跳的靴子",
+  "hook": "Boots 的靴子不见了，他要一路跳过大门口、过小河，去鞋店里一双一双地找，才能找回自己的靴子。",
+  "cover": "/img/s05e07/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:20",
+      "img": "/img/s05e07/f1.jpg",
+      "t": "Boots Lost His Boots",
+      "en": "“I can't wait to get my boots back, Dora,” says Boots.",
+      "cn": "“我迫不及待想拿回我的靴子了，Dora。”Boots 说。",
+      "key": "boots · Dora"
+    },
+    {
+      "no": 2,
+      "time": "02:40",
+      "img": "/img/s05e07/f2.jpg",
+      "t": "Not These Ones",
+      "en": "“Right, son diferentes.” These red boots are not his.",
+      "cn": "“对，它们不一样（son diferentes）。”这双红靴子不是他的。",
+      "key": "diferentes · red"
+    },
+    {
+      "no": 3,
+      "time": "04:20",
+      "img": "/img/s05e07/f3.jpg",
+      "t": "Three Stops",
+      "en": "Dora's cards show the gates, the river and the shoe shop.",
+      "cn": "Dora 的卡片上是：大门、小河，还有鞋店。",
+      "key": "gates · shoe shop"
+    },
+    {
+      "no": 4,
+      "time": "06:40",
+      "img": "/img/s05e07/f4.jpg",
+      "t": "Bouncing Along",
+      "en": "Boots bounces down the path and sings, “Boing, boing, boing!”",
+      "cn": "Boots 沿着小路一蹦一跳，唱着“Boing, boing, boing！”",
+      "key": "bounces · path"
+    },
+    {
+      "no": 5,
+      "time": "08:00",
+      "img": "/img/s05e07/f5.jpg",
+      "t": "Reach the Key",
+      "en": "“I'll have to jump really, really high to reach the key.”",
+      "cn": "“我得跳得高高的，才能拿到那把钥匙。”",
+      "key": "jump · key"
+    },
+    {
+      "no": 6,
+      "time": "09:00",
+      "img": "/img/s05e07/f6.jpg",
+      "t": "Higher Still",
+      "en": "“I'm gonna have to jump really, really, really high!” says Boots.",
+      "cn": "“这次我得跳得超级超级高！”Boots 说。",
+      "key": "high · Boots"
+    },
+    {
+      "no": 7,
+      "time": "12:20",
+      "img": "/img/s05e07/f7.jpg",
+      "t": "Nuts Up or Down",
+      "en": "“If the nuts are up or if the nuts are down?” Dora asks Tico.",
+      "cn": "“果子在上面，还是在下面？”Dora 问 Tico。",
+      "key": "nuts · Tico"
+    },
+    {
+      "no": 8,
+      "time": "19:40",
+      "img": "/img/s05e07/f8.jpg",
+      "t": "On the Shelf",
+      "en": "“Are they Boots' boots?” Dora looks at the boots on the shelf.",
+      "cn": "“这是 Boots 的靴子吗？”Dora 看着货架上的靴子。",
+      "key": "shelf · boots"
+    },
+    {
+      "no": 9,
+      "time": "21:00",
+      "img": "/img/s05e07/f9.jpg",
+      "t": "Boots Are Back",
+      "en": "At last Boots has his boots, and everyone smiles at the shop.",
+      "cn": "最后 Boots 拿回了自己的靴子，大家在鞋店门口都笑了。",
+      "key": "everyone · shop"
+    }
+  ],
+  "words": [
+    ["boots", "靴子"],
+    ["shoe shop", "鞋店"],
+    ["gates", "大门"],
+    ["river", "小河"],
+    ["key", "钥匙"],
+    ["jump", "跳"],
+    ["high", "高"],
+    ["nuts", "果子"],
+    ["shelf", "货架"],
+    ["bounce", "弹跳"],
+    ["son diferentes", "它们不一样（西语）"],
+    ["¿Qué pasa?", "怎么了？（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Bouncy Boots”.",
+  "ending": "In the end, Boots gets his bouncy boots back and bounces all the way home. My favorite part is ______."
+}

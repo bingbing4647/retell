@@ -1,0 +1,108 @@
+{
+  "id": "S05E18",
+  "season": 5,
+  "episode": 18,
+  "title": "Boots' Banana Wish",
+  "titleCn": "Boots 的香蕉愿望",
+  "hook": "Boots 许了个香蕉愿望，香蕉堆成山，可要把香蕉送回爷爷的工坊，得先过巨怪的桥、再坐香蕉船。",
+  "cover": "/img/s05e18/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:00",
+      "img": "/img/s05e18/f1.jpg",
+      "t": "A Pile of Bananas",
+      "en": "“Remember, Boots?” Dora stands by a big pile of bananas.",
+      "cn": "“还记得吗，Boots？”Dora 站在一大堆香蕉旁边。",
+      "key": "bananas · pile"
+    },
+    {
+      "no": 2,
+      "time": "03:20",
+      "img": "/img/s05e18/f2.jpg",
+      "t": "Ask for Help",
+      "en": "“Who do we ask for help when we don't know which way to go?”",
+      "cn": "“不知道路怎么走的时候，我们该找谁帮忙？”",
+      "key": "help · way"
+    },
+    {
+      "no": 3,
+      "time": "04:40",
+      "img": "/img/s05e18/f3.jpg",
+      "t": "Bridge, River, Workshop",
+      "en": "Map shows the troll bridge, the river and Abuelo's workshop.",
+      "cn": "地图上是大桥、小河，还有爷爷的工坊。",
+      "key": "bridge · workshop"
+    },
+    {
+      "no": 4,
+      "time": "07:20",
+      "img": "/img/s05e18/f4.jpg",
+      "t": "Over the Bridge",
+      "en": "“We made it over the bridge. Check!” Dora and Boots cheer.",
+      "cn": "“我们过桥啦！打勾！”Dora 和 Boots 一起欢呼。",
+      "key": "bridge · Check"
+    },
+    {
+      "no": 5,
+      "time": "09:20",
+      "img": "/img/s05e18/f5.jpg",
+      "t": "Bananas!",
+      "en": "Their friends sing “Bananas!” and hold ripe yellow bananas.",
+      "cn": "朋友们唱着“Bananas！”，手里举着黄澄澄的香蕉。",
+      "key": "friends · bananas"
+    },
+    {
+      "no": 6,
+      "time": "10:00",
+      "img": "/img/s05e18/f6.jpg",
+      "t": "To the Workshop",
+      "en": "They come to the water and need a boat to the workshop.",
+      "cn": "他们来到水边，要坐船才能到工坊。",
+      "key": "water · boat"
+    },
+    {
+      "no": 7,
+      "time": "12:00",
+      "img": "/img/s05e18/f7.jpg",
+      "t": "Ooh-Ooh, Ah-Ah",
+      "en": "“Ooh-ooh, ah-ah!” The little animals run along the path.",
+      "cn": "“呜—呜，啊—啊！”小动物们沿着小路跑过去。",
+      "key": "animals · path"
+    },
+    {
+      "no": 8,
+      "time": "14:00",
+      "img": "/img/s05e18/f8.jpg",
+      "t": "Pirate Piggies",
+      "en": "“Say ‘pirate piggies,’” Dora and Boots call across the water.",
+      "cn": "“说‘海盗小猪’！”Dora 和 Boots 朝水面那边喊。",
+      "key": "pirate piggies · water"
+    },
+    {
+      "no": 9,
+      "time": "20:00",
+      "img": "/img/s05e18/f9.jpg",
+      "t": "At the Workshop",
+      "en": "At last they reach Abuelo's workshop and the banana machine.",
+      "cn": "他们终于到了爷爷的工坊，那里有一台香蕉机器。",
+      "key": "workshop · machine"
+    }
+  ],
+  "words": [
+    ["bananas", "香蕉"],
+    ["wish", "愿望"],
+    ["crystal ball", "水晶球"],
+    ["bridge", "桥"],
+    ["troll", "巨怪"],
+    ["river", "小河"],
+    ["workshop", "工坊"],
+    ["boat", "小船"],
+    ["turtles", "乌龟"],
+    ["machine", "机器"],
+    ["gracias", "谢谢（西语）"],
+    ["¿dónde está?", "在哪里？（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Boots' Banana Wish”.",
+  "ending": "In the end, Boots gets his bananas and they take them to Abuelo's workshop. My favorite part is ______."
+}

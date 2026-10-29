@@ -1,0 +1,108 @@
+{
+  "id": "S05E02",
+  "season": 5,
+  "episode": 2,
+  "title": "Benny's Big Race",
+  "titleCn": "贝尼的大赛车",
+  "hook": "Benny 邀请 Dora 和 Boots 参加大赛车，他们要颠过路障锥、穿过沙漠，还要救出卡在洞里的小车手。",
+  "cover": "/img/s05e02/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "00:58",
+      "img": "/img/s05e02/f1.jpg",
+      "t": "A Big Day",
+      "en": "Benny the bull invites us to watch his big race today.",
+      "cn": "Benny 这头公牛邀请我们来看他今天的大赛车。",
+      "key": "Benny · race"
+    },
+    {
+      "no": 2,
+      "time": "02:53",
+      "img": "/img/s05e02/f2.jpg",
+      "t": "Getting It Ready",
+      "en": "They put two large wheels at the back of the red kart.",
+      "cn": "他们在红色赛车的后面装上两个大轮子。",
+      "key": "wheels · kart"
+    },
+    {
+      "no": 3,
+      "time": "06:20",
+      "img": "/img/s05e02/f3.jpg",
+      "t": "Map Shows The Way",
+      "en": "Map says: first the cones, then the desert, then the finish line.",
+      "cn": "地图说：先过路障锥，再穿沙漠，最后到终点线。",
+      "key": "cones · desert"
+    },
+    {
+      "no": 4,
+      "time": "08:01",
+      "img": "/img/s05e02/f4.jpg",
+      "t": "Traffic Trouble",
+      "en": "One racer stops right in the middle of the road.",
+      "cn": "一位选手把车停在路中间，挡住了大家。",
+      "key": "racer · middle"
+    },
+    {
+      "no": 5,
+      "time": "09:57",
+      "img": "/img/s05e02/f5.jpg",
+      "t": "A Bumpy Ride",
+      "en": "“Bounce in your seats!” They bump over the cones and laugh.",
+      "cn": "“在座位上弹一弹！”他们颠过路障锥，笑个不停。",
+      "key": "bounce · cones"
+    },
+    {
+      "no": 6,
+      "time": "12:40",
+      "img": "/img/s05e02/f6.jpg",
+      "t": "A Spanish Word",
+      "en": "“Can you say con permiso?” Dora asks with a big smile.",
+      "cn": "Dora 笑着问：“你会说 con permiso 吗？”（意思是“借过一下”）",
+      "key": "permiso · smile"
+    },
+    {
+      "no": 7,
+      "time": "15:40",
+      "img": "/img/s05e02/f7.jpg",
+      "t": "Hot Dry Sand",
+      "en": "“Maybe she can help us find water,” says Boots in the desert.",
+      "cn": "“也许她能帮我们找到水，”Boots 在沙漠里说。",
+      "key": "water · desert"
+    },
+    {
+      "no": 8,
+      "time": "19:10",
+      "img": "/img/s05e02/f8.jpg",
+      "t": "Help Needed",
+      "en": "“My go-kart is stuck in a hole!” the little driver shouts.",
+      "cn": "“我的赛车卡在洞里出不来啦！”小车手大声喊。",
+      "key": "stuck · hole"
+    },
+    {
+      "no": 9,
+      "time": "21:31",
+      "img": "/img/s05e02/f9.jpg",
+      "t": "Winner At Last",
+      "en": "“He did it, hooray!” The big red chicken lifts the gold cup.",
+      "cn": "“他做到了，好棒！”大红鸡在终点举起了金杯。",
+      "key": "chicken · cup"
+    }
+  ],
+  "words": [
+    ["race", "比赛"],
+    ["go-kart", "小赛车"],
+    ["wheel", "轮子"],
+    ["cones", "路障锥"],
+    ["desert", "沙漠"],
+    ["finish line", "终点线"],
+    ["bounce", "弹跳"],
+    ["water", "水"],
+    ["stuck", "卡住"],
+    ["hole", "洞"],
+    ["trophy", "奖杯"],
+    ["con permiso", "借过一下（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Benny's Big Race”.",
+  "ending": "In the end, they reach the finish line and the big red chicken lifts the gold cup. My favorite part is ______."
+}
