@@ -1,0 +1,108 @@
+{
+  "id": "S01E15",
+  "season": 1,
+  "episode": 15,
+  "title": "Bouncing Ball",
+  "titleCn": "弹力球",
+  "hook": "Boots 的新弹力球蹦走了！Dora 和 Boots 追着球过了巨魔桥，一直追到火山口。",
+  "cover": "/img/s01e15/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s01e15/f1.jpg",
+      "t": "A New Ball",
+      "en": "Dora asks Boots, “What kind of ball do you want to get?”",
+      "cn": "Dora 问 Boots：“你想要买哪种球呀？”",
+      "key": "Boots · ball"
+    },
+    {
+      "no": 2,
+      "time": "02:20",
+      "img": "/img/s01e15/f2.jpg",
+      "t": "Coins in Backpack",
+      "en": "Dora has some coins in her backpack to buy the ball.",
+      "cn": "Dora 的背包里有硬币，可以买球。",
+      "key": "coins · backpack"
+    },
+    {
+      "no": 3,
+      "time": "03:41",
+      "img": "/img/s01e15/f3.jpg",
+      "t": "The Ball Bounces Away",
+      "en": "Boots throws the ball, and it bounces away with all the coins!",
+      "cn": "Boots 一扔，球带着所有硬币蹦走啦！",
+      "key": "bounces · coins"
+    },
+    {
+      "no": 4,
+      "time": "04:21",
+      "img": "/img/s01e15/f4.jpg",
+      "t": "My Bouncy Ball",
+      "en": "“I love my ball, my bouncy ball!” sings Boots.",
+      "cn": "Boots 唱着：“我爱我的球，我的弹力球！”",
+      "key": "love · bouncy"
+    },
+    {
+      "no": 5,
+      "time": "07:42",
+      "img": "/img/s01e15/f5.jpg",
+      "t": "To the Volcano",
+      "en": "The ball keeps bouncing. Dora and Boots must get to the volcano.",
+      "cn": "球一直往前蹦。Dora 和 Boots 必须赶到火山去。",
+      "key": "ball · volcano"
+    },
+    {
+      "no": 6,
+      "time": "11:03",
+      "img": "/img/s01e15/f6.jpg",
+      "t": "The Troll Bridge",
+      "en": "On the way to the volcano, they cross the Troll Bridge.",
+      "cn": "去火山的路上，他们要过巨魔桥。",
+      "key": "cross · Troll Bridge"
+    },
+    {
+      "no": 7,
+      "time": "13:04",
+      "img": "/img/s01e15/f7.jpg",
+      "t": "Stop Swiper",
+      "en": "Swiper wants their ball! “Swiper, no swiping!” they say.",
+      "cn": "Swiper 想抢他们的球！他们喊：“Swiper，不许抢！”",
+      "key": "Swiper · swiping"
+    },
+    {
+      "no": 8,
+      "time": "17:45",
+      "img": "/img/s01e15/f8.jpg",
+      "t": "Tico Helps",
+      "en": "Their friend Tico the squirrel drives them up the volcano.",
+      "cn": "他们的朋友小松鼠 Tico 开车带他们上火山。",
+      "key": "Tico · volcano"
+    },
+    {
+      "no": 9,
+      "time": "23:07",
+      "img": "/img/s01e15/f9.jpg",
+      "t": "We Did It!",
+      "en": "They get the bouncy ball back. “We couldn't have done it without you!”",
+      "cn": "他们拿回了弹力球。“没有你可做不到！”",
+      "key": "bouncy ball · without"
+    }
+  ],
+  "words": [
+    ["ball", "球"],
+    ["bouncy", "有弹性的"],
+    ["bounce", "弹跳"],
+    ["coin", "硬币"],
+    ["backpack", "背包"],
+    ["volcano", "火山"],
+    ["troll bridge", "巨魔桥"],
+    ["riddle", "谜语"],
+    ["Tico", "小松鼠 Tico"],
+    ["Swiper", "捣蛋鬼"],
+    ["que bueno", "真好（西语）"],
+    ["¡vamonos!", "走吧（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Bouncing Ball”.",
+  "ending": "In the end, Boots gets his bouncy ball back. My favorite part is ______."
+}

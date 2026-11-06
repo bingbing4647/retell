@@ -29,10 +29,10 @@
       "no": 3,
       "time": "06:24",
       "img": "/img/s04e16/f3.jpg",
-      "t": "Azul, You're Right",
-      "en": "The rainbow hides and says, “Azul, you're right!”",
-      "cn": "彩虹躲起来说：“蓝色，你说得对！”",
-      "key": "hides · Azul"
+      "t": "Arco Iris Knows",
+      "en": "Arco Iris, you knew the answer! The rainbow shows the way.",
+      "cn": "彩虹 Arco Iris 你知道答案！彩虹指出了路。",
+      "key": "Arco Iris · rainbow"
     },
     {
       "no": 4,
@@ -63,12 +63,12 @@
     },
     {
       "no": 7,
-      "time": "16:02",
+      "time": "16:06",
       "img": "/img/s04e16/f7.jpg",
-      "t": "Row the Boat",
-      "en": "Dora rows the red boat across the blue water.",
-      "cn": "Dora 划着红船穿过蓝色的水面。",
-      "key": "rows · water"
+      "t": "Sneezing Snakes",
+      "en": "What do we do if we run into any sneezing snakes ahead?",
+      "cn": "要是路上遇到打喷嚏的蛇，我们该怎么办？",
+      "key": "sneezing · snakes"
     },
     {
       "no": 8,

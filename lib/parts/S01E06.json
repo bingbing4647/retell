@@ -1,0 +1,108 @@
+{
+  "id": "S01E06",
+  "season": 1,
+  "episode": 6,
+  "title": "Three L'il Piggies",
+  "titleCn": "三只小猪",
+  "hook": "三只小猪戴着蓝丝带跑丢啦！Dora 和 Boots 要去干草堆、谷仓和苹果树把它们找回来。",
+  "cover": "/img/s01e06/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:20",
+      "img": "/img/s01e06/f1.jpg",
+      "t": "The Piggies Run Out",
+      "en": "“Aw, piggies!” The three little piggies run out of the house.",
+      "cn": "“哎呀，小猪们！”三只小猪从屋里跑了出去。",
+      "key": "piggies · run"
+    },
+    {
+      "no": 2,
+      "time": "03:41",
+      "img": "/img/s01e06/f2.jpg",
+      "t": "A Job for You",
+      "en": "Dora wants you to find the blue ribbons for the little piggies.",
+      "cn": "Dora 想请你帮小猪们找回蓝丝带。",
+      "key": "ribbons · piggies"
+    },
+    {
+      "no": 3,
+      "time": "07:42",
+      "img": "/img/s01e06/f3.jpg",
+      "t": "Three Places",
+      "en": "“Hay, Barn, Apple Tree,” says the Map. That is the way to go.",
+      "cn": "地图说：“干草堆、谷仓、苹果树。”就按这条路走。",
+      "key": "Barn · Apple Tree"
+    },
+    {
+      "no": 4,
+      "time": "09:43",
+      "img": "/img/s01e06/f4.jpg",
+      "t": "A Piggy in the Hay",
+      "en": "“The hay is moving!” One little piggy hides under the hay.",
+      "cn": "“干草在动！”一只小猪藏在干草堆下面。",
+      "key": "hay · hides"
+    },
+    {
+      "no": 5,
+      "time": "13:44",
+      "img": "/img/s01e06/f5.jpg",
+      "t": "Abre! Open!",
+      "en": "“Abre!” says Dora. “Abre” is Spanish for “open the door.”",
+      "cn": "Dora 说：“Abre！”Abre 是西班牙语的“开门”。",
+      "key": "Abre · door"
+    },
+    {
+      "no": 6,
+      "time": "17:05",
+      "img": "/img/s01e06/f6.jpg",
+      "t": "Where Is the Tree?",
+      "en": "“Where's the apple tree?” asks Boots. They look for it together.",
+      "cn": "Boots 问：“苹果树在哪里？”他们一起找苹果树。",
+      "key": "apple tree · look"
+    },
+    {
+      "no": 7,
+      "time": "17:46",
+      "img": "/img/s01e06/f7.jpg",
+      "t": "Muddy Trouble",
+      "en": "The wagon is stuck in the mud. “Will you help us pull it out?”",
+      "cn": "小车陷进泥里了。“你愿意帮我们把它拉出来吗？”",
+      "key": "wagon · mud"
+    },
+    {
+      "no": 8,
+      "time": "21:08",
+      "img": "/img/s01e06/f8.jpg",
+      "t": "Stop Him!",
+      "en": "Here comes Swiper the fox! “Say ‘Swiper, no swiping!’”",
+      "cn": "捣蛋鬼狐狸 Swiper 来了！“快说‘Swiper，不许抢！’”",
+      "key": "Swiper · swiping"
+    },
+    {
+      "no": 9,
+      "time": "22:06",
+      "img": "/img/s01e06/f9.jpg",
+      "t": "Oinkie Is Safe",
+      "en": "“Oinkie fell from the apple tree!” Now all three piggies are safe.",
+      "cn": "“Oinkie 从苹果树上掉下来啦！”现在三只小猪都安全了。",
+      "key": "Oinkie · apple tree"
+    }
+  ],
+  "words": [
+    ["piggy", "小猪"],
+    ["ribbon", "丝带"],
+    ["hay", "干草堆"],
+    ["barn", "谷仓"],
+    ["apple tree", "苹果树"],
+    ["wagon", "小推车"],
+    ["mud", "泥巴"],
+    ["fox", "狐狸"],
+    ["Swiper", "捣蛋鬼"],
+    ["swiping", "偷拿"],
+    ["abre", "打开（西语）"],
+    ["oink", "猪叫声（呼噜）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Three L'il Piggies”.",
+  "ending": "In the end, all three piggies go back home safe. My favorite part is ______."
+}

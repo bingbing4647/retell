@@ -1,0 +1,108 @@
+{
+  "id": "S01E13",
+  "season": 1,
+  "episode": 13,
+  "title": "Grandma's House",
+  "titleCn": "奶奶家",
+  "hook": "奶奶感冒了！Dora 和 Boots 带着一篮点心去看她，Swiper 却一路来捣乱。",
+  "cover": "/img/s01e13/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:02",
+      "img": "/img/s01e13/f1.jpg",
+      "t": "Grandma Is Sick",
+      "en": "Dora's grandma is sneezing and coughing. She has a bad cold.",
+      "cn": "Dora 的奶奶又打喷嚏又咳嗽，她感冒了。",
+      "key": "grandma · cold"
+    },
+    {
+      "no": 2,
+      "time": "01:30",
+      "img": "/img/s01e13/f2.jpg",
+      "t": "Treats for Abuela",
+      "en": "Dora asks, “Will you help me take the basket of treats?”",
+      "cn": "Dora 问：“你愿意帮我带上这篮点心吗？”",
+      "key": "basket · treats"
+    },
+    {
+      "no": 3,
+      "time": "04:40",
+      "img": "/img/s01e13/f3.jpg",
+      "t": "Ask the Map",
+      "en": "The Map knows the quickest way to Grandma's house.",
+      "cn": "地图知道去奶奶家最近的路。",
+      "key": "Map · way"
+    },
+    {
+      "no": 4,
+      "time": "07:42",
+      "img": "/img/s01e13/f4.jpg",
+      "t": "Not the Basket!",
+      "en": "Swiper tries to swipe the basket! “Swiper, no swiping!” they say.",
+      "cn": "Swiper 想抢篮子！他们喊：“Swiper，不许抢！”",
+      "key": "Swiper · swiping"
+    },
+    {
+      "no": 5,
+      "time": "08:26",
+      "img": "/img/s01e13/f5.jpg",
+      "t": "Thrown Away",
+      "en": "Swiper throws the basket away. “We'll get the basket back!”",
+      "cn": "Swiper 把篮子扔了出去。“我们一定要把篮子拿回来！”",
+      "key": "basket · back"
+    },
+    {
+      "no": 6,
+      "time": "12:24",
+      "img": "/img/s01e13/f6.jpg",
+      "t": "Watch the Branches",
+      "en": "Swiper swings at them from the trees. “Help us duck down!”",
+      "cn": "Swiper 从树上朝他们荡过来。“帮我们低头躲开！”",
+      "key": "Swiper · duck"
+    },
+    {
+      "no": 7,
+      "time": "16:40",
+      "img": "/img/s01e13/f7.jpg",
+      "t": "Count with Me",
+      "en": "Dora counts in Spanish. “Uno, dos, tres, cuatro, cinco!”",
+      "cn": "Dora 用西班牙语数数：“一、二、三、四、五！”",
+      "key": "counts · cinco"
+    },
+    {
+      "no": 8,
+      "time": "19:46",
+      "img": "/img/s01e13/f8.jpg",
+      "t": "One More Time",
+      "en": "Swiper comes back again! Dora and Boots say, “Swiper, no swiping!”",
+      "cn": "Swiper 又来啦！Dora 和 Boots 喊：“Swiper，不许抢！”",
+      "key": "Swiper · again"
+    },
+    {
+      "no": 9,
+      "time": "21:47",
+      "img": "/img/s01e13/f9.jpg",
+      "t": "Gracias, Dora!",
+      "en": "Abuela eats the treats and says, “I'm feeling better already.”",
+      "cn": "奶奶吃着点心说：“我已经感觉好多了。”",
+      "key": "Abuela · better"
+    }
+  ],
+  "words": [
+    ["grandma", "奶奶"],
+    ["basket", "篮子"],
+    ["treats", "点心"],
+    ["sneeze", "打喷嚏"],
+    ["cough", "咳嗽"],
+    ["bridge", "桥"],
+    ["river", "河"],
+    ["quickest", "最快的"],
+    ["duck down", "低头躲避"],
+    ["Swiper", "捣蛋鬼"],
+    ["abuela", "奶奶（西语）"],
+    ["cinco", "五（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Grandma's House”.",
+  "ending": "In the end, Abuela eats the treats and feels much better. My favorite part is ______."
+}

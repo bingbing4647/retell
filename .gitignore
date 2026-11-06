@@ -39,6 +39,7 @@ next-env.d.ts
 
 # 构建/部署残留
 /.stale-*/
+/.next_old*/
 /_iotest/
 /dist-site/
 

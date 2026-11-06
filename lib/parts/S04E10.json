@@ -9,12 +9,12 @@
   "cells": [
     {
       "no": 1,
-      "time": "02:46",
+      "time": "02:36",
       "img": "/img/s04e10/f1.jpg",
-      "t": "A Clam Shell",
-      "en": "Dora finds a clam shell on the warm sand.",
-      "cn": "Dora 在暖暖的沙滩上捡到一个蛤蜊壳。",
-      "key": "shell · sand"
+      "t": "Clean the Beach",
+      "en": "Thanks for helping us clean up the beach, little clam shell!",
+      "cn": "谢谢你帮我们一起清理海滩，小贝壳！",
+      "key": "beach · clean"
     },
     {
       "no": 2,
@@ -27,12 +27,12 @@
     },
     {
       "no": 3,
-      "time": "11:16",
+      "time": "11:28",
       "img": "/img/s04e10/f3.jpg",
-      "t": "Look for a Mermaid",
-      "en": "They walk to the sea and look for a mermaid.",
-      "cn": "他们走到海边，去找一位美人鱼。",
-      "key": "walk · mermaid"
+      "t": "Number Bridge",
+      "en": "Look at all the numbers! They go over the number bridge.",
+      "cn": "看这么多数字！他们要走过数字桥。",
+      "key": "numbers · bridge"
     },
     {
       "no": 4,
@@ -45,12 +45,12 @@
     },
     {
       "no": 5,
-      "time": "19:46",
+      "time": "19:58",
       "img": "/img/s04e10/f5.jpg",
-      "t": "The Gold Crown",
-      "en": "Dora holds a gold crown near the small island.",
-      "cn": "Dora 在小岛边捧着一顶金皇冠。",
-      "key": "crown · island"
+      "t": "We Can Do It",
+      "en": "Swim fast, little fish! Dora knows we can do it.",
+      "cn": "小鱼快游！Dora 知道我们一定能做到。",
+      "key": "fish · fast"
     },
     {
       "no": 6,
@@ -63,12 +63,12 @@
     },
     {
       "no": 7,
-      "time": "28:16",
+      "time": "28:04",
       "img": "/img/s04e10/f7.jpg",
-      "t": "A Fish Like a Dog",
-      "en": "That fish looks like a dog with brown fur.",
-      "cn": "那条鱼长得像一只棕色毛的狗。",
-      "key": "fish · dog"
+      "t": "The Silly Sea",
+      "en": "In the Silly Sea there is a fish that meows. It is a catfish!",
+      "cn": "傻傻海里有会喵喵叫的鱼，是猫鱼！",
+      "key": "Silly Sea · catfish"
     },
     {
       "no": 8,
@@ -81,12 +81,12 @@
     },
     {
       "no": 9,
-      "time": "36:46",
+      "time": "33:30",
       "img": "/img/s04e10/f9.jpg",
-      "t": "Mariana the Mermaid",
-      "en": "The mermaid Mariana lives near a giant pearl shell.",
-      "cn": "美人鱼 Mariana 住在一个巨大的珍珠贝壳旁。",
-      "key": "mermaid · pearl"
+      "t": "Make a Wish",
+      "en": "Now Dora can wish the Mermaid Kingdom clean and bright again.",
+      "cn": "现在 Dora 可以许愿让人鱼王国重新干净明亮。",
+      "key": "wish · Mermaid"
     }
   ],
   "words": [

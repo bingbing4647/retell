@@ -9,12 +9,12 @@
   "cells": [
     {
       "no": 1,
-      "time": "01:34",
+      "time": "01:50",
       "img": "/img/s04e01/f1.jpg",
-      "t": "Catch a Little Star",
-      "en": "Dora catches a little star under the big green tree.",
-      "cn": "Dora 在大绿树下接住了一颗小星星。",
-      "key": "star · tree"
+      "t": "A Star Catcher",
+      "en": "“A star catcher!” Dora and Boots want to catch the little star.",
+      "cn": "“捕星者！”Dora 和 Boots 想去抓住那颗小星星。",
+      "key": "star · catcher"
     },
     {
       "no": 2,
@@ -45,12 +45,12 @@
     },
     {
       "no": 5,
-      "time": "11:13",
+      "time": "11:48",
       "img": "/img/s04e01/f5.jpg",
-      "t": "Dora Takes the Wheel",
-      "en": "Dora takes the wheel and drives the boat across.",
-      "cn": "Dora 握住舵轮，开着船过河。",
-      "key": "wheel · boat"
+      "t": "Jump Over Sharks",
+      "en": "“Salta!” The explorer star jumps with them over the sharks.",
+      "cn": "“Salta（跳）！”探险星和他们一起跳过鲨鱼群。",
+      "key": "jumps · sharks"
     },
     {
       "no": 6,
@@ -63,12 +63,12 @@
     },
     {
       "no": 7,
-      "time": "16:02",
+      "time": "14:40",
       "img": "/img/s04e01/f7.jpg",
-      "t": "Switchy Fills the Shapes",
-      "en": "Switchy can fill in the missing shapes on the box.",
-      "cn": "星星 Switchy 会把盒子上缺的形状补好。",
-      "key": "shapes · box"
+      "t": "Ride Over the Mountain",
+      "en": "Azul the dragon gives them a ride over Dragon Mountain.",
+      "cn": "小龙 Azul 驮着他们飞过龙火山。",
+      "key": "dragon · ride"
     },
     {
       "no": 8,

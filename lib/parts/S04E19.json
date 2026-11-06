@@ -27,12 +27,12 @@
     },
     {
       "no": 3,
-      "time": "06:24",
+      "time": "06:12",
       "img": "/img/s04e19/f3.jpg",
-      "t": "Run After the Babies",
-      "en": "Everyone runs after the babies on the path.",
-      "cn": "大家在小路上追着宝宝们跑。",
-      "key": "runs · babies"
+      "t": "Three Places",
+      "en": "Farm, garden, Gooey Geyser! They say the map words together.",
+      "cn": "农场、花园、黏糊糊间歇泉！他们一起念地图上的三个地方。",
+      "key": "farm · garden"
     },
     {
       "no": 4,
@@ -45,12 +45,12 @@
     },
     {
       "no": 5,
-      "time": "11:13",
+      "time": "06:15",
       "img": "/img/s04e19/f5.jpg",
-      "t": "Grandma and Grandpa",
-      "en": "Grandma and Grandpa run with Dora and Boots.",
-      "cn": "爷爷奶奶跟着 Dora 和 Boots 一起跑。",
-      "key": "Grandma · run"
+      "t": "Map Words",
+      "en": "Farm, garden, Gooey Geyser! They say the map words together.",
+      "cn": "农场、花园、间歇泉！他们一起把地图上的地名念了一遍。",
+      "key": "farm · garden"
     },
     {
       "no": 6,
@@ -63,12 +63,12 @@
     },
     {
       "no": 7,
-      "time": "16:02",
+      "time": "20:45",
       "img": "/img/s04e19/f7.jpg",
-      "t": "Say Map",
-      "en": "The family calls together, “Map, Map, Map!”",
-      "cn": "一家人一起喊：“地图，地图，地图！”",
-      "key": "family · Map"
+      "t": "Run Fast",
+      "en": "Run! The Gooey Geyser is right behind them. Corre, corre!",
+      "cn": "快跑！黏糊糊间歇泉就在他们身后。",
+      "key": "run · Gooey Geyser"
     },
     {
       "no": 8,
@@ -81,12 +81,12 @@
     },
     {
       "no": 9,
-      "time": "20:52",
+      "time": "21:12",
       "img": "/img/s04e19/f9.jpg",
-      "t": "Bubbles, Not Goo",
-      "en": "The gooey geyser sprays bubbles, not sticky goo.",
-      "cn": "黏黏泉喷出来的是泡泡，不是黏胶。",
-      "key": "geyser · bubbles"
+      "t": "Bubbles Time",
+      "en": "The babies love bubbles! Everyone is happy and safe now.",
+      "cn": "宝宝们喜欢泡泡！现在大家都平安开心。",
+      "key": "bubbles · safe"
     }
   ],
   "words": [

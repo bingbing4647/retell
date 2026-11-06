@@ -1,4 +1,5 @@
 import "./globals.css";
+import AuthProvider from "../components/AuthProvider";
 
 export const metadata = {
   title: "朵拉爱冒险 · 英语复述",
@@ -14,7 +15,9 @@ export const viewport = {
 export default function RootLayout({ children }) {
   return (
     <html lang="zh-CN">
-      <body>{children}</body>
+      <body>
+        <AuthProvider>{children}</AuthProvider>
+      </body>
     </html>
   );
 }

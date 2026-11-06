@@ -1,0 +1,108 @@
+{
+  "id": "S01E18",
+  "season": 1,
+  "episode": 18,
+  "title": "El Coqui",
+  "titleCn": "小青蛙科基回家",
+  "hook": "书里的小科基蛙想回到美丽的小岛，Dora 和 Boots 带他穿过回声灌木丛，再坐船过海。",
+  "cover": "/img/s01e18/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:20",
+      "img": "/img/s01e18/f1.jpg",
+      "t": "A Book About Coquí",
+      "en": "Dora shows Boots a picture in her book. “Luna Guitarra!”",
+      "cn": "Dora 给 Boots 看书里的一幅画：“月亮吉他！”",
+      "key": "picture · book"
+    },
+    {
+      "no": 2,
+      "time": "03:00",
+      "img": "/img/s01e18/f2.jpg",
+      "t": "Far Away Island",
+      "en": "“That coquí lives on a beautiful island,” Dora reads to Boots.",
+      "cn": "Dora 念给 Boots 听：“这只科基蛙住在一座美丽的小岛上。”",
+      "key": "coquí · island"
+    },
+    {
+      "no": 3,
+      "time": "06:40",
+      "img": "/img/s01e18/f3.jpg",
+      "t": "The Way to Go",
+      "en": "“First we have to find the Echo Bush,” says Dora.",
+      "cn": "Dora 说：“我们先要找到回声灌木丛。”",
+      "key": "Echo Bush · find"
+    },
+    {
+      "no": 4,
+      "time": "08:00",
+      "img": "/img/s01e18/f4.jpg",
+      "t": "Keep Going",
+      "en": "“Don't worry, Coquí, we're almost there,” says Boots.",
+      "cn": "Boots 说：“别担心，科基，我们快到了。”",
+      "key": "worry · almost"
+    },
+    {
+      "no": 5,
+      "time": "09:20",
+      "img": "/img/s01e18/f5.jpg",
+      "t": "Funny Echo",
+      "en": "The Echo Bush says it back. “Yeah, who's talking?”",
+      "cn": "回声灌木丛把话学回来：“对呀，是谁在说话？”",
+      "key": "Echo Bush · talking"
+    },
+    {
+      "no": 6,
+      "time": "11:20",
+      "img": "/img/s01e18/f6.jpg",
+      "t": "Looking for Water",
+      "en": "They walk to the shore. “Now, where is the ocean?”",
+      "cn": "他们走到岸边：“现在大海在哪儿呢？”",
+      "key": "shore · ocean"
+    },
+    {
+      "no": 7,
+      "time": "16:10",
+      "img": "/img/s01e18/f7.jpg",
+      "t": "Home Soon",
+      "en": "On the little boat Dora says, “We're going to have you home soon, Coquí!”",
+      "cn": "小船上，Dora 说：“我们很快就送你回家，科基！”",
+      "key": "boat · home"
+    },
+    {
+      "no": 8,
+      "time": "19:00",
+      "img": "/img/s01e18/f8.jpg",
+      "t": "Like a Frog",
+      "en": "“I know! We can jump like Coquí,” says Boots on the rocks.",
+      "cn": "Boots 站在礁石上说：“我知道了！我们可以像科基那样跳。”",
+      "key": "jump · rocks"
+    },
+    {
+      "no": 9,
+      "time": "21:40",
+      "img": "/img/s01e18/f9.jpg",
+      "t": "Singing Together",
+      "en": "The coquí family sings in the tree. “Coquí! Qui! Qui!”",
+      "cn": "科基蛙一家在树上唱歌：“科基！叽！叽！”",
+      "key": "family · sings"
+    }
+  ],
+  "words": [
+    ["coquí", "科基蛙（西语）"],
+    ["book", "书"],
+    ["picture", "图画"],
+    ["island", "小岛"],
+    ["beautiful", "美丽的"],
+    ["echo", "回声"],
+    ["bush", "灌木丛"],
+    ["worry", "担心"],
+    ["ocean", "大海"],
+    ["boat", "小船"],
+    ["jump", "跳"],
+    ["guitar", "吉他"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “El Coqui”.",
+  "ending": "In the end, the little coquí sings with his family in the tree. My favorite part is ______."
+}

@@ -1,0 +1,108 @@
+{
+  "id": "S01E11",
+  "season": 1,
+  "episode": 11,
+  "title": "Berry Hunt",
+  "titleCn": "采蓝莓",
+  "hook": "Dora 想去蓝莓山采蓝莓，路上要划船过河、穿过刺刺森林，还遇上一头大熊！",
+  "cover": "/img/s01e11/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s01e11/f1.jpg",
+      "t": "Mommy's Snack",
+      "en": "Dora shows her blueberries. “Look what my mommy gave me for a snack!”",
+      "cn": "Dora 拿出她的蓝莓：“看，妈妈给我带了什么点心！”",
+      "key": "mommy · snack"
+    },
+    {
+      "no": 2,
+      "time": "05:01",
+      "img": "/img/s01e11/f2.jpg",
+      "t": "The Way to Go",
+      "en": "The Map shows the way: “First the river, then the Prickly Forest!”",
+      "cn": "地图指出路线：“先过河，再穿过刺刺森林！”",
+      "key": "river · Prickly Forest"
+    },
+    {
+      "no": 3,
+      "time": "09:03",
+      "img": "/img/s01e11/f3.jpg",
+      "t": "Row the Boat",
+      "en": "Dora and Boots sit in the boat. “Row, row, row!” across the river.",
+      "cn": "Dora 和 Boots 坐上小船：“划呀，划呀，划！”过河。",
+      "key": "boat · row"
+    },
+    {
+      "no": 4,
+      "time": "12:24",
+      "img": "/img/s01e11/f4.jpg",
+      "t": "A Prickly Problem",
+      "en": "The forest is full of thorns. “Let's stop and think,” says Dora.",
+      "cn": "森林里全是刺。Dora 说：“停一停，想一想。”",
+      "key": "forest · think"
+    },
+    {
+      "no": 5,
+      "time": "14:20",
+      "img": "/img/s01e11/f5.jpg",
+      "t": "Open the Gate",
+      "en": "“Abre!” says Dora, and the gate opens. They walk through the forest.",
+      "cn": "Dora 喊“Abre（打开）！”，门开了，他们穿过森林。",
+      "key": "Abre · gate"
+    },
+    {
+      "no": 6,
+      "time": "16:00",
+      "img": "/img/s01e11/f6.jpg",
+      "t": "Up the Hill",
+      "en": "They climb Blueberry Hill. “Do you see the blueberries?” asks Dora.",
+      "cn": "他们爬上蓝莓山。Dora 问：“你们看到蓝莓了吗？”",
+      "key": "Blueberry Hill · see"
+    },
+    {
+      "no": 7,
+      "time": "17:46",
+      "img": "/img/s01e11/f7.jpg",
+      "t": "Watch for Swiper",
+      "en": "Here comes Swiper! “He'll try to swipe our blueberries!”",
+      "cn": "Swiper 来啦！“他想偷拿我们的蓝莓！”",
+      "key": "Swiper · swipe"
+    },
+    {
+      "no": 8,
+      "time": "20:00",
+      "img": "/img/s01e11/f8.jpg",
+      "t": "Run from the Bear",
+      "en": "A big bear runs after them. “Grab onto a vine!” Dora shouts.",
+      "cn": "一头大熊追来啦！Dora 大喊：“快抓住藤蔓！”",
+      "key": "bear · vine"
+    },
+    {
+      "no": 9,
+      "time": "22:27",
+      "img": "/img/s01e11/f9.jpg",
+      "t": "What a Berry Hunt",
+      "en": "“We had such an exciting berry hunt!” The pail is full of blueberries.",
+      "cn": "“多刺激的采莓之旅呀！”小桶里装满了蓝莓。",
+      "key": "berry hunt · pail"
+    }
+  ],
+  "words": [
+    ["blueberry", "蓝莓"],
+    ["pail", "小桶"],
+    ["river", "河"],
+    ["row", "划船"],
+    ["Prickly Forest", "刺刺森林"],
+    ["gate", "门"],
+    ["abre", "打开（西语）"],
+    ["vine", "藤蔓"],
+    ["bear", "熊"],
+    ["Swiper", "捣蛋鬼"],
+    ["swipe", "偷拿"],
+    ["hill", "小山"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Berry Hunt”.",
+  "ending": "In the end, Dora and Boots fill the pail with blueberries and go home. My favorite part is ______."
+}

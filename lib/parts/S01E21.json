@@ -1,0 +1,108 @@
+{
+  "id": "S01E21",
+  "season": 1,
+  "episode": 21,
+  "title": "Little Star",
+  "titleCn": "送小星星回家",
+  "hook": "一颗小星星从天上掉下来啦！Dora 和 Boots 要过巨魔桥、找到大树和高山，送她回月亮身边。",
+  "cover": "/img/s01e21/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:05",
+      "img": "/img/s01e21/f1.jpg",
+      "t": "A Wish on a Star",
+      "en": "“I make a wish on the first little star I see in the sky.”",
+      "cn": "“我都会对夜里看到的第一颗小星星许个愿。”",
+      "key": "wish · star"
+    },
+    {
+      "no": 2,
+      "time": "04:21",
+      "img": "/img/s01e21/f2.jpg",
+      "t": "Down from the Sky",
+      "en": "“Are you okay, Little Star?” Dora and Boots find her on the ground.",
+      "cn": "“你还好吗，小星星？”Dora 和 Boots 发现她掉在了地上。",
+      "key": "okay · ground"
+    },
+    {
+      "no": 3,
+      "time": "04:50",
+      "img": "/img/s01e21/f3.jpg",
+      "t": "A Song for Her",
+      "en": "They sing “Twinkle, twinkle, little star” to make her feel better.",
+      "cn": "他们唱起《一闪一闪小星星》，让小星星开心起来。",
+      "key": "sing · better"
+    },
+    {
+      "no": 4,
+      "time": "07:42",
+      "img": "/img/s01e21/f4.jpg",
+      "t": "The Way Home",
+      "en": "The Map knows the way to take Little Star home to the moon.",
+      "cn": "地图知道怎么把小星星送回月亮身边。",
+      "key": "Map · moon"
+    },
+    {
+      "no": 5,
+      "time": "12:49",
+      "img": "/img/s01e21/f5.jpg",
+      "t": "The Troll's Riddle",
+      "en": "How many stars are here tonight? Dora counts them all: “Eleven!”",
+      "cn": "今晚天上有几颗星星？Dora 全部数了一遍：“十一颗！”",
+      "key": "stars · Eleven"
+    },
+    {
+      "no": 6,
+      "time": "16:05",
+      "img": "/img/s01e21/f6.jpg",
+      "t": "Oh No, Swiper!",
+      "en": "Swiper throws Little Star far away. “You'll never find the star now!”",
+      "cn": "Swiper 把小星星扔得远远的：“这下你们再也找不到她啦！”",
+      "key": "Swiper · throws"
+    },
+    {
+      "no": 7,
+      "time": "17:05",
+      "img": "/img/s01e21/f7.jpg",
+      "t": "Salta Means Jump",
+      "en": "Tico climbs up to save Little Star. “Say salta!” says Dora.",
+      "cn": "Tico 爬上去救小星星。Dora 说：“快说 salta（跳）！”",
+      "key": "Tico · salta"
+    },
+    {
+      "no": 8,
+      "time": "19:16",
+      "img": "/img/s01e21/f8.jpg",
+      "t": "Almost Home",
+      "en": "“Moon, moon, I'm coming home!” Little Star is almost at the tall mountain.",
+      "cn": "“月亮，月亮，我就要回家啦！”小星星快到高山顶了。",
+      "key": "Moon · home"
+    },
+    {
+      "no": 9,
+      "time": "21:37",
+      "img": "/img/s01e21/f9.jpg",
+      "t": "Back to the Moon",
+      "en": "Look! Little Star is home next to the moon. She is twinkling again.",
+      "cn": "看！小星星回到了月亮身边，又眨着眼睛闪闪发亮。",
+      "key": "twinkling · moon"
+    }
+  ],
+  "words": [
+    ["star", "星星"],
+    ["wish", "许愿"],
+    ["moon", "月亮"],
+    ["twinkle", "闪烁"],
+    ["bridge", "桥"],
+    ["riddle", "谜语"],
+    ["count", "数数"],
+    ["squirrel", "松鼠"],
+    ["Swiper", "捣蛋鬼"],
+    ["telescope", "望远镜"],
+    ["salta", "跳（西语）"],
+    ["gracias", "谢谢（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Little Star”.",
+  "ending": "In the end, Little Star goes home to the moon. My favorite part is ______."
+}

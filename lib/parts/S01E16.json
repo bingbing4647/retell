@@ -1,0 +1,108 @@
+{
+  "id": "S01E16",
+  "season": 1,
+  "episode": 16,
+  "title": "Bugga Bugga",
+  "titleCn": "虫虫妈妈回家",
+  "hook": "一阵大风吹散了虫虫妈妈和她的饼干，Dora 和 Boots 要送虫虫妈妈回蓝灌木丛喂宝宝。",
+  "cover": "/img/s01e16/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s01e16/f1.jpg",
+      "t": "Bug Watching",
+      "en": "Dora and Boots look at the little bugs, just like the ones in her bug book.",
+      "cn": "Dora 和 Boots 在观察小虫子，就像她虫子书里画的一样。",
+      "key": "bugs · book"
+    },
+    {
+      "no": 2,
+      "time": "05:20",
+      "img": "/img/s01e16/f2.jpg",
+      "t": "Mami's Wish",
+      "en": "“I've got to get home to feed my little babies!” says Mami Bugga Bugga.",
+      "cn": "虫虫妈妈说：“我得回家喂我的小宝宝们！”",
+      "key": "home · babies"
+    },
+    {
+      "no": 3,
+      "time": "09:03",
+      "img": "/img/s01e16/f3.jpg",
+      "t": "A Cookie Job",
+      "en": "“Let's take the cookie to the babies,” says Dora. They will help Mami.",
+      "cn": "Dora 说：“我们把这块饼干送去给宝宝们吧。”他们要帮虫虫妈妈。",
+      "key": "cookie · babies"
+    },
+    {
+      "no": 4,
+      "time": "11:03",
+      "img": "/img/s01e16/f4.jpg",
+      "t": "Open, Flower!",
+      "en": "They have to say “Abre” to open the flower in the Flowery Garden.",
+      "cn": "他们得喊“Abre（打开）”才能让花园里的花开。",
+      "key": "Abre · flower"
+    },
+    {
+      "no": 5,
+      "time": "12:24",
+      "img": "/img/s01e16/f5.jpg",
+      "t": "A Sticky Web",
+      "en": "It is the Spider Web! Boots steps in and gets stuck.",
+      "cn": "是蜘蛛网！Boots 一脚踩上去被粘住了。",
+      "key": "Spider Web · stuck"
+    },
+    {
+      "no": 6,
+      "time": "15:45",
+      "img": "/img/s01e16/f6.jpg",
+      "t": "Find The Way",
+      "en": "“We need to find a path,” says Boots. They look for the way out.",
+      "cn": "Boots 说：“我们得找到一条小路。”他们寻找出路。",
+      "key": "path · Boots"
+    },
+    {
+      "no": 7,
+      "time": "17:45",
+      "img": "/img/s01e16/f7.jpg",
+      "t": "The Blue Bush",
+      "en": "“Now, where's the Big Blue Bush?” asks Dora. Can you see it?",
+      "cn": "Dora 问：“现在，大蓝灌木丛在哪儿呀？”你看见了吗？",
+      "key": "Big Blue Bush · see"
+    },
+    {
+      "no": 8,
+      "time": "20:10",
+      "img": "/img/s01e16/f8.jpg",
+      "t": "Home At Last",
+      "en": "“I'm home! I'm home!” Mami Bugga Bugga flies to her babies.",
+      "cn": "“到家啦！到家啦！”虫虫妈妈飞向她的宝宝们。",
+      "key": "home · flies"
+    },
+    {
+      "no": 9,
+      "time": "22:27",
+      "img": "/img/s01e16/f9.jpg",
+      "t": "Yay For The Babies",
+      "en": "“Yay!” The ten little babies eat the cookie and say “Gracias.”",
+      "cn": "“耶！”十个小宝宝吃着饼干说“谢谢（Gracias）”。",
+      "key": "babies · Gracias"
+    }
+  ],
+  "words": [
+    ["bug", "虫子"],
+    ["bugga bugga", "虫虫（儿语）"],
+    ["mami", "妈妈（西语）"],
+    ["cookie", "饼干"],
+    ["garden", "花园"],
+    ["abre", "打开（西语）"],
+    ["spider web", "蜘蛛网"],
+    ["path", "小路"],
+    ["bush", "灌木丛"],
+    ["feed", "喂"],
+    ["Swiper", "捣蛋鬼"],
+    ["gracias", "谢谢（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Bugga Bugga”.",
+  "ending": "In the end, Mami Bugga Bugga gets home and feeds her ten little babies. My favorite part is ______."
+}

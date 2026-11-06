@@ -1,0 +1,108 @@
+{
+  "id": "S01E23",
+  "season": 1,
+  "episode": 23,
+  "title": "Te Amo",
+  "titleCn": "我爱你",
+  "hook": "国王 Popo 和王后 Momo 被坏女巫变成了两座山，Dora 要爬上去说一句 Te amo 才能解开魔咒。",
+  "cover": "/img/s01e23/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "03:01",
+      "img": "/img/s01e23/f1.jpg",
+      "t": "A King and Queen",
+      "en": "Every day, King Popo and Queen Momo tell each other “Te amo.”",
+      "cn": "每天，Popo 国王和 Momo 王后都会对彼此说：“我爱你。”",
+      "key": "King · Queen"
+    },
+    {
+      "no": 2,
+      "time": "04:21",
+      "img": "/img/s01e23/f2.jpg",
+      "t": "The Spell Starts",
+      "en": "A mean witch waves her magic wand. “Now they are two big mountains!”",
+      "cn": "坏女巫挥动魔杖：“现在他们是两座大山啦！”",
+      "key": "witch · mountains"
+    },
+    {
+      "no": 3,
+      "time": "05:41",
+      "img": "/img/s01e23/f3.jpg",
+      "t": "Dora Has a Plan",
+      "en": "“Let's stop and think,” says Dora. “We can break the spell!”",
+      "cn": "Dora 说：“我们停下来想一想——我们能解开这个魔咒！”",
+      "key": "think · spell"
+    },
+    {
+      "no": 4,
+      "time": "08:22",
+      "img": "/img/s01e23/f4.jpg",
+      "t": "On the Path",
+      "en": "“Yeah, there's the bridge!” They run down the path to the water.",
+      "cn": "“对，桥就在那儿！”他们沿着小路向水边跑去。",
+      "key": "bridge · path"
+    },
+    {
+      "no": 5,
+      "time": "10:23",
+      "img": "/img/s01e23/f5.jpg",
+      "t": "A Missing Piece",
+      "en": "The bridge has a big hole. “Which piece fits here?” asks Boots.",
+      "cn": "桥中间有个大洞，Boots 问：“哪一块能拼在这里？”",
+      "key": "bridge · piece"
+    },
+    {
+      "no": 6,
+      "time": "14:24",
+      "img": "/img/s01e23/f6.jpg",
+      "t": "Ride the Burro",
+      "en": "“¡Las rocas!” Dora and Boots ride a purple burro past the rocks.",
+      "cn": "“岩石！”Dora 和 Boots 骑着紫色小毛驴经过石堆。",
+      "key": "burro · rocks"
+    },
+    {
+      "no": 7,
+      "time": "17:05",
+      "img": "/img/s01e23/f7.jpg",
+      "t": "Where Are They?",
+      "en": "“Now where are the King Popo and Queen Maria mountains?” Dora asks.",
+      "cn": "Dora 问：“Popo 国王山和 Maria 王后山现在在哪儿呢？”",
+      "key": "Queen Maria · mountains"
+    },
+    {
+      "no": 8,
+      "time": "19:46",
+      "img": "/img/s01e23/f8.jpg",
+      "t": "Up to the Top",
+      "en": "“We have to climb up the mountains and say ‘Te amo,’” says Dora.",
+      "cn": "Dora 说：“我们得爬上这两座山，然后说‘我爱你’。”",
+      "key": "climb · mountains"
+    },
+    {
+      "no": 9,
+      "time": "21:46",
+      "img": "/img/s01e23/f9.jpg",
+      "t": "Together Again",
+      "en": "“De nada!” King Popo and Queen Momo hug Dora. Everyone is happy.",
+      "cn": "“不客气！”Popo 国王和 Momo 王后抱住 Dora，大家都笑了。",
+      "key": "king · hug"
+    }
+  ],
+  "words": [
+    ["Te amo", "我爱你（西语）"],
+    ["king", "国王"],
+    ["queen", "王后"],
+    ["witch", "女巫"],
+    ["magic wand", "魔杖"],
+    ["mountain", "山"],
+    ["spell", "魔咒"],
+    ["bridge", "桥"],
+    ["piece", "一块（拼块）"],
+    ["burro", "小毛驴"],
+    ["rocks", "岩石"],
+    ["de nada", "不客气（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Te Amo”.",
+  "ending": "In the end, the king and queen are together again. My favorite part is ______."
+}

@@ -1,0 +1,108 @@
+{
+  "id": "S01E24",
+  "season": 1,
+  "episode": 24,
+  "title": "Pablo's Flute",
+  "titleCn": "找回巴勃罗的笛子",
+  "hook": "爷爷讲起一支断成三块的旧笛子，Dora 和 Boots 要翻山越岭把碎片找回来。",
+  "cover": "/img/s01e24/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "03:35",
+      "img": "/img/s01e24/f1.jpg",
+      "t": "Abuelo's Story",
+      "en": "“The second piece had two holes,” says Abuelo. Pablo listens to the story.",
+      "cn": "“第二块上有两个孔，”爷爷说。Pablo 听着这个故事。",
+      "key": "piece · story"
+    },
+    {
+      "no": 2,
+      "time": "05:42",
+      "img": "/img/s01e24/f2.jpg",
+      "t": "Find the Flute",
+      "en": "“We have to find that flute and give it back to Pablo.”",
+      "cn": "“我们得找到那支笛子，把它还给 Pablo。”",
+      "key": "flute · Pablo"
+    },
+    {
+      "no": 3,
+      "time": "09:43",
+      "img": "/img/s01e24/f3.jpg",
+      "t": "Three Stops",
+      "en": "“Bridge, forest, Pablo's Mountain!” Dora reads the way on the map.",
+      "cn": "“桥、森林、Pablo 的山！”Dora 在地图上看路线。",
+      "key": "forest · map"
+    },
+    {
+      "no": 4,
+      "time": "11:44",
+      "img": "/img/s01e24/f4.jpg",
+      "t": "Over the Bridge",
+      "en": "On the bridge Boots says, “Oh, Dora! We have to find the pieces!”",
+      "cn": "在桥上 Boots 说：“哎呀 Dora！我们得找到那些碎片！”",
+      "key": "bridge · pieces"
+    },
+    {
+      "no": 5,
+      "time": "13:10",
+      "img": "/img/s01e24/f5.jpg",
+      "t": "Which One Fits?",
+      "en": "Three flute pieces lie on the rocks. “Which piece goes next?”",
+      "cn": "三块笛子碎片躺在岩石上：“下一块该放哪一块？”",
+      "key": "pieces · rocks"
+    },
+    {
+      "no": 6,
+      "time": "14:24",
+      "img": "/img/s01e24/f6.jpg",
+      "t": "Into the Forest",
+      "en": "“Do you see a forest?” Dora looks at the green trees ahead.",
+      "cn": "“你看见森林了吗？”Dora 看着前面的绿树。",
+      "key": "forest · trees"
+    },
+    {
+      "no": 7,
+      "time": "15:45",
+      "img": "/img/s01e24/f7.jpg",
+      "t": "Hello, Toucan!",
+      "en": "“Look! It's Señor Tucán!” The toucan sits high in the tree.",
+      "cn": "“看！是巨嘴鸟先生！”它高高地停在树上。",
+      "key": "toucan · tree"
+    },
+    {
+      "no": 8,
+      "time": "19:40",
+      "img": "/img/s01e24/f8.jpg",
+      "t": "Swiper Is Coming",
+      "en": "“That sounds like Swiper the Fox.” Boots hides behind Dora.",
+      "cn": "“那声音像是捣蛋鬼 Swiper。”Boots 躲到 Dora 身后。",
+      "key": "Swiper · hides"
+    },
+    {
+      "no": 9,
+      "time": "20:26",
+      "img": "/img/s01e24/f9.jpg",
+      "t": "Back to Pablo",
+      "en": "“We found your flute!” Pablo and Abuelo smile at the mountain house.",
+      "cn": "“我们找到你的笛子了！”Pablo 和爷爷在山顶小屋前笑了。",
+      "key": "flute · mountain"
+    }
+  ],
+  "words": [
+    ["flute", "笛子"],
+    ["piece", "碎片"],
+    ["Pablo", "巴勃罗"],
+    ["Abuelo", "爷爷（西语）"],
+    ["bridge", "桥"],
+    ["forest", "森林"],
+    ["mountain", "山"],
+    ["map", "地图"],
+    ["rocks", "岩石"],
+    ["toucan", "巨嘴鸟"],
+    ["Swiper", "捣蛋鬼"],
+    ["found", "找到"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Pablo's Flute”.",
+  "ending": "In the end, Dora and Boots give the flute back to Pablo. My favorite part is ______."
+}

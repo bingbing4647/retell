@@ -1,0 +1,108 @@
+{
+  "id": "S01E10",
+  "season": 1,
+  "episode": 10,
+  "title": "WizzleWishes",
+  "titleCn": "许愿小精灵",
+  "hook": "Dora 从《许愿书》里请出了小精灵 Wizzle，要把他送回家，还得先躲过捣蛋鬼 Swiper。",
+  "cover": "/img/s01e10/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s01e10/f1.jpg",
+      "t": "A Wish for Boots",
+      "en": "Dora makes a wish. She wants her friend Boots to come.",
+      "cn": "Dora 许下一个愿望，她希望好朋友 Boots 来找她。",
+      "key": "wish · Boots"
+    },
+    {
+      "no": 2,
+      "time": "03:00",
+      "img": "/img/s01e10/f2.jpg",
+      "t": "The Book of Wishes",
+      "en": "Dora reads a book about wishes. A little Wizzle lives inside it.",
+      "cn": "Dora 读一本关于许愿的书，书里住着一只小精灵 Wizzle。",
+      "key": "book · Wizzle"
+    },
+    {
+      "no": 3,
+      "time": "05:00",
+      "img": "/img/s01e10/f3.jpg",
+      "t": "Out Comes a Wizzle",
+      "en": "A yellow Wizzle jumps out of the book. “Count with us!”",
+      "cn": "一只黄色的小精灵从书里跳出来：“和我们一起数！”",
+      "key": "Wizzle · jumps"
+    },
+    {
+      "no": 4,
+      "time": "12:10",
+      "img": "/img/s01e10/f4.jpg",
+      "t": "Through the Garden",
+      "en": "“We're going to keep going!” Dora, Boots and the Wizzle walk on.",
+      "cn": "“我们要一直往前走！”Dora、Boots 和小精灵继续赶路。",
+      "key": "keep going · walk"
+    },
+    {
+      "no": 5,
+      "time": "14:30",
+      "img": "/img/s01e10/f5.jpg",
+      "t": "Nuts for Squirrels",
+      "en": "Squirrels love nuts. They sit under the big trees and eat.",
+      "cn": "松鼠最爱坚果，它们坐在大树下啃个不停。",
+      "key": "nuts · trees"
+    },
+    {
+      "no": 6,
+      "time": "17:40",
+      "img": "/img/s01e10/f6.jpg",
+      "t": "House on the Hill",
+      "en": "“Right! There they are!” The blue house sits on top of the hill.",
+      "cn": "“对！就在那儿！”那栋蓝色的小房子就在山顶上。",
+      "key": "house · hill"
+    },
+    {
+      "no": 7,
+      "time": "20:30",
+      "img": "/img/s01e10/f7.jpg",
+      "t": "Stop That Fox",
+      "en": "Swiper the fox comes to the well. “Swiper, no swiping!”",
+      "cn": "狐狸 Swiper 溜到井边来，大家齐声喊：“Swiper，不许抢！”",
+      "key": "Swiper · well"
+    },
+    {
+      "no": 8,
+      "time": "21:20",
+      "img": "/img/s01e10/f8.jpg",
+      "t": "One More Wish",
+      "en": "Dora opens the book again. “I wish the Wizzle home!”",
+      "cn": "Dora 又翻开那本书：“我希望小精灵回家！”",
+      "key": "wish · home"
+    },
+    {
+      "no": 9,
+      "time": "23:00",
+      "img": "/img/s01e10/f9.jpg",
+      "t": "Safe at Home",
+      "en": "The Wizzle is home with his mommy and daddy. Dora and Boots wave.",
+      "cn": "小精灵回到了爸爸妈妈身边，Dora 和 Boots 向他挥手。",
+      "key": "mommy · daddy"
+    }
+  ],
+  "words": [
+    ["wish", "愿望"],
+    ["book", "书"],
+    ["Wizzle", "小精灵"],
+    ["squirrel", "松鼠"],
+    ["nuts", "坚果"],
+    ["garden", "花园"],
+    ["hill", "小山"],
+    ["house", "房子"],
+    ["Swiper", "捣蛋鬼"],
+    ["mommy", "妈妈"],
+    ["home", "家"],
+    ["fox", "狐狸"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “WizzleWishes”.",
+  "ending": "In the end, the Wizzle is home with his family. My favorite part is ______."
+}

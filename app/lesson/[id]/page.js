@@ -3,6 +3,7 @@ import Link from "next/link";
 import NineGrid from "../../../components/NineGrid";
 import { getLesson, readyList, seasonPdfs } from "../../../lib/lessons";
 import { IconGrid } from "../../../components/Icons";
+import UserMenu from "../../../components/UserMenu";
 
 export function generateStaticParams() {
   return readyList.map((id) => ({ id }));
@@ -43,8 +44,9 @@ export default async function LessonPage({ params }) {
             </span>
           </Link>
           <div className="topbar-sp" />
-          <Link href="/" className="btn-all">
-            全部剧集
+          <UserMenu />
+          <Link href="/dora/" className="btn-all">
+            朵拉爱冒险
           </Link>
         </div>
       </header>
@@ -54,6 +56,8 @@ export default async function LessonPage({ params }) {
         prev={prev}
         next={next}
         seasonPdf={seasonPdfs[String(lesson.season)] || null}
+        homeHref="/dora/"
+        homeLabel="朵拉爱冒险"
       />
     </>
   );

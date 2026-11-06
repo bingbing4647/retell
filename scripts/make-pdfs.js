@@ -16,8 +16,17 @@ const ROOT = path.join(__dirname, "..");
 const OUT_DIR = path.join(ROOT, "public", "pdf");
 const BASE = process.env.BASE || "http://127.0.0.1:3111";
 
+// 剧集：dora（默认，朵拉）/ peppa（小猪佩奇）
+const SERIES = process.env.SERIES === "peppa" ? "peppa" : "dora";
+const LESSONS_FILE =
+  SERIES === "peppa"
+    ? path.join(ROOT, "lib", "peppa", "lessons.json")
+    : path.join(ROOT, "lib", "lessons.json");
+const LESSON_PATH = SERIES === "peppa" ? "/peppa/lesson" : "/lesson";
+const ID_RE = /^[SP]\d{2}E\d{2}$/;
+
 function loadIds() {
-  const data = JSON.parse(fs.readFileSync(path.join(ROOT, "lib", "lessons.json"), "utf8"));
+  const data = JSON.parse(fs.readFileSync(LESSONS_FILE, "utf8"));
   return Object.keys(data).sort((a, b) => {
     const na = Number(a.slice(1, 3)) * 1000 + Number(a.slice(4));
     const nb = Number(b.slice(1, 3)) * 1000 + Number(b.slice(4));
@@ -31,7 +40,7 @@ function loadIds() {
     process.env.CHROME_PATH ||
     path.join(process.env.LOCALAPPDATA, "ms-playwright", "chromium-1148", "chrome-win", "chrome.exe");
 
-  let ids = process.argv.slice(2).filter((a) => /^S\d{2}E\d{2}$/.test(a));
+  let ids = process.argv.slice(2).filter((a) => ID_RE.test(a));
   if (!ids.length) ids = loadIds();
   if (process.env.ONLY_MISSING === "1") {
     ids = ids.filter((id) => !fs.existsSync(path.join(OUT_DIR, id + ".pdf")));
@@ -45,7 +54,7 @@ function loadIds() {
   let done = 0;
   const t0 = Date.now();
   for (const id of ids) {
-    await page.goto(`${BASE}/lesson/${id}/`, { waitUntil: "networkidle", timeout: 60000 });
+    await page.goto(`${BASE}${LESSON_PATH}/${id}/`, { waitUntil: "networkidle", timeout: 60000 });
     // 等 9 张剧照真正解码完成，否则 PDF 里会出现空白格
     await page.waitForFunction(() => {
       const imgs = [...document.images].filter((i) => (i.currentSrc || i.src).includes("/img/"));

@@ -16,11 +16,13 @@ import {
   IconEyeOff,
   IconPlay,
   IconSpeak,
+  IconFilm,
   IconCheck,
   IconStar,
 } from "./Icons";
 import { BLIND_WAIT, SPEEDS, useRetell } from "../lib/progress";
-import { speakLine, stopSpeak as stopTts, warmAudio } from "../lib/tts";
+import { keysOf, playClip, speakLine, stopSpeak as stopTts, warmAudio } from "../lib/tts";
+import { EVENT, track } from "../lib/track";
 
 const SWIPE_MIN = 44;
 const RATE_LABEL = { 0.75: "慢速跟读", 1: "原速", 1.25: "快听" };
@@ -34,6 +36,8 @@ export default function Slideshow({ lesson, start = 0, onClose, blind = false, o
   const [canSpeak, setCanSpeak] = useState(false);
   const [talking, setTalking] = useState(false);
   const [talkingWord, setTalkingWord] = useState(-1);
+  const [clipKeys, setClipKeys] = useState(null); // 本集可用的原声片段 o1..o9
+  const [origPlaying, setOrigPlaying] = useState(false);
   const [isFs, setIsFs] = useState(false);
   const [fsOk, setFsOk] = useState(false);
   const [revealed, setRevealed] = useState(false);
@@ -47,6 +51,26 @@ export default function Slideshow({ lesson, start = 0, onClose, blind = false, o
   const rootRef = useRef(null);
   const touchRef = useRef(null);
   const skipClickRef = useRef(false);
+  const seenRef = useRef(new Set());
+
+  /* ---------- 播放行为：记页码足迹，关掉时一并上报 ---------- */
+  useEffect(() => {
+    seenRef.current.add(i);
+  }, [i]);
+
+  useEffect(() => {
+    const seen = seenRef.current;
+    const id = lesson.id;
+    return () => {
+      track(EVENT.DECK_CLOSE, {
+        lesson_id: id,
+        pages: seen.size,
+        of: total,
+      });
+    };
+    // 只在开合一次时结算，不跟翻页走
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [lesson.id]);
 
   /* ---------- 语音 ---------- */
   useEffect(() => {
@@ -54,8 +78,15 @@ export default function Slideshow({ lesson, start = 0, onClose, blind = false, o
     // 预生成的神经网络语音不依赖系统音色，manifest 一到就能播
     warmAudio();
     setCanSpeak(true);
-    return () => stopTts();
-  }, []);
+    let alive = true;
+    keysOf(lesson.id).then((s) => {
+      if (alive) setClipKeys(s);
+    });
+    return () => {
+      alive = false;
+      stopTts();
+    };
+  }, [lesson.id]);
 
   // speak(text, key?)：key 命中预生成音频就用它，否则回退系统语音
   const say = useCallback(
@@ -102,15 +133,38 @@ export default function Slideshow({ lesson, start = 0, onClose, blind = false, o
   const speakCell = useCallback(
     (cell) => {
       if (!cell || !canSpeak) return;
+      setOrigPlaying(false);
       say(cell.en, `c${cell.no}`);
+      track(EVENT.TTS_LINE, { lesson_id: lesson.id, cell: cell.no, from: "deck" });
     },
-    [canSpeak, say]
+    [canSpeak, say, lesson.id]
+  );
+
+  /* 听原声：播这一格在原片里的那一小段（约 6 秒） */
+  const playOrig = useCallback(
+    (cell) => {
+      if (!cell) return;
+      setTalking(false);
+      setTalkingWord(-1);
+      setOrigPlaying(true);
+      track(EVENT.CLIP_PLAY, { lesson_id: lesson.id, cell: cell.no, from: "deck" });
+      playClip({
+        lessonId: lesson.id,
+        key: `o${cell.no}`,
+        rate,
+        onEnd: () => setOrigPlaying(false),
+      }).then((ok) => {
+        if (!ok) setOrigPlaying(false);
+      });
+    },
+    [lesson.id, rate]
   );
 
   /* 翻到别的页时，把没读完的语音停掉，并重置「我先说」 */
   useEffect(() => {
     setTalking(false);
     setTalkingWord(-1);
+    setOrigPlaying(false);
     return () => {
       stopTts();
     };
@@ -357,7 +411,7 @@ export default function Slideshow({ lesson, start = 0, onClose, blind = false, o
         {/* 单页 */}
         {cell && (
           <div className={`${slideCls} sl-cell`} key={cell.no}>
-            <div className="sl-pic">
+            <div className={`sl-pic ${lesson.wide ? "wide" : ""}`}>
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src={cell.img} alt={cell.t} />
               <span className="sl-no">{cell.no}</span>
@@ -390,7 +444,16 @@ export default function Slideshow({ lesson, start = 0, onClose, blind = false, o
                 </div>
               ) : (
                 <>
-                  <p className="sl-en">{cell.en}</p>
+                  {cell.q && (
+                    <p className="sl-q">
+                      <span className="sl-tag">问</span>
+                      {cell.q}
+                    </p>
+                  )}
+                  <p className="sl-en">
+                    {cell.q ? <span className="sl-tag a">说</span> : null}
+                    {cell.a || cell.en}
+                  </p>
                   <p className="sl-cn">{cell.cn}</p>
                 </>
               )}
@@ -407,6 +470,34 @@ export default function Slideshow({ lesson, start = 0, onClose, blind = false, o
                     <IconSpeak width={15} height={15} /> 朗读这句
                   </button>
                 )}
+                {canSpeak && cell.q && (
+                  <button
+                    type="button"
+                    className="sl-again"
+                    onClick={() => {
+                      setOrigPlaying(false);
+                      say(cell.q, `q${cell.no}`);
+                      track(EVENT.TTS_LINE, {
+                        lesson_id: lesson.id,
+                        cell: cell.no,
+                        from: "deck-q",
+                      });
+                    }}
+                    title="朗读这一格的问句"
+                  >
+                    <IconSpeak width={15} height={15} /> 读问句
+                  </button>
+                )}
+                {clipKeys?.has(`o${cell.no}`) && (
+                  <button
+                    type="button"
+                    className={`sl-again sl-orig ${origPlaying ? "on" : ""}`}
+                    onClick={() => playOrig(cell)}
+                    title="听这一句在动画片里的原声（约 6 秒）"
+                  >
+                    <IconFilm width={15} height={15} /> 听原声
+                  </button>
+                )}
               </div>
 
               {blind && revealed && (
@@ -418,7 +509,16 @@ export default function Slideshow({ lesson, start = 0, onClose, blind = false, o
                         type="button"
                         key={n}
                         className={`sr-b ${cellStar >= n ? "on" : ""}`}
-                        onClick={() => api.setStar(lesson.id, cell.no, cellStar === n ? 0 : n)}
+                        onClick={() => {
+                          const next = cellStar === n ? 0 : n;
+                          api.setStar(lesson.id, cell.no, next);
+                          track(EVENT.RATE_STAR, {
+                            lesson_id: lesson.id,
+                            cell: cell.no,
+                            star: next,
+                            from: "deck",
+                          });
+                        }}
                         title={STAR_LABEL[n]}
                         aria-label={STAR_LABEL[n]}
                       >
@@ -437,7 +537,9 @@ export default function Slideshow({ lesson, start = 0, onClose, blind = false, o
         {i === total - 1 && (
           <div className={`${slideCls} sl-outro`}>
             <div className="sl-kicker">全部讲完啦 · Let&apos;s say it again</div>
-            <h2 className="sl-title sm">用九句话说完整个故事</h2>
+            <h2 className="sl-title sm">
+              {lesson.qa ? "用九句答完整个故事" : "用九句话说完整个故事"}
+            </h2>
 
             {fivePairs.length > 0 && (
               <div className="sl-five">

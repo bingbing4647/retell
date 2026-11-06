@@ -27,12 +27,12 @@
     },
     {
       "no": 3,
-      "time": "05:30",
+      "time": "05:00",
       "img": "/img/s02e16/f3.jpg",
-      "t": "Three Places",
-      "en": "Map says: “Jungle, river, Dora's House!” They must walk all the way home.",
-      "cn": "地图指路：先过丛林，再下河，最后走回家。",
-      "key": "jungle · river"
+      "t": "Super Breath",
+      "en": "Super Map uses his super breath to blow the clouds away.",
+      "cn": "超级地图用他的超级吹气把乌云都吹散了。",
+      "key": "super · breath"
     },
     {
       "no": 4,
@@ -45,7 +45,7 @@
     },
     {
       "no": 5,
-      "time": "09:00",
+      "time": "08:59",
       "img": "/img/s02e16/f5.jpg",
       "t": "Snakes and Spiders",
       "en": "Oh no! There are lots of snakes and spiders on this path.",
@@ -63,7 +63,7 @@
     },
     {
       "no": 7,
-      "time": "17:05",
+      "time": "17:07",
       "img": "/img/s02e16/f7.jpg",
       "t": "Down the River",
       "en": "They row a little red boat down the river. Super Map flies above them.",
@@ -81,7 +81,7 @@
     },
     {
       "no": 9,
-      "time": "22:00",
+      "time": "21:54",
       "img": "/img/s02e16/f9.jpg",
       "t": "We Did It!",
       "en": "Mami and Papi are waiting. “We did it!” everyone shouts.",
@@ -90,18 +90,54 @@
     }
   ],
   "words": [
-    ["cape", "斗篷"],
-    ["surprise", "惊喜"],
-    ["jungle", "丛林"],
-    ["river", "河"],
-    ["log", "木头"],
-    ["snake", "蛇"],
-    ["spider", "蜘蛛"],
-    ["super breath", "超级大风"],
-    ["super jump", "超级跳"],
-    ["boat", "小船"],
-    ["slide", "滑梯"],
-    ["baby bird", "小鸟"]
+    [
+      "cape",
+      "斗篷"
+    ],
+    [
+      "surprise",
+      "惊喜"
+    ],
+    [
+      "jungle",
+      "丛林"
+    ],
+    [
+      "river",
+      "河"
+    ],
+    [
+      "log",
+      "木头"
+    ],
+    [
+      "snake",
+      "蛇"
+    ],
+    [
+      "spider",
+      "蜘蛛"
+    ],
+    [
+      "super breath",
+      "超级大风"
+    ],
+    [
+      "super jump",
+      "超级跳"
+    ],
+    [
+      "boat",
+      "小船"
+    ],
+    [
+      "slide",
+      "滑梯"
+    ],
+    [
+      "baby bird",
+      "小鸟"
+    ]
   ],
   "opener": "Today I watched Dora the Explorer. This episode is “Super Map!”.",
   "ending": "In the end, Super Map helps them get home. My favorite part is ______."

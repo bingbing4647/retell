@@ -1,0 +1,144 @@
+{
+  "id": "S01E20",
+  "season": 1,
+  "episode": 20,
+  "title": "To the Treehouse",
+  "titleCn": "去树屋",
+  "hook": "树屋要开大派对，Dora 和 Boots 要过鳄鱼湖、翻高墙，路上还帮 Tico、Isa 和 Benny 解决麻烦。",
+  "cover": "/img/s01e20/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "05:00",
+      "img": "/img/s01e20/f1.jpg",
+      "t": "Off to the Party",
+      "en": "Dora and Boots want to get to the big party at the Tree House.",
+      "cn": "Dora 和 Boots 想去树屋参加大派对。",
+      "key": "party · Tree House"
+    },
+    {
+      "no": 2,
+      "time": "07:00",
+      "img": "/img/s01e20/f2.jpg",
+      "t": "What the Map Says",
+      "en": "The Map says, “Lake, Wall, Tree House!” Three places to go.",
+      "cn": "地图说：“湖、高墙、树屋！”要去三个地方。",
+      "key": "Map · Lake"
+    },
+    {
+      "no": 3,
+      "time": "07:55",
+      "img": "/img/s01e20/f3.jpg",
+      "t": "Tico's Balloons",
+      "en": "Look! Tico brings balloons to the party for everyone.",
+      "cn": "看！Tico 给派对带来好多气球。",
+      "key": "Tico · balloons"
+    },
+    {
+      "no": 4,
+      "time": "12:25",
+      "img": "/img/s01e20/f4.jpg",
+      "t": "The Boat Helps",
+      "en": "“Now I can sail you across Crocodile Lake,” says the boat.",
+      "cn": "小船说：“现在我可以载你们过鳄鱼湖了。”",
+      "key": "sail · Crocodile Lake"
+    },
+    {
+      "no": 5,
+      "time": "15:05",
+      "img": "/img/s01e20/f5.jpg",
+      "t": "A Wheel for Isa",
+      "en": "“Will you check my Backpack for a wheel?” asks Dora.",
+      "cn": "Dora 问：“你能在我的背包里找一个轮子吗？”",
+      "key": "Backpack · wheel"
+    },
+    {
+      "no": 6,
+      "time": "17:45",
+      "img": "/img/s01e20/f6.jpg",
+      "t": "Benny Is Stuck",
+      "en": "Benny the bull is stuck in the wall. “We'll help you!”",
+      "cn": "公牛 Benny 卡在高墙里。“我们来帮你！”",
+      "key": "Benny · stuck"
+    },
+    {
+      "no": 7,
+      "time": "18:25",
+      "img": "/img/s01e20/f7.jpg",
+      "t": "Help from Friends",
+      "en": "Dora, Boots and Isa pull together. “Pull, pull, pull!”",
+      "cn": "Dora、Boots 和 Isa 一起用力拉：“拉呀，拉呀，拉！”",
+      "key": "pull · together"
+    },
+    {
+      "no": 8,
+      "time": "21:05",
+      "img": "/img/s01e20/f8.jpg",
+      "t": "At the Tree House",
+      "en": "They reach the Tree House. “Hooray for Dora and Boots!”",
+      "cn": "他们到了树屋，大家一起欢呼：“Dora 和 Boots 万岁！”",
+      "key": "Tree House · Hooray"
+    },
+    {
+      "no": 9,
+      "time": "22:40",
+      "img": "/img/s01e20/f9.jpg",
+      "t": "A Great Trip",
+      "en": "“We had such an exciting trip to the Tree House today.”",
+      "cn": "“我们今天去树屋的旅程真精彩。”",
+      "key": "exciting · trip"
+    }
+  ],
+  "words": [
+    [
+      "party",
+      "派对"
+    ],
+    [
+      "tree house",
+      "树屋"
+    ],
+    [
+      "map",
+      "地图"
+    ],
+    [
+      "lake",
+      "湖"
+    ],
+    [
+      "wall",
+      "墙"
+    ],
+    [
+      "balloon",
+      "气球"
+    ],
+    [
+      "sail",
+      "航行"
+    ],
+    [
+      "crocodile",
+      "鳄鱼"
+    ],
+    [
+      "backpack",
+      "背包"
+    ],
+    [
+      "wheel",
+      "轮子"
+    ],
+    [
+      "pull",
+      "拉"
+    ],
+    [
+      "gracias",
+      "谢谢（西语）"
+    ]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “To the Treehouse”.",
+  "ending": "In the end, Dora and Boots get to the big party at the Tree House. My favorite part is ______."
+}

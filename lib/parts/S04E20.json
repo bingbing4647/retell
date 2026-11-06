@@ -9,7 +9,7 @@
   "cells": [
     {
       "no": 1,
-      "time": "01:34",
+      "time": "01:35",
       "img": "/img/s04e20/f1.jpg",
       "t": "A Monkey in the Bushes",
       "en": "Dora and Diego look for a monkey near the bushes.",
@@ -27,12 +27,12 @@
     },
     {
       "no": 3,
-      "time": "06:24",
+      "time": "06:23",
       "img": "/img/s04e20/f3.jpg",
-      "t": "Flying Over the Ocean",
-      "en": "Boots flies over the ocean on a long rope.",
-      "cn": "Boots 挂在一根长绳上飞过大海。",
-      "key": "ocean · rope"
+      "t": "Over the Ocean",
+      "en": "Dora is flying over the ocean on the big birds.",
+      "cn": "Dora 骑在大鸟上飞越大大洋。",
+      "key": "flying · ocean"
     },
     {
       "no": 4,
@@ -81,12 +81,12 @@
     },
     {
       "no": 9,
-      "time": "20:52",
+      "time": "11:24",
       "img": "/img/s04e20/f9.jpg",
-      "t": "Here Comes a Polar Bear",
-      "en": "A polar bear climbs down the cold waterfall.",
-      "cn": "一只北极熊顺着冰冷的瀑布爬下来。",
-      "key": "polar · waterfall"
+      "t": "Coming Boots",
+      "en": "Dora and Diego shout, we are coming, Boots, hold on!",
+      "cn": "Dora 和 Diego 喊道：Boots 坚持住，我们来了！",
+      "key": "coming · Boots"
     }
   ],
   "words": [

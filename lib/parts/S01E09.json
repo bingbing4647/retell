@@ -1,0 +1,108 @@
+{
+  "id": "S01E09",
+  "season": 1,
+  "episode": 9,
+  "title": "Big River",
+  "titleCn": "大河找靴子",
+  "hook": "Boots 的红靴子被河水冲走了，Dora 和他坐上小船，一路划过大河去追它。",
+  "cover": "/img/s01e09/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s01e09/f1.jpg",
+      "t": "Fish Are Biting",
+      "en": "Dora stands on the dock and fishes. Fish jump up. “Yeah, there's some!”",
+      "cn": "Dora 站在码头上钓鱼，小鱼一条条蹦起来：“对，有鱼！”",
+      "key": "dock · fish"
+    },
+    {
+      "no": 2,
+      "time": "03:01",
+      "img": "/img/s01e09/f2.jpg",
+      "t": "The Boot Floats",
+      "en": "“Dora, my boot is floating away!” The red boot drifts down the river.",
+      "cn": "“Dora，我的靴子漂走了！”红靴子顺着大河漂下去。",
+      "key": "floating · river"
+    },
+    {
+      "no": 3,
+      "time": "05:42",
+      "img": "/img/s01e09/f3.jpg",
+      "t": "Run to the River",
+      "en": "“My boot! My boot!” Boots cries. They run after the little red boot.",
+      "cn": "“我的靴子！我的靴子！”Boots 大叫，他们追着那只小红靴跑。",
+      "key": "cries · run"
+    },
+    {
+      "no": 4,
+      "time": "09:42",
+      "img": "/img/s01e09/f4.jpg",
+      "t": "Bridge at Last",
+      "en": "“Look, there's your boot!” Dora and Boots row their boat to the bridge.",
+      "cn": "“看，你的靴子在那儿！”Dora 和 Boots 划着小船来到桥边。",
+      "key": "boot · bridge"
+    },
+    {
+      "no": 5,
+      "time": "13:30",
+      "img": "/img/s01e09/f5.jpg",
+      "t": "Branches Everywhere",
+      "en": "“We go past all those branches!” Dora and Boots row very fast.",
+      "cn": "“我们穿过那些树枝啦！”Dora 和 Boots 飞快地划船。",
+      "key": "branches · fast"
+    },
+    {
+      "no": 6,
+      "time": "16:00",
+      "img": "/img/s01e09/f6.jpg",
+      "t": "Waterfall Ahead",
+      "en": "Boots sees the big waterfall. “Oh, no!” The water is very loud.",
+      "cn": "Boots 看见前面的大瀑布：“糟糕！”水声好响。",
+      "key": "waterfall · loud"
+    },
+    {
+      "no": 7,
+      "time": "17:05",
+      "img": "/img/s01e09/f7.jpg",
+      "t": "Past the Falls",
+      "en": "“We make it past the waterfall!” Dora and Boots cheer in the boat.",
+      "cn": "“我们冲过瀑布啦！”Dora 和 Boots 在船上欢呼。",
+      "key": "waterfall · cheer"
+    },
+    {
+      "no": 8,
+      "time": "19:55",
+      "img": "/img/s01e09/f8.jpg",
+      "t": "Reel It In",
+      "en": "Dora holds a fishing rod. “Come on, Boots!” They row to the red boot.",
+      "cn": "Dora 拿着鱼竿：“来吧，Boots！”他们朝红靴子划过去。",
+      "key": "fishing rod · boot"
+    },
+    {
+      "no": 9,
+      "time": "22:27",
+      "img": "/img/s01e09/f9.jpg",
+      "t": "Boots Are Back",
+      "en": "“But we found it!” Boots has his red boots on again.",
+      "cn": "“可是我们找到它啦！”Boots 的红靴子又穿回脚上了。",
+      "key": "boots · again"
+    }
+  ],
+  "words": [
+    ["river", "大河"],
+    ["boot", "靴子"],
+    ["float", "漂浮"],
+    ["dock", "码头"],
+    ["row", "划船"],
+    ["bridge", "桥"],
+    ["branches", "树枝"],
+    ["waterfall", "瀑布"],
+    ["fishing rod", "鱼竿"],
+    ["boat", "小船"],
+    ["cheer", "欢呼"],
+    ["abre", "打开（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Big River”.",
+  "ending": "In the end, Boots gets his red boot back. My favorite part is ______."
+}

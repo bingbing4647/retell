@@ -27,12 +27,12 @@
     },
     {
       "no": 3,
-      "time": "06:24",
+      "time": "06:34",
       "img": "/img/s04e03/f3.jpg",
-      "t": "Where Is Dora?",
-      "en": "Boots calls, “Dora? Dora?” near the purple rocks.",
-      "cn": "Boots 在紫色岩石旁喊：“Dora？Dora？”",
-      "key": "Boots · rocks"
+      "t": "Tool Star",
+      "en": "It is Tool Star! He has a crowbar and a pencil in the fog.",
+      "cn": "是工具星！雾里他带着撬棍和铅笔。",
+      "key": "Tool Star · fog"
     },
     {
       "no": 4,
@@ -81,12 +81,12 @@
     },
     {
       "no": 9,
-      "time": "20:52",
+      "time": "20:10",
       "img": "/img/s04e03/f9.jpg",
-      "t": "Climb, Climb, Climb",
-      "en": "Dora sings, “And climb, climb, climb, climb, climb!”",
-      "cn": "Dora 唱起来：“爬呀爬，爬呀爬呀爬！”",
-      "key": "climb · sings"
+      "t": "Stop Swiper",
+      "en": "Thanks for helping us stop Swiper on the tall mountain.",
+      "cn": "谢谢你帮我们在高山上拦住了 Swiper。",
+      "key": "stop · mountain"
     }
   ],
   "words": [

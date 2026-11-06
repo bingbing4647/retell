@@ -1,0 +1,108 @@
+{
+  "id": "S01E17",
+  "season": 1,
+  "episode": 17,
+  "title": "Fish Out of Water",
+  "titleCn": "离水的小红鱼",
+  "hook": "一条小红鱼被困在沙滩的小水洼里，Dora 和 Boots 要把他送回大海找家人。",
+  "cover": "/img/s01e17/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s01e17/f1.jpg",
+      "t": "A Day at the Beach",
+      "en": "Dora and Boots look for seashells on the sand. “Do you see any seashells?”",
+      "cn": "Dora 和 Boots 在沙滩上找贝壳：“你看到贝壳了吗？”",
+      "key": "seashells · sand"
+    },
+    {
+      "no": 2,
+      "time": "02:20",
+      "img": "/img/s01e17/f2.jpg",
+      "t": "Fish in a Puddle",
+      "en": "A little red fish is in a small pool. “I've got to get home.”",
+      "cn": "一条小红鱼被困在小水洼里：“我得回家。”",
+      "key": "red fish · pool"
+    },
+    {
+      "no": 3,
+      "time": "06:10",
+      "img": "/img/s01e17/f3.jpg",
+      "t": "The Map Shows the Way",
+      "en": "The Map says, “First you go past the sand castle.”",
+      "cn": "地图说：“先走过那座沙堡。”",
+      "key": "Map · castle"
+    },
+    {
+      "no": 4,
+      "time": "07:40",
+      "img": "/img/s01e17/f4.jpg",
+      "t": "The Castle Ahead",
+      "en": "Dora and Boots carry the fish in a bucket. “I see it!”",
+      "cn": "Dora 和 Boots 用小桶提着小鱼：“我看见沙堡了！”",
+      "key": "bucket · fish"
+    },
+    {
+      "no": 5,
+      "time": "11:05",
+      "img": "/img/s01e17/f5.jpg",
+      "t": "Climbing Up",
+      "en": "“We're taking this baby red fish back to his family,” says Dora.",
+      "cn": "Dora 说：“我们要把这条小红鱼宝宝送回家人身边。”",
+      "key": "baby · family"
+    },
+    {
+      "no": 6,
+      "time": "12:50",
+      "img": "/img/s01e17/f6.jpg",
+      "t": "Where Is the Water?",
+      "en": "They walk over the dunes. “Now, where's the ocean?”",
+      "cn": "他们翻过沙丘：“现在大海在哪儿呢？”",
+      "key": "dunes · ocean"
+    },
+    {
+      "no": 7,
+      "time": "15:05",
+      "img": "/img/s01e17/f7.jpg",
+      "t": "Blue Water at Last",
+      "en": "“Look! We made it to the ocean!” says Dora. Boots jumps up.",
+      "cn": "Dora 说：“看！我们到大海了！”Boots 高兴地跳起来。",
+      "key": "ocean · made it"
+    },
+    {
+      "no": 8,
+      "time": "17:05",
+      "img": "/img/s01e17/f8.jpg",
+      "t": "Down Under the Sea",
+      "en": "A yellow submarine goes down. “Whoa!” say Dora and Boots.",
+      "cn": "一艘黄色潜水艇往下沉：“哇！”Dora 和 Boots 一起惊叹。",
+      "key": "submarine · down"
+    },
+    {
+      "no": 9,
+      "time": "21:50",
+      "img": "/img/s01e17/f9.jpg",
+      "t": "Back with His Family",
+      "en": "The red fish is home. They sing, “We did it!”",
+      "cn": "小红鱼回到家了，大家唱起歌：“我们做到了！”",
+      "key": "home · sing"
+    }
+  ],
+  "words": [
+    ["seashell", "贝壳"],
+    ["beach", "海滩"],
+    ["red fish", "红鱼"],
+    ["puddle", "小水洼"],
+    ["home", "家"],
+    ["map", "地图"],
+    ["sand castle", "沙堡"],
+    ["climb", "爬"],
+    ["bucket", "小桶"],
+    ["dune", "沙丘"],
+    ["ocean", "大海"],
+    ["hola", "你好（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Fish Out of Water”.",
+  "ending": "In the end, the little red fish is home with his family. My favorite part is ______."
+}

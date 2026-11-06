@@ -9,11 +9,11 @@
   "cells": [
     {
       "no": 1,
-      "time": "01:34",
+      "time": "01:40",
       "img": "/img/s04e11/f1.jpg",
-      "t": "Who Sleeps in a Cradle?",
-      "en": "A baby is someone who sleeps in a cradle.",
-      "cn": "小宝宝就是睡在摇篮里的那个人。",
+      "t": "A Riddle",
+      "en": "Wears diapers, sleeps in a cradle... The answer is a baby!",
+      "cn": "穿尿布、睡摇篮……谜底是小宝宝！",
       "key": "baby · cradle"
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "no": 5,
-      "time": "11:13",
+      "time": "11:12",
       "img": "/img/s04e11/f5.jpg",
       "t": "A Baby, a Baby!",
       "en": "Everyone shouts, “A baby, a baby, a baby!”",
@@ -63,12 +63,12 @@
     },
     {
       "no": 7,
-      "time": "16:02",
+      "time": "16:22",
       "img": "/img/s04e11/f7.jpg",
-      "t": "The Conductor's Flag",
-      "en": "The conductor holds a green flag in his hand.",
-      "cn": "售票员手里举着一面绿旗子。",
-      "key": "conductor · flag"
+      "t": "Say Verde",
+      "en": "The train needs a green flag. Can you say verde, green?",
+      "cn": "火车需要一面绿旗。你能说 verde（绿色）吗？",
+      "key": "green · verde"
     },
     {
       "no": 8,

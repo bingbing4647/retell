@@ -1,0 +1,108 @@
+{
+  "id": "S01E19",
+  "season": 1,
+  "episode": 19,
+  "title": "The Chocolate Tree",
+  "titleCn": "巧克力树",
+  "hook": "Abuela 奶奶想念小时候的巧克力树，Dora 和 Boots 穿过丛林，去找那棵会唱歌的巧克力树。",
+  "cover": "/img/s01e19/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:46",
+      "img": "/img/s01e19/f1.jpg",
+      "t": "Grandma's Story",
+      "en": "Abuela says, “This tree was mi querido amigo, my dear friend.”",
+      "cn": "Abuela 奶奶说：“这棵树是我亲爱的朋友。”",
+      "key": "Abuela · tree"
+    },
+    {
+      "no": 2,
+      "time": "03:40",
+      "img": "/img/s01e19/f2.jpg",
+      "t": "She Misses It",
+      "en": "Abuela moved far away and misses the Chocolate Tree.",
+      "cn": "Abuela 搬到了很远的地方，她想念巧克力树。",
+      "key": "misses · Chocolate Tree"
+    },
+    {
+      "no": 3,
+      "time": "05:20",
+      "img": "/img/s01e19/f3.jpg",
+      "t": "Two Places",
+      "en": "The Map says, “First you go through the Jungle, then the Cave.”",
+      "cn": "地图说：“先穿过丛林，然后到山洞。”",
+      "key": "Jungle · Cave"
+    },
+    {
+      "no": 4,
+      "time": "06:35",
+      "img": "/img/s01e19/f4.jpg",
+      "t": "Off to the Jungle",
+      "en": "“So first we have to find the Jungle,” says Dora.",
+      "cn": "Dora 说：“所以我们先要找到丛林。”",
+      "key": "find · Jungle"
+    },
+    {
+      "no": 5,
+      "time": "10:40",
+      "img": "/img/s01e19/f5.jpg",
+      "t": "Counting Turtles",
+      "en": "Five snapping turtles sit on the path. Dora counts them all.",
+      "cn": "路上坐着五只咬人龟，Dora 把它们一只只数出来。",
+      "key": "turtles · counts"
+    },
+    {
+      "no": 6,
+      "time": "12:15",
+      "img": "/img/s01e19/f6.jpg",
+      "t": "Crocodile Lake",
+      "en": "“How many crocodiles are there?” They must cross Crocodile Lake.",
+      "cn": "“有多少只鳄鱼？”他们必须过鳄鱼潭。",
+      "key": "crocodiles · Crocodile Lake"
+    },
+    {
+      "no": 7,
+      "time": "17:44",
+      "img": "/img/s01e19/f7.jpg",
+      "t": "The Tree!",
+      "en": "“It's the Chocolate Tree!” Dora and Boots find it at last.",
+      "cn": "“是巧克力树！”Dora 和 Boots 终于找到了它。",
+      "key": "Chocolate Tree · find"
+    },
+    {
+      "no": 8,
+      "time": "18:12",
+      "img": "/img/s01e19/f8.jpg",
+      "t": "The Chocolate Song",
+      "en": "“Will you help us sing the Chocolate Song?” asks the tree.",
+      "cn": "巧克力树问：“你愿意帮我们唱巧克力歌吗？”",
+      "key": "sing · Chocolate Song"
+    },
+    {
+      "no": 9,
+      "time": "21:48",
+      "img": "/img/s01e19/f9.jpg",
+      "t": "Chocolate for Abuela",
+      "en": "“It's ready!” The chocolate is for Abuela at home.",
+      "cn": "“巧克力做好啦！”这份巧克力要带给家里的 Abuela。",
+      "key": "ready · Abuela"
+    }
+  ],
+  "words": [
+    ["chocolate", "巧克力"],
+    ["tree", "树"],
+    ["grandma", "奶奶"],
+    ["abuela", "奶奶（西语）"],
+    ["jungle", "丛林"],
+    ["cave", "山洞"],
+    ["turtle", "乌龟"],
+    ["crocodile", "鳄鱼"],
+    ["lake", "湖"],
+    ["song", "歌"],
+    ["Swiper", "捣蛋鬼"],
+    ["muy bien", "很好（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “The Chocolate Tree”.",
+  "ending": "In the end, Dora and Boots bring the chocolate home to Abuela. My favorite part is ______."
+}

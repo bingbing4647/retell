@@ -1,0 +1,108 @@
+{
+  "id": "S01E07",
+  "season": 1,
+  "episode": 7,
+  "title": "Treasure Island",
+  "titleCn": "宝藏岛",
+  "hook": "海盗鹦鹉带来一张藏宝图！Dora 和 Boots 要找到蓝钥匙，去宝藏岛挖出宝箱。",
+  "cover": "/img/s01e07/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:20",
+      "img": "/img/s01e07/f1.jpg",
+      "t": "Someone Flies In",
+      "en": "“I spy a pirate parrot!” He flies in with a treasure chest.",
+      "cn": "“我发现了一只海盗鹦鹉！”他带着宝箱飞了进来。",
+      "key": "pirate · parrot"
+    },
+    {
+      "no": 2,
+      "time": "03:41",
+      "img": "/img/s01e07/f2.jpg",
+      "t": "Where Is the Chest?",
+      "en": "“We don't know where the treasure chest is,” says Dora.",
+      "cn": "Dora 说：“我们不知道宝箱在哪里。”",
+      "key": "treasure chest · know"
+    },
+    {
+      "no": 3,
+      "time": "05:41",
+      "img": "/img/s01e07/f3.jpg",
+      "t": "Look at the Map",
+      "en": "The Map says: “Tree, Lake, Treasure Island.” Off they go!",
+      "cn": "地图说：“大树、湖、宝藏岛。”出发！",
+      "key": "Tree · Lake"
+    },
+    {
+      "no": 4,
+      "time": "09:03",
+      "img": "/img/s01e07/f4.jpg",
+      "t": "Found It!",
+      "en": "“We found the blue key!” Dora and Boots hold it up high.",
+      "cn": "“我们找到蓝钥匙啦！”Dora 和 Boots 把它高高举起。",
+      "key": "blue key · found"
+    },
+    {
+      "no": 5,
+      "time": "14:25",
+      "img": "/img/s01e07/f5.jpg",
+      "t": "Say Grande!",
+      "en": "A big iguana says “grande, grande!” Grande means very big.",
+      "cn": "一只大鬣蜥说“grande, grande！”grande 就是“很大”的意思。",
+      "key": "iguana · grande"
+    },
+    {
+      "no": 6,
+      "time": "17:46",
+      "img": "/img/s01e07/f6.jpg",
+      "t": "Swiper Wants It",
+      "en": "“Ah! The blue key!” Swiper wants to swipe it from them.",
+      "cn": "“啊！蓝钥匙！”Swiper 想把它抢走。",
+      "key": "Swiper · blue key"
+    },
+    {
+      "no": 7,
+      "time": "20:27",
+      "img": "/img/s01e07/f7.jpg",
+      "t": "Look for the X",
+      "en": "“You tell me if you see an ‘X’,” says Dora on the sand.",
+      "cn": "Dora 在沙滩上说：“看到‘X’就告诉我。”",
+      "key": "X · sand"
+    },
+    {
+      "no": 8,
+      "time": "21:07",
+      "img": "/img/s01e07/f8.jpg",
+      "t": "Dig Here",
+      "en": "“First put your hands out in front of you.” They dig and dig.",
+      "cn": "“先把双手伸到前面。”他们挖呀挖呀挖。",
+      "key": "hands · dig"
+    },
+    {
+      "no": 9,
+      "time": "21:25",
+      "img": "/img/s01e07/f9.jpg",
+      "t": "We Found Treasure!",
+      "en": "“The treasure chest!” At last they open it on Treasure Island.",
+      "cn": "“宝箱！”他们终于在宝藏岛上打开了它。",
+      "key": "treasure · open"
+    }
+  ],
+  "words": [
+    ["treasure", "宝藏"],
+    ["chest", "箱子"],
+    ["pirate", "海盗"],
+    ["parrot", "鹦鹉"],
+    ["map", "地图"],
+    ["key", "钥匙"],
+    ["iguana", "鬣蜥"],
+    ["lake", "湖"],
+    ["island", "岛"],
+    ["dig", "挖"],
+    ["Swiper", "捣蛋鬼"],
+    ["grande", "大的（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Treasure Island”.",
+  "ending": "In the end, Dora and Boots open the treasure chest. My favorite part is ______."
+}

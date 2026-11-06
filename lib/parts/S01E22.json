@@ -1,0 +1,108 @@
+{
+  "id": "S01E22",
+  "season": 1,
+  "episode": 22,
+  "title": "Call Me Mr. Riddles",
+  "titleCn": "叫我谜语先生",
+  "hook": "爱出谜语的猴子 Mr. Riddles 带着 Dora 一路猜谜，去解高山上最大的谜题。",
+  "cover": "/img/s01e22/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:40",
+      "img": "/img/s01e22/f1.jpg",
+      "t": "A Riddle Friend",
+      "en": "Mr. Riddles the monkey hangs from a branch. “I love riddles!” he says.",
+      "cn": "猴子 Mr. Riddles 挂在树枝上：“我最爱猜谜语啦！”",
+      "key": "monkey · branch"
+    },
+    {
+      "no": 2,
+      "time": "03:00",
+      "img": "/img/s01e22/f2.jpg",
+      "t": "A Funny Name Mix-Up",
+      "en": "Dora laughs. “Sure, Boots... I mean Mr. Riddles!” she says.",
+      "cn": "Dora 笑着说：“当然啦，Boots……我是说，Mr. Riddles！”",
+      "key": "Boots · Mr. Riddles"
+    },
+    {
+      "no": 3,
+      "time": "05:41",
+      "img": "/img/s01e22/f3.jpg",
+      "t": "First the Bridge",
+      "en": "“So first we need to go over the troll bridge,” Dora says.",
+      "cn": "Dora 说：“所以我们得先过那座巨魔桥。”",
+      "key": "bridge · over"
+    },
+    {
+      "no": 4,
+      "time": "09:43",
+      "img": "/img/s01e22/f4.jpg",
+      "t": "A Riddle About a Burro",
+      "en": "“Hmm... what goes hee-haw, hee-haw?” Dora hugs a purple burro.",
+      "cn": "“嗯……什么东西会嘿嘿、嘿嘿地叫？”Dora 抱着一头紫色小毛驴。",
+      "key": "burro · hugs"
+    },
+    {
+      "no": 5,
+      "time": "11:03",
+      "img": "/img/s01e22/f5.jpg",
+      "t": "Count the Legs",
+      "en": "They ride the burro. “Let's count all our legs!” says Dora.",
+      "cn": "他们骑上小毛驴，Dora 说：“我们来数数一共有几条腿！”",
+      "key": "burro · legs"
+    },
+    {
+      "no": 6,
+      "time": "15:04",
+      "img": "/img/s01e22/f6.jpg",
+      "t": "Rain and an Umbrella",
+      "en": "A gray cloud rains on them. They hide under a yellow umbrella. “Yay!”",
+      "cn": "一朵灰云下起雨来，他们躲到黄伞下面：“太棒了！”",
+      "key": "cloud · umbrella"
+    },
+    {
+      "no": 7,
+      "time": "17:34",
+      "img": "/img/s01e22/f7.jpg",
+      "t": "The Talking Door",
+      "en": "The big door has a face. “Knock knock! Orange who?” it asks.",
+      "cn": "大大的门长着一张脸，它问：“敲敲门——Orange 谁呀？”",
+      "key": "door · face"
+    },
+    {
+      "no": 8,
+      "time": "19:50",
+      "img": "/img/s01e22/f8.jpg",
+      "t": "The Mountain Jumps",
+      "en": "The tall mountain has a face. “See, everyone can jump higher,” it says.",
+      "cn": "高高的山长着一张脸，它说：“看，每个人都能跳得更高。”",
+      "key": "mountain · jump"
+    },
+    {
+      "no": 9,
+      "time": "23:04",
+      "img": "/img/s01e22/f9.jpg",
+      "t": "Thanks to You",
+      "en": "“We couldn't have done it without you!” Dora and Mr. Riddles wave.",
+      "cn": "“没有你我们可做不到！”Dora 和 Mr. Riddles 一起朝你挥手。",
+      "key": "without · wave"
+    }
+  ],
+  "words": [
+    ["riddle", "谜语"],
+    ["monkey", "猴子"],
+    ["branch", "树枝"],
+    ["bridge", "桥"],
+    ["troll", "巨魔"],
+    ["burro", "小毛驴"],
+    ["legs", "腿"],
+    ["cloud", "云"],
+    ["umbrella", "雨伞"],
+    ["door", "门"],
+    ["mountain", "高山"],
+    ["Vámonos", "走吧（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Call Me Mr. Riddles”.",
+  "ending": "In the end, Dora and Mr. Riddles solve the silliest riddle at the tall mountain. My favorite part is ______."
+}

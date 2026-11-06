@@ -1,0 +1,108 @@
+{
+  "id": "S01E04",
+  "season": 1,
+  "episode": 4,
+  "title": "Hic-Boom-Ohhh",
+  "titleCn": "打嗝轰隆隆",
+  "hook": "森林里传来“嗝——轰——哦”的怪声，Dora 和 Boots 要找出声音是从哪儿来的。",
+  "cover": "/img/s01e04/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:20",
+      "img": "/img/s01e04/f1.jpg",
+      "t": "A Strange Noise",
+      "en": "Dora and Boots hear a loud sound. “Let's find the sound!”",
+      "cn": "Dora 和 Boots 听到一个很响的声音：“我们去找找这个声音！”",
+      "key": "loud · sound"
+    },
+    {
+      "no": 2,
+      "time": "05:00",
+      "img": "/img/s01e04/f2.jpg",
+      "t": "Where to Go",
+      "en": "“River, forest, golden hills.” The map shows the way to go.",
+      "cn": "“小河、森林、金色山丘。”地图指出了要走的三个地方。",
+      "key": "map · forest"
+    },
+    {
+      "no": 3,
+      "time": "09:03",
+      "img": "/img/s01e04/f3.jpg",
+      "t": "Across the Water",
+      "en": "“¡Azul! ¡Azul!” A blue boat comes to take them across.",
+      "cn": "“¡Azul！（蓝色！）”一艘蓝色小船过来载他们过河。",
+      "key": "Azul · boat"
+    },
+    {
+      "no": 4,
+      "time": "16:25",
+      "img": "/img/s01e04/f4.jpg",
+      "t": "The Sneaky Fox",
+      "en": "“Oh, no! It's Swiper the sneaky fox.” He wants their stuff.",
+      "cn": "“糟糕！是狡猾的狐狸 Swiper。”他想抢走他们的东西。",
+      "key": "sneaky · fox"
+    },
+    {
+      "no": 5,
+      "time": "16:50",
+      "img": "/img/s01e04/f5.jpg",
+      "t": "Walk on Tiptoe",
+      "en": "“If we all do the tiptoe walk,” they can pass very quietly.",
+      "cn": "“我们一起踮着脚走，”他们就能悄悄地过去。",
+      "key": "tiptoe · quietly"
+    },
+    {
+      "no": 6,
+      "time": "19:00",
+      "img": "/img/s01e04/f6.jpg",
+      "t": "A Sleeping Giant?",
+      "en": "“Maybe it's a sleeping giant,” says Boots in the quiet forest.",
+      "cn": "Boots 在安静的森林里小声说：“说不定是睡着的大巨人。”",
+      "key": "giant · forest"
+    },
+    {
+      "no": 7,
+      "time": "19:40",
+      "img": "/img/s01e04/f7.jpg",
+      "t": "The Funny Noise",
+      "en": "“Hic... boom... oh!” The sound comes again and again.",
+      "cn": "“嗝……轰……哦！”那个声音一遍又一遍地响。",
+      "key": "sound · again"
+    },
+    {
+      "no": 8,
+      "time": "21:00",
+      "img": "/img/s01e04/f8.jpg",
+      "t": "Count Out Loud",
+      "en": "“Count to ten in a really loud voice,” says the blue cow.",
+      "cn": "蓝牛说：“用很大的声音一起数到十。”",
+      "key": "count · loud"
+    },
+    {
+      "no": 9,
+      "time": "22:00",
+      "img": "/img/s01e04/f9.jpg",
+      "t": "The Hiccups Go",
+      "en": "“¡Lo hicimos!” The big hiccups are gone at last.",
+      "cn": "“¡Lo hicimos！（我们做到啦！）”大嗝终于停下来了。",
+      "key": "hiccups · gone"
+    }
+  ],
+  "words": [
+    ["sound", "声音"],
+    ["loud", "响亮的"],
+    ["soft", "轻轻的"],
+    ["drum", "鼓"],
+    ["river", "小河"],
+    ["forest", "森林"],
+    ["boat", "小船"],
+    ["tiptoe", "踮着脚"],
+    ["giant", "巨人"],
+    ["hiccup", "打嗝"],
+    ["Azul", "蓝色（西语）"],
+    ["lo hicimos", "我们做到了（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Hic-Boom-Ohhh”.",
+  "ending": "In the end, the loud counting stops the big hiccups. My favorite part is ______."
+}

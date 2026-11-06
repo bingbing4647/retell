@@ -1,0 +1,108 @@
+{
+  "id": "S01E12",
+  "season": 1,
+  "episode": 12,
+  "title": "Surprise",
+  "titleCn": "生日惊喜",
+  "hook": "今天是 Boots 的生日！Dora 带他去派对屋，可 Swiper 把蛋糕藏起来了。",
+  "cover": "/img/s01e12/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s01e12/f1.jpg",
+      "t": "A Party for Boots",
+      "en": "Dora looks for Boots. “Now where is that little monkey?”",
+      "cn": "Dora 在找 Boots：“这只小猴子到底在哪儿呀？”",
+      "key": "Boots · little monkey"
+    },
+    {
+      "no": 2,
+      "time": "04:21",
+      "img": "/img/s01e12/f2.jpg",
+      "t": "Feliz Means Happy",
+      "en": "“Feliz” means “happy”. Dora asks Boots to say “feliz birthday”!",
+      "cn": "“Feliz”是“快乐”的意思。Dora 请 Boots 说“feliz birthday”！",
+      "key": "feliz · birthday"
+    },
+    {
+      "no": 3,
+      "time": "07:42",
+      "img": "/img/s01e12/f3.jpg",
+      "t": "Three Places",
+      "en": "The Map says: “Stairs, Bridge, Party House!” That is the way.",
+      "cn": "地图说：“台阶、桥、派对屋！”就按这条路走。",
+      "key": "Bridge · Party House"
+    },
+    {
+      "no": 4,
+      "time": "09:43",
+      "img": "/img/s01e12/f4.jpg",
+      "t": "A Fun Ride",
+      "en": "Dora rides a caballito. “That's caballito — a little horse!”",
+      "cn": "Dora 骑着小木马：“这是 caballito——小木马！”",
+      "key": "caballito · rides"
+    },
+    {
+      "no": 5,
+      "time": "11:43",
+      "img": "/img/s01e12/f5.jpg",
+      "t": "The Long Climb Up",
+      "en": "They climb the big stairs. “Happy, happy birthday!” they sing.",
+      "cn": "他们爬上大台阶，唱起歌：“生日快乐，快乐！”",
+      "key": "stairs · sing"
+    },
+    {
+      "no": 6,
+      "time": "12:50",
+      "img": "/img/s01e12/f6.jpg",
+      "t": "Swiper Hides the Cake",
+      "en": "Swiper hides the birthday cake! “You'll never find it now!”",
+      "cn": "Swiper 把生日蛋糕藏起来啦：“这下你们别想找到它！”",
+      "key": "Swiper · cake"
+    },
+    {
+      "no": 7,
+      "time": "14:24",
+      "img": "/img/s01e12/f7.jpg",
+      "t": "The Grumpy Troll",
+      "en": "The Grumpy Old Troll lives under the bridge. He sings a funny song.",
+      "cn": "爱生气的老巨魔住在桥底下，唱起一首搞笑的歌。",
+      "key": "Troll · bridge"
+    },
+    {
+      "no": 8,
+      "time": "20:26",
+      "img": "/img/s01e12/f8.jpg",
+      "t": "Party Time",
+      "en": "The party is at the Party House. Boots gets colorful goody bags!",
+      "cn": "派对屋里的派对开始啦，Boots 拿到五颜六色的礼物袋！",
+      "key": "Party House · goody bags"
+    },
+    {
+      "no": 9,
+      "time": "21:06",
+      "img": "/img/s01e12/f9.jpg",
+      "t": "Sing Feliz Cumpleaños",
+      "en": "It is time to sing “Feliz Cumpleaños” to Boots at the party.",
+      "cn": "到了给 Boots 唱《Feliz Cumpleaños（生日快乐）》的时候啦。",
+      "key": "sing · Cumpleaños"
+    }
+  ],
+  "words": [
+    ["surprise", "惊喜"],
+    ["birthday", "生日"],
+    ["party", "派对"],
+    ["cake", "蛋糕"],
+    ["stairs", "台阶"],
+    ["bridge", "桥"],
+    ["Troll", "巨魔"],
+    ["caballito", "小木马（西语）"],
+    ["feliz", "快乐的（西语）"],
+    ["feliz cumpleaños", "生日快乐（西语）"],
+    ["goody bag", "礼物袋"],
+    ["Swiper", "捣蛋鬼"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Surprise”.",
+  "ending": "In the end, Boots has a happy birthday party with all his friends. My favorite part is ______."
+}

@@ -38,6 +38,8 @@ npx serve out        # 或任意静态服务器
 - 翻页：**点屏幕左右边缘居中的圆形大按钮**（最主要入口）；也支持键盘 `←` `→` `空格`
   `Home` `End`、手机左右滑动、底部进度点
 - 朗读一律手动：每页点「朗读这句」才出声，**翻页不会自动播放**
+- 每页还有「听原声」：播这一格在原片里的那一小段（约 6 秒，从剧照时间点前 0.8 秒起切），
+  音色语调就是剧里的原版；词库 / 开头 / 结尾没有原声，仍用 TTS
 - `?play=1` 可直接进播放模式
 
 ## 目录结构
@@ -49,7 +51,10 @@ lib/
   parts/SxxEyy.json    ← 每集一个内容分片，加新集只改这里
   lessons.json         ← 合并后的总数据（由脚本生成，勿手改）
 public/img/sxxeyy/     每集 9 张剧照 f1..f9.jpg（768×576，取自片源原字幕）
+public/audio/sxxeyy/   每集 9 句 TTS（c1..c9）+ 9 段原声（o1..o9）+ 词库与首尾（w*/op/ed）
 scripts/merge-lessons.py  校验 + 合并分片
+scripts/gen-audio.py      生成 TTS 朗读音频
+scripts/gen-clips.py      从片源切「听原声」片段
 ```
 
 ## 加一集怎么做
@@ -57,7 +62,8 @@ scripts/merge-lessons.py  校验 + 合并分片
 1. 从片源抽 9 帧，存到 `public/img/<小写集号>/f1..f9.jpg`
 2. 写 `lib/parts/<SxxEyy>.json`（9 格英文句 + 12 个词 + opener/ending）
 3. `python scripts/merge-lessons.py`
-4. `npm run build`
+4. `python scripts/gen-clips.py --only SxxEyy`（切「听原声」片段；TTS 见 gen-audio.py）
+5. `npm run build`
 
 合并脚本会校验：9 格序号连续、12 组词、图片真实存在且 > 4KB、
 英文句 6–22 词、`key` 里的词确实出现在句子里。

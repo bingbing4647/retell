@@ -1,0 +1,144 @@
+{
+  "id": "S01E26",
+  "season": 1,
+  "episode": 26,
+  "title": "Backpack",
+  "titleCn": "小背包",
+  "hook": "Dora 得到一个新背包，背包里什么都有。她要过桥、爬大石、去图书馆，一路上背包帮了大忙。",
+  "cover": "/img/s01e26/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "02:20",
+      "img": "/img/s01e26/f1.jpg",
+      "t": "A Special Backpack",
+      "en": "“This is a very special Backpack, Dora,” says the big Backpack.",
+      "cn": "大背包说：“Dora，这是一个很特别的小背包。”",
+      "key": "special · Backpack"
+    },
+    {
+      "no": 2,
+      "time": "03:00",
+      "img": "/img/s01e26/f2.jpg",
+      "t": "Take You Along",
+      "en": "“I'm going to take you with me wherever I go,” says Dora.",
+      "cn": "Dora 说：“不管我去哪儿，都要带着你。”",
+      "key": "wherever · go"
+    },
+    {
+      "no": 3,
+      "time": "08:22",
+      "img": "/img/s01e26/f3.jpg",
+      "t": "Three Stops",
+      "en": "The Map says, “Bridge, Rock, Library.” That is the way.",
+      "cn": "地图说：“桥、大石头、图书馆。”这就是路线。",
+      "key": "Map · Library"
+    },
+    {
+      "no": 4,
+      "time": "11:44",
+      "img": "/img/s01e26/f4.jpg",
+      "t": "Cut the Net",
+      "en": "“To cut through the net, use a pair of scissors,” says Backpack.",
+      "cn": "背包说：“要剪开网子，就用一把剪刀。”",
+      "key": "cut · scissors"
+    },
+    {
+      "no": 5,
+      "time": "13:04",
+      "img": "/img/s01e26/f5.jpg",
+      "t": "Swiper's Trick",
+      "en": "Swiper laughs, “They'll never get it, they'll never get it!”",
+      "cn": "Swiper 笑着说：“他们永远拿不到，永远拿不到！”",
+      "key": "Swiper · never"
+    },
+    {
+      "no": 6,
+      "time": "15:05",
+      "img": "/img/s01e26/f6.jpg",
+      "t": "A Rope, Please",
+      "en": "“Do you know where I can find a rope?” a friend asks.",
+      "cn": "一位朋友问：“你知道我在哪儿能找到绳子吗？”",
+      "key": "rope · find"
+    },
+    {
+      "no": 7,
+      "time": "17:20",
+      "img": "/img/s01e26/f7.jpg",
+      "t": "Down the Rock",
+      "en": "“Will you help us slide down the big rock?” asks Boots.",
+      "cn": "Boots 问：“你愿意帮我们从大石头上滑下去吗？”",
+      "key": "slide · rock"
+    },
+    {
+      "no": 8,
+      "time": "21:07",
+      "img": "/img/s01e26/f8.jpg",
+      "t": "Where Are the Books?",
+      "en": "At the Library, someone asks, “Do you remember where I put the books?”",
+      "cn": "在图书馆里，有人问：“你记得我把书放哪儿了吗？”",
+      "key": "Library · books"
+    },
+    {
+      "no": 9,
+      "time": "22:27",
+      "img": "/img/s01e26/f9.jpg",
+      "t": "Hooray for Backpack",
+      "en": "“Backpack helped us, hooray!” Everyone cheers for the new Backpack.",
+      "cn": "“背包帮了我们，万岁！”大家一起为新背包欢呼。",
+      "key": "helped · hooray"
+    }
+  ],
+  "words": [
+    [
+      "backpack",
+      "背包"
+    ],
+    [
+      "special",
+      "特别的"
+    ],
+    [
+      "map",
+      "地图"
+    ],
+    [
+      "bridge",
+      "桥"
+    ],
+    [
+      "rock",
+      "大石头"
+    ],
+    [
+      "library",
+      "图书馆"
+    ],
+    [
+      "net",
+      "网"
+    ],
+    [
+      "scissors",
+      "剪刀"
+    ],
+    [
+      "rope",
+      "绳子"
+    ],
+    [
+      "slide",
+      "滑"
+    ],
+    [
+      "books",
+      "书"
+    ],
+    [
+      "sí",
+      "是的（西语）"
+    ]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Backpack”.",
+  "ending": "In the end, Backpack helps Dora and her friends at the Library. My favorite part is ______."
+}

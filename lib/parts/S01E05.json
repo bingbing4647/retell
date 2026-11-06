@@ -1,0 +1,108 @@
+{
+  "id": "S01E05",
+  "season": 1,
+  "episode": 5,
+  "title": "Ice Cream",
+  "titleCn": "冰淇淋大冒险",
+  "hook": "冰淇淋车开走了！Dora 和 Boots 要先上草莓山、再划过巧克力湖，才能到冰淇淋岛。",
+  "cover": "/img/s01e05/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:00",
+      "img": "/img/s01e05/f1.jpg",
+      "t": "Boots Loves Sweets",
+      "en": "“I love ice cream!” Boots smiles and jumps with Dora.",
+      "cn": "“我爱冰淇淋！”Boots 笑着和 Dora 一起跳。",
+      "key": "ice cream · smiles"
+    },
+    {
+      "no": 2,
+      "time": "03:41",
+      "img": "/img/s01e05/f2.jpg",
+      "t": "Too Late!",
+      "en": "“Uh-oh! I think the truck is leaving!” The white truck drives away.",
+      "cn": "“哎呀！冰淇淋车好像要开走了！”白色的小车开远了。",
+      "key": "truck · leaving"
+    },
+    {
+      "no": 3,
+      "time": "07:00",
+      "img": "/img/s01e05/f3.jpg",
+      "t": "The Route",
+      "en": "The map shows three places. “First, Strawberry Mountain,” says Dora.",
+      "cn": "地图上有三个地方。Dora 说：“先过草莓山。”",
+      "key": "map · Strawberry Mountain"
+    },
+    {
+      "no": 4,
+      "time": "09:40",
+      "img": "/img/s01e05/f4.jpg",
+      "t": "A Ride from Tico",
+      "en": "“Tico, can you give us a ride?” Tico honks his horn.",
+      "cn": "“Tico，你能载我们一程吗？”Tico 按了按喇叭。",
+      "key": "Tico · ride"
+    },
+    {
+      "no": 5,
+      "time": "10:20",
+      "img": "/img/s01e05/f5.jpg",
+      "t": "Climbing High",
+      "en": "The little yellow car climbs up and over the mountain.",
+      "cn": "黄色的小车爬上山顶，翻过了山。",
+      "key": "yellow car · climbs"
+    },
+    {
+      "no": 6,
+      "time": "14:30",
+      "img": "/img/s01e05/f6.jpg",
+      "t": "Time to Row",
+      "en": "“The chocolate boat!” Boots points at a boat on the brown lake.",
+      "cn": "“巧克力船！”Boots 指着棕色湖面上的一条船。",
+      "key": "chocolate · boat"
+    },
+    {
+      "no": 7,
+      "time": "15:00",
+      "img": "/img/s01e05/f7.jpg",
+      "t": "Row, Row, Row",
+      "en": "“Will you help us row across the lake?” asks Dora.",
+      "cn": "Dora 问：“你愿意帮我们划过这个湖吗？”",
+      "key": "row · lake"
+    },
+    {
+      "no": 8,
+      "time": "20:00",
+      "img": "/img/s01e05/f8.jpg",
+      "t": "At the Truck",
+      "en": "“Now we can get ice cream!” Dora holds a big pink cone.",
+      "cn": "“现在我们能买冰淇淋啦！”Dora 举起一个大大的粉色甜筒。",
+      "key": "ice cream · cone"
+    },
+    {
+      "no": 9,
+      "time": "21:00",
+      "img": "/img/s01e05/f9.jpg",
+      "t": "Paying for It",
+      "en": "“Now help me count out eight coins,” says Dora.",
+      "cn": "Dora 说：“现在帮我数出八枚硬币。”",
+      "key": "count · coins"
+    }
+  ],
+  "words": [
+    ["ice cream", "冰淇淋"],
+    ["truck", "小货车"],
+    ["map", "地图"],
+    ["Strawberry Mountain", "草莓山"],
+    ["Chocolate Lake", "巧克力湖"],
+    ["Tico", "蒂科（小狐狸车）"],
+    ["ride", "搭车"],
+    ["climb", "爬上去"],
+    ["boat", "小船"],
+    ["row", "划船"],
+    ["coins", "硬币"],
+    ["izquierda", "左边（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Ice Cream”.",
+  "ending": "In the end, Dora and Boots buy ice cream with eight coins. My favorite part is ______."
+}

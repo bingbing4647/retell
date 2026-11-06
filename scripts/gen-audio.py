@@ -55,10 +55,14 @@ def clean(text: str) -> str:
 
 
 def items_of(lesson):
-    """(key, text, is_spanish) 列表——前端按键名取音频，顺序恒定。"""
+    """(key, text, is_spanish) 列表——前端按键名取音频，顺序恒定。
+    问答式格子（小猪佩奇）多一组 q1..q9 的问句音频。"""
     out = []
     for c in lesson.get("cells", []):
-        out.append((f"c{c['no']}", clean(c.get("en", "")), False))
+        # 兼容两种写法：老数据只有 en，问答式数据是 q + a
+        out.append((f"c{c['no']}", clean(c.get("en") or c.get("a", "")), False))
+        if c.get("q"):
+            out.append((f"q{c['no']}", clean(c["q"]), False))
     for i, w in enumerate(lesson.get("words", []), 1):
         word, cn = w[0], (w[1] if len(w) > 1 else "")
         out.append((f"w{i}", clean(word), SPANISH_HINT in cn))
@@ -99,7 +103,10 @@ async def synth(text: str, voice: str, rate: str, dst: Path):
 
 
 async def run(args):
-    lessons = json.loads(LESSONS.read_text(encoding="utf-8"))
+    src = Path(args.lessons)
+    if not src.is_absolute():
+        src = ROOT / src
+    lessons = json.loads(src.read_text(encoding="utf-8"))
     if args.only:
         keep = {x.upper() for x in args.only.split(",")}
         lessons = {k: v for k, v in lessons.items() if k.upper() in keep}
@@ -160,11 +167,14 @@ async def run(args):
             if keys:
                 manifest[lid.lower()] = keys
     mf = OUT_ROOT / "manifest.json"
-    if args.only and mf.exists():  # 增量模式：合并旧清单
-        old = json.loads(mf.read_text(encoding="utf-8"))
-        old.update(manifest)
-        manifest = old
-        manifest.pop("_meta", None)
+    if mf.exists():  # 合并旧清单：多个剧集共用一份 manifest
+        try:
+            old = json.loads(mf.read_text(encoding="utf-8"))
+            old.pop("_meta", None)
+            old.update(manifest)
+            manifest = old
+        except Exception:  # noqa: BLE001
+            pass
     manifest["_meta"] = {"voice": args.voice, "esVoice": ES_VOICE, "rate": args.rate}
     mf.write_text(json.dumps(manifest, ensure_ascii=False, indent=0), encoding="utf-8")
 
@@ -184,6 +194,11 @@ async def run(args):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", help="只处理指定集号，逗号分隔，如 S02E14,S02E15")
+    ap.add_argument(
+        "--lessons",
+        default="lib/lessons.json",
+        help="课程数据文件，默认 lib/lessons.json；小猪佩奇用 lib/peppa/lessons.json",
+    )
     ap.add_argument("--voice", default=DEFAULT_VOICE)
     ap.add_argument("--rate", default=DEFAULT_RATE)
     ap.add_argument("--jobs", type=int, default=4)

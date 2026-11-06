@@ -8,6 +8,7 @@
 import { useMemo, useState } from "react";
 import { IconCheck, IconEye, IconPlay, IconSpeak, IconStar } from "./Icons";
 import { BLIND_WAIT, speak, tally, useRetell } from "../lib/progress";
+import { EVENT, track } from "../lib/track";
 
 const FINGERS = [
   { k: "who", en: "Who", cn: "人物", q: "故事里有谁？", demo: "Dora and Boots" },
@@ -44,7 +45,7 @@ const LADDER = [
   },
 ];
 
-export default function RetellLab({ lesson, onPlay, onPractice }) {
+export default function RetellLab({ lesson, onPlay, onPractice, who = "Dora and Boots" }) {
   const [store, api] = useRetell();
   const five = store.five[lesson.id] || {};
   const steps = store.steps[lesson.id] || {};
@@ -78,13 +79,20 @@ export default function RetellLab({ lesson, onPlay, onPractice }) {
     [lesson]
   );
 
-  const picked = FINGERS.map((f) => ({ ...f, v: (five[f.k] || "").trim() }));
+  // 五指模型的示例句跟着剧集走：朵拉是 Dora and Boots，佩奇是 Peppa and George
+  const fingers = useMemo(
+    () => FINGERS.map((f) => (f.k === "who" ? { ...f, demo: who } : f)),
+    [who]
+  );
+
+  const picked = fingers.map((f) => ({ ...f, v: (five[f.k] || "").trim() }));
   const filled = picked.filter((f) => f.v);
   const stepDone = LADDER.filter((l) => steps[l.k]).length;
-  const cur = open ? FINGERS.find((f) => f.k === open) : null;
+  const cur = open ? fingers.find((f) => f.k === open) : null;
 
   const commit = (k, v) => {
     api.setFive(lesson.id, k, v);
+    track(EVENT.RETELL_FIVE, { lesson_id: lesson.id, finger: k, filled: !!v });
     setDraft("");
     setOpen(null);
   };
@@ -301,7 +309,15 @@ export default function RetellLab({ lesson, onPlay, onPractice }) {
                   <button
                     type="button"
                     className={`rung-ck ${steps[l.k] ? "on" : ""}`}
-                    onClick={() => api.setStep(lesson.id, l.k, !steps[l.k])}
+                    onClick={() => {
+                      const next = !steps[l.k];
+                      api.setStep(lesson.id, l.k, next);
+                      track(EVENT.RETELL_STEP, {
+                        lesson_id: lesson.id,
+                        step: l.k,
+                        done: next,
+                      });
+                    }}
                     aria-pressed={!!steps[l.k]}
                   >
                     <IconCheck /> {steps[l.k] ? "今天说过了" : "说完了，打勾"}

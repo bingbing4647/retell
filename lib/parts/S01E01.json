@@ -1,0 +1,108 @@
+{
+  "id": "S01E01",
+  "season": 1,
+  "episode": 1,
+  "title": "Lost and Found",
+  "titleCn": "走失的小蓝鸟",
+  "hook": "一只小蓝鸟又冷又怕，Dora 和 Boots 要送她回到妈妈身边。",
+  "cover": "/img/s01e01/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:40",
+      "img": "/img/s01e01/f1.jpg",
+      "t": "Someone Is Crying",
+      "en": "“Peep, peep, peep!” Someone is crying behind the flowers.",
+      "cn": "“啾、啾、啾！”花丛后面有谁在哭。",
+      "key": "crying · flowers"
+    },
+    {
+      "no": 2,
+      "time": "02:40",
+      "img": "/img/s01e01/f2.jpg",
+      "t": "She Is Cold",
+      "en": "A little blue bird sits on the grass. “She is cold,” says Boots.",
+      "cn": "一只小蓝鸟坐在草地上，Boots 说：“她好冷呀。”",
+      "key": "blue bird · cold"
+    },
+    {
+      "no": 3,
+      "time": "04:20",
+      "img": "/img/s01e01/f3.jpg",
+      "t": "Now She's Lost",
+      "en": "“Now she's lost,” says Dora. They must find her mommy.",
+      "cn": "Dora 说：“她走丢了。”他们得帮她找到妈妈。",
+      "key": "lost · mommy"
+    },
+    {
+      "no": 4,
+      "time": "08:20",
+      "img": "/img/s01e01/f4.jpg",
+      "t": "First the Cornfield",
+      "en": "“First the Cornfield, then the Big Tree,” says Boots.",
+      "cn": "Boots 说：“先过玉米地，再到那棵大树。”",
+      "key": "Cornfield · Big Tree"
+    },
+    {
+      "no": 5,
+      "time": "09:35",
+      "img": "/img/s01e01/f5.jpg",
+      "t": "Off We Go",
+      "en": "“Dora and Boots, all right!” They start walking down the path.",
+      "cn": "“Dora 和 Boots，出发！”他们沿着小路往前走。",
+      "key": "walking · path"
+    },
+    {
+      "no": 6,
+      "time": "11:30",
+      "img": "/img/s01e01/f6.jpg",
+      "t": "Stop Swiper",
+      "en": "“Help us stop Swiper!” Dora needs you to say “Swiper, no swiping!”",
+      "cn": "“帮我们拦住 Swiper！”Dora 要你一起喊：“Swiper，不许抢！”",
+      "key": "Swiper · stop"
+    },
+    {
+      "no": 7,
+      "time": "15:50",
+      "img": "/img/s01e01/f7.jpg",
+      "t": "Almost There",
+      "en": "“We're almost there!” The Little Blue Tree is past the fence.",
+      "cn": "“我们快到了！”小蓝树就在篱笆那边。",
+      "key": "almost · fence"
+    },
+    {
+      "no": 8,
+      "time": "20:20",
+      "img": "/img/s01e01/f8.jpg",
+      "t": "Swiper Wants the Flower",
+      "en": "Swiper grabs a yellow flower. “He wants to swipe her flower!”",
+      "cn": "Swiper 伸手去抓那朵黄花：“他想把她的花抢走！”",
+      "key": "Swiper · flower"
+    },
+    {
+      "no": 9,
+      "time": "21:45",
+      "img": "/img/s01e01/f9.jpg",
+      "t": "Muchas Gracias",
+      "en": "“Muchas gracias!” The little bird is back with her mommy at last.",
+      "cn": "“非常感谢！”小蓝鸟终于回到妈妈身边了。",
+      "key": "mommy · gracias"
+    }
+  ],
+  "words": [
+    ["blue bird", "小蓝鸟"],
+    ["lost", "走失的"],
+    ["cold", "冷的"],
+    ["mommy", "妈妈"],
+    ["cry", "哭"],
+    ["flower", "花"],
+    ["Cornfield", "玉米地"],
+    ["Big Tree", "大树"],
+    ["path", "小路"],
+    ["fence", "篱笆"],
+    ["Swiper", "捣蛋鬼"],
+    ["gracias", "谢谢（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Lost and Found”.",
+  "ending": "In the end, the little blue bird finds her mommy. My favorite part is ______."
+}

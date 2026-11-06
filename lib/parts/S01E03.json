@@ -1,0 +1,144 @@
+{
+  "id": "S01E03",
+  "season": 1,
+  "episode": 3,
+  "title": "Choo Choo",
+  "titleCn": "小火车呜呜",
+  "hook": "小蓝火车 Azul 没有哨子，Dora 和 Boots 要陪它开到大黄车站去领哨子。",
+  "cover": "/img/s01e03/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "03:01",
+      "img": "/img/s01e03/f1.jpg",
+      "t": "Poor Little Train",
+      "en": "The little blue train has no whistle. “He doesn't have a whistle!”",
+      "cn": "小蓝火车没有哨子：“它没有哨子呀！”",
+      "key": "train · whistle"
+    },
+    {
+      "no": 2,
+      "time": "05:42",
+      "img": "/img/s01e03/f2.jpg",
+      "t": "First the Tunnel",
+      "en": "“We go to the Big Yellow Station.” The map shows a tunnel first.",
+      "cn": "“我们要去大黄车站。”地图上说，先要穿过隧道。",
+      "key": "map · tunnel"
+    },
+    {
+      "no": 3,
+      "time": "07:42",
+      "img": "/img/s01e03/f3.jpg",
+      "t": "Off We Roll",
+      "en": "“Chuga-chuga, choo choo!” Dora and Boots ride the blue train.",
+      "cn": "“咔嚓咔嚓，呜呜！”Dora 和 Boots 坐上蓝色小火车。",
+      "key": "choo choo · ride"
+    },
+    {
+      "no": 4,
+      "time": "11:04",
+      "img": "/img/s01e03/f4.jpg",
+      "t": "Dark Inside",
+      "en": "“We won't be able to see where we're going!” Inside it is dark.",
+      "cn": "“我们都看不见路啦！”隧道里面黑黑的。",
+      "key": "see · dark"
+    },
+    {
+      "no": 5,
+      "time": "17:20",
+      "img": "/img/s01e03/f5.jpg",
+      "t": "Stop That Fox",
+      "en": "Swiper grabs the tracks. “Swiper, no!” Dora and Boots shout.",
+      "cn": "Swiper 把铁轨抢走了，Dora 和 Boots 大喊：“Swiper，不行！”",
+      "key": "Swiper · tracks"
+    },
+    {
+      "no": 6,
+      "time": "17:35",
+      "img": "/img/s01e03/f6.jpg",
+      "t": "Help Us Look",
+      "en": "“Will you help us find the missing tracks?” asks Dora.",
+      "cn": "Dora 问：“你愿意帮我们找回不见的铁轨吗？”",
+      "key": "help · missing"
+    },
+    {
+      "no": 7,
+      "time": "19:10",
+      "img": "/img/s01e03/f7.jpg",
+      "t": "A Blue Square",
+      "en": "“It's a square, but it's not blue.” They find the right piece.",
+      "cn": "“是方形的，可不是蓝色。”他们找到了对的那一块。",
+      "key": "square · blue"
+    },
+    {
+      "no": 8,
+      "time": "20:45",
+      "img": "/img/s01e03/f8.jpg",
+      "t": "A Gift for Azul",
+      "en": "The octopus gives Azul a big whistle. “Wow, that's a big whistle!”",
+      "cn": "章鱼站长送给 Azul 一个大哨子：“哇，好大的哨子！”",
+      "key": "octopus · Azul"
+    },
+    {
+      "no": 9,
+      "time": "21:35",
+      "img": "/img/s01e03/f9.jpg",
+      "t": "Loud and Clear",
+      "en": "“Choo choo!” Azul toots his big new whistle at the station.",
+      "cn": "“呜呜！”Azul 在车站吹响了它的新哨子。",
+      "key": "toots · station"
+    }
+  ],
+  "words": [
+    [
+      "train",
+      "火车"
+    ],
+    [
+      "whistle",
+      "哨子"
+    ],
+    [
+      "tunnel",
+      "隧道"
+    ],
+    [
+      "track",
+      "铁轨"
+    ],
+    [
+      "station",
+      "车站"
+    ],
+    [
+      "square",
+      "正方形"
+    ],
+    [
+      "octopus",
+      "章鱼"
+    ],
+    [
+      "dark",
+      "黑暗的"
+    ],
+    [
+      "choo choo",
+      "呜呜（火车声）"
+    ],
+    [
+      "Azul",
+      "蓝色（西语），小火车名字"
+    ],
+    [
+      "vámonos",
+      "我们走吧（西语）"
+    ],
+    [
+      "toot",
+      "吹响"
+    ]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Choo Choo”.",
+  "ending": "In the end, the little blue train toots his big new whistle. My favorite part is ______."
+}

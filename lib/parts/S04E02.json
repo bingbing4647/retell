@@ -29,10 +29,10 @@
       "no": 3,
       "time": "06:24",
       "img": "/img/s04e02/f3.jpg",
-      "t": "Bring Back the Music",
-      "en": "They must bring the drums and horn to Fiesta Trio.",
-      "cn": "他们得把鼓和小号送还给 Fiesta Trio。",
-      "key": "drums · horn"
+      "t": "Give Them Back",
+      "en": "Will you help us return the instruments to the Fiesta Trio?",
+      "cn": "你愿意帮我们把乐器还给 fiesta 三人组吗？",
+      "key": "instruments · return"
     },
     {
       "no": 4,
@@ -45,12 +45,12 @@
     },
     {
       "no": 5,
-      "time": "11:13",
+      "time": "11:16",
       "img": "/img/s04e02/f5.jpg",
-      "t": "In the Yellow Car",
-      "en": "They ride in a yellow car. “Whew, that was close!”",
-      "cn": "他们坐着黄色小车上路。“呼，好险！”",
-      "key": "car · close"
+      "t": "Say Circulo",
+      "en": "Tico turns his bike in a circle. Whew, that was so close!",
+      "cn": "Tico 把车转了个圈，好险！",
+      "key": "circle · close"
     },
     {
       "no": 6,
@@ -63,12 +63,12 @@
     },
     {
       "no": 7,
-      "time": "16:02",
+      "time": "19:00",
       "img": "/img/s04e02/f7.jpg",
-      "t": "Down the River",
-      "en": "A yellow boat goes down the river past crocodiles.",
-      "cn": "黄色小船顺流而下，从鳄鱼身边经过。",
-      "key": "boat · river"
+      "t": "Boots Knows",
+      "en": "Boots says, do not worry, I know what to do, with a big smile.",
+      "cn": "Boots 笑着说：“别担心，我知道该怎么做。”",
+      "key": "worry · smile"
     },
     {
       "no": 8,

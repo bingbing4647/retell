@@ -12,6 +12,7 @@
     "pdf:merge": "python scripts/merge-pdf.py --check && python scripts/merge-pdf.py"
   },
   "dependencies": {
+    "@tencent-ai/workbuddy-cloud-sdk": "^0.1.4-dev.ca27990.202610161713",
     "next": "15.5.28",
     "react": "19.3.1",
     "react-dom": "19.3.1"

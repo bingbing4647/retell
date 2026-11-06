@@ -1,0 +1,108 @@
+{
+  "id": "S01E08",
+  "season": 1,
+  "episode": 8,
+  "title": "Beaches",
+  "titleCn": "去海边",
+  "hook": "Dora 带着礼物游泳圈去海滩找 Boots，Swiper 却把礼物扔丢了！",
+  "cover": "/img/s01e08/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "01:40",
+      "img": "/img/s01e08/f1.jpg",
+      "t": "A Present for Boots",
+      "en": "“I'm going swimming at the beach,” says Dora. She has a present.",
+      "cn": "Dora 说：“我要去海边游泳。”她带了一份礼物。",
+      "key": "swimming · present"
+    },
+    {
+      "no": 2,
+      "time": "02:20",
+      "img": "/img/s01e08/f2.jpg",
+      "t": "What's Inside?",
+      "en": "The present is a floaty. “It's got a red bow on it.”",
+      "cn": "礼物是个游泳圈。“上面系着一个红蝴蝶结。”",
+      "key": "floaty · red bow"
+    },
+    {
+      "no": 3,
+      "time": "05:41",
+      "img": "/img/s01e08/f3.jpg",
+      "t": "Which Way First?",
+      "en": "The Map shows: “Over the dunes, then down the boardwalk.”",
+      "cn": "地图指路：“先翻过沙丘，再沿着木板路走。”",
+      "key": "dunes · boardwalk"
+    },
+    {
+      "no": 4,
+      "time": "07:42",
+      "img": "/img/s01e08/f4.jpg",
+      "t": "Here Comes Trouble",
+      "en": "“It's the fox!” They see Swiper and yell at him together.",
+      "cn": "“是那只狐狸！”他们看见了 Swiper，一起冲他大喊。",
+      "key": "fox · yell"
+    },
+    {
+      "no": 5,
+      "time": "09:03",
+      "img": "/img/s01e08/f5.jpg",
+      "t": "Big Dunes",
+      "en": "“The dunes really are big hills of sand.” Dora climbs up.",
+      "cn": "“沙丘真是好大的沙山。”Dora 往上爬。",
+      "key": "dunes · climbs"
+    },
+    {
+      "no": 6,
+      "time": "13:04",
+      "img": "/img/s01e08/f6.jpg",
+      "t": "Find the Boardwalk",
+      "en": "“Do you see the boardwalk?” Dora points to the way.",
+      "cn": "“你看到木板路了吗？”Dora 指着要走的路。",
+      "key": "boardwalk · points"
+    },
+    {
+      "no": 7,
+      "time": "15:45",
+      "img": "/img/s01e08/f7.jpg",
+      "t": "Count the Boards",
+      "en": "“Let's see how many boards we need,” says Dora. Count with her!",
+      "cn": "Dora 说：“看看我们需要几块木板。”跟她一起数吧！",
+      "key": "boards · count"
+    },
+    {
+      "no": 8,
+      "time": "19:46",
+      "img": "/img/s01e08/f8.jpg",
+      "t": "Find the Floaty",
+      "en": "Swiper threw the floaty far away. “We'll find it!” says Dora.",
+      "cn": "Swiper 把游泳圈扔远了。Dora 说：“我们会找到它的！”",
+      "key": "floaty · find"
+    },
+    {
+      "no": 9,
+      "time": "21:47",
+      "img": "/img/s01e08/f9.jpg",
+      "t": "Swimming at Last",
+      "en": "“Look, Dora, I'm swimming with my new floaty!” says Boots.",
+      "cn": "Boots 说：“看，Dora，我戴着新游泳圈在游泳啦！”",
+      "key": "Boots · swimming"
+    }
+  ],
+  "words": [
+    ["beach", "海滩"],
+    ["swim", "游泳"],
+    ["floaty", "游泳圈"],
+    ["present", "礼物"],
+    ["red bow", "红蝴蝶结"],
+    ["dunes", "沙丘"],
+    ["boardwalk", "木板路"],
+    ["fox", "狐狸"],
+    ["Swiper", "捣蛋鬼"],
+    ["boards", "木板"],
+    ["count", "数数"],
+    ["find", "找到"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Beaches”.",
+  "ending": "In the end, Boots swims in the sea with his new floaty. My favorite part is ______."
+}

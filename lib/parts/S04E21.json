@@ -9,12 +9,12 @@
   "cells": [
     {
       "no": 1,
-      "time": "03:00",
+      "time": "02:55",
       "img": "/img/s04e21/f1.jpg",
-      "t": "Welcome to Fairy Tale Land",
-      "en": "Seven little dwarfs welcome Dora to Fairy Tale Land.",
-      "cn": "七个小矮人欢迎 Dora 来到童话王国。",
-      "key": "dwarfs · Fairy"
+      "t": "Fairy Tale Land",
+      "en": "Calling all Cinderellas! You are welcome in Fairy Tale Land.",
+      "cn": "各位灰姑娘听好！欢迎来到童话之地。",
+      "key": "welcome · Fairy Tale"
     },
     {
       "no": 2,
@@ -27,12 +27,12 @@
     },
     {
       "no": 3,
-      "time": "12:13",
+      "time": "12:20",
       "img": "/img/s04e21/f3.jpg",
-      "t": "The Green Dragon",
-      "en": "A big green dragon sleeps on the shiny jewels.",
-      "cn": "一条大绿龙睡在亮闪闪的宝石上。",
-      "key": "dragon · jewels"
+      "t": "Under A Spell",
+      "en": "I was under a spell for a long time, the lion says sadly.",
+      "cn": "狮子伤心地说：我被魔咒困了好久好久。",
+      "key": "spell · lion"
     },
     {
       "no": 4,
@@ -81,12 +81,12 @@
     },
     {
       "no": 9,
-      "time": "39:52",
+      "time": "36:00",
       "img": "/img/s04e21/f9.jpg",
-      "t": "A Shiny Gown",
-      "en": "Wow! Dora has a shiny gown and long hair.",
-      "cn": "哇！Dora 换上亮闪闪的长裙，头发也变长了。",
-      "key": "gown · shiny"
+      "t": "Viva Tico",
+      "en": "Viva Tico! The friends cheer for the brave little squirrel.",
+      "cn": "Tico 万岁！伙伴们为勇敢的小松鼠欢呼。",
+      "key": "Viva · brave"
     }
   ],
   "words": [

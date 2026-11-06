@@ -1,5 +1,109 @@
 {
  "episodes": {
+  "S01E01": {
+   "pages": 1,
+   "bytes": 825167
+  },
+  "S01E02": {
+   "pages": 1,
+   "bytes": 724729
+  },
+  "S01E03": {
+   "pages": 1,
+   "bytes": 725929
+  },
+  "S01E04": {
+   "pages": 1,
+   "bytes": 723879
+  },
+  "S01E05": {
+   "pages": 1,
+   "bytes": 686037
+  },
+  "S01E06": {
+   "pages": 1,
+   "bytes": 709173
+  },
+  "S01E07": {
+   "pages": 1,
+   "bytes": 712790
+  },
+  "S01E08": {
+   "pages": 1,
+   "bytes": 661261
+  },
+  "S01E09": {
+   "pages": 1,
+   "bytes": 687296
+  },
+  "S01E10": {
+   "pages": 1,
+   "bytes": 763135
+  },
+  "S01E11": {
+   "pages": 1,
+   "bytes": 741005
+  },
+  "S01E12": {
+   "pages": 1,
+   "bytes": 746408
+  },
+  "S01E13": {
+   "pages": 1,
+   "bytes": 721793
+  },
+  "S01E14": {
+   "pages": 1,
+   "bytes": 671732
+  },
+  "S01E15": {
+   "pages": 1,
+   "bytes": 716930
+  },
+  "S01E16": {
+   "pages": 1,
+   "bytes": 839893
+  },
+  "S01E17": {
+   "pages": 1,
+   "bytes": 813179
+  },
+  "S01E18": {
+   "pages": 1,
+   "bytes": 727542
+  },
+  "S01E19": {
+   "pages": 1,
+   "bytes": 690220
+  },
+  "S01E20": {
+   "pages": 1,
+   "bytes": 780545
+  },
+  "S01E21": {
+   "pages": 1,
+   "bytes": 749016
+  },
+  "S01E22": {
+   "pages": 1,
+   "bytes": 846212
+  },
+  "S01E23": {
+   "pages": 1,
+   "bytes": 670668
+  },
+  "S01E24": {
+   "pages": 1,
+   "bytes": 781857
+  },
+  "S01E25": {
+   "pages": 1,
+   "bytes": 646178
+  },
+  "S01E26": {
+   "pages": 1,
+   "bytes": 718519
+  },
   "S02E01": {
    "pages": 1,
    "bytes": 502461
@@ -218,27 +322,27 @@
   },
   "S04E04": {
    "pages": 1,
-   "bytes": 775014
+   "bytes": 778021
   },
   "S04E05": {
    "pages": 1,
-   "bytes": 775157
+   "bytes": 778175
   },
   "S04E06": {
    "pages": 1,
-   "bytes": 766775
+   "bytes": 769795
   },
   "S04E07": {
    "pages": 1,
-   "bytes": 747174
+   "bytes": 750155
   },
   "S04E08": {
    "pages": 1,
-   "bytes": 770381
+   "bytes": 773379
   },
   "S04E09": {
    "pages": 1,
-   "bytes": 720546
+   "bytes": 723546
   },
   "S04E10": {
    "pages": 1,
@@ -262,7 +366,7 @@
   },
   "S04E15": {
    "pages": 1,
-   "bytes": 771775
+   "bytes": 774770
   },
   "S04E16": {
    "pages": 1,
@@ -393,6 +497,13 @@
    "pages": 21,
    "bytes": 13975198,
    "label": "S5"
+  },
+  "1": {
+   "url": "/pdf/season-01.pdf",
+   "episodes": 26,
+   "pages": 28,
+   "bytes": 17360516,
+   "label": "S1"
   }
  }
 }

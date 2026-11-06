@@ -1,0 +1,108 @@
+{
+  "id": "S01E25",
+  "season": 1,
+  "episode": 25,
+  "title": "Dora Saves the Prince",
+  "titleCn": "救出小王子",
+  "hook": "坏女巫把 Ramón 王子关进高塔，Dora 和 Boots 要过大森林、念魔法词去救他。",
+  "cover": "/img/s01e25/f1.jpg",
+  "cells": [
+    {
+      "no": 1,
+      "time": "03:01",
+      "img": "/img/s01e25/f1.jpg",
+      "t": "Once Upon a Time",
+      "en": "There was a happy little prince. His name is Prince Ramón.",
+      "cn": "从前有一位快乐的小王子，他叫 Ramón 王子。",
+      "key": "prince · happy"
+    },
+    {
+      "no": 2,
+      "time": "04:21",
+      "img": "/img/s01e25/f2.jpg",
+      "t": "The Witch Locks the Door",
+      "en": "The Mean Witch locks the prince inside. “And the tower door opened.”",
+      "cn": "坏女巫把王子关进高塔：“塔门就这样打开了。”",
+      "key": "Witch · tower"
+    },
+    {
+      "no": 3,
+      "time": "09:43",
+      "img": "/img/s01e25/f3.jpg",
+      "t": "At the Gate",
+      "en": "“We made it to the gate!” Boots and Dora stand by the blue door.",
+      "cn": "“我们到大门了！”Boots 和 Dora 站在蓝门前。",
+      "key": "gate · door"
+    },
+    {
+      "no": 4,
+      "time": "10:00",
+      "img": "/img/s01e25/f4.jpg",
+      "t": "Say “Abre”",
+      "en": "“Let's use the magic word ‘Abre’ to open the gate.”",
+      "cn": "“我们用魔法词 Abre 来打开大门吧。”",
+      "key": "magic · Abre"
+    },
+    {
+      "no": 5,
+      "time": "13:04",
+      "img": "/img/s01e25/f5.jpg",
+      "t": "Watch Out for Swiper",
+      "en": "“If you see Swiper the Fox, yell ‘Swiper’!” Dora needs your help.",
+      "cn": "“如果你看到捣蛋鬼 Swiper，就大声喊‘Swiper’！”Dora 需要你帮忙。",
+      "key": "Swiper · yell"
+    },
+    {
+      "no": 6,
+      "time": "17:35",
+      "img": "/img/s01e25/f6.jpg",
+      "t": "Inside the Tower",
+      "en": "Dora looks up inside the tower. “Ooh, there's lots of steps!”",
+      "cn": "Dora 在高塔里抬头看：“哇，好多台阶呀！”",
+      "key": "tower · steps"
+    },
+    {
+      "no": 7,
+      "time": "19:10",
+      "img": "/img/s01e25/f7.jpg",
+      "t": "Time to Climb",
+      "en": "At last they see the High Tower. “Come on, let's get out of here.”",
+      "cn": "他们终于看见高塔：“快，我们赶紧上去。”",
+      "key": "tower · last"
+    },
+    {
+      "no": 8,
+      "time": "21:30",
+      "img": "/img/s01e25/f8.jpg",
+      "t": "Say It Together",
+      "en": "“We need to say the magic word!” The prince holds his magic wand.",
+      "cn": "“我们要一起说魔法词！”王子举着他的魔法棒。",
+      "key": "magic · wand"
+    },
+    {
+      "no": 9,
+      "time": "21:45",
+      "img": "/img/s01e25/f9.jpg",
+      "t": "The Witch Is Nice Now",
+      "en": "“Friends?” asks the Mean Witch. Now the prince is safe and happy.",
+      "cn": "“做朋友好吗？”坏女巫问。现在王子又安全又开心。",
+      "key": "Witch · friends"
+    }
+  ],
+  "words": [
+    ["prince", "王子"],
+    ["witch", "女巫"],
+    ["tower", "高塔"],
+    ["door", "门"],
+    ["gate", "大门"],
+    ["magic word", "魔法词"],
+    ["wand", "魔法棒"],
+    ["steps", "台阶"],
+    ["friends", "朋友"],
+    ["happy", "开心的"],
+    ["safe", "安全的"],
+    ["Abre", "打开（西语）"]
+  ],
+  "opener": "Today I watched Dora the Explorer. This episode is “Dora Saves the Prince”.",
+  "ending": "In the end, Dora saves the prince and the witch becomes a friend. My favorite part is ______."
+}

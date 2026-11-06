@@ -12,6 +12,7 @@ import {
   IconArrowR,
   IconClock,
   IconPlay,
+  IconFilm,
   IconStar,
   IconEye,
   IconEyeOff,
@@ -19,13 +20,33 @@ import {
 import Slideshow from "./Slideshow";
 import RetellLab from "./RetellLab";
 import { episodePdfName, seasonPdfName } from "../lib/filename";
+import vocabMetaData from "../lib/vocab-meta.json";
 import { useRetell } from "../lib/progress";
-import { speakLine, stopSpeak as stopTts, warmAudio } from "../lib/tts";
+import { EVENT, track } from "../lib/track";
+import { keysOf, playClip, speakLine, stopSpeak as stopTts, warmAudio } from "../lib/tts";
+
+// 默认用朵拉的汇总表；佩奇单集会传自己的
+const doraVocabMeta = vocabMetaData;
 
 const A4W = 793.7; // 210mm @96dpi
 const A4H = 1122.5; // 297mm @96dpi
 
-export default function NineGrid({ lesson, prev, next, seasonPdf }) {
+export default function NineGrid({
+  lesson,
+  prev,
+  next,
+  seasonPdf,
+  // 多剧集：佩奇页传 seriesName="Peppa Pig" / basePath="/peppa"
+  seriesName = "Dora the Explorer",
+  basePath = "",
+  // 面包屑返回哪一页：站点层级是 首页(选剧集)→剧集页(选季)→季列表→单集，
+  // 所以朵拉单集的「返回」指向 /dora/ 而不是根路径。
+  homeHref = "",
+  homeLabel = "全部剧集",
+  // 词汇量汇总表：朵拉 / 佩奇各一份，卡片里「全剧累计词量」要用对应剧集的数
+  seriesVocabMeta = doraVocabMeta,
+  seriesVocabLabel = "全剧累计词量",
+}) {
   const stageRef = useRef(null);
   const paperRef = useRef(null);
   const cancelRef = useRef(false);
@@ -33,11 +54,39 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
   const [speakingWord, setSpeakingWord] = useState(-1);
   const [busy, setBusy] = useState(false);
   const [canSpeak, setCanSpeak] = useState(false);
+  const [clipKeys, setClipKeys] = useState(null); // 本集可用的原声片段 o1..o9
   const [deckAt, setDeckAt] = useState(-1); // -1 = 未打开；数字 = 从第几页开始
   const [store, api] = useRetell();
   const blind = !!store.settings.blind;
   const rate = store.settings.rate || 1;
   const stars = store.stars[lesson.id] || {};
+  // 问答式九宫格（小猪佩奇）：每格「问句 + 答句」，底部是复述小帮手
+  const qa = !!lesson.qa;
+  const helper = lesson.helper || null;
+
+  /* ---------- 听力词汇总量 → 本集能听懂多少 ---------- */
+  // 孩子在设置里填一个「已掌握听力词汇总量」，全站所有剧集都按这个数换算。
+  const MY_DEFAULT = 800;
+  const myLevel =
+    Number(store.settings.level) >= 200 ? Number(store.settings.level) : MY_DEFAULT;
+  // 曲线数组按 100,200,...,5000 排；取最接近的一档
+  const covAt = (arr, n) =>
+    arr ? arr[Math.max(0, Math.min(arr.length - 1, Math.round(n / 100) - 1))] : null;
+  const voc = lesson.vocab;
+  const myHit = voc ? covAt(voc.curve, myLevel) ?? Math.round(voc.cov1k) : 0;
+  const maxHit = voc
+    ? voc.curve
+      ? voc.curve[voc.curve.length - 1]
+      : Math.round(voc.cov5k)
+    : 0;
+  const hitTip =
+    myHit >= 86
+      ? "画面加上反复出现的固定句式，基本能自己看懂。"
+      : myHit >= 80
+        ? "能懂大半，偶尔停下来猜一下，家长在旁边点一句画面就行。"
+        : myHit >= 72
+          ? "跟着画面能抓住主线，家长先陪看一遍、讲 3–5 个关键词就够。"
+          : "台词会明显听不懂，建议先看画面版，或家长逐句讲。"
 
   /* ---------- 打开播放器（顺带支持 ?play=1 直接播） ---------- */
   const openDeck = useCallback(
@@ -49,9 +98,15 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
         setBusy(false);
       }
       setDeckAt(at);
+      track(EVENT.DECK_OPEN, { lesson_id: lesson.id, start: at });
     },
-    [busy]
+    [busy, lesson.id]
   );
+
+  /* ---------- 进集即记一笔（含来源） ---------- */
+  useEffect(() => {
+    track(EVENT.LESSON_OPEN, { lesson_id: lesson.id, season: lesson.season });
+  }, [lesson.id, lesson.season]);
 
   useEffect(() => {
     if (typeof window === "undefined") return;
@@ -92,14 +147,22 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
     if (typeof window === "undefined") return;
     warmAudio();
     setCanSpeak(true);
-    return () => stopTts();
-  }, []);
+    let alive = true;
+    keysOf(lesson.id).then((s) => {
+      if (alive) setClipKeys(s);
+    });
+    return () => {
+      alive = false;
+      stopTts();
+    };
+  }, [lesson.id]);
 
   const speakOne = useCallback(
     (text, no) => {
       if (!canSpeak) return;
       cancelRef.current = true; // 打断连读
       setSpeaking(typeof no === "number" ? no : 0);
+      track(EVENT.TTS_LINE, { lesson_id: lesson.id, cell: typeof no === "number" ? no : undefined });
       speakLine({
         lessonId: lesson.id,
         key: typeof no === "number" ? `c${no}` : no,
@@ -114,10 +177,30 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
     [canSpeak, lesson.id, rate]
   );
 
+  /* 听原声：播这一格在原片里的那一小段 */
+  const playOrig = useCallback(
+    (no) => {
+      cancelRef.current = true;
+      setSpeakingWord(-1);
+      setSpeaking(no);
+      track(EVENT.CLIP_PLAY, { lesson_id: lesson.id, cell: no });
+      playClip({
+        lessonId: lesson.id,
+        key: `o${no}`,
+        rate,
+        onEnd: () => setSpeaking(0),
+      }).then((ok) => {
+        if (!ok) setSpeaking(0);
+      });
+    },
+    [lesson.id, rate]
+  );
+
   const speakAll = useCallback(async () => {
     if (!canSpeak || busy) return;
     cancelRef.current = false;
     setBusy(true);
+    track(EVENT.TTS_ALL, { lesson_id: lesson.id });
 
     for (let i = 0; i < lesson.cells.length; i++) {
       if (cancelRef.current) break;
@@ -142,6 +225,7 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
   /* ---------- 打印 ---------- */
   const doPrint = () => {
     if (busy) stopAll();
+    track(EVENT.PRINT, { lesson_id: lesson.id });
     window.print();
   };
 
@@ -149,9 +233,9 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
     <>
       <div className="wrap">
         <div className="crumb no-print">
-          <Link href="/">
+          <Link href={homeHref || basePath || "/dora/"}>
             <span style={{ display: "inline-flex", alignItems: "center", gap: 4 }}>
-              <IconBack /> 全部剧集
+              <IconBack /> {homeLabel}
             </span>
           </Link>
           <span>/</span>
@@ -198,6 +282,7 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
               className="btn"
               href={lesson.pdf}
               download={episodePdfName(lesson)}
+              onClick={() => track(EVENT.DOWNLOAD_PDF, { lesson_id: lesson.id, kind: "episode" })}
               title={`下载后文件名：${episodePdfName(lesson)}`}
             >
               <IconDownload /> 下载本集 PDF
@@ -208,6 +293,13 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
               className="btn ghost"
               href={seasonPdf.url}
               download={seasonPdfName(lesson.season, seasonPdf.episodes)}
+              onClick={() =>
+                track(EVENT.DOWNLOAD_PDF, {
+                  lesson_id: lesson.id,
+                  kind: "season",
+                  season: lesson.season,
+                })
+              }
               title={`把 Season ${lesson.season} 全部 ${seasonPdf.episodes} 集合成一个 PDF`}
             >
               <IconDownload /> 整季 PDF（{seasonPdf.episodes} 集）
@@ -226,43 +318,213 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
 
           <div className="pager">
             {prev ? (
-              <Link href={`/lesson/${prev.id}/`}>
+              <Link href={`${basePath}/lesson/${prev.id}/`}>
                 <IconArrowL /> 上一集
               </Link>
             ) : (
               <span />
             )}
             {next && (
-              <Link href={`/lesson/${next.id}/`}>
+              <Link href={`${basePath}/lesson/${next.id}/`}>
                 下一集 <IconArrowR />
               </Link>
             )}
           </div>
         </div>
+
+        {voc && (
+          <div className="vc-card no-print">
+            <div className="vc-top">
+              <b>本集听力词汇量</b>
+              <span>
+                {Math.round(voc.min)} 分钟 · 整集对白统计 · 含主题曲
+              </span>
+            </div>
+
+            <div className="vc-nums">
+              <div className="vc-n">
+                <b>{voc.lemmas}</b>
+                <span>本集用了多少个词</span>
+              </div>
+              <div className="vc-n">
+                <b>{voc.running.toLocaleString("en-US")}</b>
+                <span>一共说出口的词</span>
+              </div>
+              <div className="vc-n">
+                <b>{Math.round(voc.wpm)}</b>
+                <span>语速（词/分钟）</span>
+              </div>
+              <div className="vc-n">
+                <b>{seriesVocabMeta.series_cum_lemmas.toLocaleString("en-US")}</b>
+                <span>{seriesVocabLabel}</span>
+              </div>
+            </div>
+
+            <div className="vc-ask">
+              <div className="vc-ask-top">
+                <span>你孩子的听力词汇总量</span>
+                <b>
+                  {myLevel} <i>词</i>
+                </b>
+              </div>
+              <input
+                type="range"
+                min="200"
+                max="5000"
+                step="100"
+                value={myLevel}
+                onChange={(e) => api.setSetting("level", Number(e.target.value))}
+                style={{ "--p": `${((myLevel - 200) / 4800) * 100}%` }}
+                aria-label="孩子的听力词汇总量"
+              />
+              <div className="vc-scale">
+                <span>200</span>
+                <span>1500</span>
+                <span>3000</span>
+                <span>5000</span>
+              </div>
+              <p className="vc-hint">
+                不知道该填多少？零基础约 300，能听懂日常指令约 800，能看简单动画约
+                2000（经验值，供参考）
+              </p>
+            </div>
+
+            <div className="vc-res">
+              <div className="vc-res-n">
+                <b>{myHit}%</b>
+                <span>这一集能听懂</span>
+              </div>
+              <div className="vc-res-t">
+                {hitTip}
+                <em>
+                  词量再往上加收益很小——即使 5000 词也只有 {maxHit}%，
+                  剩下那部分靠画面和情境补。
+                </em>
+                {voc.need90 > 0 && voc.need90 <= 5000 && (
+                  <em>词汇量到 {voc.need90} 词时，这一集能懂 90%。</em>
+                )}
+              </div>
+            </div>
+          </div>
+        )}
       </div>
 
       <div className="wrap stage">
         <div className="stage-inner" ref={stageRef}>
-          <div className="paper" ref={paperRef}>
-            <div className="p-head">
-              <div className="p-head-l">
-                <div className="p-badge">3x3</div>
-                <div>
-                  <div className="p-t1">
-                    Dora the Explorer · <em>“{lesson.title}”</em>
-                  </div>
-                  <div className="p-t2">
-                    Season {lesson.season} · Episode {lesson.episode} &nbsp;|&nbsp;
-                    看动画 · 说英语 · 九步复述
-                  </div>
+          <div className={`paper ${lesson.wide ? "wide" : ""} ${qa ? "qa" : ""}`} ref={paperRef}>
+            {qa ? (
+              <div className="qa-head">
+                <div className="qa-brand">{seriesName}</div>
+                <div className="qa-ep">
+                  Episode {lesson.episode}: {lesson.title}
+                </div>
+                <div className="qa-banner">九宫格故事复述</div>
+                <div className="qa-head-r">
+                  <span className="qa-season">Season {lesson.season}</span>
+                  <span className="qa-name">
+                    姓名 Name <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
+                  </span>
                 </div>
               </div>
-              <div className="p-head-r">
-                <div className="k">姓名 Name</div>
-                <div className="v">____________</div>
+            ) : (
+              <div className="p-head">
+                <div className="p-head-l">
+                  <div className="p-badge">3x3</div>
+                  <div>
+                    <div className="p-t1">
+                      {seriesName} · <em>“{lesson.title}”</em>
+                    </div>
+                    <div className="p-t2">
+                      Season {lesson.season} · Episode {lesson.episode} &nbsp;|&nbsp;
+                      看动画 · 说英语 · 九步复述
+                    </div>
+                  </div>
+                </div>
+                <div className="p-head-r">
+                  <div className="k">姓名 Name</div>
+                  <div className="v">____________</div>
+                </div>
               </div>
-            </div>
+            )}
 
+            {qa ? (
+              <div className="qa-grid">
+                {lesson.cells.map((c) => (
+                  <div
+                    key={c.no}
+                    className={`qa-cell c${c.no} ${speaking === c.no ? "reading" : ""}`}
+                  >
+                    <div className="qa-t">
+                      <b>{c.no}</b>
+                      <span>{c.t}</span>
+                    </div>
+                    <div
+                      className="qa-pic"
+                      onClick={(e) => {
+                        if (e.target.closest("button")) return;
+                        openDeck(c.no);
+                      }}
+                      title="放大播放这一页"
+                    >
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img src={c.img} alt={c.t} />
+                      {stars[c.no] ? (
+                        <span className="cell-st no-print" title="这格已经自测过">
+                          <IconStar />
+                          {stars[c.no]}
+                        </span>
+                      ) : null}
+                      <span className="cell-play" aria-hidden="true">
+                        <IconPlay width={13} height={13} />
+                      </span>
+                      <div className="cell-tools">
+                        <span className="tool-chip">
+                          <IconClock /> {c.time}
+                        </span>
+                        {canSpeak && (
+                          <button
+                            className={`tool-chip ${speaking === c.no ? "speaking" : ""}`}
+                            onClick={() => speakOne(c.a, c.no)}
+                            title="朗读答句"
+                          >
+                            <IconSpeak width={11} height={11} /> 读
+                          </button>
+                        )}
+                        {canSpeak && (
+                          <button
+                            className={`tool-chip ${speaking === c.no ? "speaking" : ""}`}
+                            onClick={() => speakOne(c.q, `q${c.no}`)}
+                            title="朗读问句"
+                          >
+                            <IconSpeak width={11} height={11} /> 问
+                          </button>
+                        )}
+                        {clipKeys?.has(`o${c.no}`) && (
+                          <button
+                            className={`tool-chip ${speaking === c.no ? "speaking" : ""}`}
+                            onClick={() => playOrig(c.no)}
+                            title="听这一句在动画片里的原声"
+                          >
+                            <IconFilm width={11} height={11} /> 原声
+                          </button>
+                        )}
+                      </div>
+                    </div>
+                    <div className="qa-body">
+                      <p className="qa-q">
+                        <span className="qa-tag">问</span>
+                        {c.q}
+                      </p>
+                      <p className="qa-a">
+                        <span className="qa-tag">说</span>
+                        {c.a}
+                      </p>
+                      {c.cn && <p className="qa-cn">{c.cn}</p>}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            ) : (
             <div className="p-grid">
               {lesson.cells.map((c) => (
                 <div
@@ -302,6 +564,15 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
                           <IconSpeak width={11} height={11} /> 读
                         </button>
                       )}
+                      {clipKeys?.has(`o${c.no}`) && (
+                        <button
+                          className={`tool-chip ${speaking === c.no ? "speaking" : ""}`}
+                          onClick={() => playOrig(c.no)}
+                          title="听这一句在动画片里的原声"
+                        >
+                          <IconFilm width={11} height={11} /> 原声
+                        </button>
+                      )}
                     </div>
                   </div>
                   <div className="cell-body">
@@ -312,7 +583,34 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
                 </div>
               ))}
             </div>
+            )}
 
+            {qa ? (
+              <div className="qa-foot">
+                <div className="qa-help">
+                  <div className="qa-h h1">
+                    <b>顺序词</b>
+                    <p>{helper?.order || "First / Next / Then / After that / Finally"}</p>
+                  </div>
+                  <div className="qa-h h2">
+                    <b>关键词</b>
+                    <p>{helper?.keywords || ""}</p>
+                  </div>
+                  <div className="qa-h h3">
+                    <b>动作词</b>
+                    <p>{helper?.actions || ""}</p>
+                  </div>
+                </div>
+                <div className="qa-self">
+                  <span>
+                    自评：我能说 <span className="qa-stars">☆☆☆</span> 3 / 6 / 9 句
+                  </span>
+                  <span className="qa-sign">
+                    家长签字 <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
+                  </span>
+                </div>
+              </div>
+            ) : (
             <div className="p-foot">
               <div className="p-box">
                 <h3>
@@ -367,12 +665,14 @@ export default function NineGrid({ lesson, prev, next, seasonPdf }) {
                 </div>
               </div>
             </div>
+            )}
           </div>
         </div>
       </div>
 
       <RetellLab
         lesson={lesson}
+        who={seriesName === "Peppa Pig" ? "Peppa and George" : "Dora and Boots"}
         onPlay={() => openDeck(1)}
         onPractice={() => {
           api.setSetting("blind", true);
