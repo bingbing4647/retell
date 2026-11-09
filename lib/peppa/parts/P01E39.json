@@ -1,0 +1,124 @@
+{
+ "id": "P01E39",
+ "season": 1,
+ "episode": 39,
+ "title": "The Museum",
+ "titleCn": "博物馆",
+ "hook": "一家人去博物馆，看了女王的东西和真的恐龙骨头，每个人喜欢的房间都不一样。",
+ "cover": "/img/p01e39/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:22",
+   "img": "/img/p01e39/f1.jpg",
+   "t": "To the Museum",
+   "q": "Where is the family going?",
+   "a": "They are going to the museum to see things that are old.",
+   "cn": "他们去博物馆看古老的东西。",
+   "key": "museum · going"
+  },
+  {
+   "no": 2,
+   "time": "00:50",
+   "img": "/img/p01e39/f2.jpg",
+   "t": "A Real Dinosaur",
+   "q": "What is in the other room?",
+   "a": "There is another room with a real dinosaur in it.",
+   "cn": "另一个房间里有一只真的恐龙。",
+   "key": "another room · dinosaur"
+  },
+  {
+   "no": 3,
+   "time": "01:34",
+   "img": "/img/p01e39/f3.jpg",
+   "t": "The Queen's Things",
+   "q": "Whose things are in this room?",
+   "a": "They are all the things the queen had long ago.",
+   "cn": "这些都是女王很久以前用过的东西。",
+   "key": "queen · long ago"
+  },
+  {
+   "no": 4,
+   "time": "01:47",
+   "img": "/img/p01e39/f4.jpg",
+   "t": "The Queen's Dress",
+   "q": "What did they show Peppa?",
+   "a": "They showed her the queen's dress and golden crown.",
+   "cn": "他们给她看女王的裙子和金王冠。",
+   "key": "queen's dress · crown"
+  },
+  {
+   "no": 5,
+   "time": "02:39",
+   "img": "/img/p01e39/f5.jpg",
+   "t": "Queen Peppa",
+   "q": "What is Peppa imagining?",
+   "a": "She is imagining that she is a queen with a servant.",
+   "cn": "她在想象自己是个有仆人的女王。",
+   "key": "imagining · Queen Peppa"
+  },
+  {
+   "no": 6,
+   "time": "03:02",
+   "img": "/img/p01e39/f6.jpg",
+   "t": "And What Do You Do?",
+   "q": "What did Peppa ask in the museum?",
+   "a": "She asked what room it is and what people do there.",
+   "cn": "她问这是哪个房间、人们在里面做什么。",
+   "key": "asked · room"
+  },
+  {
+   "no": 7,
+   "time": "03:17",
+   "img": "/img/p01e39/f7.jpg",
+   "t": "The Dinosaur Room",
+   "q": "Which room did they find?",
+   "a": "They found the dinosaur room with real dinosaur bones.",
+   "cn": "他们找到了摆着真恐龙骨头的恐龙厅。",
+   "key": "dinosaur room · bones"
+  },
+  {
+   "no": 8,
+   "time": "04:11",
+   "img": "/img/p01e39/f8.jpg",
+   "t": "George's Favourite Room",
+   "q": "What is George's favourite room?",
+   "a": "The dinosaur room is George's favourite room in the museum.",
+   "cn": "恐龙厅是乔治最喜欢的房间。",
+   "key": "favourite · dinosaur room"
+  },
+  {
+   "no": 9,
+   "time": "04:29",
+   "img": "/img/p01e39/f9.jpg",
+   "t": "The Museum Cafe",
+   "q": "What is Daddy Pig's favourite room?",
+   "a": "The museum cafe, because he likes cake and tea.",
+   "cn": "博物馆的咖啡厅，因为他喜欢蛋糕和茶。",
+   "key": "cafe · favourite"
+  }
+ ],
+ "words": [
+  ["museum", "博物馆"],
+  ["queen", "女王"],
+  ["king", "国王"],
+  ["crown", "王冠"],
+  ["dress", "裙子"],
+  ["dinosaur", "恐龙"],
+  ["bones", "骨头"],
+  ["room", "房间"],
+  ["old", "古老的"],
+  ["cafe", "咖啡厅"],
+  ["favourite", "最喜欢的"],
+  ["golden", "金色的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "museum, queen, crown, dinosaur, bones, cafe",
+  "actions": "go, look, imagine, find, ask, eat"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “The Museum”.",
+ "ending": "In the end, Daddy Pig likes the museum cafe best. My favourite part is ______."
+}

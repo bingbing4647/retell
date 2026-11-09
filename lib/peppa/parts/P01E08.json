@@ -1,0 +1,124 @@
+{
+ "id": "P01E08",
+ "season": 1,
+ "episode": 8,
+ "title": "Piggy in the Middle",
+ "titleCn": "中间的猪",
+ "hook": "George 扔球总被妈妈拦下，Peppa 笑得停不下来，直到妈妈说：别这样逗弟弟。",
+ "cover": "/img/p01e08/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:29",
+   "img": "/img/p01e08/f1.jpg",
+   "t": "A Ball in the Garden",
+   "q": "What was George doing?",
+   "a": "He was playing with his ball in the garden.",
+   "cn": "他在花园里玩球。",
+   "key": "ball · garden"
+  },
+  {
+   "no": 2,
+   "time": "01:05",
+   "img": "/img/p01e08/f2.jpg",
+   "t": "Cheeky Peppa",
+   "q": "What did Peppa do to George?",
+   "a": "She took his ball and threw it away. She was cheeky.",
+   "cn": "她抢过球扔走，很调皮。",
+   "key": "cheeky · throw"
+  },
+  {
+   "no": 3,
+   "time": "02:03",
+   "img": "/img/p01e08/f3.jpg",
+   "t": "Mummy in the Middle",
+   "q": "Who was the piggy in the middle?",
+   "a": "Mummy Pig was. She stood between Peppa and George.",
+   "cn": "是猪妈妈，她站在两个孩子中间。",
+   "key": "middle · between"
+  },
+  {
+   "no": 4,
+   "time": "02:18",
+   "img": "/img/p01e08/f4.jpg",
+   "t": "Throw It to Peppa",
+   "q": "What did Mummy Pig tell George?",
+   "a": "She told him to throw the ball to Peppa.",
+   "cn": "她让 George 把球扔给 Peppa。",
+   "key": "throw · ball"
+  },
+  {
+   "no": 5,
+   "time": "02:30",
+   "img": "/img/p01e08/f5.jpg",
+   "t": "Too High for George",
+   "q": "Could George throw the ball past Mummy?",
+   "a": "No, he could not throw it past Mummy Pig.",
+   "cn": "不能，他扔不过妈妈。",
+   "key": "past · cannot"
+  },
+  {
+   "no": 6,
+   "time": "03:09",
+   "img": "/img/p01e08/f6.jpg",
+   "t": "You're the Piggy",
+   "q": "Who became the piggy next?",
+   "a": "George did. Mummy caught the ball and said, “You're the piggy!”",
+   "cn": "轮到 George 了，妈妈接住球这么说。",
+   "key": "catch · piggy"
+  },
+  {
+   "no": 7,
+   "time": "03:39",
+   "img": "/img/p01e08/f7.jpg",
+   "t": "Don't Tease Him",
+   "q": "What did Mummy Pig tell Peppa?",
+   "a": "She said, “Peppa, you shouldn't tease George like that.”",
+   "cn": "她说：“Peppa，不该这样取笑弟弟。”",
+   "key": "tease · shouldn't"
+  },
+  {
+   "no": 8,
+   "time": "04:07",
+   "img": "/img/p01e08/f8.jpg",
+   "t": "A Helping Hand",
+   "q": "What did Daddy Pig say?",
+   "a": "He said he just gave George a helping hand.",
+   "cn": "他说自己只是帮了 George 一把。",
+   "key": "helping hand · give"
+  },
+  {
+   "no": 9,
+   "time": "04:29",
+   "img": "/img/p01e08/f9.jpg",
+   "t": "Peppa Catches It",
+   "q": "What does Peppa love doing?",
+   "a": "She loves catching the ball and playing together.",
+   "cn": "她喜欢接球，也喜欢一起玩。",
+   "key": "catch · together"
+  }
+ ],
+ "words": [
+  ["ball", "球"],
+  ["garden", "花园"],
+  ["cheeky", "调皮的"],
+  ["throw", "扔"],
+  ["middle", "中间"],
+  ["between", "在……之间"],
+  ["past", "越过"],
+  ["catch", "接住"],
+  ["tease", "取笑"],
+  ["helping hand", "帮忙"],
+  ["together", "一起"],
+  ["shouldn't", "不应该"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "ball, garden, middle, throw, catch, tease",
+  "actions": "play, throw, catch, stand, tease, help"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Piggy in the Middle”.",
+ "ending": "In the end, Peppa and George play the ball game together. My favourite part is ______."
+}

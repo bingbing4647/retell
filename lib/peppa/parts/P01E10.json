@@ -1,0 +1,124 @@
+{
+ "id": "P01E10",
+ "season": 1,
+ "episode": 10,
+ "title": "Gardening",
+ "titleCn": "种菜",
+ "hook": "爷爷在菜园里种东西，Peppa 也想种一颗种子，还要和 George 抢着浇水。",
+ "cover": "/img/p01e10/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:23",
+   "img": "/img/p01e10/f1.jpg",
+   "t": "At Granny's House",
+   "q": "Where were Peppa and George playing?",
+   "a": "They were playing at Granny Pig and Grandpa Pig's house.",
+   "cn": "他们在爷爷奶奶家玩。",
+   "key": "playing · house"
+  },
+  {
+   "no": 2,
+   "time": "00:52",
+   "img": "/img/p01e10/f2.jpg",
+   "t": "What Do Seeds Do",
+   "q": "What did Peppa ask about seeds?",
+   "a": "She asked, “Seeds? What do seeds do?”",
+   "cn": "她问：“种子？种子能做什么？”",
+   "key": "seed · ask"
+  },
+  {
+   "no": 3,
+   "time": "01:24",
+   "img": "/img/p01e10/f3.jpg",
+   "t": "A Little Apple Tree",
+   "q": "What will the little apple tree do?",
+   "a": "It will grow into a big apple tree like this one.",
+   "cn": "它会长成一棵这样的大苹果树。",
+   "key": "grow · apple tree"
+  },
+  {
+   "no": 4,
+   "time": "01:49",
+   "img": "/img/p01e10/f4.jpg",
+   "t": "I Want to Plant",
+   "q": "What did Peppa want to do?",
+   "a": "She wanted to plant a seed in the garden.",
+   "cn": "她想在花园里种一颗种子。",
+   "key": "plant · seed"
+  },
+  {
+   "no": 5,
+   "time": "02:13",
+   "img": "/img/p01e10/f5.jpg",
+   "t": "Let Me Water It",
+   "q": "What did George and Peppa argue about?",
+   "a": "They both wanted to water the seed.",
+   "cn": "两个人都想给种子浇水。",
+   "key": "water · both"
+  },
+  {
+   "no": 6,
+   "time": "02:50",
+   "img": "/img/p01e10/f6.jpg",
+   "t": "It Will Grow",
+   "q": "What did Grandpa Pig say?",
+   "a": "He said the seed will grow into a plant next time.",
+   "cn": "他说下次来，种子就长成小苗了。",
+   "key": "grow · plant"
+  },
+  {
+   "no": 7,
+   "time": "03:34",
+   "img": "/img/p01e10/f7.jpg",
+   "t": "Back Again",
+   "q": "Why did they come back?",
+   "a": "They came back to play and see the little plant.",
+   "cn": "他们又来玩，也想看看那棵小苗。",
+   "key": "come back · plant"
+  },
+  {
+   "no": 8,
+   "time": "03:53",
+   "img": "/img/p01e10/f8.jpg",
+   "t": "Plant Something Else",
+   "q": "What did Peppa ask Grandpa?",
+   "a": "She asked, “Can we plant something else?”",
+   "cn": "她问：“我们还能种点别的吗？”",
+   "key": "plant · else"
+  },
+  {
+   "no": 9,
+   "time": "04:15",
+   "img": "/img/p01e10/f9.jpg",
+   "t": "What to Grow",
+   "q": "What did Grandpa Pig ask Peppa?",
+   "a": "He asked, “What would you like to grow?”",
+   "cn": "他问：“你想种点什么呢？”",
+   "key": "grow · like"
+  }
+ ],
+ "words": [
+  ["garden", "花园"],
+  ["seed", "种子"],
+  ["plant", "种；植物"],
+  ["grow", "生长"],
+  ["water", "浇水"],
+  ["apple tree", "苹果树"],
+  ["grandpa", "爷爷"],
+  ["hole", "坑"],
+  ["small", "小的"],
+  ["big", "大的"],
+  ["else", "别的"],
+  ["next time", "下次"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "garden, seed, plant, grow, water, apple tree",
+  "actions": "plant, water, grow, dig, ask, come back"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Gardening”.",
+ "ending": "In the end, Grandpa Pig asks what Peppa would like to grow. My favourite part is ______."
+}

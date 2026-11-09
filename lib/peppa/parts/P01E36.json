@@ -1,0 +1,124 @@
+{
+ "id": "P01E36",
+ "season": 1,
+ "episode": 36,
+ "title": "The Sleepy Princess",
+ "titleCn": "爱睡觉的公主",
+ "hook": "睡前猪爸爸讲一个公主的故事，讲着讲着，听故事的人先睡着了。",
+ "cover": "/img/p01e36/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:24",
+   "img": "/img/p01e36/f1.jpg",
+   "t": "Time for Bed",
+   "q": "What are Peppa and George doing?",
+   "a": "They are going to bed and they want a story.",
+   "cn": "他们要睡觉了，还想听个故事。",
+   "key": "bed · story"
+  },
+  {
+   "no": 2,
+   "time": "00:42",
+   "img": "/img/p01e36/f2.jpg",
+   "t": "Say Yes!",
+   "q": "What did Peppa ask George?",
+   "a": "She asked if he wants a story and told him to say yes.",
+   "cn": "她问乔治要不要听故事，还让他快说“要”。",
+   "key": "story · yes"
+  },
+  {
+   "no": 3,
+   "time": "01:14",
+   "img": "/img/p01e36/f3.jpg",
+   "t": "A Little Princess",
+   "q": "What did Peppa want the story to have?",
+   "a": "She wanted a story with a little princess in it.",
+   "cn": "她想要一个有公主的故事。",
+   "key": "little princess · in it"
+  },
+  {
+   "no": 4,
+   "time": "01:46",
+   "img": "/img/p01e36/f4.jpg",
+   "t": "The Sleepy Princess",
+   "q": "What was the princess called?",
+   "a": "She was called the Sleepy Princess.",
+   "cn": "大家叫她“爱睡觉的公主”。",
+   "key": "called · Sleepy Princess"
+  },
+  {
+   "no": 5,
+   "time": "02:06",
+   "img": "/img/p01e36/f5.jpg",
+   "t": "Who Lives in the Castle?",
+   "q": "What did Peppa ask about the castle?",
+   "a": "She asked who else was living in the castle.",
+   "cn": "她问城堡里还住着谁。",
+   "key": "living · castle"
+  },
+  {
+   "no": 6,
+   "time": "02:37",
+   "img": "/img/p01e36/f6.jpg",
+   "t": "Not a Dragon",
+   "q": "What was living outside the castle?",
+   "a": "It was not a dragon. It was a huge dinosaur!",
+   "cn": "不是龙，而是一只大恐龙！",
+   "key": "dragon · dinosaur"
+  },
+  {
+   "no": 7,
+   "time": "02:59",
+   "img": "/img/p01e36/f7.jpg",
+   "t": "Very Gentle",
+   "q": "Was the dinosaur fierce?",
+   "a": "No, Daddy Pig says the dinosaur was very gentle.",
+   "cn": "不，猪爸爸说这只恐龙很温和。",
+   "key": "gentle · dinosaur"
+  },
+  {
+   "no": 8,
+   "time": "03:38",
+   "img": "/img/p01e36/f8.jpg",
+   "t": "The Sleepiest of All",
+   "q": "Who was the sleepiest of all?",
+   "a": "The Sleepy Princess was the most sleepy of all.",
+   "cn": "爱睡觉的公主是最困的那一个。",
+   "key": "most sleepy · princess"
+  },
+  {
+   "no": 9,
+   "time": "04:03",
+   "img": "/img/p01e36/f9.jpg",
+   "t": "Fast Asleep",
+   "q": "What happened at the end of the story?",
+   "a": "The princess fell fast asleep, and so did Peppa and George.",
+   "cn": "公主睡着了，佩奇和乔治也睡着了。",
+   "key": "asleep · end"
+  }
+ ],
+ "words": [
+  ["sleepy", "困的"],
+  ["princess", "公主"],
+  ["story", "故事"],
+  ["castle", "城堡"],
+  ["king", "国王"],
+  ["queen", "王后"],
+  ["dragon", "龙"],
+  ["dinosaur", "恐龙"],
+  ["gentle", "温和的"],
+  ["fierce", "凶猛的"],
+  ["mirror", "镜子"],
+  ["asleep", "睡着的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "bed, story, princess, castle, dinosaur, asleep",
+  "actions": "tell, ask, live, roar, sleep, dream"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “The Sleepy Princess”.",
+ "ending": "In the end, everyone is fast asleep. My favourite part is ______."
+}

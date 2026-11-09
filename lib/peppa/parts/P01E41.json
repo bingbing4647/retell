@@ -1,0 +1,124 @@
+{
+ "id": "P01E41",
+ "season": 1,
+ "episode": 41,
+ "title": "Chloe's Puppet Show",
+ "titleCn": "克洛伊的木偶戏",
+ "hook": "去叔叔家做客，克洛伊有个新木偶剧场，三个孩子做木偶演了一出戏，还学叔叔打呼。",
+ "cover": "/img/p01e41/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:24",
+   "img": "/img/p01e41/f1.jpg",
+   "t": "Uncle Pig Falls Asleep",
+   "q": "What does Daddy Pig expect Uncle Pig to do?",
+   "a": "He expects his brother to fall asleep after lunch.",
+   "cn": "他猜哥哥吃完午饭一定会睡着。",
+   "key": "fall asleep · Uncle Pig"
+  },
+  {
+   "no": 2,
+   "time": "00:55",
+   "img": "/img/p01e41/f2.jpg",
+   "t": "At Uncle Pig's House",
+   "q": "Where has the family arrived?",
+   "a": "They have arrived at Uncle Pig and Aunty Pig's house.",
+   "cn": "他们到了猪叔叔和猪婶婶家。",
+   "key": "arrived · house"
+  },
+  {
+   "no": 3,
+   "time": "01:12",
+   "img": "/img/p01e41/f3.jpg",
+   "t": "A Puppet Theatre",
+   "q": "What did Chloe want to show them?",
+   "a": "She wanted to show them her new puppet theatre.",
+   "cn": "她想给他们看她的新木偶剧场。",
+   "key": "show · puppet"
+  },
+  {
+   "no": 4,
+   "time": "01:47",
+   "img": "/img/p01e41/f4.jpg",
+   "t": "Can We Make Puppets?",
+   "q": "What did Peppa ask Chloe?",
+   "a": "She asked if she and George can make puppets too.",
+   "cn": "她问她和乔治是不是也能做木偶。",
+   "key": "make puppets · too"
+  },
+  {
+   "no": 5,
+   "time": "02:17",
+   "img": "/img/p01e41/f5.jpg",
+   "t": "A Dinosaur Puppet",
+   "q": "What puppet is Chloe making for George?",
+   "a": "She is making him a dinosaur puppet to play with.",
+   "cn": "她在给他做一只恐龙木偶。",
+   "key": "dinosaur puppet · making"
+  },
+  {
+   "no": 6,
+   "time": "02:37",
+   "img": "/img/p01e41/f6.jpg",
+   "t": "Spaghetti for Lunch",
+   "q": "What is for lunch?",
+   "a": "Aunty Pig has made spaghetti for everyone's lunch.",
+   "cn": "猪婶婶给大家做了意大利面当午餐。",
+   "key": "spaghetti · lunch"
+  },
+  {
+   "no": 7,
+   "time": "03:10",
+   "img": "/img/p01e41/f7.jpg",
+   "t": "Some More Spaghetti",
+   "q": "What did Uncle Pig want to know?",
+   "a": "He wanted to know if he has time for more spaghetti.",
+   "cn": "他想知道还有没有时间再吃点面。",
+   "key": "more spaghetti · time"
+  },
+  {
+   "no": 8,
+   "time": "03:46",
+   "img": "/img/p01e41/f8.jpg",
+   "t": "It Looks Just Like You",
+   "q": "What did they say about the puppet?",
+   "a": "They said the puppet looks just like Uncle Pig.",
+   "cn": "他们说这只木偶像极了猪叔叔。",
+   "key": "looks just like · puppet"
+  },
+  {
+   "no": 9,
+   "time": "04:17",
+   "img": "/img/p01e41/f9.jpg",
+   "t": "I Do Snore Like This",
+   "q": "What does Uncle Pig admit at the show?",
+   "a": "He admits that he really does snore like that.",
+   "cn": "他承认自己打呼真的就是这样。",
+   "key": "snore · really"
+  }
+ ],
+ "words": [
+  ["puppet", "木偶"],
+  ["theatre", "剧场"],
+  ["show", "表演"],
+  ["uncle", "叔叔"],
+  ["spaghetti", "意大利面"],
+  ["snore", "打呼"],
+  ["asleep", "睡着的"],
+  ["mouth", "嘴"],
+  ["make", "制作"],
+  ["lunch", "午餐"],
+  ["brother", "兄弟"],
+  ["loudly", "大声地"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "puppet, theatre, show, uncle, spaghetti, snore",
+  "actions": "arrive, make, eat, perform, sleep, snore"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Chloe's Puppet Show”.",
+ "ending": "In the end, Uncle Pig really does snore. My favourite part is ______."
+}

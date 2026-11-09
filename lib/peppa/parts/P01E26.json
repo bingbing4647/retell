@@ -1,0 +1,124 @@
+{
+ "id": "P01E26",
+ "season": 1,
+ "episode": 26,
+ "title": "Snow",
+ "titleCn": "下雪了",
+ "hook": "外面下起了大雪，佩奇和乔治在雪地里踩脚印、打雪球，还堆了一个漂亮的大雪人。",
+ "cover": "/img/p01e26/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:27",
+   "img": "/img/p01e26/f1.jpg",
+   "t": "Very Excited",
+   "q": "Why are Peppa and George so excited?",
+   "a": "They are very excited because they can play in the snow.",
+   "cn": "他们特别兴奋，因为能去雪地里玩。",
+   "key": "excited · snow"
+  },
+  {
+   "no": 2,
+   "time": "00:46",
+   "img": "/img/p01e26/f2.jpg",
+   "t": "Very Cold Outside",
+   "q": "What is the weather like outside?",
+   "a": "It is very cold, so they must wrap up warm.",
+   "cn": "外面很冷，他们必须穿得暖暖的。",
+   "key": "cold · warm"
+  },
+  {
+   "no": 3,
+   "time": "01:40",
+   "img": "/img/p01e26/f3.jpg",
+   "t": "A Snowball",
+   "q": "What did Peppa make in the snow?",
+   "a": "She made a snowball to play with George.",
+   "cn": "她做了一个雪球，和乔治一起玩。",
+   "key": "snowball · made"
+  },
+  {
+   "no": 4,
+   "time": "02:23",
+   "img": "/img/p01e26/f4.jpg",
+   "t": "A Bit Too Rough",
+   "q": "What did Mummy Pig say about their game?",
+   "a": "She said this game is getting a little too rough.",
+   "cn": "她说这个游戏玩得有点太过火了。",
+   "key": "rough · game"
+  },
+  {
+   "no": 5,
+   "time": "02:42",
+   "img": "/img/p01e26/f5.jpg",
+   "t": "The Snowman's Body",
+   "q": "What are Peppa and George making?",
+   "a": "They are making a snowman, starting with the body.",
+   "cn": "他们在堆雪人，先从身体堆起。",
+   "key": "snowman · body"
+  },
+  {
+   "no": 6,
+   "time": "03:02",
+   "img": "/img/p01e26/f6.jpg",
+   "t": "Stones for Eyes",
+   "q": "What are the stones for?",
+   "a": "Peppa uses the stones for the snowman's eyes and mouth.",
+   "cn": "佩奇用石头做雪人的眼睛和嘴巴。",
+   "key": "stones · eyes"
+  },
+  {
+   "no": 7,
+   "time": "03:20",
+   "img": "/img/p01e26/f7.jpg",
+   "t": "Nice and Warm",
+   "q": "What did George find for the snowman?",
+   "a": "He found some clothes to keep the snowman nice and warm.",
+   "cn": "他找来一些衣服，让雪人暖暖的。",
+   "key": "clothes · warm"
+  },
+  {
+   "no": 8,
+   "time": "03:56",
+   "img": "/img/p01e26/f8.jpg",
+   "t": "The Best Snowman",
+   "q": "What did Daddy Pig think of the snowman?",
+   "a": "He said it is the best snowman he has ever seen.",
+   "cn": "他说这是他见过的最棒的雪人。",
+   "key": "best · snowman"
+  },
+  {
+   "no": 9,
+   "time": "04:18",
+   "img": "/img/p01e26/f9.jpg",
+   "t": "Where Are They?",
+   "q": "What couldn't Daddy Pig find?",
+   "a": "He couldn't find his hat, his scarf and his gloves.",
+   "cn": "他找不到自己的帽子、围巾和手套了。",
+   "key": "hat · scarf"
+  }
+ ],
+ "words": [
+  ["snow", "雪"],
+  ["excited", "兴奋的"],
+  ["cold", "寒冷的"],
+  ["warm", "暖和的"],
+  ["footprint", "脚印"],
+  ["snowball", "雪球"],
+  ["rough", "粗野的"],
+  ["snowman", "雪人"],
+  ["body", "身体"],
+  ["stone", "石头"],
+  ["scarf", "围巾"],
+  ["gloves", "手套"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "snow, cold, snowball, snowman, stones, clothes",
+  "actions": "play, make, throw, find, put on, wear"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Snow”.",
+ "ending": "In the end, the snowman is wearing Daddy's hat, scarf and gloves. My favourite part is ______."
+}

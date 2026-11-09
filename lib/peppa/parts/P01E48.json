@@ -1,0 +1,124 @@
+{
+ "id": "P01E48",
+ "season": 1,
+ "episode": 48,
+ "title": "Grandpa Pig's Boat",
+ "titleCn": "猪爷爷的小船",
+ "hook": "爷爷和狗爷爷开船比赛，谁也不肯让谁，最后一条船没油了，被另一条拖回家。",
+ "cover": "/img/p01e48/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:32",
+   "img": "/img/p01e48/f1.jpg",
+   "t": "Life-Jackets On",
+   "q": "What must they wear on the boat?",
+   "a": "They must wear life-jackets when they are on the boat.",
+   "cn": "上船必须穿救生衣。",
+   "key": "life-jackets · boat"
+  },
+  {
+   "no": 2,
+   "time": "00:51",
+   "img": "/img/p01e48/f2.jpg",
+   "t": "Captain Grandpa",
+   "q": "What is Grandpa Pig on the boat?",
+   "a": "He is the captain, and he never says anything silly.",
+   "cn": "他是船长，从来不说傻话。",
+   "key": "captain · silly"
+  },
+  {
+   "no": 3,
+   "time": "01:25",
+   "img": "/img/p01e48/f3.jpg",
+   "t": "A Little Slower",
+   "q": "What did Peppa ask Grandpa Pig?",
+   "a": "She asked him to go a little slower on the river.",
+   "cn": "她让他开慢一点。",
+   "key": "slower · river"
+  },
+  {
+   "no": 4,
+   "time": "02:00",
+   "img": "/img/p01e48/f4.jpg",
+   "t": "Best Friends",
+   "q": "Who is Granddad Dog?",
+   "a": "He is Grandpa Pig's very best friend.",
+   "cn": "他是猪爷爷最好的朋友。",
+   "key": "best friend · Granddad Dog"
+  },
+  {
+   "no": 5,
+   "time": "02:27",
+   "img": "/img/p01e48/f5.jpg",
+   "t": "Acting Like Children",
+   "q": "What did Granny Pig say to them?",
+   "a": "She said the two of them are acting like little children.",
+   "cn": "她说他们两个像小孩子一样。",
+   "key": "acting · little children"
+  },
+  {
+   "no": 6,
+   "time": "02:45",
+   "img": "/img/p01e48/f6.jpg",
+   "t": "He Is Your Best Friend",
+   "q": "What did Granny Pig remind Grandpa Pig?",
+   "a": "She reminded him that Granddad Dog is his best friend.",
+   "cn": "她提醒他狗爷爷可是他最好的朋友。",
+   "key": "best friend · reminded"
+  },
+  {
+   "no": 7,
+   "time": "03:18",
+   "img": "/img/p01e48/f7.jpg",
+   "t": "I Win!",
+   "q": "What happened to Grandpa Pig's boat?",
+   "a": "He says he wins, but his boat runs out of petrol.",
+   "cn": "他说自己赢了，可船却没油了。",
+   "key": "wins · petrol"
+  },
+  {
+   "no": 8,
+   "time": "03:50",
+   "img": "/img/p01e48/f8.jpg",
+   "t": "Will You Ever Grow Up?",
+   "q": "What did Granny Pig ask the two grandpas?",
+   "a": "She asked if the two of them will ever grow up.",
+   "cn": "她问这两个爷爷什么时候才能长大。",
+   "key": "grow up · ever"
+  },
+  {
+   "no": 9,
+   "time": "04:20",
+   "img": "/img/p01e48/f9.jpg",
+   "t": "Towed Home",
+   "q": "What did Granddad Dog do at the end?",
+   "a": "He towed Grandpa Pig's boat all the way home.",
+   "cn": "他把猪爷爷的船一路拖回了家。",
+   "key": "towed · home"
+  }
+ ],
+ "words": [
+  ["boat", "小船"],
+  ["captain", "船长"],
+  ["life-jacket", "救生衣"],
+  ["river", "河"],
+  ["petrol", "汽油"],
+  ["race", "比赛"],
+  ["tow", "拖"],
+  ["grow up", "长大"],
+  ["silly", "傻的"],
+  ["win", "赢"],
+  ["friend", "朋友"],
+  ["slow", "慢的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "boat, captain, life-jacket, river, race, petrol",
+  "actions": "wear, drive, race, shout, stop, tow"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Grandpa Pig's Boat”.",
+ "ending": "In the end, Granddad Dog tows Grandpa Pig home. My favourite part is ______."
+}

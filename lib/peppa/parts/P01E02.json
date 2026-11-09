@@ -1,0 +1,160 @@
+{
+ "id": "P01E02",
+ "season": 1,
+ "episode": 2,
+ "title": "Mr Dinosaur Is Lost",
+ "titleCn": "恐龙先生不见了",
+ "hook": "George 最爱的玩具恐龙先生不见了，Peppa 第一次当侦探，要把它找回来。",
+ "cover": "/img/p01e02/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:28",
+   "img": "/img/p01e02/f1.jpg",
+   "t": "Favourite Toy",
+   "q": "What was George's favourite toy?",
+   "a": "It was Mr. Dinosaur.",
+   "cn": "是恐龙先生。",
+   "key": "favourite · toy"
+  },
+  {
+   "no": 2,
+   "time": "00:38",
+   "img": "/img/p01e02/f2.jpg",
+   "t": "Grrr! So Scary",
+   "q": "What did George like to do?",
+   "a": "He liked to scare Peppa with Mr. Dinosaur.",
+   "cn": "他喜欢用恐龙先生吓 Peppa。",
+   "key": "like · scare"
+  },
+  {
+   "no": 3,
+   "time": "00:52",
+   "img": "/img/p01e02/f3.jpg",
+   "t": "Dinosaur at Supper",
+   "q": "Where did Mr. Dinosaur sit at suppertime?",
+   "a": "It sat next to George.",
+   "cn": "它坐在 George 旁边。",
+   "key": "suppertime · next to"
+  },
+  {
+   "no": 4,
+   "time": "01:08",
+   "img": "/img/p01e02/f4.jpg",
+   "t": "Dinosaur in the Bath",
+   "q": "Did George take Mr. Dinosaur to the bath?",
+   "a": "Yes. He shared his bath with him.",
+   "cn": "是的，他和恐龙先生一起洗澡。",
+   "key": "bath · share"
+  },
+  {
+   "no": 5,
+   "time": "01:35",
+   "img": "/img/p01e02/f5.jpg",
+   "t": "Throw It Up High",
+   "q": "What was George's favourite game?",
+   "a": "He threw Mr. Dinosaur up in the air.",
+   "cn": "他把恐龙先生往天上扔。",
+   "key": "throw · up in the air"
+  },
+  {
+   "no": 6,
+   "time": "02:12",
+   "img": "/img/p01e02/f6.jpg",
+   "t": "Oh No, He Is Lost",
+   "q": "How did George feel?",
+   "a": "He was sad and cried. He lost Mr. Dinosaur.",
+   "cn": "他很难过，哭了起来——恐龙先生丢了。",
+   "key": "sad · lost"
+  },
+  {
+   "no": 7,
+   "time": "02:36",
+   "img": "/img/p01e02/f7.jpg",
+   "t": "Peppa the Detective",
+   "q": "Who was the detective?",
+   "a": "Peppa was. She said, “I will help you find him.”",
+   "cn": "是 Peppa。她说要帮弟弟找到它。",
+   "key": "detective · help"
+  },
+  {
+   "no": 8,
+   "time": "03:15",
+   "img": "/img/p01e02/f8.jpg",
+   "t": "Not in the Bath",
+   "q": "Was Mr. Dinosaur in the bath?",
+   "a": "No. He was not in the bath.",
+   "cn": "不在，浴缸里没有他。",
+   "key": "bath · not there"
+  },
+  {
+   "no": 9,
+   "time": "04:08",
+   "img": "/img/p01e02/f9.jpg",
+   "t": "There He Is!",
+   "q": "Where did they find Mr. Dinosaur?",
+   "a": "They found him high up in the tree.",
+   "cn": "他们发现他高高地挂在树上。",
+   "key": "find · tree"
+  }
+ ],
+ "words": [
+  [
+   "dinosaur",
+   "恐龙"
+  ],
+  [
+   "toy",
+   "玩具"
+  ],
+  [
+   "favourite",
+   "最喜欢的"
+  ],
+  [
+   "scare",
+   "吓唬"
+  ],
+  [
+   "supper",
+   "晚饭"
+  ],
+  [
+   "bath",
+   "洗澡"
+  ],
+  [
+   "throw",
+   "扔"
+  ],
+  [
+   "catch",
+   "接住"
+  ],
+  [
+   "lost",
+   "弄丢了"
+  ],
+  [
+   "detective",
+   "侦探"
+  ],
+  [
+   "find",
+   "找到"
+  ],
+  [
+   "tree",
+   "树"
+  ]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "dinosaur, toy, supper, bath, detective, tree",
+  "actions": "throw, catch, scare, cry, guess, find"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Mr Dinosaur Is Lost”.",
+ "ending": "In the end, Peppa finds Mr. Dinosaur in the tree. My favourite part is ______."
+}

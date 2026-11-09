@@ -1,0 +1,124 @@
+{
+ "id": "P01E40",
+ "season": 1,
+ "episode": 40,
+ "title": "Very Hot Day",
+ "titleCn": "大热天",
+ "hook": "天太热水坑都晒干了，爸爸打起戏水池，还买了冰淇淋，乔治的恐龙冰棍却掉在地上。",
+ "cover": "/img/p01e40/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:21",
+   "img": "/img/p01e40/f1.jpg",
+   "t": "A Very Hot Day",
+   "q": "What is the weather like?",
+   "a": "The sun is shining and it is a very hot day.",
+   "cn": "太阳很大，是个大热天。",
+   "key": "sun · hot day"
+  },
+  {
+   "no": 2,
+   "time": "00:42",
+   "img": "/img/p01e40/f2.jpg",
+   "t": "The Puddles Are Dry",
+   "q": "Why can't they jump in the puddles?",
+   "a": "Because the puddles are all dry in the hot sun.",
+   "cn": "因为太阳把水坑都晒干了。",
+   "key": "dry · puddles"
+  },
+  {
+   "no": 3,
+   "time": "01:46",
+   "img": "/img/p01e40/f3.jpg",
+   "t": "Pumping Up the Pool",
+   "q": "What is Daddy Pig doing?",
+   "a": "He is pumping up the paddling pool for the children.",
+   "cn": "他在给孩子们的戏水池打气。",
+   "key": "pumping up · paddling pool"
+  },
+  {
+   "no": 4,
+   "time": "02:23",
+   "img": "/img/p01e40/f4.jpg",
+   "t": "In the Pool",
+   "q": "Do the children like the little pool?",
+   "a": "Yes, Peppa and George love their paddling pool.",
+   "cn": "喜欢，佩奇和乔治最爱他们的戏水池。",
+   "key": "love · paddling pool"
+  },
+  {
+   "no": 5,
+   "time": "02:38",
+   "img": "/img/p01e40/f5.jpg",
+   "t": "An Ice Cream, Please",
+   "q": "What did Peppa ask Ms. Rabbit for?",
+   "a": "She asked if she and George can have an ice cream.",
+   "cn": "她问她和乔治能不能买冰淇淋。",
+   "key": "ice cream · please"
+  },
+  {
+   "no": 6,
+   "time": "02:55",
+   "img": "/img/p01e40/f6.jpg",
+   "t": "A Cone",
+   "q": "What did Peppa choose?",
+   "a": "She asked the ice cream lady for a cone.",
+   "cn": "她向卖冰淇淋的兔小姐要了一个蛋筒。",
+   "key": "cone · asked"
+  },
+  {
+   "no": 7,
+   "time": "03:16",
+   "img": "/img/p01e40/f7.jpg",
+   "t": "A Dinosaur Ice-Lolly",
+   "q": "What did Ms. Rabbit have for George?",
+   "a": "She had a dinosaur shaped ice-lolly for him.",
+   "cn": "她正好有一根恐龙形状的冰棍。",
+   "key": "dinosaur shaped · ice-lolly"
+  },
+  {
+   "no": 8,
+   "time": "03:47",
+   "img": "/img/p01e40/f8.jpg",
+   "t": "Melted on the Ground",
+   "q": "What happened to George's lolly?",
+   "a": "It melted and fell on the ground, so George is sad.",
+   "cn": "冰棍化了掉在地上，乔治很难过。",
+   "key": "melted · ground"
+  },
+  {
+   "no": 9,
+   "time": "04:24",
+   "img": "/img/p01e40/f9.jpg",
+   "t": "The Puddles Are Back",
+   "q": "What do they find at the end?",
+   "a": "The puddles are back, so they put their boots on.",
+   "cn": "水坑又出现了，他们赶紧穿上靴子。",
+   "key": "puddles · back"
+  }
+ ],
+ "words": [
+  ["hot", "炎热的"],
+  ["sun", "太阳"],
+  ["shine", "照耀"],
+  ["dry", "干的"],
+  ["puddle", "水坑"],
+  ["paddling pool", "戏水池"],
+  ["pump", "打气"],
+  ["ice cream", "冰淇淋"],
+  ["cone", "蛋筒"],
+  ["lolly", "冰棍"],
+  ["melt", "融化"],
+  ["boots", "靴子"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "hot, sun, puddle, pool, ice cream, lolly",
+  "actions": "shine, jump, pump, swim, buy, melt"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Very Hot Day”.",
+ "ending": "In the end, the puddles are back again. My favourite part is ______."
+}

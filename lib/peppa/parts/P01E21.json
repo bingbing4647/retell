@@ -1,0 +1,124 @@
+{
+ "id": "P01E21",
+ "season": 1,
+ "episode": 21,
+ "title": "Mummy Pig's Birthday",
+ "titleCn": "猪妈妈过生日",
+ "hook": "妈妈生日这天，全家偷偷准备惊喜，还把妈妈“请”出门散步，就等蛋糕出场。",
+ "cover": "/img/p01e21/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:24",
+   "img": "/img/p01e21/f1.jpg",
+   "t": "Birthday Today",
+   "q": "What day was it?",
+   "a": "It was Mummy Pig's birthday.",
+   "cn": "今天是猪妈妈的生日。",
+   "key": "birthday · today"
+  },
+  {
+   "no": 2,
+   "time": "00:51",
+   "img": "/img/p01e21/f2.jpg",
+   "t": "Get Everything Ready",
+   "q": "What did Daddy Pig say?",
+   "a": "He said, “Quick! We have to get everything ready!”",
+   "cn": "他说：“快点！我们得把东西都准备好！”",
+   "key": "ready · quick"
+  },
+  {
+   "no": 3,
+   "time": "01:14",
+   "img": "/img/p01e21/f3.jpg",
+   "t": "Can I Come In",
+   "q": "What did Mummy Pig ask?",
+   "a": "She asked, “It's Mummy. Can I come in?”",
+   "cn": "她问：“是妈妈，我能进来吗？”",
+   "key": "come in · mummy"
+  },
+  {
+   "no": 4,
+   "time": "01:32",
+   "img": "/img/p01e21/f4.jpg",
+   "t": "Where Is the Sitting Room",
+   "q": "What did Mummy Pig pretend?",
+   "a": "She pretended she did not know where the sitting room was.",
+   "cn": "她装作不知道客厅在哪儿。",
+   "key": "pretend · sitting room"
+  },
+  {
+   "no": 5,
+   "time": "02:12",
+   "img": "/img/p01e21/f5.jpg",
+   "t": "The Birthday Cake",
+   "q": "What was ready?",
+   "a": "The birthday cake was ready for Mummy Pig.",
+   "cn": "妈妈的生日蛋糕准备好了。",
+   "key": "cake · ready"
+  },
+  {
+   "no": 6,
+   "time": "02:36",
+   "img": "/img/p01e21/f6.jpg",
+   "t": "Have a Lovely Walk",
+   "q": "What did the family tell Mummy?",
+   "a": "They said, “Bye bye! Have a lovely walk!”",
+   "cn": "他们说：“再见！好好散步！”",
+   "key": "walk · bye"
+  },
+  {
+   "no": 7,
+   "time": "03:12",
+   "img": "/img/p01e21/f7.jpg",
+   "t": "Secret Things",
+   "q": "What were the children doing?",
+   "a": "They were doing secret things for her birthday.",
+   "cn": "他们在为生日偷偷准备东西。",
+   "key": "secret · birthday"
+  },
+  {
+   "no": 8,
+   "time": "03:53",
+   "img": "/img/p01e21/f8.jpg",
+   "t": "Can You Guess",
+   "q": "What did they ask Mummy?",
+   "a": "They asked, “Can you guess what it is?”",
+   "cn": "他们问：“你猜猜是什么？”",
+   "key": "guess · what"
+  },
+  {
+   "no": 9,
+   "time": "04:23",
+   "img": "/img/p01e21/f9.jpg",
+   "t": "Baby-sit the Little Ones",
+   "q": "What did Grandpa Pig say?",
+   "a": "He said Granny and he would baby-sit the little ones.",
+   "cn": "他说他和奶奶来照看孩子们。",
+   "key": "baby-sit · little ones"
+  }
+ ],
+ "words": [
+  ["birthday", "生日"],
+  ["cake", "蛋糕"],
+  ["ready", "准备好的"],
+  ["secret", "秘密的"],
+  ["guess", "猜"],
+  ["walk", "散步"],
+  ["pretend", "假装"],
+  ["sitting room", "客厅"],
+  ["baby-sit", "照看孩子"],
+  ["present", "礼物"],
+  ["party", "派对"],
+  ["lovely", "美好的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "birthday, cake, ready, secret, guess, walk",
+  "actions": "make, hide, ready, walk, guess, surprise"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Mummy Pig's Birthday”.",
+ "ending": "In the end, the family gives Mummy Pig a big birthday surprise. My favourite part is ______."
+}

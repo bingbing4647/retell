@@ -1,0 +1,124 @@
+{
+ "id": "P01E25",
+ "season": 1,
+ "episode": 25,
+ "title": "Not Very Well",
+ "titleCn": "不太舒服",
+ "hook": "佩奇脸上长满红点，只好躺在床上，还让来看她的小伙伴去要冰淇淋。",
+ "cover": "/img/p01e25/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:24",
+   "img": "/img/p01e25/f1.jpg",
+   "t": "Breakfast Time",
+   "q": "What did Mummy and Daddy Pig make for the children?",
+   "a": "They made breakfast for Peppa and George.",
+   "cn": "他们给佩奇和乔治做好了早餐。",
+   "key": "breakfast · made"
+  },
+  {
+   "no": 2,
+   "time": "00:55",
+   "img": "/img/p01e25/f2.jpg",
+   "t": "Red Spots",
+   "q": "What is wrong with Peppa's face?",
+   "a": "Her face is covered in little red spots.",
+   "cn": "她脸上长满了小红点。",
+   "key": "red spots · face"
+  },
+  {
+   "no": 3,
+   "time": "01:26",
+   "img": "/img/p01e25/f3.jpg",
+   "t": "A Little Medicine",
+   "q": "What did Dr. Brown Bear offer Peppa?",
+   "a": "He said he could give her just a little medicine.",
+   "cn": "他说可以给她吃一点点药。",
+   "key": "medicine · little"
+  },
+  {
+   "no": 4,
+   "time": "01:50",
+   "img": "/img/p01e25/f4.jpg",
+   "t": "Visitors",
+   "q": "Can Peppa's friends come to see her?",
+   "a": "Yes, the doctor says she can have visitors.",
+   "cn": "可以，医生说可以让朋友来看她。",
+   "key": "visitors · doctor"
+  },
+  {
+   "no": 5,
+   "time": "02:29",
+   "img": "/img/p01e25/f5.jpg",
+   "t": "I'm Not Very Well",
+   "q": "What did Peppa tell her friends?",
+   "a": "She said, “I'm not very well. I have red spots.”",
+   "cn": "她说：“我不太舒服，我脸上有红点。”",
+   "key": "not very well · spots"
+  },
+  {
+   "no": 6,
+   "time": "02:46",
+   "img": "/img/p01e25/f6.jpg",
+   "t": "Stay in Bed",
+   "q": "Where does Peppa have to stay?",
+   "a": "She has to stay in bed, so her friends come to her.",
+   "cn": "她必须待在床上，所以朋友们来看她。",
+   "key": "in bed · ill"
+  },
+  {
+   "no": 7,
+   "time": "03:19",
+   "img": "/img/p01e25/f7.jpg",
+   "t": "The Nurse Is Here",
+   "q": "What did Peppa keep telling Suzy Sheep?",
+   "a": "She kept saying that she has to stay in bed.",
+   "cn": "她一直说自己必须待在床上。",
+   "key": "stay in bed · Suzy"
+  },
+  {
+   "no": 8,
+   "time": "03:42",
+   "img": "/img/p01e25/f8.jpg",
+   "t": "Some Ice Cream",
+   "q": "What did Peppa want her friends to ask for?",
+   "a": "She wanted them to ask her mummy for some ice cream.",
+   "cn": "她想让朋友去跟她妈妈要冰淇淋。",
+   "key": "ice cream · ask"
+  },
+  {
+   "no": 9,
+   "time": "04:09",
+   "img": "/img/p01e25/f9.jpg",
+   "t": "Completely Better",
+   "q": "What did the doctor say at the end?",
+   "a": "He said, “No more red spots! You're completely better!”",
+   "cn": "他说：“红点没了！你全好了！”",
+   "key": "completely better · red spots"
+  }
+ ],
+ "words": [
+  ["breakfast", "早餐"],
+  ["spot", "斑点"],
+  ["face", "脸"],
+  ["medicine", "药"],
+  ["doctor", "医生"],
+  ["visitor", "客人"],
+  ["brave", "勇敢的"],
+  ["nurse", "护士"],
+  ["ice cream", "冰淇淋"],
+  ["ill", "生病的"],
+  ["better", "好转的"],
+  ["bed", "床"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "spots, doctor, medicine, visitor, ice cream, better",
+  "actions": "make, check, take, stay, visit, feel"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Not Very Well”.",
+ "ending": "In the end, Peppa is completely better. My favourite part is ______."
+}

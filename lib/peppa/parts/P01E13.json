@@ -1,0 +1,124 @@
+{
+ "id": "P01E13",
+ "season": 1,
+ "episode": 13,
+ "title": "Secrets",
+ "titleCn": "秘密",
+ "hook": "妈妈给 Peppa 做了一个秘密盒子，可 George 也有秘密，Peppa 就忍不住想知道。",
+ "cover": "/img/p01e13/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:26",
+   "img": "/img/p01e13/f1.jpg",
+   "t": "A Secret Box",
+   "q": "What did Mummy Pig make for Peppa?",
+   "a": "She made a special box for Peppa.",
+   "cn": "她给 Peppa 做了一个特别的盒子。",
+   "key": "special · box"
+  },
+  {
+   "no": 2,
+   "time": "00:58",
+   "img": "/img/p01e13/f2.jpg",
+   "t": "My Secret",
+   "q": "What did Peppa tell George?",
+   "a": "She said, “George, this is my secret box!”",
+   "cn": "她说：“George，这是我的秘密盒子！”",
+   "key": "secret · box"
+  },
+  {
+   "no": 3,
+   "time": "01:36",
+   "img": "/img/p01e13/f3.jpg",
+   "t": "What Is Inside",
+   "q": "What did George want to know?",
+   "a": "He wanted to know what was inside the secret box.",
+   "cn": "他想知道盒子里装了什么。",
+   "key": "inside · want"
+  },
+  {
+   "no": 4,
+   "time": "02:00",
+   "img": "/img/p01e13/f4.jpg",
+   "t": "Can't Guess",
+   "q": "Could George guess the secret?",
+   "a": "No, he could not guess what was in the box.",
+   "cn": "他猜不出来盒子里是什么。",
+   "key": "guess · cannot"
+  },
+  {
+   "no": 5,
+   "time": "02:25",
+   "img": "/img/p01e13/f5.jpg",
+   "t": "My Glasses",
+   "q": "What did Daddy Pig ask?",
+   "a": "He asked, “Have you put my glasses inside?”",
+   "cn": "他问：“你把我的眼镜放进去了吗？”",
+   "key": "glasses · inside"
+  },
+  {
+   "no": 6,
+   "time": "03:04",
+   "img": "/img/p01e13/f6.jpg",
+   "t": "George's Box",
+   "q": "What did Peppa want to know?",
+   "a": "She wanted to know what was inside George's box.",
+   "cn": "她想知道 George 的盒子里有什么。",
+   "key": "George · inside"
+  },
+  {
+   "no": 7,
+   "time": "03:19",
+   "img": "/img/p01e13/f7.jpg",
+   "t": "Secrets Are Hard",
+   "q": "How did Peppa feel about secrets?",
+   "a": "She did not like secrets as much as she used to.",
+   "cn": "她不像以前那么喜欢秘密了。",
+   "key": "secret · used to"
+  },
+  {
+   "no": 8,
+   "time": "03:55",
+   "img": "/img/p01e13/f8.jpg",
+   "t": "Any More Secrets",
+   "q": "What did Peppa ask George?",
+   "a": "She asked, “Do you have any more secret things?”",
+   "cn": "她问：“你还有别的秘密吗？”",
+   "key": "more · secret"
+  },
+  {
+   "no": 9,
+   "time": "04:14",
+   "img": "/img/p01e13/f9.jpg",
+   "t": "No Special Box",
+   "q": "What did George say at the end?",
+   "a": "He said, “I don't have a special box.”",
+   "cn": "他说：“我没有特别的盒子。”",
+   "key": "special · box"
+  }
+ ],
+ "words": [
+  ["secret", "秘密"],
+  ["box", "盒子"],
+  ["special", "特别的"],
+  ["inside", "在里面"],
+  ["guess", "猜"],
+  ["glasses", "眼镜"],
+  ["anymore", "再"],
+  ["used to", "以前常常"],
+  ["hide", "藏"],
+  ["open", "打开"],
+  ["empty", "空的"],
+  ["surprise", "惊喜"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "secret, box, special, inside, guess, glasses",
+  "actions": "make, hide, guess, open, ask, show"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Secrets”.",
+ "ending": "In the end, George says he does not have a special box. My favourite part is ______."
+}

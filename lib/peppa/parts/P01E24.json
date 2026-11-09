@@ -1,0 +1,124 @@
+{
+ "id": "P01E24",
+ "season": 1,
+ "episode": 24,
+ "title": "Treasure Hunt",
+ "titleCn": "寻宝游戏",
+ "hook": "爷爷奶奶在花园里藏了宝藏，画了一张海盗藏宝图，让佩奇和乔治顺着线索去找。",
+ "cover": "/img/p01e24/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:24",
+   "img": "/img/p01e24/f1.jpg",
+   "t": "A Treasure Hunt",
+   "q": "What are Granny and Grandpa Pig making?",
+   "a": "They are making a treasure hunt for Peppa and George.",
+   "cn": "他们在给佩奇和乔治准备一场寻宝游戏。",
+   "key": "treasure hunt · making"
+  },
+  {
+   "no": 2,
+   "time": "00:50",
+   "img": "/img/p01e24/f2.jpg",
+   "t": "Quick, Grandpa Pig!",
+   "q": "What did Granny Pig call out?",
+   "a": "She called, “Quick, Grandpa Pig! They're here!”",
+   "cn": "她喊：“快，猪爷爷！他们来了！”",
+   "key": "quick · here"
+  },
+  {
+   "no": 3,
+   "time": "01:18",
+   "img": "/img/p01e24/f3.jpg",
+   "t": "Buried Treasure",
+   "q": "Where is the buried treasure?",
+   "a": "Granny says it is buried somewhere in the garden.",
+   "cn": "奶奶说宝藏就埋在花园里的某个地方。",
+   "key": "buried · garden"
+  },
+  {
+   "no": 4,
+   "time": "01:48",
+   "img": "/img/p01e24/f4.jpg",
+   "t": "A Bit Difficult",
+   "q": "Was the treasure map easy to read?",
+   "a": "No, they say the map is a bit difficult.",
+   "cn": "不，他们说这张图有点难认。",
+   "key": "difficult · map"
+  },
+  {
+   "no": 5,
+   "time": "01:57",
+   "img": "/img/p01e24/f5.jpg",
+   "t": "The First Clue",
+   "q": "What did Peppa find, and what did she ask?",
+   "a": "She found the first clue and asked where the bottle was.",
+   "cn": "她找到了第一个线索，还问瓶子在哪里。",
+   "key": "clue · bottle"
+  },
+  {
+   "no": 6,
+   "time": "02:44",
+   "img": "/img/p01e24/f6.jpg",
+   "t": "Bad Handwriting",
+   "q": "Why couldn't Mummy read the pirate's message?",
+   "a": "She said this pirate has very bad handwriting.",
+   "cn": "她说这个海盗的字写得很糟。",
+   "key": "handwriting · pirate"
+  },
+  {
+   "no": 7,
+   "time": "03:08",
+   "img": "/img/p01e24/f7.jpg",
+   "t": "Following the Arrows",
+   "q": "What are Peppa and George doing now?",
+   "a": "They are following the arrows to the next clue.",
+   "cn": "他们顺着箭头去找下一个线索。",
+   "key": "arrows · following"
+  },
+  {
+   "no": 8,
+   "time": "03:58",
+   "img": "/img/p01e24/f8.jpg",
+   "t": "Something Here",
+   "q": "What did Daddy Pig call out?",
+   "a": "He called, “Hang on! There is something here!”",
+   "cn": "他喊：“等一下！这里有东西！”",
+   "key": "something · here"
+  },
+  {
+   "no": 9,
+   "time": "04:10",
+   "img": "/img/p01e24/f9.jpg",
+   "t": "Chocolate Coins",
+   "q": "What was inside the treasure chest?",
+   "a": "Chocolate coins! Peppa and George love chocolate coins.",
+   "cn": "巧克力金币！佩奇和乔治最喜欢了。",
+   "key": "chocolate coins · treasure"
+  }
+ ],
+ "words": [
+  ["treasure", "宝藏"],
+  ["hunt", "寻找"],
+  ["map", "地图"],
+  ["buried", "埋着的"],
+  ["clue", "线索"],
+  ["pirate", "海盗"],
+  ["handwriting", "字迹"],
+  ["arrow", "箭头"],
+  ["bottle", "瓶子"],
+  ["chest", "箱子"],
+  ["chocolate", "巧克力"],
+  ["coin", "硬币"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "treasure, map, clue, pirate, arrow, chocolate",
+  "actions": "make, draw, look for, follow, find, open"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Treasure Hunt”.",
+ "ending": "In the end, the treasure is chocolate coins. My favourite part is ______."
+}

@@ -1,0 +1,124 @@
+{
+ "id": "P01E22",
+ "season": 1,
+ "episode": 22,
+ "title": "The Tooth Fairy",
+ "titleCn": "牙仙子",
+ "hook": "吃意大利面的时候，Peppa 掉了一颗牙。晚上牙仙子会来吗？",
+ "cover": "/img/p01e22/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:27",
+   "img": "/img/p01e22/f1.jpg",
+   "t": "Spaghetti Time",
+   "q": "What were Peppa and George eating?",
+   "a": "They were eating spaghetti, their favourite food.",
+   "cn": "他们在吃最爱的意大利面。",
+   "key": "spaghetti · favourite"
+  },
+  {
+   "no": 2,
+   "time": "00:53",
+   "img": "/img/p01e22/f2.jpg",
+   "t": "A Tooth Came Out",
+   "q": "What happened to Peppa?",
+   "a": "One of her teeth came out! “Where did that come from?”",
+   "cn": "她掉了一颗牙——“这是从哪儿来的？”",
+   "key": "tooth · come out"
+  },
+  {
+   "no": 3,
+   "time": "01:17",
+   "img": "/img/p01e22/f3.jpg",
+   "t": "A Visit Tonight",
+   "q": "Who will come to visit?",
+   "a": "The Tooth Fairy will pay Peppa a visit tonight.",
+   "cn": "今晚牙仙子会来看她。",
+   "key": "Tooth Fairy · visit"
+  },
+  {
+   "no": 4,
+   "time": "01:44",
+   "img": "/img/p01e22/f4.jpg",
+   "t": "I Want to Be One",
+   "q": "What did Peppa say?",
+   "a": "She said, “I want to be a Tooth Fairy!”",
+   "cn": "她说：“我也想当牙仙子！”",
+   "key": "want · Tooth Fairy"
+  },
+  {
+   "no": 5,
+   "time": "02:08",
+   "img": "/img/p01e22/f5.jpg",
+   "t": "What Are You Doing",
+   "q": "What did Mummy ask Peppa?",
+   "a": "She asked, “Peppa, what are you doing?”",
+   "cn": "她问：“Peppa，你在做什么？”",
+   "key": "doing · ask"
+  },
+  {
+   "no": 6,
+   "time": "02:53",
+   "img": "/img/p01e22/f6.jpg",
+   "t": "Very Late",
+   "q": "What did Peppa think?",
+   "a": "She thought, “This Tooth Fairy is very late!”",
+   "cn": "她觉得：“牙仙子来得也太晚了！”",
+   "key": "late · think"
+  },
+  {
+   "no": 7,
+   "time": "03:10",
+   "img": "/img/p01e22/f7.jpg",
+   "t": "Can You Hear That",
+   "q": "What did Peppa ask George?",
+   "a": "She asked, “George, can you hear something?”",
+   "cn": "她问：“George，你听见什么了吗？”",
+   "key": "hear · something"
+  },
+  {
+   "no": 8,
+   "time": "03:40",
+   "img": "/img/p01e22/f8.jpg",
+   "t": "She Has Arrived",
+   "q": "Who arrived at last?",
+   "a": "The Tooth Fairy arrived and took the tooth.",
+   "cn": "牙仙子终于来了，把牙取走了。",
+   "key": "arrive · take"
+  },
+  {
+   "no": 9,
+   "time": "04:20",
+   "img": "/img/p01e22/f9.jpg",
+   "t": "A Coin",
+   "q": "What did the Tooth Fairy leave?",
+   "a": "She left a coin for Peppa under the pillow.",
+   "cn": "她在枕头下给 Peppa 留了一枚硬币。",
+   "key": "coin · leave"
+  }
+ ],
+ "words": [
+  ["tooth", "牙齿"],
+  ["fairy", "仙子"],
+  ["spaghetti", "意大利面"],
+  ["coin", "硬币"],
+  ["pillow", "枕头"],
+  ["visit", "拜访"],
+  ["late", "晚的"],
+  ["hear", "听见"],
+  ["arrive", "到达"],
+  ["leave", "留下"],
+  ["tonight", "今晚"],
+  ["favourite", "最喜欢的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "tooth, fairy, coin, pillow, late, visit",
+  "actions": "eat, lose, wait, hear, arrive, leave"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “The Tooth Fairy”.",
+ "ending": "In the end, Peppa finds a coin under her pillow. My favourite part is ______."
+}

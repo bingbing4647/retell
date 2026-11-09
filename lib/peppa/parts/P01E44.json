@@ -1,0 +1,124 @@
+{
+ "id": "P01E44",
+ "season": 1,
+ "episode": 44,
+ "title": "The Playground",
+ "titleCn": "游乐场",
+ "hook": "在游乐场，乔治怕高，佩奇卡在轮胎里，猪爸爸坐滑梯卡住了，大家笑成一团。",
+ "cover": "/img/p01e44/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:23",
+   "img": "/img/p01e44/f1.jpg",
+   "t": "At the Playground",
+   "q": "Where are Peppa and George?",
+   "a": "They are at the playground with all their friends.",
+   "cn": "他们和朋友们在游乐场。",
+   "key": "playground · friends"
+  },
+  {
+   "no": 2,
+   "time": "01:10",
+   "img": "/img/p01e44/f2.jpg",
+   "t": "I Want to Push George",
+   "q": "What did Peppa want to do?",
+   "a": "She wanted to push George on the swing.",
+   "cn": "她想推乔治荡秋千。",
+   "key": "push · George"
+  },
+  {
+   "no": 3,
+   "time": "01:26",
+   "img": "/img/p01e44/f3.jpg",
+   "t": "Up High",
+   "q": "What does George not like?",
+   "a": "He does not like being up high on the swing.",
+   "cn": "他不喜欢在秋千上被荡得那么高。",
+   "key": "up high · does not like"
+  },
+  {
+   "no": 4,
+   "time": "01:52",
+   "img": "/img/p01e44/f4.jpg",
+   "t": "You Are Doing It Wrong",
+   "q": "What did Peppa say to the others?",
+   "a": "She said, “You are doing it all wrong!”",
+   "cn": "她说：“你们全做错了！”",
+   "key": "all wrong · doing"
+  },
+  {
+   "no": 5,
+   "time": "02:13",
+   "img": "/img/p01e44/f5.jpg",
+   "t": "I Can't Get Out!",
+   "q": "What happened to Peppa?",
+   "a": "She got stuck in the tyre and could not get out.",
+   "cn": "她卡在轮胎里出不来了。",
+   "key": "stuck · get out"
+  },
+  {
+   "no": 6,
+   "time": "02:40",
+   "img": "/img/p01e44/f6.jpg",
+   "t": "The Climbing Frame",
+   "q": "What did Peppa ask George?",
+   "a": "She asked if he wants to play on the climbing frame.",
+   "cn": "她问乔治要不要去玩攀爬架。",
+   "key": "climbing frame · play"
+  },
+  {
+   "no": 7,
+   "time": "03:05",
+   "img": "/img/p01e44/f7.jpg",
+   "t": "Look at Me!",
+   "q": "What is Peppa doing on the climbing frame?",
+   "a": "She is swinging across and calling her parents to look.",
+   "cn": "她在攀爬架上荡过去，还喊爸妈看她。",
+   "key": "look at me · swinging"
+  },
+  {
+   "no": 8,
+   "time": "03:43",
+   "img": "/img/p01e44/f8.jpg",
+   "t": "Too Big for the Slide",
+   "q": "Why can't Daddy Pig go down the slide?",
+   "a": "Because he is too big for the little slide.",
+   "cn": "因为小滑梯装不下他这么大的人。",
+   "key": "too big · slide"
+  },
+  {
+   "no": 9,
+   "time": "04:07",
+   "img": "/img/p01e44/f9.jpg",
+   "t": "A Bit Funny",
+   "q": "What did everyone think when Daddy slid down?",
+   "a": "They laughed, and even Daddy says it is a bit funny.",
+   "cn": "大家都笑了，连爸爸自己都说有点好笑。",
+   "key": "funny · laughed"
+  }
+ ],
+ "words": [
+  ["playground", "游乐场"],
+  ["swing", "秋千"],
+  ["push", "推"],
+  ["climbing frame", "攀爬架"],
+  ["slide", "滑梯"],
+  ["tyre", "轮胎"],
+  ["stuck", "卡住的"],
+  ["high", "高的"],
+  ["scared", "害怕的"],
+  ["laugh", "笑"],
+  ["turn", "轮到的机会"],
+  ["bouncy", "有弹性的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "playground, swing, climbing frame, slide, stuck, funny",
+  "actions": "push, swing, climb, get stuck, slide, laugh"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “The Playground”.",
+ "ending": "In the end, Daddy Pig gets stuck on the slide. My favourite part is ______."
+}

@@ -1,0 +1,124 @@
+{
+ "id": "P01E31",
+ "season": 1,
+ "episode": 31,
+ "title": "Ballet Lesson",
+ "titleCn": "芭蕾课",
+ "hook": "佩奇第一次上芭蕾课，回家后当小老师教全家人跳，猪爸爸跳得摔了一跤。",
+ "cover": "/img/p01e31/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:22",
+   "img": "/img/p01e31/f1.jpg",
+   "t": "First Ballet Lesson",
+   "q": "Where is Peppa going?",
+   "a": "She is going to her first ballet lesson.",
+   "cn": "她要去上第一堂芭蕾课。",
+   "key": "ballet · lesson"
+  },
+  {
+   "no": 2,
+   "time": "00:42",
+   "img": "/img/p01e31/f2.jpg",
+   "t": "Welcome to the Lesson",
+   "q": "What did Madame Gazelle say to Peppa?",
+   "a": "She said, “Welcome to your first lesson of the ballet!”",
+   "cn": "她说：“欢迎来上你的第一堂芭蕾课！”",
+   "key": "welcome · lesson"
+  },
+  {
+   "no": 3,
+   "time": "01:00",
+   "img": "/img/p01e31/f3.jpg",
+   "t": "A New Pupil",
+   "q": "Who is the new pupil in the class?",
+   "a": "Peppa Pig is the new pupil in the ballet class.",
+   "cn": "佩奇是芭蕾班里的新同学。",
+   "key": "new pupil · Peppa"
+  },
+  {
+   "no": 4,
+   "time": "02:06",
+   "img": "/img/p01e31/f4.jpg",
+   "t": "A Lot of Fun",
+   "q": "Was the ballet lesson fun?",
+   "a": "Yes, the ballet lesson is a lot of fun.",
+   "cn": "是的，芭蕾课非常有趣。",
+   "key": "fun · ballet"
+  },
+  {
+   "no": 5,
+   "time": "02:26",
+   "img": "/img/p01e31/f5.jpg",
+   "t": "Beautiful Swans",
+   "q": "What did Madame Gazelle ask about swans?",
+   "a": "She asked what noise a swan might make.",
+   "cn": "她问天鹅会发出什么声音。",
+   "key": "noise · swan"
+  },
+  {
+   "no": 6,
+   "time": "03:02",
+   "img": "/img/p01e31/f6.jpg",
+   "t": "Can I Show You?",
+   "q": "What did Peppa want to show her family?",
+   "a": "She wanted to show them how she did ballet.",
+   "cn": "她想给家人看她怎么跳芭蕾。",
+   "key": "show · did"
+  },
+  {
+   "no": 7,
+   "time": "03:21",
+   "img": "/img/p01e31/f7.jpg",
+   "t": "Copy What I Do",
+   "q": "What did Peppa teach her family?",
+   "a": "She taught them how to do ballet in the living room.",
+   "cn": "她在客厅教大家怎么跳芭蕾。",
+   "key": "ballet · taught"
+  },
+  {
+   "no": 8,
+   "time": "04:03",
+   "img": "/img/p01e31/f8.jpg",
+   "t": "Do Be Careful",
+   "q": "What did Mummy Pig tell Daddy Pig?",
+   "a": "She told him to be careful when he tried ballet.",
+   "cn": "她让猪爸爸跳的时候小心点。",
+   "key": "careful · Daddy"
+  },
+  {
+   "no": 9,
+   "time": "04:16",
+   "img": "/img/p01e31/f9.jpg",
+   "t": "That Wasn't How I Remembered It",
+   "q": "What happened to Daddy Pig?",
+   "a": "He fell down and said it was not how he remembered it.",
+   "cn": "他摔了一跤，说这不是他记得的样子。",
+   "key": "remembered · fell"
+  }
+ ],
+ "words": [
+  ["ballet", "芭蕾"],
+  ["lesson", "课程"],
+  ["teacher", "老师"],
+  ["pupil", "学生"],
+  ["swan", "天鹅"],
+  ["grace", "优雅"],
+  ["dance", "跳舞"],
+  ["careful", "小心的"],
+  ["remember", "记得"],
+  ["copy", "模仿"],
+  ["beautiful", "美丽的"],
+  ["first", "第一的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "ballet, lesson, teacher, swan, dance, careful",
+  "actions": "go, welcome, dance, show, copy, fall"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Ballet Lesson”.",
+ "ending": "In the end, Daddy Pig falls down. My favourite part is ______."
+}

@@ -1,0 +1,124 @@
+{
+ "id": "P01E42",
+ "season": 1,
+ "episode": 42,
+ "title": "Daddy Gets Fit",
+ "titleCn": "爸爸健身",
+ "hook": "猪爸爸肚子太大，跟着电视做俯卧撑，又骑佩奇的小自行车，累得不行。",
+ "cover": "/img/p01e42/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:21",
+   "img": "/img/p01e42/f1.jpg",
+   "t": "A Keep Fit Programme",
+   "q": "What is Mummy Pig watching?",
+   "a": "She is watching a keep fit programme on television.",
+   "cn": "她在看电视上的健身节目。",
+   "key": "keep fit · programme"
+  },
+  {
+   "no": 2,
+   "time": "00:43",
+   "img": "/img/p01e42/f2.jpg",
+   "t": "Your Tummy Is Big",
+   "q": "What did Mummy Pig say about Daddy Pig?",
+   "a": "She said he does not look fit and his tummy is big.",
+   "cn": "她说他看起来不健康，肚子还挺大。",
+   "key": "fit · tummy"
+  },
+  {
+   "no": 3,
+   "time": "01:19",
+   "img": "/img/p01e42/f3.jpg",
+   "t": "Start Exercising",
+   "q": "What must Daddy Pig start doing?",
+   "a": "He has to start exercising now to get fit.",
+   "cn": "他现在必须开始锻炼了。",
+   "key": "exercising · now"
+  },
+  {
+   "no": 4,
+   "time": "01:41",
+   "img": "/img/p01e42/f4.jpg",
+   "t": "One Hundred Press-Ups",
+   "q": "How many press-ups must he do?",
+   "a": "Mummy Pig wants him to do one hundred press-ups.",
+   "cn": "猪妈妈让他做一百个俯卧撑。",
+   "key": "press-ups · hundred"
+  },
+  {
+   "no": 5,
+   "time": "02:05",
+   "img": "/img/p01e42/f5.jpg",
+   "t": "Making Lunch",
+   "q": "What is the rest of the family doing?",
+   "a": "They are in the kitchen making lunch while he exercises.",
+   "cn": "他在锻炼时，其他人在厨房做午饭。",
+   "key": "kitchen · making lunch"
+  },
+  {
+   "no": 6,
+   "time": "02:30",
+   "img": "/img/p01e42/f6.jpg",
+   "t": "Something Interesting",
+   "q": "Why did Daddy Pig stop exercising?",
+   "a": "Because there was something interesting on the TV.",
+   "cn": "因为电视上有个有趣的节目。",
+   "key": "interesting · TV"
+  },
+  {
+   "no": 7,
+   "time": "02:54",
+   "img": "/img/p01e42/f7.jpg",
+   "t": "Use My Bicycle",
+   "q": "What did Peppa give Daddy Pig?",
+   "a": "She gave him her little bicycle to ride on.",
+   "cn": "她把自己的小自行车给他骑。",
+   "key": "bicycle · ride"
+  },
+  {
+   "no": 8,
+   "time": "03:51",
+   "img": "/img/p01e42/f8.jpg",
+   "t": "Gone for a Long Time",
+   "q": "Where had Daddy Pig been?",
+   "a": "He had been gone a long time on the little bicycle.",
+   "cn": "他骑着小自行车出去很久都没回来。",
+   "key": "gone · long time"
+  },
+  {
+   "no": 9,
+   "time": "04:23",
+   "img": "/img/p01e42/f9.jpg",
+   "t": "More Exercise Tomorrow",
+   "q": "What must Daddy Pig do tomorrow?",
+   "a": "He will have to do some more exercise tomorrow.",
+   "cn": "明天他还得继续锻炼。",
+   "key": "more exercise · tomorrow"
+  }
+ ],
+ "words": [
+  ["fit", "健康的"],
+  ["exercise", "锻炼"],
+  ["tummy", "肚子"],
+  ["press-up", "俯卧撑"],
+  ["programme", "节目"],
+  ["kitchen", "厨房"],
+  ["bicycle", "自行车"],
+  ["pedal", "踏板"],
+  ["ride", "骑"],
+  ["tired", "累的"],
+  ["hundred", "一百"],
+  ["tomorrow", "明天"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "fit, exercise, tummy, press-ups, bicycle, tired",
+  "actions": "watch, touch, push, ride, make, rest"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Daddy Gets Fit”.",
+ "ending": "In the end, Peppa will make sure Daddy keeps exercising. My favourite part is ______."
+}

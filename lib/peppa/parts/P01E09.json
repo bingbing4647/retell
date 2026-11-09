@@ -1,0 +1,124 @@
+{
+ "id": "P01E09",
+ "season": 1,
+ "episode": 9,
+ "title": "Daddy Loses his Glasses",
+ "titleCn": "猪爸爸的眼镜不见了",
+ "hook": "没有眼镜什么也看不见的猪爸爸，把家里翻了个遍，Peppa 和 George 当起了小侦探。",
+ "cover": "/img/p01e09/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:39",
+   "img": "/img/p01e09/f1.jpg",
+   "t": "He Needs Glasses",
+   "q": "Why does Daddy Pig wear glasses?",
+   "a": "He needs to wear glasses to see clearly.",
+   "cn": "他要戴眼镜才看得清楚。",
+   "key": "glasses · clearly"
+  },
+  {
+   "no": 2,
+   "time": "00:59",
+   "img": "/img/p01e09/f2.jpg",
+   "t": "Where Are They",
+   "q": "Why is it important to know where the glasses are?",
+   "a": "Because Daddy Pig cannot see anything without them.",
+   "cn": "因为没戴眼镜他就什么都看不见。",
+   "key": "important · without"
+  },
+  {
+   "no": 3,
+   "time": "01:44",
+   "img": "/img/p01e09/f3.jpg",
+   "t": "I Can't See",
+   "q": "What did Daddy Pig say?",
+   "a": "He said, “This is ridiculous! I can't see anything!”",
+   "cn": "他说：“太荒唐了！我什么都看不见！”",
+   "key": "ridiculous · see"
+  },
+  {
+   "no": 4,
+   "time": "02:00",
+   "img": "/img/p01e09/f4.jpg",
+   "t": "Can We Help",
+   "q": "What did Peppa ask Daddy?",
+   "a": "She asked, “Can we help find your glasses?”",
+   "cn": "她问：“我们能帮你找眼镜吗？”",
+   "key": "help · find"
+  },
+  {
+   "no": 5,
+   "time": "02:19",
+   "img": "/img/p01e09/f5.jpg",
+   "t": "Not in the Living Room",
+   "q": "Were the glasses in the living room?",
+   "a": "No, they were not there. They looked everywhere.",
+   "cn": "不在，他们把客厅找遍了也没有。",
+   "key": "living room · everywhere"
+  },
+  {
+   "no": 6,
+   "time": "03:04",
+   "img": "/img/p01e09/f6.jpg",
+   "t": "Not in the Bedroom",
+   "q": "Where did they look next?",
+   "a": "They looked in Mummy and Daddy Pig's bedroom.",
+   "cn": "他们又去爸爸妈妈的卧室找。",
+   "key": "bedroom · look"
+  },
+  {
+   "no": 7,
+   "time": "03:23",
+   "img": "/img/p01e09/f7.jpg",
+   "t": "Not in the Bathroom",
+   "q": "Did they find the glasses in the bathroom?",
+   "a": "No. The glasses were not there, either.",
+   "cn": "也没有，浴室里同样找不到。",
+   "key": "bathroom · either"
+  },
+  {
+   "no": 8,
+   "time": "03:46",
+   "img": "/img/p01e09/f8.jpg",
+   "t": "We Can't Find Them",
+   "q": "How did the children feel?",
+   "a": "They were sad. They could not find the glasses.",
+   "cn": "他们有点沮丧，怎么也找不到。",
+   "key": "sad · cannot"
+  },
+  {
+   "no": 9,
+   "time": "04:16",
+   "img": "/img/p01e09/f9.jpg",
+   "t": "Sitting on Them",
+   "q": "Where were the glasses at last?",
+   "a": "Daddy Pig was sitting on them all the time!",
+   "cn": "原来眼镜一直在爸爸屁股底下！",
+   "key": "sit on · at last"
+  }
+ ],
+ "words": [
+  ["glasses", "眼镜"],
+  ["clearly", "清楚地"],
+  ["ridiculous", "荒唐的"],
+  ["find", "找到"],
+  ["living room", "客厅"],
+  ["bedroom", "卧室"],
+  ["bathroom", "浴室"],
+  ["everywhere", "到处"],
+  ["either", "也不"],
+  ["sit", "坐"],
+  ["important", "重要的"],
+  ["without", "没有"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "glasses, living room, bedroom, bathroom, find, sit",
+  "actions": "wear, look, find, help, sit, laugh"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Daddy Loses his Glasses”.",
+ "ending": "In the end, Daddy Pig finds his glasses under himself. My favourite part is ______."
+}

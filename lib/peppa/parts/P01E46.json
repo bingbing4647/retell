@@ -1,0 +1,124 @@
+{
+ "id": "P01E46",
+ "season": 1,
+ "episode": 46,
+ "title": "At the Beach",
+ "titleCn": "在海边",
+ "hook": "一家人去海边玩水、堆沙堡，把猪爸爸埋在沙里，回家时把他忘在了沙滩上。",
+ "cover": "/img/p01e46/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:19",
+   "img": "/img/p01e46/f1.jpg",
+   "t": "To the Beach",
+   "q": "Where is the family going?",
+   "a": "They are going to the beach for the day.",
+   "cn": "他们今天要去海边玩。",
+   "key": "beach · going"
+  },
+  {
+   "no": 2,
+   "time": "01:16",
+   "img": "/img/p01e46/f2.jpg",
+   "t": "Too Little to Catch",
+   "q": "Why can't George catch the ball?",
+   "a": "Because he is too little to catch it well.",
+   "cn": "因为他太小了，接不好球。",
+   "key": "too little · catch"
+  },
+  {
+   "no": 3,
+   "time": "01:37",
+   "img": "/img/p01e46/f3.jpg",
+   "t": "Water-Wings",
+   "q": "What is George wearing?",
+   "a": "He is wearing water-wings so he can play in the sea.",
+   "cn": "他戴着游泳圈，好下海玩水。",
+   "key": "water-wings · sea"
+  },
+  {
+   "no": 4,
+   "time": "02:20",
+   "img": "/img/p01e46/f4.jpg",
+   "t": "I Love the Beach",
+   "q": "What did Peppa say to Daddy?",
+   "a": "She said, “Daddy, I love being at the beach.”",
+   "cn": "她说：“爸爸，我太喜欢在海边了。”",
+   "key": "love · beach"
+  },
+  {
+   "no": 5,
+   "time": "02:40",
+   "img": "/img/p01e46/f5.jpg",
+   "t": "Bury You in Sand",
+   "q": "What did the children ask Daddy Pig?",
+   "a": "They asked if they can bury him in the sand.",
+   "cn": "他们问能不能把他埋在沙子里。",
+   "key": "bury · sand"
+  },
+  {
+   "no": 6,
+   "time": "02:54",
+   "img": "/img/p01e46/f6.jpg",
+   "t": "Burying Daddy Pig",
+   "q": "What are the children doing?",
+   "a": "They are burying Daddy Pig in the sand.",
+   "cn": "他们正把猪爸爸埋进沙子里。",
+   "key": "burying · sand"
+  },
+  {
+   "no": 7,
+   "time": "03:18",
+   "img": "/img/p01e46/f7.jpg",
+   "t": "A Little Sleep",
+   "q": "What did Daddy Pig decide to do?",
+   "a": "He decided to have a little sleep on the beach.",
+   "cn": "他决定在沙滩上睡一小觉。",
+   "key": "sleep · beach"
+  },
+  {
+   "no": 8,
+   "time": "03:57",
+   "img": "/img/p01e46/f8.jpg",
+   "t": "Don't Leave Anything",
+   "q": "What did Mummy Pig say as they left?",
+   "a": "She said not to leave any of their things behind.",
+   "cn": "她说别把东西落下。",
+   "key": "leave · behind"
+  },
+  {
+   "no": 9,
+   "time": "04:16",
+   "img": "/img/p01e46/f9.jpg",
+   "t": "We Forgot Something",
+   "q": "What did the family forget?",
+   "a": "They forgot the hat, and they also forgot Daddy Pig!",
+   "cn": "他们忘了帽子，还把猪爸爸也忘了！",
+   "key": "forgot · hat"
+  }
+ ],
+ "words": [
+  ["beach", "海滩"],
+  ["ball", "球"],
+  ["water-wings", "游泳圈"],
+  ["bury", "埋"],
+  ["sand", "沙子"],
+  ["spade", "铲子"],
+  ["bucket", "桶"],
+  ["castle", "城堡"],
+  ["sunshade", "遮阳伞"],
+  ["towel", "毛巾"],
+  ["sleep", "睡觉"],
+  ["forget", "忘记"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "beach, ball, water-wings, sand, bucket, hat",
+  "actions": "play, catch, swim, bury, build, forget"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “At the Beach”.",
+ "ending": "In the end, they forget Daddy Pig on the beach. My favourite part is ______."
+}

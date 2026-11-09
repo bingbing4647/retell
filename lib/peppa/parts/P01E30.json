@@ -1,0 +1,124 @@
+{
+ "id": "P01E30",
+ "season": 1,
+ "episode": 30,
+ "title": "Babysitting",
+ "titleCn": "爷爷奶奶看孩子",
+ "hook": "爸爸妈妈晚上出门，爷爷奶奶来看孩子，结果小孩没睡，大人倒先累坏了。",
+ "cover": "/img/p01e30/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:25",
+   "img": "/img/p01e30/f1.jpg",
+   "t": "Out for the Evening",
+   "q": "What are Mummy and Daddy Pig doing tonight?",
+   "a": "They are going out for the evening, so Granny will baby-sit.",
+   "cn": "他们今晚要出门，由奶奶来看孩子。",
+   "key": "evening · baby-sit"
+  },
+  {
+   "no": 2,
+   "time": "00:55",
+   "img": "/img/p01e30/f2.jpg",
+   "t": "Go to Sleep",
+   "q": "What did Mummy Pig tell the children?",
+   "a": "She told them to go to sleep quickly.",
+   "cn": "她让他们快点睡觉。",
+   "key": "sleep · quickly"
+  },
+  {
+   "no": 3,
+   "time": "01:18",
+   "img": "/img/p01e30/f3.jpg",
+   "t": "So Good",
+   "q": "What did Granny Pig say about the children?",
+   "a": "She said Peppa and George are so good.",
+   "cn": "她说佩奇和乔治真乖。",
+   "key": "good · Granny"
+  },
+  {
+   "no": 4,
+   "time": "02:07",
+   "img": "/img/p01e30/f4.jpg",
+   "t": "Are You Awake?",
+   "q": "What did Granny Pig ask upstairs?",
+   "a": "She asked, “Peppa, George? Are you awake?”",
+   "cn": "她问：“佩奇、乔治？你们醒着吗？”",
+   "key": "awake · upstairs"
+  },
+  {
+   "no": 5,
+   "time": "02:40",
+   "img": "/img/p01e30/f5.jpg",
+   "t": "A Gardening Programme",
+   "q": "What are Granny and Grandpa watching?",
+   "a": "They are watching a gardening programme about roses.",
+   "cn": "他们在看一个讲玫瑰的园艺节目。",
+   "key": "gardening · roses"
+  },
+  {
+   "no": 6,
+   "time": "03:07",
+   "img": "/img/p01e30/f6.jpg",
+   "t": "Watch TV With You",
+   "q": "What did the children ask?",
+   "a": "They asked if they can watch TV with Granny and Grandpa.",
+   "cn": "他们问能不能和爷爷奶奶一起看电视。",
+   "key": "watch TV · with"
+  },
+  {
+   "no": 7,
+   "time": "03:23",
+   "img": "/img/p01e30/f7.jpg",
+   "t": "Very Boring",
+   "q": "What did Peppa think of the programme?",
+   "a": "She thought the programme was very boring.",
+   "cn": "她觉得这个节目很无聊。",
+   "key": "boring · programme"
+  },
+  {
+   "no": 8,
+   "time": "03:57",
+   "img": "/img/p01e30/f8.jpg",
+   "t": "A Bit Tired",
+   "q": "What did they play with Grandpa Pig?",
+   "a": "They played catch, so Grandpa Pig is a bit tired.",
+   "cn": "他们玩了抓人，所以猪爷爷有点累了。",
+   "key": "tired · catch"
+  },
+  {
+   "no": 9,
+   "time": "04:21",
+   "img": "/img/p01e30/f9.jpg",
+   "t": "Back Home",
+   "q": "What did the parents find when they came home?",
+   "a": "They came back home and found the little piggies asleep.",
+   "cn": "他们回到家，发现小猪们都睡着了。",
+   "key": "back home · asleep"
+  }
+ ],
+ "words": [
+  ["baby-sit", "看孩子"],
+  ["evening", "晚上"],
+  ["sleep", "睡觉"],
+  ["awake", "醒着的"],
+  ["upstairs", "楼上"],
+  ["gardening", "园艺"],
+  ["rose", "玫瑰"],
+  ["boring", "无聊的"],
+  ["programme", "节目"],
+  ["catch", "抓人游戏"],
+  ["tired", "累的"],
+  ["asleep", "睡着的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "evening, baby-sit, sleep, awake, programme, tired",
+  "actions": "go out, sleep, watch, play, run, come back"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Babysitting”.",
+ "ending": "In the end, the little piggies are asleep. My favourite part is ______."
+}

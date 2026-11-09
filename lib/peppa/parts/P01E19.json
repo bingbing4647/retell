@@ -1,0 +1,124 @@
+{
+ "id": "P01E19",
+ "season": 1,
+ "episode": 19,
+ "title": "New Shoes",
+ "titleCn": "新鞋子",
+ "hook": "Peppa 的旧鞋找不到了，于是有了第一双红皮鞋——喜欢到什么程度？睡觉都不肯脱。",
+ "cover": "/img/p01e19/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:25",
+   "img": "/img/p01e19/f1.jpg",
+   "t": "Playing Outside",
+   "q": "What had Peppa and George been doing?",
+   "a": "They had been playing in the garden.",
+   "cn": "他们一直在花园里玩。",
+   "key": "playing · garden"
+  },
+  {
+   "no": 2,
+   "time": "00:52",
+   "img": "/img/p01e19/f2.jpg",
+   "t": "Shoes Are Missing",
+   "q": "What was the problem?",
+   "a": "Peppa's shoes were not there. They were lost.",
+   "cn": "Peppa 的鞋不见了。",
+   "key": "shoes · missing"
+  },
+  {
+   "no": 3,
+   "time": "01:07",
+   "img": "/img/p01e19/f3.jpg",
+   "t": "Looked Everywhere",
+   "q": "Could they find the shoes?",
+   "a": "No. They looked everywhere but could not find them.",
+   "cn": "他们把到处都找遍了，还是没找到。",
+   "key": "everywhere · cannot"
+  },
+  {
+   "no": 4,
+   "time": "01:34",
+   "img": "/img/p01e19/f4.jpg",
+   "t": "The Shoe Shop",
+   "q": "Where did Mummy take Peppa?",
+   "a": "She took her to Miss Rabbit's shoe shop.",
+   "cn": "她带 Peppa 去了兔子小姐的鞋店。",
+   "key": "shoe shop · take"
+  },
+  {
+   "no": 5,
+   "time": "02:05",
+   "img": "/img/p01e19/f5.jpg",
+   "t": "Playing Draughts",
+   "q": "What were George and Daddy doing?",
+   "a": "They were playing draughts at home.",
+   "cn": "他们在家里玩跳棋。",
+   "key": "draughts · play"
+  },
+  {
+   "no": 6,
+   "time": "02:31",
+   "img": "/img/p01e19/f6.jpg",
+   "t": "I Like Them So Much",
+   "q": "What did Peppa say about her new shoes?",
+   "a": "She said, “I like my new shoes so much.”",
+   "cn": "她说：“我太喜欢我的新鞋了。”",
+   "key": "new shoes · like"
+  },
+  {
+   "no": 7,
+   "time": "02:58",
+   "img": "/img/p01e19/f7.jpg",
+   "t": "Won't Take Them Off",
+   "q": "What did Mummy Pig ask Peppa?",
+   "a": "She asked if Peppa wanted to take her shoes off.",
+   "cn": "她问 Peppa 要不要把鞋脱下来。",
+   "key": "take off · shoes"
+  },
+  {
+   "no": 8,
+   "time": "03:27",
+   "img": "/img/p01e19/f8.jpg",
+   "t": "Daddy's Boots",
+   "q": "What was Daddy Pig wearing?",
+   "a": "He was wearing his big boots.",
+   "cn": "他穿着他的大靴子。",
+   "key": "boots · wearing"
+  },
+  {
+   "no": 9,
+   "time": "04:03",
+   "img": "/img/p01e19/f9.jpg",
+   "t": "Jumping in Puddles",
+   "q": "What do Mummy and Daddy love?",
+   "a": "They love jumping up and down in muddy puddles.",
+   "cn": "他们喜欢在泥坑里跳来跳去。",
+   "key": "jump · muddy puddles"
+  }
+ ],
+ "words": [
+  ["shoe", "鞋子"],
+  ["shop", "商店"],
+  ["new", "新的"],
+  ["lost", "丢了的"],
+  ["everywhere", "到处"],
+  ["boots", "靴子"],
+  ["wear", "穿着"],
+  ["take off", "脱下"],
+  ["puddle", "水坑"],
+  ["muddy", "泥泞的"],
+  ["draughts", "跳棋"],
+  ["red", "红色的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "shoe, shop, new, boots, wear, puddle",
+  "actions": "look, buy, wear, jump, take off, laugh"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “New Shoes”.",
+ "ending": "In the end, the whole family jumps in muddy puddles in their boots. My favourite part is ______."
+}

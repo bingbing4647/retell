@@ -1,0 +1,124 @@
+{
+ "id": "P01E38",
+ "season": 1,
+ "episode": 38,
+ "title": "Fancy Dress Party",
+ "titleCn": "化装舞会",
+ "hook": "佩奇家办化装舞会，朋友们扮成护士、胡萝卜、女巫，佩奇当评委却把奖给了自己。",
+ "cover": "/img/p01e38/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:23",
+   "img": "/img/p01e38/f1.jpg",
+   "t": "A Fancy Dress Party",
+   "q": "What kind of party are they having?",
+   "a": "They are having a fancy dress party with all their friends.",
+   "cn": "他们和所有朋友一起办化装舞会。",
+   "key": "fancy dress · party"
+  },
+  {
+   "no": 2,
+   "time": "00:53",
+   "img": "/img/p01e38/f2.jpg",
+   "t": "The Nurse Has Arrived",
+   "q": "Who came to the party as a nurse?",
+   "a": "A nurse has arrived, and Daddy Pig says he is glad.",
+   "cn": "来了一位护士，猪爸爸说他很高兴。",
+   "key": "nurse · arrived"
+  },
+  {
+   "no": 3,
+   "time": "01:22",
+   "img": "/img/p01e38/f3.jpg",
+   "t": "What Are You?",
+   "q": "What did they ask Rebecca Rabbit?",
+   "a": "They asked her what she is dressed as.",
+   "cn": "他们问她扮的是什么。",
+   "key": "Rebecca Rabbit · what"
+  },
+  {
+   "no": 4,
+   "time": "02:00",
+   "img": "/img/p01e38/f4.jpg",
+   "t": "Dressed as a Carrot",
+   "q": "Why is everyone surprised at Rebecca?",
+   "a": "Because she is dressed as a carrot, and she says woof!",
+   "cn": "因为她扮成了一根胡萝卜，还“汪”了一声。",
+   "key": "carrot · dressed"
+  },
+  {
+   "no": 5,
+   "time": "02:35",
+   "img": "/img/p01e38/f5.jpg",
+   "t": "Turn You into a Frog",
+   "q": "What did the little witch say?",
+   "a": "She said, “I can turn you into a frog.”",
+   "cn": "她说：“我能把你变成青蛙。”",
+   "key": "turn · frog"
+  },
+  {
+   "no": 6,
+   "time": "03:13",
+   "img": "/img/p01e38/f6.jpg",
+   "t": "What Is a Judge?",
+   "q": "What did Peppa ask Daddy Pig?",
+   "a": "She asked him what a judge is.",
+   "cn": "她问他“评委”是什么。",
+   "key": "judge · what is"
+  },
+  {
+   "no": 7,
+   "time": "03:39",
+   "img": "/img/p01e38/f7.jpg",
+   "t": "I'm a Witch",
+   "q": "What is Suzy dressed as?",
+   "a": "Suzy is a witch, and she says she can turn you into a frog.",
+   "cn": "苏西扮成女巫，说能把人变成青蛙。",
+   "key": "witch · Suzy"
+  },
+  {
+   "no": 8,
+   "time": "04:06",
+   "img": "/img/p01e38/f8.jpg",
+   "t": "A Scary Dinosaur",
+   "q": "Who is a scary dinosaur?",
+   "a": "Peppa's little brother George is a scary dinosaur.",
+   "cn": "佩奇的弟弟乔治是一只可怕的恐龙。",
+   "key": "scary dinosaur · George"
+  },
+  {
+   "no": 9,
+   "time": "04:18",
+   "img": "/img/p01e38/f9.jpg",
+   "t": "And the Winner Is…",
+   "q": "Who is the judge of the best costume?",
+   "a": "Peppa is the judge, and she has to pick the winner.",
+   "cn": "佩奇当评委，得由她来选出最好的服装。",
+   "key": "winner · judge"
+  }
+ ],
+ "words": [
+  ["party", "聚会"],
+  ["costume", "服装"],
+  ["fairy", "仙女"],
+  ["princess", "公主"],
+  ["nurse", "护士"],
+  ["carrot", "胡萝卜"],
+  ["witch", "女巫"],
+  ["frog", "青蛙"],
+  ["dinosaur", "恐龙"],
+  ["judge", "评委"],
+  ["winner", "获胜者"],
+  ["scary", "可怕的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "party, costume, nurse, carrot, witch, winner",
+  "actions": "dress up, arrive, laugh, turn, choose, win"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Fancy Dress Party”.",
+ "ending": "In the end, Peppa has to choose a winner. My favourite part is ______."
+}

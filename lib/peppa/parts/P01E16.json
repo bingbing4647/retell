@@ -1,0 +1,124 @@
+{
+ "id": "P01E16",
+ "season": 1,
+ "episode": 16,
+ "title": "Musical Instruments",
+ "titleCn": "乐器",
+ "hook": "阁楼里翻出一箱旧乐器，一人一件，家里立刻热闹得不行。",
+ "cover": "/img/p01e16/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:27",
+   "img": "/img/p01e16/f1.jpg",
+   "t": "Tidying the House",
+   "q": "What had Mummy and Daddy Pig been doing?",
+   "a": "They had been tidying the house all morning.",
+   "cn": "他们整理了一上午的房子。",
+   "key": "tidy · house"
+  },
+  {
+   "no": 2,
+   "time": "00:45",
+   "img": "/img/p01e16/f2.jpg",
+   "t": "Old and Dusty",
+   "q": "What were the instruments like?",
+   "a": "They were a bit old and dusty.",
+   "cn": "这些乐器有点旧，还落了灰。",
+   "key": "old · dusty"
+  },
+  {
+   "no": 3,
+   "time": "01:19",
+   "img": "/img/p01e16/f3.jpg",
+   "t": "Can I Play",
+   "q": "What did Peppa ask Mummy?",
+   "a": "She asked, “Mummy, can I play the violin?”",
+   "cn": "她问：“妈妈，我可以拉小提琴吗？”",
+   "key": "violin · play"
+  },
+  {
+   "no": 4,
+   "time": "01:37",
+   "img": "/img/p01e16/f4.jpg",
+   "t": "Hold It Like This",
+   "q": "What did Peppa teach George?",
+   "a": "She showed him how to hold the violin.",
+   "cn": "她教 George 怎么拿小提琴。",
+   "key": "hold · violin"
+  },
+  {
+   "no": 5,
+   "time": "02:05",
+   "img": "/img/p01e16/f5.jpg",
+   "t": "The Old Accordion",
+   "q": "Whose accordion was it?",
+   "a": "It was Daddy Pig's old accordion.",
+   "cn": "那是猪爸爸的旧手风琴。",
+   "key": "accordion · old"
+  },
+  {
+   "no": 6,
+   "time": "02:28",
+   "img": "/img/p01e16/f6.jpg",
+   "t": "Almost as Difficult",
+   "q": "What did Peppa say about the accordion?",
+   "a": "She said it is almost as difficult as her drum.",
+   "cn": "她说手风琴和她的鼓一样难。",
+   "key": "difficult · drum"
+  },
+  {
+   "no": 7,
+   "time": "02:56",
+   "img": "/img/p01e16/f7.jpg",
+   "t": "Blow Very Hard",
+   "q": "What do you have to do to play it?",
+   "a": "You have to blow it very hard.",
+   "cn": "要很用力地吹才行。",
+   "key": "blow · hard"
+  },
+  {
+   "no": 8,
+   "time": "03:30",
+   "img": "/img/p01e16/f8.jpg",
+   "t": "Impossible to Play",
+   "q": "Could anyone play the accordion?",
+   "a": "No. Peppa said it was impossible to play.",
+   "cn": "没人会，Peppa 说根本吹不响。",
+   "key": "impossible · play"
+  },
+  {
+   "no": 9,
+   "time": "04:11",
+   "img": "/img/p01e16/f9.jpg",
+   "t": "George Blows the Horn",
+   "q": "What did George do at the end?",
+   "a": "He blew the horn and made a big sound.",
+   "cn": "他吹响了号，声音特别大。",
+   "key": "horn · blow"
+  }
+ ],
+ "words": [
+  ["violin", "小提琴"],
+  ["drum", "鼓"],
+  ["accordion", "手风琴"],
+  ["horn", "号角"],
+  ["musical", "音乐的"],
+  ["instrument", "乐器"],
+  ["dusty", "落灰的"],
+  ["tidy", "整理"],
+  ["hold", "拿"],
+  ["blow", "吹"],
+  ["difficult", "难的"],
+  ["impossible", "不可能的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "violin, drum, accordion, horn, blow, difficult",
+  "actions": "tidy, find, hold, play, blow, laugh"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Musical Instruments”.",
+ "ending": "In the end, George blows the horn and everyone is surprised. My favourite part is ______."
+}

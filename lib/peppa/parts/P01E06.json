@@ -1,0 +1,124 @@
+{
+ "id": "P01E06",
+ "season": 1,
+ "episode": 6,
+ "title": "The Playgroup",
+ "titleCn": "幼儿园",
+ "hook": "Peppa 带 George 第一次去幼儿园，一开始嫌他小，后来发现弟弟很厉害。",
+ "cover": "/img/p01e06/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:27",
+   "img": "/img/p01e06/f1.jpg",
+   "t": "Off to Playgroup",
+   "q": "Where were Peppa and George going?",
+   "a": "Daddy Pig was taking them to the playgroup.",
+   "cn": "猪爸爸送他们去幼儿园。",
+   "key": "playgroup · take"
+  },
+  {
+   "no": 2,
+   "time": "00:50",
+   "img": "/img/p01e06/f2.jpg",
+   "t": "Too Little",
+   "q": "What did Peppa want to do?",
+   "a": "She wanted to play with the big children.",
+   "cn": "她想和大孩子一起玩。",
+   "key": "big · children"
+  },
+  {
+   "no": 3,
+   "time": "01:49",
+   "img": "/img/p01e06/f3.jpg",
+   "t": "A Little Brother",
+   "q": "What did Suzy Sheep wish for?",
+   "a": "She wished she had a little brother like George.",
+   "cn": "她希望自己也有个像 George 一样的弟弟。",
+   "key": "wish · brother"
+  },
+  {
+   "no": 4,
+   "time": "02:02",
+   "img": "/img/p01e06/f4.jpg",
+   "t": "Dine-Saw!",
+   "q": "What did George do with his dinosaur?",
+   "a": "He held it up and roared, “Grrr! Dine-saw!”",
+   "cn": "他举着恐龙，嗷嗷地叫。",
+   "key": "dinosaur · roar"
+  },
+  {
+   "no": 5,
+   "time": "02:22",
+   "img": "/img/p01e06/f5.jpg",
+   "t": "He Is Brilliant",
+   "q": "What did Peppa say about George?",
+   "a": "She said, “George is my brother. He's brilliant.”",
+   "cn": "她说：“George 是我弟弟，他很棒。”",
+   "key": "brilliant · brother"
+  },
+  {
+   "no": 6,
+   "time": "02:49",
+   "img": "/img/p01e06/f6.jpg",
+   "t": "Paint a Flower",
+   "q": "What did Peppa teach George?",
+   "a": "She taught him how to paint a flower.",
+   "cn": "她教他画一朵花。",
+   "key": "paint · flower"
+  },
+  {
+   "no": 7,
+   "time": "03:31",
+   "img": "/img/p01e06/f7.jpg",
+   "t": "What Have We Here",
+   "q": "What did Madame Gazelle say?",
+   "a": "She looked at the pictures and said, “What do we have here?”",
+   "cn": "羚羊老师看着画问：“你们画了什么呀？”",
+   "key": "picture · look"
+  },
+  {
+   "no": 8,
+   "time": "04:06",
+   "img": "/img/p01e06/f8.jpg",
+   "t": "Up on the Wall",
+   "q": "Where did their pictures go?",
+   "a": "Madame Gazelle said they should go on the wall.",
+   "cn": "老师说这两幅画要挂到墙上。",
+   "key": "wall · picture"
+  },
+  {
+   "no": 9,
+   "time": "04:28",
+   "img": "/img/p01e06/f9.jpg",
+   "t": "Paint a Dinosaur",
+   "q": "What did Madame Gazelle ask George to do?",
+   "a": "She asked him to show everyone how to paint a dinosaur.",
+   "cn": "她请他教大家画恐龙。",
+   "key": "show · dinosaur"
+  }
+ ],
+ "words": [
+  ["playgroup", "幼儿园"],
+  ["brother", "弟弟"],
+  ["brilliant", "很棒的"],
+  ["wish", "希望"],
+  ["dinosaur", "恐龙"],
+  ["roar", "吼叫"],
+  ["paint", "画画"],
+  ["flower", "花"],
+  ["picture", "图画"],
+  ["wall", "墙"],
+  ["teach", "教"],
+  ["show", "示范"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "playgroup, brother, dinosaur, paint, wall, show",
+  "actions": "go, wish, roar, teach, look, show"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “The Playgroup”.",
+ "ending": "In the end, George shows everyone how to paint a dinosaur. My favourite part is ______."
+}

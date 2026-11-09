@@ -1,0 +1,124 @@
+{
+ "id": "P01E23",
+ "season": 1,
+ "episode": 23,
+ "title": "The New Car",
+ "titleCn": "新车",
+ "hook": "家里的红车送去修，一家人借了一辆蓝色新车，功能太多反而手忙脚乱。",
+ "cover": "/img/p01e23/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:27",
+   "img": "/img/p01e23/f1.jpg",
+   "t": "A Drive in the Red Car",
+   "q": "What were they doing?",
+   "a": "They were going for a drive in their red car.",
+   "cn": "他们开着红车出门。",
+   "key": "drive · red car"
+  },
+  {
+   "no": 2,
+   "time": "00:54",
+   "img": "/img/p01e23/f2.jpg",
+   "t": "Our Car Loves Us",
+   "q": "What did Daddy Pig say about the car?",
+   "a": "He said, “Our car loves us, too! Don't you?”",
+   "cn": "他说：“我们的车也爱我们，对吧？”",
+   "key": "car · love"
+  },
+  {
+   "no": 3,
+   "time": "01:27",
+   "img": "/img/p01e23/f3.jpg",
+   "t": "Granddad's Garage",
+   "q": "Who mends the cars?",
+   "a": "Granddad Dog runs the garage. He is good at mending cars.",
+   "cn": "狗爷爷开修车厂，很会修车。",
+   "key": "garage · mend"
+  },
+  {
+   "no": 4,
+   "time": "01:58",
+   "img": "/img/p01e23/f4.jpg",
+   "t": "Roof Down",
+   "q": "What did the man ask them?",
+   "a": "He asked, “Would you like the roof down?”",
+   "cn": "他问要不要把车顶打开。",
+   "key": "roof · down"
+  },
+  {
+   "no": 5,
+   "time": "02:21",
+   "img": "/img/p01e23/f5.jpg",
+   "t": "The Blue Car",
+   "q": "Did the family like the new car?",
+   "a": "Yes, they liked the new blue car very much.",
+   "cn": "他们很喜欢这辆新蓝车。",
+   "key": "new · blue"
+  },
+  {
+   "no": 6,
+   "time": "02:37",
+   "img": "/img/p01e23/f6.jpg",
+   "t": "Magic Windows",
+   "q": "What did Peppa ask Daddy?",
+   "a": "She said, “Daddy! Make the magic windows go down.”",
+   "cn": "她说：“爸爸！让神奇的窗子降下来。”",
+   "key": "windows · down"
+  },
+  {
+   "no": 7,
+   "time": "03:13",
+   "img": "/img/p01e23/f7.jpg",
+   "t": "Which Button",
+   "q": "What did Daddy Pig wonder?",
+   "a": "He wondered which button closes the roof.",
+   "cn": "他在想哪个按钮才能关车顶。",
+   "key": "button · roof"
+  },
+  {
+   "no": 8,
+   "time": "03:56",
+   "img": "/img/p01e23/f8.jpg",
+   "t": "Open It Again",
+   "q": "What did the children ask?",
+   "a": "They asked, “Can we open the roof again?”",
+   "cn": "他们问能不能再打开车顶。",
+   "key": "open · again"
+  },
+  {
+   "no": 9,
+   "time": "04:32",
+   "img": "/img/p01e23/f9.jpg",
+   "t": "I Like the Old One",
+   "q": "Which car did Peppa like better?",
+   "a": "She said, “I like our old car better.”",
+   "cn": "她说还是更喜欢我们自己的旧车。",
+   "key": "old car · better"
+  }
+ ],
+ "words": [
+  ["car", "汽车"],
+  ["drive", "开车"],
+  ["garage", "修车厂"],
+  ["mend", "修理"],
+  ["roof", "车顶"],
+  ["button", "按钮"],
+  ["window", "窗户"],
+  ["new", "新的"],
+  ["old", "旧的"],
+  ["better", "更好"],
+  ["magic", "神奇的"],
+  ["blue", "蓝色的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "car, drive, garage, roof, button, better",
+  "actions": "drive, mend, press, open, close, like"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “The New Car”.",
+ "ending": "In the end, Peppa says she likes their old car better. My favourite part is ______."
+}

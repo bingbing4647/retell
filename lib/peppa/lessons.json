@@ -1,374 +1,8162 @@
 {
-  "P01E01": {
-    "id": "P01E01",
-    "season": 1,
-    "episode": 1,
-    "title": "Muddy Puddles",
-    "titleCn": "泥坑",
-    "hook": "下雨天不能出门，雨一停 Peppa 和 George 就冲进花园，跳进一个又一个泥坑。",
-    "cover": "/img/p01e01/f1.jpg",
-    "wide": true,
-    "qa": true,
-    "cells": [
-      {
-        "no": 1,
-        "time": "00:28",
-        "img": "/img/p01e01/f1.jpg",
-        "t": "A Rainy Day",
-        "q": "What was the weather like?",
-        "a": "It was rainy. They could not play outside.",
-        "cn": "那天下雨，他们不能在外面玩。",
-        "key": "rainy · outside"
-      },
-      {
-        "no": 2,
-        "time": "00:36",
-        "img": "/img/p01e01/f2.jpg",
-        "t": "Can We Go Out?",
-        "q": "What did Peppa ask Daddy?",
-        "a": "She asked, “Can we go out to play?”",
-        "cn": "她问爸爸能不能出去玩。",
-        "key": "ask · go out"
-      },
-      {
-        "no": 3,
-        "time": "00:52",
-        "img": "/img/p01e01/f3.jpg",
-        "t": "Splash! Splash!",
-        "q": "What did Peppa love doing?",
-        "a": "She loved jumping in muddy puddles.",
-        "cn": "她最爱在泥坑里跳。",
-        "key": "love · jump"
-      },
-      {
-        "no": 4,
-        "time": "01:04",
-        "img": "/img/p01e01/f4.jpg",
-        "t": "Wear Your Boots",
-        "q": "What did Mummy say?",
-        "a": "She said, “You must wear your boots.”",
-        "cn": "妈妈说：“你必须穿上雨靴。”",
-        "key": "say · boots"
-      },
-      {
-        "no": 5,
-        "time": "01:31",
-        "img": "/img/p01e01/f5.jpg",
-        "t": "Look After George",
-        "q": "Who did Peppa look after?",
-        "a": "She looked after her little brother, George.",
-        "cn": "她照顾弟弟 George。",
-        "key": "look after · brother"
-      },
-      {
-        "no": 6,
-        "time": "02:11",
-        "img": "/img/p01e01/f6.jpg",
-        "t": "A Really Big Puddle",
-        "q": "What did Peppa find in the garden?",
-        "a": "She found a really big puddle.",
-        "cn": "她在花园里找到一个超大的泥坑。",
-        "key": "find · big puddle"
-      },
-      {
-        "no": 7,
-        "time": "02:22",
-        "img": "/img/p01e01/f7.jpg",
-        "t": "Is It Safe?",
-        "q": "What did Peppa check first?",
-        "a": "She checked if the puddle was safe for George.",
-        "cn": "她先确认这个泥坑对弟弟安不安全。",
-        "key": "check · safe"
-      },
-      {
-        "no": 8,
-        "time": "03:34",
-        "img": "/img/p01e01/f8.jpg",
-        "t": "Guess What, Daddy",
-        "q": "What did Daddy guess?",
-        "a": "He guessed they jumped in muddy puddles.",
-        "cn": "爸爸猜到他们去跳泥坑了。",
-        "key": "guess · muddy puddles"
-      },
-      {
-        "no": 9,
-        "time": "04:15",
-        "img": "/img/p01e01/f9.jpg",
-        "t": "Everyone Jumps",
-        "q": "What did the whole family do at last?",
-        "a": "They all jumped in muddy puddles.",
-        "cn": "最后一家人都跳进了泥坑。",
-        "key": "everyone · at last"
-      }
-    ],
-    "words": [
-      ["rain", "下雨"],
-      ["puddle", "水坑"],
-      ["muddy", "泥泞的"],
-      ["boots", "雨靴"],
-      ["jump", "跳"],
-      ["splash", "溅水"],
-      ["outside", "外面"],
-      ["garden", "花园"],
-      ["safe", "安全的"],
-      ["look after", "照顾"],
-      ["little brother", "弟弟"],
-      ["everyone", "每个人"]
-    ],
-    "helper": {
-      "order": "First / Next / Then / After that / Finally",
-      "keywords": "rain, puddle, muddy, boots, garden, safe",
-      "actions": "jump, splash, check, wear, look after"
-    },
-    "opener": "Today I watched Peppa Pig. This episode is “Muddy Puddles”.",
-    "ending": "In the end, the whole family jumps in muddy puddles together. My favourite part is ______."
+ "P01E01": {
+  "id": "P01E01",
+  "season": 1,
+  "episode": 1,
+  "title": "Muddy Puddles",
+  "titleCn": "泥坑",
+  "hook": "下雨天不能出门，雨一停 Peppa 和 George 就冲进花园，跳进一个又一个泥坑。",
+  "cover": "/img/p01e01/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:28",
+    "img": "/img/p01e01/f1.jpg",
+    "t": "A Rainy Day",
+    "q": "What was the weather like?",
+    "a": "It was rainy. They could not play outside.",
+    "cn": "那天下雨，他们不能在外面玩。",
+    "key": "rainy · outside"
+   },
+   {
+    "no": 2,
+    "time": "00:36",
+    "img": "/img/p01e01/f2.jpg",
+    "t": "Can We Go Out?",
+    "q": "What did Peppa ask Daddy?",
+    "a": "She asked, “Can we go out to play?”",
+    "cn": "她问爸爸能不能出去玩。",
+    "key": "ask · go out"
+   },
+   {
+    "no": 3,
+    "time": "00:52",
+    "img": "/img/p01e01/f3.jpg",
+    "t": "Splash! Splash!",
+    "q": "What did Peppa love doing?",
+    "a": "She loved jumping in muddy puddles.",
+    "cn": "她最爱在泥坑里跳。",
+    "key": "love · jump"
+   },
+   {
+    "no": 4,
+    "time": "01:04",
+    "img": "/img/p01e01/f4.jpg",
+    "t": "Wear Your Boots",
+    "q": "What did Mummy say?",
+    "a": "She said, “You must wear your boots.”",
+    "cn": "妈妈说：“你必须穿上雨靴。”",
+    "key": "say · boots"
+   },
+   {
+    "no": 5,
+    "time": "01:31",
+    "img": "/img/p01e01/f5.jpg",
+    "t": "Look After George",
+    "q": "Who did Peppa look after?",
+    "a": "She looked after her little brother, George.",
+    "cn": "她照顾弟弟 George。",
+    "key": "look after · brother"
+   },
+   {
+    "no": 6,
+    "time": "02:11",
+    "img": "/img/p01e01/f6.jpg",
+    "t": "A Really Big Puddle",
+    "q": "What did Peppa find in the garden?",
+    "a": "She found a really big puddle.",
+    "cn": "她在花园里找到一个超大的泥坑。",
+    "key": "find · big puddle"
+   },
+   {
+    "no": 7,
+    "time": "02:22",
+    "img": "/img/p01e01/f7.jpg",
+    "t": "Is It Safe?",
+    "q": "What did Peppa check first?",
+    "a": "She checked if the puddle was safe for George.",
+    "cn": "她先确认这个泥坑对弟弟安不安全。",
+    "key": "check · safe"
+   },
+   {
+    "no": 8,
+    "time": "03:34",
+    "img": "/img/p01e01/f8.jpg",
+    "t": "Guess What, Daddy",
+    "q": "What did Daddy guess?",
+    "a": "He guessed they jumped in muddy puddles.",
+    "cn": "爸爸猜到他们去跳泥坑了。",
+    "key": "guess · muddy puddles"
+   },
+   {
+    "no": 9,
+    "time": "04:15",
+    "img": "/img/p01e01/f9.jpg",
+    "t": "Everyone Jumps",
+    "q": "What did the whole family do at last?",
+    "a": "They all jumped in muddy puddles.",
+    "cn": "最后一家人都跳进了泥坑。",
+    "key": "everyone · at last"
+   }
+  ],
+  "words": [
+   [
+    "rain",
+    "下雨"
+   ],
+   [
+    "puddle",
+    "水坑"
+   ],
+   [
+    "muddy",
+    "泥泞的"
+   ],
+   [
+    "boots",
+    "雨靴"
+   ],
+   [
+    "jump",
+    "跳"
+   ],
+   [
+    "splash",
+    "溅水"
+   ],
+   [
+    "outside",
+    "外面"
+   ],
+   [
+    "garden",
+    "花园"
+   ],
+   [
+    "safe",
+    "安全的"
+   ],
+   [
+    "look after",
+    "照顾"
+   ],
+   [
+    "little brother",
+    "弟弟"
+   ],
+   [
+    "everyone",
+    "每个人"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "rain, puddle, muddy, boots, garden, safe",
+   "actions": "jump, splash, check, wear, look after"
   },
-  "P01E02": {
-    "id": "P01E02",
-    "season": 1,
-    "episode": 2,
-    "title": "Mr Dinosaur Is Lost",
-    "titleCn": "恐龙先生不见了",
-    "hook": "George 最爱的玩具恐龙先生不见了，Peppa 第一次当侦探，要把它找回来。",
-    "cover": "/img/p01e02/f1.jpg",
-    "wide": true,
-    "qa": true,
-    "cells": [
-      {
-        "no": 1,
-        "time": "00:28",
-        "img": "/img/p01e02/f1.jpg",
-        "t": "Favourite Toy",
-        "q": "What was George's favourite toy?",
-        "a": "It was Mr. Dinosaur.",
-        "cn": "是恐龙先生。",
-        "key": "favourite · toy"
-      },
-      {
-        "no": 2,
-        "time": "00:38",
-        "img": "/img/p01e02/f2.jpg",
-        "t": "Grrr! So Scary",
-        "q": "What did George like to do?",
-        "a": "He liked to scare Peppa with Mr. Dinosaur.",
-        "cn": "他喜欢用恐龙先生吓 Peppa。",
-        "key": "like · scare"
-      },
-      {
-        "no": 3,
-        "time": "00:52",
-        "img": "/img/p01e02/f3.jpg",
-        "t": "Dinosaur at Supper",
-        "q": "Where did Mr. Dinosaur sit at suppertime?",
-        "a": "It sat next to George.",
-        "cn": "它坐在 George 旁边。",
-        "key": "suppertime · next to"
-      },
-      {
-        "no": 4,
-        "time": "01:08",
-        "img": "/img/p01e02/f4.jpg",
-        "t": "Dinosaur in the Bath",
-        "q": "Did George take Mr. Dinosaur to the bath?",
-        "a": "Yes. He shared his bath with him.",
-        "cn": "是的，他和恐龙先生一起洗澡。",
-        "key": "bath · share"
-      },
-      {
-        "no": 5,
-        "time": "01:35",
-        "img": "/img/p01e02/f5.jpg",
-        "t": "Throw It Up High",
-        "q": "What was George's favourite game?",
-        "a": "He threw Mr. Dinosaur up in the air.",
-        "cn": "他把恐龙先生往天上扔。",
-        "key": "throw · up in the air"
-      },
-      {
-        "no": 6,
-        "time": "02:12",
-        "img": "/img/p01e02/f6.jpg",
-        "t": "Oh No, He Is Lost",
-        "q": "How did George feel?",
-        "a": "He was sad and cried. He lost Mr. Dinosaur.",
-        "cn": "他很难过，哭了起来——恐龙先生丢了。",
-        "key": "sad · lost"
-      },
-      {
-        "no": 7,
-        "time": "02:36",
-        "img": "/img/p01e02/f7.jpg",
-        "t": "Peppa the Detective",
-        "q": "Who was the detective?",
-        "a": "Peppa was. She said, “I will help you find him.”",
-        "cn": "是 Peppa。她说要帮弟弟找到它。",
-        "key": "detective · help"
-      },
-      {
-        "no": 8,
-        "time": "03:15",
-        "img": "/img/p01e02/f8.jpg",
-        "t": "Not in the Bath",
-        "q": "Was Mr. Dinosaur in the bath?",
-        "a": "No. He was not in the bath.",
-        "cn": "不在，浴缸里没有他。",
-        "key": "bath · not there"
-      },
-      {
-        "no": 9,
-        "time": "04:08",
-        "img": "/img/p01e02/f9.jpg",
-        "t": "There He Is!",
-        "q": "Where did they find Mr. Dinosaur?",
-        "a": "They found him high up in the tree.",
-        "cn": "他们发现他高高地挂在树上。",
-        "key": "find · tree"
-      }
-    ],
-    "words": [
-      ["dinosaur", "恐龙"],
-      ["toy", "玩具"],
-      ["favourite", "最喜欢的"],
-      ["scare", "吓唬"],
-      ["supper", "晚饭"],
-      ["bath", "洗澡"],
-      ["throw", "扔"],
-      ["catch", "接住"],
-      ["lost", "弄丢了"],
-      ["detective", "侦探"],
-      ["find", "找到"],
-      ["tree", "树"]
-    ],
-    "helper": {
-      "order": "First / Next / Then / After that / Finally",
-      "keywords": "dinosaur, toy, supper, bath, detective, tree",
-      "actions": "throw, catch, scare, cry, guess, find"
-    },
-    "opener": "Today I watched Peppa Pig. This episode is “Mr Dinosaur Is Lost”.",
-    "ending": "In the end, Peppa finds Mr. Dinosaur in the tree. My favourite part is ______."
+  "opener": "Today I watched Peppa Pig. This episode is “Muddy Puddles”.",
+  "ending": "In the end, the whole family jumps in muddy puddles together. My favourite part is ______."
+ },
+ "P01E02": {
+  "id": "P01E02",
+  "season": 1,
+  "episode": 2,
+  "title": "Mr Dinosaur Is Lost",
+  "titleCn": "恐龙先生不见了",
+  "hook": "George 最爱的玩具恐龙先生不见了，Peppa 第一次当侦探，要把它找回来。",
+  "cover": "/img/p01e02/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:28",
+    "img": "/img/p01e02/f1.jpg",
+    "t": "Favourite Toy",
+    "q": "What was George's favourite toy?",
+    "a": "It was Mr. Dinosaur.",
+    "cn": "是恐龙先生。",
+    "key": "favourite · toy"
+   },
+   {
+    "no": 2,
+    "time": "00:38",
+    "img": "/img/p01e02/f2.jpg",
+    "t": "Grrr! So Scary",
+    "q": "What did George like to do?",
+    "a": "He liked to scare Peppa with Mr. Dinosaur.",
+    "cn": "他喜欢用恐龙先生吓 Peppa。",
+    "key": "like · scare"
+   },
+   {
+    "no": 3,
+    "time": "00:52",
+    "img": "/img/p01e02/f3.jpg",
+    "t": "Dinosaur at Supper",
+    "q": "Where did Mr. Dinosaur sit at suppertime?",
+    "a": "It sat next to George.",
+    "cn": "它坐在 George 旁边。",
+    "key": "suppertime · next to"
+   },
+   {
+    "no": 4,
+    "time": "01:08",
+    "img": "/img/p01e02/f4.jpg",
+    "t": "Dinosaur in the Bath",
+    "q": "Did George take Mr. Dinosaur to the bath?",
+    "a": "Yes. He shared his bath with him.",
+    "cn": "是的，他和恐龙先生一起洗澡。",
+    "key": "bath · share"
+   },
+   {
+    "no": 5,
+    "time": "01:35",
+    "img": "/img/p01e02/f5.jpg",
+    "t": "Throw It Up High",
+    "q": "What was George's favourite game?",
+    "a": "He threw Mr. Dinosaur up in the air.",
+    "cn": "他把恐龙先生往天上扔。",
+    "key": "throw · up in the air"
+   },
+   {
+    "no": 6,
+    "time": "02:12",
+    "img": "/img/p01e02/f6.jpg",
+    "t": "Oh No, He Is Lost",
+    "q": "How did George feel?",
+    "a": "He was sad and cried. He lost Mr. Dinosaur.",
+    "cn": "他很难过，哭了起来——恐龙先生丢了。",
+    "key": "sad · lost"
+   },
+   {
+    "no": 7,
+    "time": "02:36",
+    "img": "/img/p01e02/f7.jpg",
+    "t": "Peppa the Detective",
+    "q": "Who was the detective?",
+    "a": "Peppa was. She said, “I will help you find him.”",
+    "cn": "是 Peppa。她说要帮弟弟找到它。",
+    "key": "detective · help"
+   },
+   {
+    "no": 8,
+    "time": "03:15",
+    "img": "/img/p01e02/f8.jpg",
+    "t": "Not in the Bath",
+    "q": "Was Mr. Dinosaur in the bath?",
+    "a": "No. He was not in the bath.",
+    "cn": "不在，浴缸里没有他。",
+    "key": "bath · not there"
+   },
+   {
+    "no": 9,
+    "time": "04:08",
+    "img": "/img/p01e02/f9.jpg",
+    "t": "There He Is!",
+    "q": "Where did they find Mr. Dinosaur?",
+    "a": "They found him high up in the tree.",
+    "cn": "他们发现他高高地挂在树上。",
+    "key": "find · tree"
+   }
+  ],
+  "words": [
+   [
+    "dinosaur",
+    "恐龙"
+   ],
+   [
+    "toy",
+    "玩具"
+   ],
+   [
+    "favourite",
+    "最喜欢的"
+   ],
+   [
+    "scare",
+    "吓唬"
+   ],
+   [
+    "supper",
+    "晚饭"
+   ],
+   [
+    "bath",
+    "洗澡"
+   ],
+   [
+    "throw",
+    "扔"
+   ],
+   [
+    "catch",
+    "接住"
+   ],
+   [
+    "lost",
+    "弄丢了"
+   ],
+   [
+    "detective",
+    "侦探"
+   ],
+   [
+    "find",
+    "找到"
+   ],
+   [
+    "tree",
+    "树"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "dinosaur, toy, supper, bath, detective, tree",
+   "actions": "throw, catch, scare, cry, guess, find"
   },
-  "P01E03": {
-    "id": "P01E03",
-    "season": 1,
-    "episode": 3,
-    "title": "Best Friend",
-    "titleCn": "最好的朋友",
-    "hook": "好朋友 Suzy 来家里玩，George 想加入却被赶出去，最后他成了游戏里最重要的病人。",
-    "cover": "/img/p01e03/f1.jpg",
-    "wide": true,
-    "qa": true,
-    "cells": [
-      {
-        "no": 1,
-        "time": "00:28",
-        "img": "/img/p01e03/f1.jpg",
-        "t": "Waiting for Suzy",
-        "q": "Who was Peppa waiting for?",
-        "a": "She was waiting for her best friend, Suzy Sheep.",
-        "cn": "她在等最好的朋友小羊 Suzy。",
-        "key": "wait for · best friend"
-      },
-      {
-        "no": 2,
-        "time": "00:46",
-        "img": "/img/p01e03/f2.jpg",
-        "t": "Best Friends",
-        "q": "Were they best friends?",
-        "a": "Yes. Peppa loved Suzy, and Suzy loved Peppa.",
-        "cn": "是的，她们互相喜欢。",
-        "key": "best friends · love"
-      },
-      {
-        "no": 3,
-        "time": "00:58",
-        "img": "/img/p01e03/f3.jpg",
-        "t": "Go and Play",
-        "q": "What did Mummy say?",
-        "a": "She said, “Go and play in your bedroom.”",
-        "cn": "妈妈说：“去卧室里玩吧。”",
-        "key": "say · bedroom"
-      },
-      {
-        "no": 4,
-        "time": "01:24",
-        "img": "/img/p01e03/f4.jpg",
-        "t": "Just for Big Girls",
-        "q": "Did Peppa let George play?",
-        "a": "No. She said the game was just for big girls.",
-        "cn": "没有。她说这个游戏只有大女孩能玩。",
-        "key": "let · big girls"
-      },
-      {
-        "no": 5,
-        "time": "01:47",
-        "img": "/img/p01e03/f5.jpg",
-        "t": "A Fairy Princess",
-        "q": "What did Peppa pretend to be?",
-        "a": "She pretended to be a fairy princess.",
-        "cn": "她假装自己是仙女公主。",
-        "key": "pretend · fairy princess"
-      },
-      {
-        "no": 6,
-        "time": "02:14",
-        "img": "/img/p01e03/f6.jpg",
-        "t": "A Bit Lonely",
-        "q": "How did George feel?",
-        "a": "He felt a bit lonely.",
-        "cn": "他觉得有点孤单。",
-        "key": "feel · lonely"
-      },
-      {
-        "no": 7,
-        "time": "02:18",
-        "img": "/img/p01e03/f7.jpg",
-        "t": "Making Cookies",
-        "q": "What was Mummy making?",
-        "a": "She was making chocolate chip cookies.",
-        "cn": "她在做巧克力豆饼干。",
-        "key": "make · cookies"
-      },
-      {
-        "no": 8,
-        "time": "02:57",
-        "img": "/img/p01e03/f8.jpg",
-        "t": "Doctors and Nurses",
-        "q": "What game did they play?",
-        "a": "They played doctors and nurses with George.",
-        "cn": "他们拉着 George 玩医生和护士。",
-        "key": "play · doctors and nurses"
-      },
-      {
-        "no": 9,
-        "time": "04:20",
-        "img": "/img/p01e03/f9.jpg",
-        "t": "Cookies for Everyone",
-        "q": "What did Daddy want?",
-        "a": "He had a sore tummy, so he wanted cookies.",
-        "cn": "他肚子疼，所以也想吃饼干。",
-        "key": "sore tummy · cookies"
-      }
-    ],
-    "words": [
-      ["best friend", "最好的朋友"],
-      ["sheep", "绵羊"],
-      ["wait", "等待"],
-      ["bedroom", "卧室"],
-      ["fairy", "仙女"],
-      ["magic wand", "魔杖"],
-      ["lonely", "孤单的"],
-      ["cookie", "饼干"],
-      ["doctor", "医生"],
-      ["nurse", "护士"],
-      ["patient", "病人"],
-      ["medicine", "药"]
-    ],
-    "helper": {
-      "order": "First / Next / Then / After that / Finally",
-      "keywords": "best friend, sheep, bedroom, fairy, cookie, doctor",
-      "actions": "play, wave, help, pretend, share, eat"
-    },
-    "opener": "Today I watched Peppa Pig. This episode is “Best Friend”.",
-    "ending": "In the end, the whole family eats cookies together. My favourite part is ______."
-  }
+  "opener": "Today I watched Peppa Pig. This episode is “Mr Dinosaur Is Lost”.",
+  "ending": "In the end, Peppa finds Mr. Dinosaur in the tree. My favourite part is ______."
+ },
+ "P01E03": {
+  "id": "P01E03",
+  "season": 1,
+  "episode": 3,
+  "title": "Best Friend",
+  "titleCn": "最好的朋友",
+  "hook": "好朋友 Suzy 来家里玩，George 想加入却被赶出去，最后他成了游戏里最重要的病人。",
+  "cover": "/img/p01e03/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:28",
+    "img": "/img/p01e03/f1.jpg",
+    "t": "Waiting for Suzy",
+    "q": "Who was Peppa waiting for?",
+    "a": "She was waiting for her best friend, Suzy Sheep.",
+    "cn": "她在等最好的朋友小羊 Suzy。",
+    "key": "wait for · best friend"
+   },
+   {
+    "no": 2,
+    "time": "00:46",
+    "img": "/img/p01e03/f2.jpg",
+    "t": "Best Friends",
+    "q": "Were they best friends?",
+    "a": "Yes. Peppa loved Suzy, and Suzy loved Peppa.",
+    "cn": "是的，她们互相喜欢。",
+    "key": "best friends · love"
+   },
+   {
+    "no": 3,
+    "time": "00:58",
+    "img": "/img/p01e03/f3.jpg",
+    "t": "Go and Play",
+    "q": "What did Mummy say?",
+    "a": "She said, “Go and play in your bedroom.”",
+    "cn": "妈妈说：“去卧室里玩吧。”",
+    "key": "say · bedroom"
+   },
+   {
+    "no": 4,
+    "time": "01:24",
+    "img": "/img/p01e03/f4.jpg",
+    "t": "Just for Big Girls",
+    "q": "Did Peppa let George play?",
+    "a": "No. She said the game was just for big girls.",
+    "cn": "没有。她说这个游戏只有大女孩能玩。",
+    "key": "let · big girls"
+   },
+   {
+    "no": 5,
+    "time": "01:47",
+    "img": "/img/p01e03/f5.jpg",
+    "t": "A Fairy Princess",
+    "q": "What did Peppa pretend to be?",
+    "a": "She pretended to be a fairy princess.",
+    "cn": "她假装自己是仙女公主。",
+    "key": "pretend · fairy princess"
+   },
+   {
+    "no": 6,
+    "time": "02:14",
+    "img": "/img/p01e03/f6.jpg",
+    "t": "A Bit Lonely",
+    "q": "How did George feel?",
+    "a": "He felt a bit lonely.",
+    "cn": "他觉得有点孤单。",
+    "key": "feel · lonely"
+   },
+   {
+    "no": 7,
+    "time": "02:18",
+    "img": "/img/p01e03/f7.jpg",
+    "t": "Making Cookies",
+    "q": "What was Mummy making?",
+    "a": "She was making chocolate chip cookies.",
+    "cn": "她在做巧克力豆饼干。",
+    "key": "make · cookies"
+   },
+   {
+    "no": 8,
+    "time": "02:57",
+    "img": "/img/p01e03/f8.jpg",
+    "t": "Doctors and Nurses",
+    "q": "What game did they play?",
+    "a": "They played doctors and nurses with George.",
+    "cn": "他们拉着 George 玩医生和护士。",
+    "key": "play · doctors and nurses"
+   },
+   {
+    "no": 9,
+    "time": "04:20",
+    "img": "/img/p01e03/f9.jpg",
+    "t": "Cookies for Everyone",
+    "q": "What did Daddy want?",
+    "a": "He had a sore tummy, so he wanted cookies.",
+    "cn": "他肚子疼，所以也想吃饼干。",
+    "key": "sore tummy · cookies"
+   }
+  ],
+  "words": [
+   [
+    "best friend",
+    "最好的朋友"
+   ],
+   [
+    "sheep",
+    "绵羊"
+   ],
+   [
+    "wait",
+    "等待"
+   ],
+   [
+    "bedroom",
+    "卧室"
+   ],
+   [
+    "fairy",
+    "仙女"
+   ],
+   [
+    "magic wand",
+    "魔杖"
+   ],
+   [
+    "lonely",
+    "孤单的"
+   ],
+   [
+    "cookie",
+    "饼干"
+   ],
+   [
+    "doctor",
+    "医生"
+   ],
+   [
+    "nurse",
+    "护士"
+   ],
+   [
+    "patient",
+    "病人"
+   ],
+   [
+    "medicine",
+    "药"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "best friend, sheep, bedroom, fairy, cookie, doctor",
+   "actions": "play, wave, help, pretend, share, eat"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Best Friend”.",
+  "ending": "In the end, the whole family eats cookies together. My favourite part is ______."
+ },
+ "P01E04": {
+  "id": "P01E04",
+  "season": 1,
+  "episode": 4,
+  "title": "Polly Parrot",
+  "titleCn": "波利鹦鹉",
+  "hook": "Peppa 一家去看爷爷奶奶，奶奶家多了一位会学人说话的新成员——鹦鹉 Polly。",
+  "cover": "/img/p01e04/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:28",
+    "img": "/img/p01e04/f1.jpg",
+    "t": "Off to Granny's",
+    "q": "Where was Peppa's family going?",
+    "a": "They were going to visit Granny Pig and Grandpa Pig.",
+    "cn": "他们去看猪奶奶和猪爷爷。",
+    "key": "visit · granny"
+   },
+   {
+    "no": 2,
+    "time": "00:47",
+    "img": "/img/p01e04/f2.jpg",
+    "t": "Guess What It Is",
+    "q": "What did Granny ask Peppa to do?",
+    "a": "She asked Peppa to guess what the new pet was.",
+    "cn": "她让 Peppa 猜猜新宠物是什么。",
+    "key": "guess · pet"
+   },
+   {
+    "no": 3,
+    "time": "01:26",
+    "img": "/img/p01e04/f3.jpg",
+    "t": "Pretty Polly",
+    "q": "Why does Polly copy everything?",
+    "a": "Because that is what parrots do. They copy words.",
+    "cn": "因为鹦鹉就是这样，会学人说话。",
+    "key": "copy · parrot"
+   },
+   {
+    "no": 4,
+    "time": "01:40",
+    "img": "/img/p01e04/f4.jpg",
+    "t": "A Sweet Parrot",
+    "q": "What did Mummy Pig say about Polly?",
+    "a": "She said, “What a sweet little parrot!”",
+    "cn": "她说：“多可爱的小鹦鹉啊！”",
+    "key": "sweet · little"
+   },
+   {
+    "no": 5,
+    "time": "01:58",
+    "img": "/img/p01e04/f5.jpg",
+    "t": "Chocolate Cake",
+    "q": "What do Peppa and George love eating?",
+    "a": "They love eating chocolate cake at Granny's house.",
+    "cn": "他们最爱在奶奶家吃巧克力蛋糕。",
+    "key": "chocolate · cake"
+   },
+   {
+    "no": 6,
+    "time": "02:15",
+    "img": "/img/p01e04/f6.jpg",
+    "t": "Leave the Table",
+    "q": "What did Peppa ask Granny?",
+    "a": "She asked to leave the table and see Polly Parrot.",
+    "cn": "她问能不能离开餐桌去看 Polly。",
+    "key": "table · see"
+   },
+   {
+    "no": 7,
+    "time": "02:56",
+    "img": "/img/p01e04/f7.jpg",
+    "t": "Playing with Polly",
+    "q": "How were the children feeling?",
+    "a": "They were really enjoying playing with Polly Parrot.",
+    "cn": "他们和 Polly 玩得特别开心。",
+    "key": "enjoy · play"
+   },
+   {
+    "no": 8,
+    "time": "03:35",
+    "img": "/img/p01e04/f8.jpg",
+    "t": "Something Else to Say",
+    "q": "What was Peppa thinking about?",
+    "a": "She was thinking of something else to say to Polly.",
+    "cn": "她在想还能对 Polly 说点什么。",
+    "key": "think · say"
+   },
+   {
+    "no": 9,
+    "time": "04:05",
+    "img": "/img/p01e04/f9.jpg",
+    "t": "A Clever Parrot",
+    "q": "What did Polly say at the end?",
+    "a": "She said, “I'm a clever parrot!” and everyone laughed.",
+    "cn": "她说：“我是只聪明的鹦鹉！”大家都笑了。",
+    "key": "clever · parrot"
+   }
+  ],
+  "words": [
+   [
+    "parrot",
+    "鹦鹉"
+   ],
+   [
+    "pet",
+    "宠物"
+   ],
+   [
+    "copy",
+    "模仿"
+   ],
+   [
+    "clever",
+    "聪明的"
+   ],
+   [
+    "noisy",
+    "吵闹的"
+   ],
+   [
+    "sweet",
+    "可爱的"
+   ],
+   [
+    "visit",
+    "拜访"
+   ],
+   [
+    "guess",
+    "猜"
+   ],
+   [
+    "chocolate",
+    "巧克力"
+   ],
+   [
+    "cake",
+    "蛋糕"
+   ],
+   [
+    "table",
+    "餐桌"
+   ],
+   [
+    "everything",
+    "每一样东西"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "parrot, pet, copy, clever, cake, table",
+   "actions": "guess, copy, visit, eat, laugh, say"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Polly Parrot”.",
+  "ending": "In the end, Polly says, “I'm a clever parrot!” My favourite part is ______."
+ },
+ "P01E05": {
+  "id": "P01E05",
+  "season": 1,
+  "episode": 5,
+  "title": "Hide and Seek",
+  "titleCn": "捉迷藏",
+  "hook": "Peppa 和 George 在客厅玩捉迷藏，可 George 每次躲起来都会发出声音。",
+  "cover": "/img/p01e05/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:29",
+    "img": "/img/p01e05/f1.jpg",
+    "t": "Let's Play a Game",
+    "q": "What game were Peppa and George playing?",
+    "a": "They were playing hide and seek in the living room.",
+    "cn": "他们在客厅玩捉迷藏。",
+    "key": "hide and seek · living room"
+   },
+   {
+    "no": 2,
+    "time": "00:49",
+    "img": "/img/p01e05/f2.jpg",
+    "t": "George Hides First",
+    "q": "Where did George hide?",
+    "a": "He hid under the little table. Peppa counted to ten.",
+    "cn": "他躲在小桌子底下，Peppa 数到十。",
+    "key": "hide · under"
+   },
+   {
+    "no": 3,
+    "time": "01:10",
+    "img": "/img/p01e05/f3.jpg",
+    "t": "Peppa's Turn",
+    "q": "Whose turn was it to hide next?",
+    "a": "It was Peppa's turn to hide. George had to count.",
+    "cn": "轮到 Peppa 躲，George 来数数。",
+    "key": "turn · count"
+   },
+   {
+    "no": 4,
+    "time": "01:42",
+    "img": "/img/p01e05/f4.jpg",
+    "t": "Where Is Peppa",
+    "q": "What did George have to do?",
+    "a": "He had to find where Peppa was hiding.",
+    "cn": "他得找出 Peppa 躲在哪里。",
+    "key": "find · hiding"
+   },
+   {
+    "no": 5,
+    "time": "02:26",
+    "img": "/img/p01e05/f5.jpg",
+    "t": "That Strange Noise",
+    "q": "What did George hear?",
+    "a": "He heard that strange noise again and looked around.",
+    "cn": "他又听见那个奇怪的声音，四处张望。",
+    "key": "strange · noise"
+   },
+   {
+    "no": 6,
+    "time": "02:49",
+    "img": "/img/p01e05/f6.jpg",
+    "t": "Another Turn",
+    "q": "What did Daddy Pig think?",
+    "a": "He thought George should have another turn.",
+    "cn": "他觉得应该让 George 再来一次。",
+    "key": "another · turn"
+   },
+   {
+    "no": 7,
+    "time": "03:33",
+    "img": "/img/p01e05/f7.jpg",
+    "t": "Look Upstairs",
+    "q": "What did Daddy Pig tell George?",
+    "a": "He asked, “Have you thought of looking upstairs?”",
+    "cn": "他问：“有没有想过去楼上找找？”",
+    "key": "upstairs · look"
+   },
+   {
+    "no": 8,
+    "time": "03:48",
+    "img": "/img/p01e05/f8.jpg",
+    "t": "Not in the Basket",
+    "q": "Was Peppa in the toy basket?",
+    "a": "No, she was not in the toy basket.",
+    "cn": "不在，玩具篮里没有她。",
+    "key": "basket · not"
+   },
+   {
+    "no": 9,
+    "time": "04:28",
+    "img": "/img/p01e05/f9.jpg",
+    "t": "A Good Place",
+    "q": "What did Daddy Pig say at the end?",
+    "a": "He laughed and said, “That was a good place to hide!”",
+    "cn": "他笑着说：“那真是个好地方！”",
+    "key": "good · hide"
+   }
+  ],
+  "words": [
+   [
+    "hide",
+    "躲藏"
+   ],
+   [
+    "seek",
+    "寻找"
+   ],
+   [
+    "turn",
+    "轮次"
+   ],
+   [
+    "count",
+    "数数"
+   ],
+   [
+    "under",
+    "在……下面"
+   ],
+   [
+    "upstairs",
+    "楼上"
+   ],
+   [
+    "basket",
+    "篮子"
+   ],
+   [
+    "noise",
+    "声音"
+   ],
+   [
+    "strange",
+    "奇怪的"
+   ],
+   [
+    "find",
+    "找到"
+   ],
+   [
+    "place",
+    "地方"
+   ],
+   [
+    "another",
+    "另一个"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "hide, seek, turn, count, upstairs, basket",
+   "actions": "hide, count, look, find, laugh, ask"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Hide and Seek”.",
+  "ending": "In the end, Peppa hides in a very good place. My favourite part is ______."
+ },
+ "P01E06": {
+  "id": "P01E06",
+  "season": 1,
+  "episode": 6,
+  "title": "The Playgroup",
+  "titleCn": "幼儿园",
+  "hook": "Peppa 带 George 第一次去幼儿园，一开始嫌他小，后来发现弟弟很厉害。",
+  "cover": "/img/p01e06/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:27",
+    "img": "/img/p01e06/f1.jpg",
+    "t": "Off to Playgroup",
+    "q": "Where were Peppa and George going?",
+    "a": "Daddy Pig was taking them to the playgroup.",
+    "cn": "猪爸爸送他们去幼儿园。",
+    "key": "playgroup · take"
+   },
+   {
+    "no": 2,
+    "time": "00:50",
+    "img": "/img/p01e06/f2.jpg",
+    "t": "Too Little",
+    "q": "What did Peppa want to do?",
+    "a": "She wanted to play with the big children.",
+    "cn": "她想和大孩子一起玩。",
+    "key": "big · children"
+   },
+   {
+    "no": 3,
+    "time": "01:49",
+    "img": "/img/p01e06/f3.jpg",
+    "t": "A Little Brother",
+    "q": "What did Suzy Sheep wish for?",
+    "a": "She wished she had a little brother like George.",
+    "cn": "她希望自己也有个像 George 一样的弟弟。",
+    "key": "wish · brother"
+   },
+   {
+    "no": 4,
+    "time": "02:02",
+    "img": "/img/p01e06/f4.jpg",
+    "t": "Dine-Saw!",
+    "q": "What did George do with his dinosaur?",
+    "a": "He held it up and roared, “Grrr! Dine-saw!”",
+    "cn": "他举着恐龙，嗷嗷地叫。",
+    "key": "dinosaur · roar"
+   },
+   {
+    "no": 5,
+    "time": "02:22",
+    "img": "/img/p01e06/f5.jpg",
+    "t": "He Is Brilliant",
+    "q": "What did Peppa say about George?",
+    "a": "She said, “George is my brother. He's brilliant.”",
+    "cn": "她说：“George 是我弟弟，他很棒。”",
+    "key": "brilliant · brother"
+   },
+   {
+    "no": 6,
+    "time": "02:49",
+    "img": "/img/p01e06/f6.jpg",
+    "t": "Paint a Flower",
+    "q": "What did Peppa teach George?",
+    "a": "She taught him how to paint a flower.",
+    "cn": "她教他画一朵花。",
+    "key": "paint · flower"
+   },
+   {
+    "no": 7,
+    "time": "03:31",
+    "img": "/img/p01e06/f7.jpg",
+    "t": "What Have We Here",
+    "q": "What did Madame Gazelle say?",
+    "a": "She looked at the pictures and said, “What do we have here?”",
+    "cn": "羚羊老师看着画问：“你们画了什么呀？”",
+    "key": "picture · look"
+   },
+   {
+    "no": 8,
+    "time": "04:06",
+    "img": "/img/p01e06/f8.jpg",
+    "t": "Up on the Wall",
+    "q": "Where did their pictures go?",
+    "a": "Madame Gazelle said they should go on the wall.",
+    "cn": "老师说这两幅画要挂到墙上。",
+    "key": "wall · picture"
+   },
+   {
+    "no": 9,
+    "time": "04:28",
+    "img": "/img/p01e06/f9.jpg",
+    "t": "Paint a Dinosaur",
+    "q": "What did Madame Gazelle ask George to do?",
+    "a": "She asked him to show everyone how to paint a dinosaur.",
+    "cn": "她请他教大家画恐龙。",
+    "key": "show · dinosaur"
+   }
+  ],
+  "words": [
+   [
+    "playgroup",
+    "幼儿园"
+   ],
+   [
+    "brother",
+    "弟弟"
+   ],
+   [
+    "brilliant",
+    "很棒的"
+   ],
+   [
+    "wish",
+    "希望"
+   ],
+   [
+    "dinosaur",
+    "恐龙"
+   ],
+   [
+    "roar",
+    "吼叫"
+   ],
+   [
+    "paint",
+    "画画"
+   ],
+   [
+    "flower",
+    "花"
+   ],
+   [
+    "picture",
+    "图画"
+   ],
+   [
+    "wall",
+    "墙"
+   ],
+   [
+    "teach",
+    "教"
+   ],
+   [
+    "show",
+    "示范"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "playgroup, brother, dinosaur, paint, wall, show",
+   "actions": "go, wish, roar, teach, look, show"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “The Playgroup”.",
+  "ending": "In the end, George shows everyone how to paint a dinosaur. My favourite part is ______."
+ },
+ "P01E07": {
+  "id": "P01E07",
+  "season": 1,
+  "episode": 7,
+  "title": "Mummy Pig at Work",
+  "titleCn": "猪妈妈在工作",
+  "hook": "妈妈在家用电脑赶重要的工作，Peppa 和 George 却很想帮忙——结果帮了倒忙。",
+  "cover": "/img/p01e07/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:27",
+    "img": "/img/p01e07/f1.jpg",
+    "t": "Working at Home",
+    "q": "What was Mummy Pig doing?",
+    "a": "She was working on her computer at home.",
+    "cn": "她在家用电脑工作。",
+    "key": "work · computer"
+   },
+   {
+    "no": 2,
+    "time": "00:55",
+    "img": "/img/p01e07/f2.jpg",
+    "t": "Important Work",
+    "q": "Why could Mummy Pig not play?",
+    "a": "Because she had a lot of important work to do.",
+    "cn": "因为她有很多重要的工作要做。",
+    "key": "important · work"
+   },
+   {
+    "no": 3,
+    "time": "01:13",
+    "img": "/img/p01e07/f3.jpg",
+    "t": "Watching Mummy",
+    "q": "What did the children love to do?",
+    "a": "They loved to watch Mummy work on the computer.",
+    "cn": "他们喜欢看妈妈在电脑上工作。",
+    "key": "watch · love"
+   },
+   {
+    "no": 4,
+    "time": "01:36",
+    "img": "/img/p01e07/f4.jpg",
+    "t": "You Mustn't Do This",
+    "q": "What did Mummy Pig tell George?",
+    "a": "She told him, “You mustn't do this.”",
+    "cn": "她告诉 George：“这个不能乱动。”",
+    "key": "mustn't · do"
+   },
+   {
+    "no": 5,
+    "time": "01:51",
+    "img": "/img/p01e07/f5.jpg",
+    "t": "Oh Dear",
+    "q": "What happened to the computer?",
+    "a": "It went wrong. It was not meant to do that.",
+    "cn": "电脑出问题了，本来不该这样。",
+    "key": "gone wrong · computer"
+   },
+   {
+    "no": 6,
+    "time": "02:10",
+    "img": "/img/p01e07/f6.jpg",
+    "t": "Not Very Good",
+    "q": "What did Daddy Pig say?",
+    "a": "He said he was not very good with these things.",
+    "cn": "他说自己不太会弄这些东西。",
+    "key": "good · things"
+   },
+   {
+    "no": 7,
+    "time": "02:43",
+    "img": "/img/p01e07/f7.jpg",
+    "t": "Daddy Fixes It",
+    "q": "What did Daddy Pig do?",
+    "a": "He mended the computer for Mummy Pig.",
+    "cn": "他把电脑修好了。",
+    "key": "mend · computer"
+   },
+   {
+    "no": 8,
+    "time": "02:58",
+    "img": "/img/p01e07/f8.jpg",
+    "t": "Ask Mummy Pig",
+    "q": "What did Daddy Pig tell Peppa?",
+    "a": "He said, “Maybe you should ask Mummy Pig.”",
+    "cn": "他说：“也许你该问问妈妈。”",
+    "key": "ask · maybe"
+   },
+   {
+    "no": 9,
+    "time": "04:07",
+    "img": "/img/p01e07/f9.jpg",
+    "t": "What Is Going On",
+    "q": "What did Mummy Pig say at the end?",
+    "a": "She came in and asked, “What on earth is going on?”",
+    "cn": "她走进来问：“到底发生什么事了？”",
+    "key": "going on · what"
+   }
+  ],
+  "words": [
+   [
+    "work",
+    "工作"
+   ],
+   [
+    "computer",
+    "电脑"
+   ],
+   [
+    "important",
+    "重要的"
+   ],
+   [
+    "watch",
+    "观看"
+   ],
+   [
+    "mustn't",
+    "不可以"
+   ],
+   [
+    "mend",
+    "修理"
+   ],
+   [
+    "wrong",
+    "出错的"
+   ],
+   [
+    "maybe",
+    "也许"
+   ],
+   [
+    "ask",
+    "询问"
+   ],
+   [
+    "busy",
+    "忙的"
+   ],
+   [
+    "screen",
+    "屏幕"
+   ],
+   [
+    "help",
+    "帮忙"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "work, computer, important, mend, ask, wrong",
+   "actions": "work, watch, type, mend, ask, help"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Mummy Pig at Work”.",
+  "ending": "In the end, Mummy Pig comes in and asks what is going on. My favourite part is ______."
+ },
+ "P01E08": {
+  "id": "P01E08",
+  "season": 1,
+  "episode": 8,
+  "title": "Piggy in the Middle",
+  "titleCn": "中间的猪",
+  "hook": "George 扔球总被妈妈拦下，Peppa 笑得停不下来，直到妈妈说：别这样逗弟弟。",
+  "cover": "/img/p01e08/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:29",
+    "img": "/img/p01e08/f1.jpg",
+    "t": "A Ball in the Garden",
+    "q": "What was George doing?",
+    "a": "He was playing with his ball in the garden.",
+    "cn": "他在花园里玩球。",
+    "key": "ball · garden"
+   },
+   {
+    "no": 2,
+    "time": "01:05",
+    "img": "/img/p01e08/f2.jpg",
+    "t": "Cheeky Peppa",
+    "q": "What did Peppa do to George?",
+    "a": "She took his ball and threw it away. She was cheeky.",
+    "cn": "她抢过球扔走，很调皮。",
+    "key": "cheeky · throw"
+   },
+   {
+    "no": 3,
+    "time": "02:03",
+    "img": "/img/p01e08/f3.jpg",
+    "t": "Mummy in the Middle",
+    "q": "Who was the piggy in the middle?",
+    "a": "Mummy Pig was. She stood between Peppa and George.",
+    "cn": "是猪妈妈，她站在两个孩子中间。",
+    "key": "middle · between"
+   },
+   {
+    "no": 4,
+    "time": "02:18",
+    "img": "/img/p01e08/f4.jpg",
+    "t": "Throw It to Peppa",
+    "q": "What did Mummy Pig tell George?",
+    "a": "She told him to throw the ball to Peppa.",
+    "cn": "她让 George 把球扔给 Peppa。",
+    "key": "throw · ball"
+   },
+   {
+    "no": 5,
+    "time": "02:30",
+    "img": "/img/p01e08/f5.jpg",
+    "t": "Too High for George",
+    "q": "Could George throw the ball past Mummy?",
+    "a": "No, he could not throw it past Mummy Pig.",
+    "cn": "不能，他扔不过妈妈。",
+    "key": "past · cannot"
+   },
+   {
+    "no": 6,
+    "time": "03:09",
+    "img": "/img/p01e08/f6.jpg",
+    "t": "You're the Piggy",
+    "q": "Who became the piggy next?",
+    "a": "George did. Mummy caught the ball and said, “You're the piggy!”",
+    "cn": "轮到 George 了，妈妈接住球这么说。",
+    "key": "catch · piggy"
+   },
+   {
+    "no": 7,
+    "time": "03:39",
+    "img": "/img/p01e08/f7.jpg",
+    "t": "Don't Tease Him",
+    "q": "What did Mummy Pig tell Peppa?",
+    "a": "She said, “Peppa, you shouldn't tease George like that.”",
+    "cn": "她说：“Peppa，不该这样取笑弟弟。”",
+    "key": "tease · shouldn't"
+   },
+   {
+    "no": 8,
+    "time": "04:07",
+    "img": "/img/p01e08/f8.jpg",
+    "t": "A Helping Hand",
+    "q": "What did Daddy Pig say?",
+    "a": "He said he just gave George a helping hand.",
+    "cn": "他说自己只是帮了 George 一把。",
+    "key": "helping hand · give"
+   },
+   {
+    "no": 9,
+    "time": "04:29",
+    "img": "/img/p01e08/f9.jpg",
+    "t": "Peppa Catches It",
+    "q": "What does Peppa love doing?",
+    "a": "She loves catching the ball and playing together.",
+    "cn": "她喜欢接球，也喜欢一起玩。",
+    "key": "catch · together"
+   }
+  ],
+  "words": [
+   [
+    "ball",
+    "球"
+   ],
+   [
+    "garden",
+    "花园"
+   ],
+   [
+    "cheeky",
+    "调皮的"
+   ],
+   [
+    "throw",
+    "扔"
+   ],
+   [
+    "middle",
+    "中间"
+   ],
+   [
+    "between",
+    "在……之间"
+   ],
+   [
+    "past",
+    "越过"
+   ],
+   [
+    "catch",
+    "接住"
+   ],
+   [
+    "tease",
+    "取笑"
+   ],
+   [
+    "helping hand",
+    "帮忙"
+   ],
+   [
+    "together",
+    "一起"
+   ],
+   [
+    "shouldn't",
+    "不应该"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "ball, garden, middle, throw, catch, tease",
+   "actions": "play, throw, catch, stand, tease, help"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Piggy in the Middle”.",
+  "ending": "In the end, Peppa and George play the ball game together. My favourite part is ______."
+ },
+ "P01E09": {
+  "id": "P01E09",
+  "season": 1,
+  "episode": 9,
+  "title": "Daddy Loses his Glasses",
+  "titleCn": "猪爸爸的眼镜不见了",
+  "hook": "没有眼镜什么也看不见的猪爸爸，把家里翻了个遍，Peppa 和 George 当起了小侦探。",
+  "cover": "/img/p01e09/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:39",
+    "img": "/img/p01e09/f1.jpg",
+    "t": "He Needs Glasses",
+    "q": "Why does Daddy Pig wear glasses?",
+    "a": "He needs to wear glasses to see clearly.",
+    "cn": "他要戴眼镜才看得清楚。",
+    "key": "glasses · clearly"
+   },
+   {
+    "no": 2,
+    "time": "00:59",
+    "img": "/img/p01e09/f2.jpg",
+    "t": "Where Are They",
+    "q": "Why is it important to know where the glasses are?",
+    "a": "Because Daddy Pig cannot see anything without them.",
+    "cn": "因为没戴眼镜他就什么都看不见。",
+    "key": "important · without"
+   },
+   {
+    "no": 3,
+    "time": "01:44",
+    "img": "/img/p01e09/f3.jpg",
+    "t": "I Can't See",
+    "q": "What did Daddy Pig say?",
+    "a": "He said, “This is ridiculous! I can't see anything!”",
+    "cn": "他说：“太荒唐了！我什么都看不见！”",
+    "key": "ridiculous · see"
+   },
+   {
+    "no": 4,
+    "time": "02:00",
+    "img": "/img/p01e09/f4.jpg",
+    "t": "Can We Help",
+    "q": "What did Peppa ask Daddy?",
+    "a": "She asked, “Can we help find your glasses?”",
+    "cn": "她问：“我们能帮你找眼镜吗？”",
+    "key": "help · find"
+   },
+   {
+    "no": 5,
+    "time": "02:19",
+    "img": "/img/p01e09/f5.jpg",
+    "t": "Not in the Living Room",
+    "q": "Were the glasses in the living room?",
+    "a": "No, they were not there. They looked everywhere.",
+    "cn": "不在，他们把客厅找遍了也没有。",
+    "key": "living room · everywhere"
+   },
+   {
+    "no": 6,
+    "time": "03:04",
+    "img": "/img/p01e09/f6.jpg",
+    "t": "Not in the Bedroom",
+    "q": "Where did they look next?",
+    "a": "They looked in Mummy and Daddy Pig's bedroom.",
+    "cn": "他们又去爸爸妈妈的卧室找。",
+    "key": "bedroom · look"
+   },
+   {
+    "no": 7,
+    "time": "03:23",
+    "img": "/img/p01e09/f7.jpg",
+    "t": "Not in the Bathroom",
+    "q": "Did they find the glasses in the bathroom?",
+    "a": "No. The glasses were not there, either.",
+    "cn": "也没有，浴室里同样找不到。",
+    "key": "bathroom · either"
+   },
+   {
+    "no": 8,
+    "time": "03:46",
+    "img": "/img/p01e09/f8.jpg",
+    "t": "We Can't Find Them",
+    "q": "How did the children feel?",
+    "a": "They were sad. They could not find the glasses.",
+    "cn": "他们有点沮丧，怎么也找不到。",
+    "key": "sad · cannot"
+   },
+   {
+    "no": 9,
+    "time": "04:16",
+    "img": "/img/p01e09/f9.jpg",
+    "t": "Sitting on Them",
+    "q": "Where were the glasses at last?",
+    "a": "Daddy Pig was sitting on them all the time!",
+    "cn": "原来眼镜一直在爸爸屁股底下！",
+    "key": "sit on · at last"
+   }
+  ],
+  "words": [
+   [
+    "glasses",
+    "眼镜"
+   ],
+   [
+    "clearly",
+    "清楚地"
+   ],
+   [
+    "ridiculous",
+    "荒唐的"
+   ],
+   [
+    "find",
+    "找到"
+   ],
+   [
+    "living room",
+    "客厅"
+   ],
+   [
+    "bedroom",
+    "卧室"
+   ],
+   [
+    "bathroom",
+    "浴室"
+   ],
+   [
+    "everywhere",
+    "到处"
+   ],
+   [
+    "either",
+    "也不"
+   ],
+   [
+    "sit",
+    "坐"
+   ],
+   [
+    "important",
+    "重要的"
+   ],
+   [
+    "without",
+    "没有"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "glasses, living room, bedroom, bathroom, find, sit",
+   "actions": "wear, look, find, help, sit, laugh"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Daddy Loses his Glasses”.",
+  "ending": "In the end, Daddy Pig finds his glasses under himself. My favourite part is ______."
+ },
+ "P01E10": {
+  "id": "P01E10",
+  "season": 1,
+  "episode": 10,
+  "title": "Gardening",
+  "titleCn": "种菜",
+  "hook": "爷爷在菜园里种东西，Peppa 也想种一颗种子，还要和 George 抢着浇水。",
+  "cover": "/img/p01e10/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:23",
+    "img": "/img/p01e10/f1.jpg",
+    "t": "At Granny's House",
+    "q": "Where were Peppa and George playing?",
+    "a": "They were playing at Granny Pig and Grandpa Pig's house.",
+    "cn": "他们在爷爷奶奶家玩。",
+    "key": "playing · house"
+   },
+   {
+    "no": 2,
+    "time": "00:52",
+    "img": "/img/p01e10/f2.jpg",
+    "t": "What Do Seeds Do",
+    "q": "What did Peppa ask about seeds?",
+    "a": "She asked, “Seeds? What do seeds do?”",
+    "cn": "她问：“种子？种子能做什么？”",
+    "key": "seed · ask"
+   },
+   {
+    "no": 3,
+    "time": "01:24",
+    "img": "/img/p01e10/f3.jpg",
+    "t": "A Little Apple Tree",
+    "q": "What will the little apple tree do?",
+    "a": "It will grow into a big apple tree like this one.",
+    "cn": "它会长成一棵这样的大苹果树。",
+    "key": "grow · apple tree"
+   },
+   {
+    "no": 4,
+    "time": "01:49",
+    "img": "/img/p01e10/f4.jpg",
+    "t": "I Want to Plant",
+    "q": "What did Peppa want to do?",
+    "a": "She wanted to plant a seed in the garden.",
+    "cn": "她想在花园里种一颗种子。",
+    "key": "plant · seed"
+   },
+   {
+    "no": 5,
+    "time": "02:13",
+    "img": "/img/p01e10/f5.jpg",
+    "t": "Let Me Water It",
+    "q": "What did George and Peppa argue about?",
+    "a": "They both wanted to water the seed.",
+    "cn": "两个人都想给种子浇水。",
+    "key": "water · both"
+   },
+   {
+    "no": 6,
+    "time": "02:50",
+    "img": "/img/p01e10/f6.jpg",
+    "t": "It Will Grow",
+    "q": "What did Grandpa Pig say?",
+    "a": "He said the seed will grow into a plant next time.",
+    "cn": "他说下次来，种子就长成小苗了。",
+    "key": "grow · plant"
+   },
+   {
+    "no": 7,
+    "time": "03:34",
+    "img": "/img/p01e10/f7.jpg",
+    "t": "Back Again",
+    "q": "Why did they come back?",
+    "a": "They came back to play and see the little plant.",
+    "cn": "他们又来玩，也想看看那棵小苗。",
+    "key": "come back · plant"
+   },
+   {
+    "no": 8,
+    "time": "03:53",
+    "img": "/img/p01e10/f8.jpg",
+    "t": "Plant Something Else",
+    "q": "What did Peppa ask Grandpa?",
+    "a": "She asked, “Can we plant something else?”",
+    "cn": "她问：“我们还能种点别的吗？”",
+    "key": "plant · else"
+   },
+   {
+    "no": 9,
+    "time": "04:15",
+    "img": "/img/p01e10/f9.jpg",
+    "t": "What to Grow",
+    "q": "What did Grandpa Pig ask Peppa?",
+    "a": "He asked, “What would you like to grow?”",
+    "cn": "他问：“你想种点什么呢？”",
+    "key": "grow · like"
+   }
+  ],
+  "words": [
+   [
+    "garden",
+    "花园"
+   ],
+   [
+    "seed",
+    "种子"
+   ],
+   [
+    "plant",
+    "种；植物"
+   ],
+   [
+    "grow",
+    "生长"
+   ],
+   [
+    "water",
+    "浇水"
+   ],
+   [
+    "apple tree",
+    "苹果树"
+   ],
+   [
+    "grandpa",
+    "爷爷"
+   ],
+   [
+    "hole",
+    "坑"
+   ],
+   [
+    "small",
+    "小的"
+   ],
+   [
+    "big",
+    "大的"
+   ],
+   [
+    "else",
+    "别的"
+   ],
+   [
+    "next time",
+    "下次"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "garden, seed, plant, grow, water, apple tree",
+   "actions": "plant, water, grow, dig, ask, come back"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Gardening”.",
+  "ending": "In the end, Grandpa Pig asks what Peppa would like to grow. My favourite part is ______."
+ },
+ "P01E11": {
+  "id": "P01E11",
+  "season": 1,
+  "episode": 11,
+  "title": "Hiccups",
+  "titleCn": "打嗝",
+  "hook": "George 喝果汁喝太快，打嗝停不下来，全家想尽办法帮他。",
+  "cover": "/img/p01e11/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:28",
+    "img": "/img/p01e11/f1.jpg",
+    "t": "Breakfast Time",
+    "q": "What was the family doing?",
+    "a": "They were all having breakfast together.",
+    "cn": "一家人在一起吃早饭。",
+    "key": "breakfast · together"
+   },
+   {
+    "no": 2,
+    "time": "01:00",
+    "img": "/img/p01e11/f2.jpg",
+    "t": "Too Quick",
+    "q": "Why did George get hiccups?",
+    "a": "He drank his juice too quickly.",
+    "cn": "他果汁喝得太快了。",
+    "key": "drink · quickly"
+   },
+   {
+    "no": 3,
+    "time": "01:22",
+    "img": "/img/p01e11/f3.jpg",
+    "t": "Go Out and Play",
+    "q": "What did Mummy Pig say?",
+    "a": "She said, “You can go out and play.”",
+    "cn": "她说：“你们可以出去玩。”",
+    "key": "out · play"
+   },
+   {
+    "no": 4,
+    "time": "01:47",
+    "img": "/img/p01e11/f4.jpg",
+    "t": "Throw It to Me",
+    "q": "What did Peppa tell George?",
+    "a": "She told him to throw the ball to her.",
+    "cn": "她让 George 把球扔给她。",
+    "key": "throw · ball"
+   },
+   {
+    "no": 5,
+    "time": "02:19",
+    "img": "/img/p01e11/f5.jpg",
+    "t": "Hiccups Have Gone",
+    "q": "What happened after the game?",
+    "a": "George's hiccups were gone. Playing helped him.",
+    "cn": "George 不打嗝了，玩一玩就好了。",
+    "key": "gone · hiccups"
+   },
+   {
+    "no": 6,
+    "time": "02:36",
+    "img": "/img/p01e11/f6.jpg",
+    "t": "Jump Three Times",
+    "q": "What was Mummy's idea?",
+    "a": "She said, “Jump up and down three times on one leg.”",
+    "cn": "她说：“单脚跳三下。”",
+    "key": "jump · three times"
+   },
+   {
+    "no": 7,
+    "time": "03:31",
+    "img": "/img/p01e11/f7.jpg",
+    "t": "Just Pretend",
+    "q": "What did Peppa say before she scared George?",
+    "a": "She said, “Remember, this is just pretend scaring.”",
+    "cn": "她说：“记住，只是假装吓你一下。”",
+    "key": "pretend · scare"
+   },
+   {
+    "no": 8,
+    "time": "03:49",
+    "img": "/img/p01e11/f8.jpg",
+    "t": "Trying to Help",
+    "q": "Why did Peppa scare George?",
+    "a": "She was only trying to stop his hiccups.",
+    "cn": "她只是想帮他把打嗝止住。",
+    "key": "stop · hiccups"
+   },
+   {
+    "no": 9,
+    "time": "04:12",
+    "img": "/img/p01e11/f9.jpg",
+    "t": "All Gone",
+    "q": "What did George say at the end?",
+    "a": "He said he can drink juice as quickly as he wants.",
+    "cn": "他说他想喝多快就喝多快。",
+    "key": "juice · quickly"
+   }
+  ],
+  "words": [
+   [
+    "hiccup",
+    "打嗝"
+   ],
+   [
+    "breakfast",
+    "早饭"
+   ],
+   [
+    "juice",
+    "果汁"
+   ],
+   [
+    "quickly",
+    "快地"
+   ],
+   [
+    "drink",
+    "喝"
+   ],
+   [
+    "ball",
+    "球"
+   ],
+   [
+    "jump",
+    "跳"
+   ],
+   [
+    "leg",
+    "腿"
+   ],
+   [
+    "pretend",
+    "假装"
+   ],
+   [
+    "scare",
+    "吓唬"
+   ],
+   [
+    "stop",
+    "停止"
+   ],
+   [
+    "again",
+    "再一次"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "hiccup, juice, quickly, jump, pretend, scare",
+   "actions": "drink, play, throw, jump, scare, stop"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Hiccups”.",
+  "ending": "In the end, George's hiccups are gone and he drinks his juice again. My favourite part is ______."
+ },
+ "P01E12": {
+  "id": "P01E12",
+  "season": 1,
+  "episode": 12,
+  "title": "Bicycles",
+  "titleCn": "骑自行车",
+  "hook": "Peppa 拆掉辅助轮第一次自己骑车，结果光看别人、不看路。",
+  "cover": "/img/p01e12/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:23",
+    "img": "/img/p01e12/f1.jpg",
+    "t": "A Sunny Day",
+    "q": "What were Peppa and George doing?",
+    "a": "They were riding their bicycles on a sunny day.",
+    "cn": "晴天里他们在骑自行车。",
+    "key": "ride · bicycle"
+   },
+   {
+    "no": 2,
+    "time": "00:53",
+    "img": "/img/p01e12/f2.jpg",
+    "t": "Friends on Bikes",
+    "q": "Who came riding their bicycles?",
+    "a": "Danny, Suzy and Rebecca came. George rode his tricycle.",
+    "cn": "Danny、Suzy、Rebecca 骑车来了，George 骑的是三轮车。",
+    "key": "friends · tricycle"
+   },
+   {
+    "no": 3,
+    "time": "01:42",
+    "img": "/img/p01e12/f3.jpg",
+    "t": "A Baby Bike",
+    "q": "What did Peppa say about George's bike?",
+    "a": "She said, “George is still riding a baby bike!”",
+    "cn": "她说：“George 还在骑宝宝车！”",
+    "key": "baby bike · still"
+   },
+   {
+    "no": 4,
+    "time": "02:12",
+    "img": "/img/p01e12/f4.jpg",
+    "t": "No Stabilizers",
+    "q": "What did Peppa wish?",
+    "a": "She wished she did not have stabilizers on her bike.",
+    "cn": "她希望自己的车不要辅助轮。",
+    "key": "wish · stabilizers"
+   },
+   {
+    "no": 5,
+    "time": "02:26",
+    "img": "/img/p01e12/f5.jpg",
+    "t": "Take Them Off",
+    "q": "What did Daddy Pig do?",
+    "a": "He took the stabilizers off Peppa's bicycle.",
+    "cn": "他把 Peppa 的辅助轮拆了下来。",
+    "key": "take off · stabilizers"
+   },
+   {
+    "no": 6,
+    "time": "02:49",
+    "img": "/img/p01e12/f6.jpg",
+    "t": "Need Some Help",
+    "q": "What did Daddy Pig ask Peppa?",
+    "a": "He asked, “Would you like some help, Peppa?”",
+    "cn": "他问：“要不要我扶你一把？”",
+    "key": "help · would"
+   },
+   {
+    "no": 7,
+    "time": "03:12",
+    "img": "/img/p01e12/f7.jpg",
+    "t": "Riding Alone",
+    "q": "Could Peppa ride without stabilizers?",
+    "a": "Yes! She was riding on her own.",
+    "cn": "可以！她自己骑起来了。",
+    "key": "on her own · ride"
+   },
+   {
+    "no": 8,
+    "time": "04:00",
+    "img": "/img/p01e12/f8.jpg",
+    "t": "Look Where You Go",
+    "q": "Why did Peppa crash?",
+    "a": "She was not looking where she was going.",
+    "cn": "她没看路，撞上去了。",
+    "key": "look · going"
+   },
+   {
+    "no": 9,
+    "time": "04:18",
+    "img": "/img/p01e12/f9.jpg",
+    "t": "You Are Okay",
+    "q": "What did Daddy Pig say at the end?",
+    "a": "He said, “The important thing is that you are okay.”",
+    "cn": "他说：“最重要的是你没事。”",
+    "key": "important · okay"
+   }
+  ],
+  "words": [
+   [
+    "bicycle",
+    "自行车"
+   ],
+   [
+    "ride",
+    "骑"
+   ],
+   [
+    "sunny",
+    "晴朗的"
+   ],
+   [
+    "stabilizers",
+    "辅助轮"
+   ],
+   [
+    "wish",
+    "希望"
+   ],
+   [
+    "take off",
+    "拆下"
+   ],
+   [
+    "alone",
+    "独自"
+   ],
+   [
+    "crash",
+    "撞到"
+   ],
+   [
+    "look",
+    "看"
+   ],
+   [
+    "important",
+    "重要的"
+   ],
+   [
+    "okay",
+    "没事的"
+   ],
+   [
+    "still",
+    "仍然"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "bicycle, ride, stabilizers, help, alone, crash",
+   "actions": "ride, take off, hold, crash, fall, help"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Bicycles”.",
+  "ending": "In the end, Peppa falls off but she is okay. My favourite part is ______."
+ },
+ "P01E13": {
+  "id": "P01E13",
+  "season": 1,
+  "episode": 13,
+  "title": "Secrets",
+  "titleCn": "秘密",
+  "hook": "妈妈给 Peppa 做了一个秘密盒子，可 George 也有秘密，Peppa 就忍不住想知道。",
+  "cover": "/img/p01e13/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:26",
+    "img": "/img/p01e13/f1.jpg",
+    "t": "A Secret Box",
+    "q": "What did Mummy Pig make for Peppa?",
+    "a": "She made a special box for Peppa.",
+    "cn": "她给 Peppa 做了一个特别的盒子。",
+    "key": "special · box"
+   },
+   {
+    "no": 2,
+    "time": "00:58",
+    "img": "/img/p01e13/f2.jpg",
+    "t": "My Secret",
+    "q": "What did Peppa tell George?",
+    "a": "She said, “George, this is my secret box!”",
+    "cn": "她说：“George，这是我的秘密盒子！”",
+    "key": "secret · box"
+   },
+   {
+    "no": 3,
+    "time": "01:36",
+    "img": "/img/p01e13/f3.jpg",
+    "t": "What Is Inside",
+    "q": "What did George want to know?",
+    "a": "He wanted to know what was inside the secret box.",
+    "cn": "他想知道盒子里装了什么。",
+    "key": "inside · want"
+   },
+   {
+    "no": 4,
+    "time": "02:00",
+    "img": "/img/p01e13/f4.jpg",
+    "t": "Can't Guess",
+    "q": "Could George guess the secret?",
+    "a": "No, he could not guess what was in the box.",
+    "cn": "他猜不出来盒子里是什么。",
+    "key": "guess · cannot"
+   },
+   {
+    "no": 5,
+    "time": "02:25",
+    "img": "/img/p01e13/f5.jpg",
+    "t": "My Glasses",
+    "q": "What did Daddy Pig ask?",
+    "a": "He asked, “Have you put my glasses inside?”",
+    "cn": "他问：“你把我的眼镜放进去了吗？”",
+    "key": "glasses · inside"
+   },
+   {
+    "no": 6,
+    "time": "03:04",
+    "img": "/img/p01e13/f6.jpg",
+    "t": "George's Box",
+    "q": "What did Peppa want to know?",
+    "a": "She wanted to know what was inside George's box.",
+    "cn": "她想知道 George 的盒子里有什么。",
+    "key": "George · inside"
+   },
+   {
+    "no": 7,
+    "time": "03:19",
+    "img": "/img/p01e13/f7.jpg",
+    "t": "Secrets Are Hard",
+    "q": "How did Peppa feel about secrets?",
+    "a": "She did not like secrets as much as she used to.",
+    "cn": "她不像以前那么喜欢秘密了。",
+    "key": "secret · used to"
+   },
+   {
+    "no": 8,
+    "time": "03:55",
+    "img": "/img/p01e13/f8.jpg",
+    "t": "Any More Secrets",
+    "q": "What did Peppa ask George?",
+    "a": "She asked, “Do you have any more secret things?”",
+    "cn": "她问：“你还有别的秘密吗？”",
+    "key": "more · secret"
+   },
+   {
+    "no": 9,
+    "time": "04:14",
+    "img": "/img/p01e13/f9.jpg",
+    "t": "No Special Box",
+    "q": "What did George say at the end?",
+    "a": "He said, “I don't have a special box.”",
+    "cn": "他说：“我没有特别的盒子。”",
+    "key": "special · box"
+   }
+  ],
+  "words": [
+   [
+    "secret",
+    "秘密"
+   ],
+   [
+    "box",
+    "盒子"
+   ],
+   [
+    "special",
+    "特别的"
+   ],
+   [
+    "inside",
+    "在里面"
+   ],
+   [
+    "guess",
+    "猜"
+   ],
+   [
+    "glasses",
+    "眼镜"
+   ],
+   [
+    "anymore",
+    "再"
+   ],
+   [
+    "used to",
+    "以前常常"
+   ],
+   [
+    "hide",
+    "藏"
+   ],
+   [
+    "open",
+    "打开"
+   ],
+   [
+    "empty",
+    "空的"
+   ],
+   [
+    "surprise",
+    "惊喜"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "secret, box, special, inside, guess, glasses",
+   "actions": "make, hide, guess, open, ask, show"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Secrets”.",
+  "ending": "In the end, George says he does not have a special box. My favourite part is ______."
+ },
+ "P01E14": {
+  "id": "P01E14",
+  "season": 1,
+  "episode": 14,
+  "title": "Flying a Kite",
+  "titleCn": "放风筝",
+  "hook": "一家人去公园放风筝，风筝却挂到了树上，爸爸爬上去救风筝——结果全家都成了泥人。",
+  "cover": "/img/p01e14/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:25",
+    "img": "/img/p01e14/f1.jpg",
+    "t": "In the Park",
+    "q": "Where was Peppa's family?",
+    "a": "They were in the park on a bright, sunny day.",
+    "cn": "晴天里，一家人在公园里。",
+    "key": "park · sunny"
+   },
+   {
+    "no": 2,
+    "time": "01:01",
+    "img": "/img/p01e14/f2.jpg",
+    "t": "Run Fast",
+    "q": "What did Peppa do to make the kite fly?",
+    "a": "She ran as fast as she could.",
+    "cn": "她拼命地跑，想让风筝飞起来。",
+    "key": "run · fast"
+   },
+   {
+    "no": 3,
+    "time": "01:32",
+    "img": "/img/p01e14/f3.jpg",
+    "t": "Now It Is Windy",
+    "q": "Why could the kite fly?",
+    "a": "Because it was windy, and the wind lifted the kite.",
+    "cn": "因为起风了，风把风筝托起来。",
+    "key": "windy · fly"
+   },
+   {
+    "no": 4,
+    "time": "02:05",
+    "img": "/img/p01e14/f4.jpg",
+    "t": "Daddy Flies Well",
+    "q": "Who could fly the kite very well?",
+    "a": "Daddy Pig could. He flies the kite very well.",
+    "cn": "猪爸爸很会放，放得特别好。",
+    "key": "kite · well"
+   },
+   {
+    "no": 5,
+    "time": "02:28",
+    "img": "/img/p01e14/f5.jpg",
+    "t": "Caught in a Tree",
+    "q": "What happened to the kite?",
+    "a": "Oh dear. It got caught in a tree.",
+    "cn": "糟了，风筝挂到树上了。",
+    "key": "caught · tree"
+   },
+   {
+    "no": 6,
+    "time": "02:55",
+    "img": "/img/p01e14/f6.jpg",
+    "t": "Muddy Puddles",
+    "q": "What do Peppa and George love?",
+    "a": "They love to jump in muddy puddles.",
+    "cn": "他们最喜欢跳泥坑。",
+    "key": "jump · muddy puddles"
+   },
+   {
+    "no": 7,
+    "time": "03:29",
+    "img": "/img/p01e14/f7.jpg",
+    "t": "Too Heavy",
+    "q": "Why could Daddy Pig not stand on the branch?",
+    "a": "Because he was much too heavy for it.",
+    "cn": "因为他太重了，树枝撑不住。",
+    "key": "heavy · branch"
+   },
+   {
+    "no": 8,
+    "time": "03:47",
+    "img": "/img/p01e14/f8.jpg",
+    "t": "Covered in Mud",
+    "q": "What happened to everyone?",
+    "a": "Everyone was covered in mud.",
+    "cn": "每个人身上都溅满了泥。",
+    "key": "covered · mud"
+   },
+   {
+    "no": 9,
+    "time": "04:09",
+    "img": "/img/p01e14/f9.jpg",
+    "t": "Any Muddier",
+    "q": "What did Mummy Pig say at the end?",
+    "a": "She said, “You can't get any muddier!”",
+    "cn": "她说：“反正也没法更脏了！”",
+    "key": "muddier · can't"
+   }
+  ],
+  "words": [
+   [
+    "kite",
+    "风筝"
+   ],
+   [
+    "park",
+    "公园"
+   ],
+   [
+    "windy",
+    "有风的"
+   ],
+   [
+    "fly",
+    "飞"
+   ],
+   [
+    "caught",
+    "卡住"
+   ],
+   [
+    "branch",
+    "树枝"
+   ],
+   [
+    "heavy",
+    "重的"
+   ],
+   [
+    "mud",
+    "泥"
+   ],
+   [
+    "muddy",
+    "泥泞的"
+   ],
+   [
+    "covered",
+    "沾满"
+   ],
+   [
+    "puddle",
+    "水坑"
+   ],
+   [
+    "bright",
+    "明亮的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "kite, park, windy, tree, branch, mud",
+   "actions": "run, fly, catch, climb, jump, laugh"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Flying a Kite”.",
+  "ending": "In the end, the whole family is covered in mud. My favourite part is ______."
+ },
+ "P01E15": {
+  "id": "P01E15",
+  "season": 1,
+  "episode": 15,
+  "title": "Picnic",
+  "titleCn": "野餐",
+  "hook": "一家人去野餐，鸭子们闻着味就来了，最后连蛋糕都被抢走了。",
+  "cover": "/img/p01e15/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:25",
+    "img": "/img/p01e15/f1.jpg",
+    "t": "A Lovely Day",
+    "q": "What was the weather like?",
+    "a": "It was a lovely, bright and sunny day.",
+    "cn": "那天阳光明亮，天气很好。",
+    "key": "lovely · sunny"
+   },
+   {
+    "no": 2,
+    "time": "01:01",
+    "img": "/img/p01e15/f2.jpg",
+    "t": "Just the Spot",
+    "q": "What did Daddy Pig say?",
+    "a": "He said, “This looks like just the spot for our picnic!”",
+    "cn": "他说：“这地方正适合野餐！”",
+    "key": "spot · picnic"
+   },
+   {
+    "no": 3,
+    "time": "01:16",
+    "img": "/img/p01e15/f3.jpg",
+    "t": "Too Tired to Run",
+    "q": "What did Daddy Pig not want to do?",
+    "a": "He did not want to run around at all.",
+    "cn": "他一点也不想跑来跑去。",
+    "key": "run around · want"
+   },
+   {
+    "no": 4,
+    "time": "02:01",
+    "img": "/img/p01e15/f4.jpg",
+    "t": "Feed the Ducks",
+    "q": "What did Peppa ask Mummy?",
+    "a": "She asked, “Mummy, can we feed the ducks?”",
+    "cn": "她问：“妈妈，我们能喂鸭子吗？”",
+    "key": "feed · ducks"
+   },
+   {
+    "no": 5,
+    "time": "02:32",
+    "img": "/img/p01e15/f5.jpg",
+    "t": "More Food",
+    "q": "What did the ducks want?",
+    "a": "They wanted more food from the children.",
+    "cn": "鸭子们还想吃，一直要更多。",
+    "key": "more · food"
+   },
+   {
+    "no": 6,
+    "time": "02:52",
+    "img": "/img/p01e15/f6.jpg",
+    "t": "Any Cake Left",
+    "q": "What did Mummy Pig say about the cake?",
+    "a": "She said, “If there's any cake left, give it to the ducks.”",
+    "cn": "她说剩下的蛋糕可以给鸭子。",
+    "key": "cake · left"
+   },
+   {
+    "no": 7,
+    "time": "03:15",
+    "img": "/img/p01e15/f7.jpg",
+    "t": "Stay Still",
+    "q": "What did Daddy Pig tell Peppa?",
+    "a": "He said, “All you have to do is stay still!”",
+    "cn": "他说：“你只要站着不动就行！”",
+    "key": "stay still · only"
+   },
+   {
+    "no": 8,
+    "time": "04:00",
+    "img": "/img/p01e15/f8.jpg",
+    "t": "I Didn't Believe",
+    "q": "What did Mummy Pig say to Daddy?",
+    "a": "She said, “But I didn't believe you'd do it!”",
+    "cn": "她说：“我都没料到你真会这么做！”",
+    "key": "believe · do it"
+   },
+   {
+    "no": 9,
+    "time": "04:17",
+    "img": "/img/p01e15/f9.jpg",
+    "t": "Lucky Ducks",
+    "q": "What did the family say about the ducks?",
+    "a": "They said, “You are very lucky ducks.”",
+    "cn": "他们说：“你们真是幸运的鸭子。”",
+    "key": "lucky · ducks"
+   }
+  ],
+  "words": [
+   [
+    "picnic",
+    "野餐"
+   ],
+   [
+    "spot",
+    "地点"
+   ],
+   [
+    "duck",
+    "鸭子"
+   ],
+   [
+    "feed",
+    "喂"
+   ],
+   [
+    "cake",
+    "蛋糕"
+   ],
+   [
+    "food",
+    "食物"
+   ],
+   [
+    "still",
+    "不动的"
+   ],
+   [
+    "lucky",
+    "幸运的"
+   ],
+   [
+    "sunny",
+    "晴朗的"
+   ],
+   [
+    "left",
+    "剩下的"
+   ],
+   [
+    "believe",
+    "相信"
+   ],
+   [
+    "tired",
+    "累的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "picnic, duck, feed, cake, still, lucky",
+   "actions": "sit, eat, feed, swim, throw, laugh"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Picnic”.",
+  "ending": "In the end, the ducks get the last piece of cake. My favourite part is ______."
+ },
+ "P01E16": {
+  "id": "P01E16",
+  "season": 1,
+  "episode": 16,
+  "title": "Musical Instruments",
+  "titleCn": "乐器",
+  "hook": "阁楼里翻出一箱旧乐器，一人一件，家里立刻热闹得不行。",
+  "cover": "/img/p01e16/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:27",
+    "img": "/img/p01e16/f1.jpg",
+    "t": "Tidying the House",
+    "q": "What had Mummy and Daddy Pig been doing?",
+    "a": "They had been tidying the house all morning.",
+    "cn": "他们整理了一上午的房子。",
+    "key": "tidy · house"
+   },
+   {
+    "no": 2,
+    "time": "00:45",
+    "img": "/img/p01e16/f2.jpg",
+    "t": "Old and Dusty",
+    "q": "What were the instruments like?",
+    "a": "They were a bit old and dusty.",
+    "cn": "这些乐器有点旧，还落了灰。",
+    "key": "old · dusty"
+   },
+   {
+    "no": 3,
+    "time": "01:19",
+    "img": "/img/p01e16/f3.jpg",
+    "t": "Can I Play",
+    "q": "What did Peppa ask Mummy?",
+    "a": "She asked, “Mummy, can I play the violin?”",
+    "cn": "她问：“妈妈，我可以拉小提琴吗？”",
+    "key": "violin · play"
+   },
+   {
+    "no": 4,
+    "time": "01:37",
+    "img": "/img/p01e16/f4.jpg",
+    "t": "Hold It Like This",
+    "q": "What did Peppa teach George?",
+    "a": "She showed him how to hold the violin.",
+    "cn": "她教 George 怎么拿小提琴。",
+    "key": "hold · violin"
+   },
+   {
+    "no": 5,
+    "time": "02:05",
+    "img": "/img/p01e16/f5.jpg",
+    "t": "The Old Accordion",
+    "q": "Whose accordion was it?",
+    "a": "It was Daddy Pig's old accordion.",
+    "cn": "那是猪爸爸的旧手风琴。",
+    "key": "accordion · old"
+   },
+   {
+    "no": 6,
+    "time": "02:28",
+    "img": "/img/p01e16/f6.jpg",
+    "t": "Almost as Difficult",
+    "q": "What did Peppa say about the accordion?",
+    "a": "She said it is almost as difficult as her drum.",
+    "cn": "她说手风琴和她的鼓一样难。",
+    "key": "difficult · drum"
+   },
+   {
+    "no": 7,
+    "time": "02:56",
+    "img": "/img/p01e16/f7.jpg",
+    "t": "Blow Very Hard",
+    "q": "What do you have to do to play it?",
+    "a": "You have to blow it very hard.",
+    "cn": "要很用力地吹才行。",
+    "key": "blow · hard"
+   },
+   {
+    "no": 8,
+    "time": "03:30",
+    "img": "/img/p01e16/f8.jpg",
+    "t": "Impossible to Play",
+    "q": "Could anyone play the accordion?",
+    "a": "No. Peppa said it was impossible to play.",
+    "cn": "没人会，Peppa 说根本吹不响。",
+    "key": "impossible · play"
+   },
+   {
+    "no": 9,
+    "time": "04:11",
+    "img": "/img/p01e16/f9.jpg",
+    "t": "George Blows the Horn",
+    "q": "What did George do at the end?",
+    "a": "He blew the horn and made a big sound.",
+    "cn": "他吹响了号，声音特别大。",
+    "key": "horn · blow"
+   }
+  ],
+  "words": [
+   [
+    "violin",
+    "小提琴"
+   ],
+   [
+    "drum",
+    "鼓"
+   ],
+   [
+    "accordion",
+    "手风琴"
+   ],
+   [
+    "horn",
+    "号角"
+   ],
+   [
+    "musical",
+    "音乐的"
+   ],
+   [
+    "instrument",
+    "乐器"
+   ],
+   [
+    "dusty",
+    "落灰的"
+   ],
+   [
+    "tidy",
+    "整理"
+   ],
+   [
+    "hold",
+    "拿"
+   ],
+   [
+    "blow",
+    "吹"
+   ],
+   [
+    "difficult",
+    "难的"
+   ],
+   [
+    "impossible",
+    "不可能的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "violin, drum, accordion, horn, blow, difficult",
+   "actions": "tidy, find, hold, play, blow, laugh"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Musical Instruments”.",
+  "ending": "In the end, George blows the horn and everyone is surprised. My favourite part is ______."
+ },
+ "P01E17": {
+  "id": "P01E17",
+  "season": 1,
+  "episode": 17,
+  "title": "Frogs and Worms and Butterflies",
+  "titleCn": "青蛙、蚯蚓和蝴蝶",
+  "hook": "在爷爷的花园里，Peppa 想当蝴蝶，George 和爷爷却抢着当蚯蚓，最后一起当青蛙跳泥坑。",
+  "cover": "/img/p01e17/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:28",
+    "img": "/img/p01e17/f1.jpg",
+    "t": "Helping Grandpa",
+    "q": "What were Peppa and George doing?",
+    "a": "They were helping Grandpa Pig in his garden.",
+    "cn": "他们在爷爷的花园里帮忙。",
+    "key": "help · garden"
+   },
+   {
+    "no": 2,
+    "time": "00:57",
+    "img": "/img/p01e17/f2.jpg",
+    "t": "A Long Tongue",
+    "q": "What did Grandpa say about the butterfly?",
+    "a": "He said its tongue is even longer than Peppa's.",
+    "cn": "他说蝴蝶的舌头比 Peppa 的还长。",
+    "key": "tongue · longer"
+   },
+   {
+    "no": 3,
+    "time": "01:22",
+    "img": "/img/p01e17/f3.jpg",
+    "t": "I Want to Be a Butterfly",
+    "q": "What did Peppa want to be?",
+    "a": "She said, “She is so pretty. I want to be a butterfly.”",
+    "cn": "她说蝴蝶真漂亮，她想当蝴蝶。",
+    "key": "pretty · butterfly"
+   },
+   {
+    "no": 4,
+    "time": "01:57",
+    "img": "/img/p01e17/f4.jpg",
+    "t": "Not a Worm",
+    "q": "Did George want to be a worm?",
+    "a": "No, he did not want to be a worm at all.",
+    "cn": "不，他一点也不想想当蚯蚓。",
+    "key": "worm · want"
+   },
+   {
+    "no": 5,
+    "time": "02:32",
+    "img": "/img/p01e17/f5.jpg",
+    "t": "Wriggly Worms",
+    "q": "What were George and Grandpa doing?",
+    "a": "They were having fun being wriggly worms.",
+    "cn": "他们扭来扭去装蚯蚓，玩得很开心。",
+    "key": "wriggly · fun"
+   },
+   {
+    "no": 6,
+    "time": "02:53",
+    "img": "/img/p01e17/f6.jpg",
+    "t": "What Are You Doing",
+    "q": "What did Peppa ask them?",
+    "a": "She asked, “Grandpa! George! What are you doing?”",
+    "cn": "她问：“爷爷！George！你们在干什么？”",
+    "key": "doing · ask"
+   },
+   {
+    "no": 7,
+    "time": "03:25",
+    "img": "/img/p01e17/f7.jpg",
+    "t": "What Animal Now",
+    "q": "What did Grandpa ask?",
+    "a": "He asked, “What animal do you want to be now?”",
+    "cn": "他问：“现在想当什么动物？”",
+    "key": "animal · now"
+   },
+   {
+    "no": 8,
+    "time": "03:49",
+    "img": "/img/p01e17/f8.jpg",
+    "t": "Do Frogs Play House",
+    "q": "What did Peppa wonder?",
+    "a": "She wondered, “Do frogs play dolls' houses?”",
+    "cn": "她想知道青蛙玩不玩娃娃家。",
+    "key": "frog · play"
+   },
+   {
+    "no": 9,
+    "time": "04:21",
+    "img": "/img/p01e17/f9.jpg",
+    "t": "A Muddy Puddle",
+    "q": "What did the froggies find?",
+    "a": "They found a nice big muddy puddle to play in.",
+    "cn": "它们找到一个大泥坑，正好在里面玩。",
+    "key": "froggies · muddy puddle"
+   }
+  ],
+  "words": [
+   [
+    "butterfly",
+    "蝴蝶"
+   ],
+   [
+    "worm",
+    "蚯蚓"
+   ],
+   [
+    "frog",
+    "青蛙"
+   ],
+   [
+    "garden",
+    "花园"
+   ],
+   [
+    "tongue",
+    "舌头"
+   ],
+   [
+    "pretty",
+    "漂亮的"
+   ],
+   [
+    "wriggly",
+    "扭动的"
+   ],
+   [
+    "animal",
+    "动物"
+   ],
+   [
+    "puddle",
+    "水坑"
+   ],
+   [
+    "muddy",
+    "泥泞的"
+   ],
+   [
+    "help",
+    "帮忙"
+   ],
+   [
+    "fun",
+    "好玩的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "butterfly, worm, frog, garden, wriggly, puddle",
+   "actions": "help, dig, fly, wriggle, jump, play"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Frogs and Worms and Butterflies”.",
+  "ending": "In the end, the froggies jump in a big muddy puddle. My favourite part is ______."
+ },
+ "P01E18": {
+  "id": "P01E18",
+  "season": 1,
+  "episode": 18,
+  "title": "Dressing Up",
+  "titleCn": "换装游戏",
+  "hook": "Peppa 和 George 在爸妈卧室里翻出大人的衣服穿在身上，把爸爸妈妈都骗过去了。",
+  "cover": "/img/p01e18/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:26",
+    "img": "/img/p01e18/f1.jpg",
+    "t": "In the Bedroom",
+    "q": "Where were Peppa and George playing?",
+    "a": "They were playing in Mummy and Daddy's bedroom.",
+    "cn": "他们在爸爸妈妈的卧室里玩。",
+    "key": "bedroom · playing"
+   },
+   {
+    "no": 2,
+    "time": "00:53",
+    "img": "/img/p01e18/f2.jpg",
+    "t": "Daddy's Coat",
+    "q": "What did Peppa find?",
+    "a": "She found Daddy Pig's big coat and put it on.",
+    "cn": "她找到爸爸的大外套，穿在身上。",
+    "key": "coat · put on"
+   },
+   {
+    "no": 3,
+    "time": "01:32",
+    "img": "/img/p01e18/f3.jpg",
+    "t": "Just Like Mummy",
+    "q": "What did Peppa want to look like?",
+    "a": "She said, “I need to look beautiful, just like Mummy.”",
+    "cn": "她说要打扮得像妈妈一样漂亮。",
+    "key": "beautiful · like Mummy"
+   },
+   {
+    "no": 4,
+    "time": "02:08",
+    "img": "/img/p01e18/f4.jpg",
+    "t": "Mummy Is Working",
+    "q": "What was Mummy Pig doing?",
+    "a": "She was working on her computer.",
+    "cn": "她正在电脑前工作。",
+    "key": "working · computer"
+   },
+   {
+    "no": 5,
+    "time": "02:36",
+    "img": "/img/p01e18/f5.jpg",
+    "t": "A Lot of Work",
+    "q": "What did Mummy Pig say?",
+    "a": "She said, “Excuse me, I've got a lot of work to do!”",
+    "cn": "她说：“抱歉，我还有很多工作要做！”",
+    "key": "work · excuse me"
+   },
+   {
+    "no": 6,
+    "time": "03:14",
+    "img": "/img/p01e18/f6.jpg",
+    "t": "Digging Outside",
+    "q": "What was Daddy Pig doing?",
+    "a": "He was digging in the garden.",
+    "cn": "他在花园里挖土。",
+    "key": "dig · garden"
+   },
+   {
+    "no": 7,
+    "time": "03:37",
+    "img": "/img/p01e18/f7.jpg",
+    "t": "Not Your Best Clothes",
+    "q": "What did Mummy Pig hope?",
+    "a": "She hoped Daddy was not digging in his best clothes.",
+    "cn": "她希望爸爸别穿着最好的衣服挖土。",
+    "key": "best clothes · digging"
+   },
+   {
+    "no": 8,
+    "time": "04:14",
+    "img": "/img/p01e18/f8.jpg",
+    "t": "Where Are They",
+    "q": "What did the parents wonder?",
+    "a": "They wondered, “So, where are Peppa and George?”",
+    "cn": "他们纳闷：Peppa 和 George 去哪儿了？",
+    "key": "where · wonder"
+   },
+   {
+    "no": 9,
+    "time": "04:27",
+    "img": "/img/p01e18/f9.jpg",
+    "t": "There You Are",
+    "q": "Where were the children?",
+    "a": "They were outside in the big clothes! “There you are!”",
+    "cn": "他们穿着大衣服站在外面——“找到你们啦！”",
+    "key": "there you are · clothes"
+   }
+  ],
+  "words": [
+   [
+    "dress up",
+    "换装"
+   ],
+   [
+    "coat",
+    "外套"
+   ],
+   [
+    "beautiful",
+    "漂亮的"
+   ],
+   [
+    "bedroom",
+    "卧室"
+   ],
+   [
+    "work",
+    "工作"
+   ],
+   [
+    "dig",
+    "挖土"
+   ],
+   [
+    "garden",
+    "花园"
+   ],
+   [
+    "best",
+    "最好的"
+   ],
+   [
+    "clothes",
+    "衣服"
+   ],
+   [
+    "where",
+    "在哪里"
+   ],
+   [
+    "wear",
+    "穿着"
+   ],
+   [
+    "funny",
+    "好玩的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "coat, beautiful, work, dig, clothes, where",
+   "actions": "play, put on, look, work, dig, laugh"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Dressing Up”.",
+  "ending": "In the end, the parents find the children in their big clothes. My favourite part is ______."
+ },
+ "P01E19": {
+  "id": "P01E19",
+  "season": 1,
+  "episode": 19,
+  "title": "New Shoes",
+  "titleCn": "新鞋子",
+  "hook": "Peppa 的旧鞋找不到了，于是有了第一双红皮鞋——喜欢到什么程度？睡觉都不肯脱。",
+  "cover": "/img/p01e19/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:25",
+    "img": "/img/p01e19/f1.jpg",
+    "t": "Playing Outside",
+    "q": "What had Peppa and George been doing?",
+    "a": "They had been playing in the garden.",
+    "cn": "他们一直在花园里玩。",
+    "key": "playing · garden"
+   },
+   {
+    "no": 2,
+    "time": "00:52",
+    "img": "/img/p01e19/f2.jpg",
+    "t": "Shoes Are Missing",
+    "q": "What was the problem?",
+    "a": "Peppa's shoes were not there. They were lost.",
+    "cn": "Peppa 的鞋不见了。",
+    "key": "shoes · missing"
+   },
+   {
+    "no": 3,
+    "time": "01:07",
+    "img": "/img/p01e19/f3.jpg",
+    "t": "Looked Everywhere",
+    "q": "Could they find the shoes?",
+    "a": "No. They looked everywhere but could not find them.",
+    "cn": "他们把到处都找遍了，还是没找到。",
+    "key": "everywhere · cannot"
+   },
+   {
+    "no": 4,
+    "time": "01:34",
+    "img": "/img/p01e19/f4.jpg",
+    "t": "The Shoe Shop",
+    "q": "Where did Mummy take Peppa?",
+    "a": "She took her to Miss Rabbit's shoe shop.",
+    "cn": "她带 Peppa 去了兔子小姐的鞋店。",
+    "key": "shoe shop · take"
+   },
+   {
+    "no": 5,
+    "time": "02:05",
+    "img": "/img/p01e19/f5.jpg",
+    "t": "Playing Draughts",
+    "q": "What were George and Daddy doing?",
+    "a": "They were playing draughts at home.",
+    "cn": "他们在家里玩跳棋。",
+    "key": "draughts · play"
+   },
+   {
+    "no": 6,
+    "time": "02:31",
+    "img": "/img/p01e19/f6.jpg",
+    "t": "I Like Them So Much",
+    "q": "What did Peppa say about her new shoes?",
+    "a": "She said, “I like my new shoes so much.”",
+    "cn": "她说：“我太喜欢我的新鞋了。”",
+    "key": "new shoes · like"
+   },
+   {
+    "no": 7,
+    "time": "02:58",
+    "img": "/img/p01e19/f7.jpg",
+    "t": "Won't Take Them Off",
+    "q": "What did Mummy Pig ask Peppa?",
+    "a": "She asked if Peppa wanted to take her shoes off.",
+    "cn": "她问 Peppa 要不要把鞋脱下来。",
+    "key": "take off · shoes"
+   },
+   {
+    "no": 8,
+    "time": "03:27",
+    "img": "/img/p01e19/f8.jpg",
+    "t": "Daddy's Boots",
+    "q": "What was Daddy Pig wearing?",
+    "a": "He was wearing his big boots.",
+    "cn": "他穿着他的大靴子。",
+    "key": "boots · wearing"
+   },
+   {
+    "no": 9,
+    "time": "04:03",
+    "img": "/img/p01e19/f9.jpg",
+    "t": "Jumping in Puddles",
+    "q": "What do Mummy and Daddy love?",
+    "a": "They love jumping up and down in muddy puddles.",
+    "cn": "他们喜欢在泥坑里跳来跳去。",
+    "key": "jump · muddy puddles"
+   }
+  ],
+  "words": [
+   [
+    "shoe",
+    "鞋子"
+   ],
+   [
+    "shop",
+    "商店"
+   ],
+   [
+    "new",
+    "新的"
+   ],
+   [
+    "lost",
+    "丢了的"
+   ],
+   [
+    "everywhere",
+    "到处"
+   ],
+   [
+    "boots",
+    "靴子"
+   ],
+   [
+    "wear",
+    "穿着"
+   ],
+   [
+    "take off",
+    "脱下"
+   ],
+   [
+    "puddle",
+    "水坑"
+   ],
+   [
+    "muddy",
+    "泥泞的"
+   ],
+   [
+    "draughts",
+    "跳棋"
+   ],
+   [
+    "red",
+    "红色的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "shoe, shop, new, boots, wear, puddle",
+   "actions": "look, buy, wear, jump, take off, laugh"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “New Shoes”.",
+  "ending": "In the end, the whole family jumps in muddy puddles in their boots. My favourite part is ______."
+ },
+ "P01E20": {
+  "id": "P01E20",
+  "season": 1,
+  "episode": 20,
+  "title": "The School Fete",
+  "titleCn": "学校游园会",
+  "hook": "游园会上有充气城堡、画脸和气球，可恐龙气球一个都没有，爸爸只好自己动手。",
+  "cover": "/img/p01e20/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:21",
+    "img": "/img/p01e20/f1.jpg",
+    "t": "Fete Day",
+    "q": "What day was it?",
+    "a": "It was the day of the school fete.",
+    "cn": "今天是学校游园会的日子。",
+    "key": "school fete · day"
+   },
+   {
+    "no": 2,
+    "time": "00:46",
+    "img": "/img/p01e20/f2.jpg",
+    "t": "Bouncy Castle",
+    "q": "What did Peppa like best?",
+    "a": "She said, “I like the bouncy castle the best!”",
+    "cn": "她说最喜欢充气城堡。",
+    "key": "bouncy castle · best"
+   },
+   {
+    "no": 3,
+    "time": "01:12",
+    "img": "/img/p01e20/f3.jpg",
+    "t": "Dinosaur Balloons",
+    "q": "What did Peppa ask Daddy?",
+    "a": "She asked if he was sure they had dinosaur balloons.",
+    "cn": "她问爸爸确定有恐龙气球吗。",
+    "key": "dinosaur balloons · sure"
+   },
+   {
+    "no": 4,
+    "time": "01:43",
+    "img": "/img/p01e20/f4.jpg",
+    "t": "Face Painting",
+    "q": "What did they ask Peppa?",
+    "a": "They asked, “Would you like your face painted?”",
+    "cn": "他们问她想不想画脸。",
+    "key": "face · painted"
+   },
+   {
+    "no": 5,
+    "time": "02:24",
+    "img": "/img/p01e20/f5.jpg",
+    "t": "Big Cats",
+    "q": "Why did someone say tigers are big cats?",
+    "a": "Because tigers are big cats, like the family cat.",
+    "cn": "因为老虎就是大个的猫。",
+    "key": "tiger · big cats"
+   },
+   {
+    "no": 6,
+    "time": "02:44",
+    "img": "/img/p01e20/f6.jpg",
+    "t": "Lick Themselves Clean",
+    "q": "How do tigers keep clean?",
+    "a": "They like to lick themselves clean.",
+    "cn": "它们喜欢舔自己来保持干净。",
+    "key": "lick · clean"
+   },
+   {
+    "no": 7,
+    "time": "03:23",
+    "img": "/img/p01e20/f7.jpg",
+    "t": "Balloons Please",
+    "q": "What did the children ask for?",
+    "a": "They said, “We'd like some balloons, please.”",
+    "cn": "他们说：“我们想要几个气球。”",
+    "key": "balloons · please"
+   },
+   {
+    "no": 8,
+    "time": "03:49",
+    "img": "/img/p01e20/f8.jpg",
+    "t": "No Dinosaur Ones",
+    "q": "What was the problem with the balloons?",
+    "a": "There were no dinosaur balloons at all.",
+    "cn": "没有恐龙气球。",
+    "key": "dinosaur · none"
+   },
+   {
+    "no": 9,
+    "time": "04:23",
+    "img": "/img/p01e20/f9.jpg",
+    "t": "A Balloon Dinosaur",
+    "q": "What did Daddy Pig make?",
+    "a": "He made a dinosaur out of a long balloon.",
+    "cn": "他用长气球做了一只恐龙。",
+    "key": "make · balloon dinosaur"
+   }
+  ],
+  "words": [
+   [
+    "fete",
+    "游园会"
+   ],
+   [
+    "bouncy castle",
+    "充气城堡"
+   ],
+   [
+    "balloon",
+    "气球"
+   ],
+   [
+    "dinosaur",
+    "恐龙"
+   ],
+   [
+    "paint",
+    "画"
+   ],
+   [
+    "tiger",
+    "老虎"
+   ],
+   [
+    "lick",
+    "舔"
+   ],
+   [
+    "clean",
+    "干净的"
+   ],
+   [
+    "long",
+    "长的"
+   ],
+   [
+    "make",
+    "做"
+   ],
+   [
+    "school",
+    "学校"
+   ],
+   [
+    "best",
+    "最"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "fete, bouncy castle, balloon, dinosaur, tiger, make",
+   "actions": "jump, paint, ask, buy, make, smile"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “The School Fete”.",
+  "ending": "In the end, Daddy Pig makes a balloon dinosaur. My favourite part is ______."
+ },
+ "P01E21": {
+  "id": "P01E21",
+  "season": 1,
+  "episode": 21,
+  "title": "Mummy Pig's Birthday",
+  "titleCn": "猪妈妈过生日",
+  "hook": "妈妈生日这天，全家偷偷准备惊喜，还把妈妈“请”出门散步，就等蛋糕出场。",
+  "cover": "/img/p01e21/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:24",
+    "img": "/img/p01e21/f1.jpg",
+    "t": "Birthday Today",
+    "q": "What day was it?",
+    "a": "It was Mummy Pig's birthday.",
+    "cn": "今天是猪妈妈的生日。",
+    "key": "birthday · today"
+   },
+   {
+    "no": 2,
+    "time": "00:51",
+    "img": "/img/p01e21/f2.jpg",
+    "t": "Get Everything Ready",
+    "q": "What did Daddy Pig say?",
+    "a": "He said, “Quick! We have to get everything ready!”",
+    "cn": "他说：“快点！我们得把东西都准备好！”",
+    "key": "ready · quick"
+   },
+   {
+    "no": 3,
+    "time": "01:14",
+    "img": "/img/p01e21/f3.jpg",
+    "t": "Can I Come In",
+    "q": "What did Mummy Pig ask?",
+    "a": "She asked, “It's Mummy. Can I come in?”",
+    "cn": "她问：“是妈妈，我能进来吗？”",
+    "key": "come in · mummy"
+   },
+   {
+    "no": 4,
+    "time": "01:32",
+    "img": "/img/p01e21/f4.jpg",
+    "t": "Where Is the Sitting Room",
+    "q": "What did Mummy Pig pretend?",
+    "a": "She pretended she did not know where the sitting room was.",
+    "cn": "她装作不知道客厅在哪儿。",
+    "key": "pretend · sitting room"
+   },
+   {
+    "no": 5,
+    "time": "02:12",
+    "img": "/img/p01e21/f5.jpg",
+    "t": "The Birthday Cake",
+    "q": "What was ready?",
+    "a": "The birthday cake was ready for Mummy Pig.",
+    "cn": "妈妈的生日蛋糕准备好了。",
+    "key": "cake · ready"
+   },
+   {
+    "no": 6,
+    "time": "02:36",
+    "img": "/img/p01e21/f6.jpg",
+    "t": "Have a Lovely Walk",
+    "q": "What did the family tell Mummy?",
+    "a": "They said, “Bye bye! Have a lovely walk!”",
+    "cn": "他们说：“再见！好好散步！”",
+    "key": "walk · bye"
+   },
+   {
+    "no": 7,
+    "time": "03:12",
+    "img": "/img/p01e21/f7.jpg",
+    "t": "Secret Things",
+    "q": "What were the children doing?",
+    "a": "They were doing secret things for her birthday.",
+    "cn": "他们在为生日偷偷准备东西。",
+    "key": "secret · birthday"
+   },
+   {
+    "no": 8,
+    "time": "03:53",
+    "img": "/img/p01e21/f8.jpg",
+    "t": "Can You Guess",
+    "q": "What did they ask Mummy?",
+    "a": "They asked, “Can you guess what it is?”",
+    "cn": "他们问：“你猜猜是什么？”",
+    "key": "guess · what"
+   },
+   {
+    "no": 9,
+    "time": "04:23",
+    "img": "/img/p01e21/f9.jpg",
+    "t": "Baby-sit the Little Ones",
+    "q": "What did Grandpa Pig say?",
+    "a": "He said Granny and he would baby-sit the little ones.",
+    "cn": "他说他和奶奶来照看孩子们。",
+    "key": "baby-sit · little ones"
+   }
+  ],
+  "words": [
+   [
+    "birthday",
+    "生日"
+   ],
+   [
+    "cake",
+    "蛋糕"
+   ],
+   [
+    "ready",
+    "准备好的"
+   ],
+   [
+    "secret",
+    "秘密的"
+   ],
+   [
+    "guess",
+    "猜"
+   ],
+   [
+    "walk",
+    "散步"
+   ],
+   [
+    "pretend",
+    "假装"
+   ],
+   [
+    "sitting room",
+    "客厅"
+   ],
+   [
+    "baby-sit",
+    "照看孩子"
+   ],
+   [
+    "present",
+    "礼物"
+   ],
+   [
+    "party",
+    "派对"
+   ],
+   [
+    "lovely",
+    "美好的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "birthday, cake, ready, secret, guess, walk",
+   "actions": "make, hide, ready, walk, guess, surprise"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Mummy Pig's Birthday”.",
+  "ending": "In the end, the family gives Mummy Pig a big birthday surprise. My favourite part is ______."
+ },
+ "P01E22": {
+  "id": "P01E22",
+  "season": 1,
+  "episode": 22,
+  "title": "The Tooth Fairy",
+  "titleCn": "牙仙子",
+  "hook": "吃意大利面的时候，Peppa 掉了一颗牙。晚上牙仙子会来吗？",
+  "cover": "/img/p01e22/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:27",
+    "img": "/img/p01e22/f1.jpg",
+    "t": "Spaghetti Time",
+    "q": "What were Peppa and George eating?",
+    "a": "They were eating spaghetti, their favourite food.",
+    "cn": "他们在吃最爱的意大利面。",
+    "key": "spaghetti · favourite"
+   },
+   {
+    "no": 2,
+    "time": "00:53",
+    "img": "/img/p01e22/f2.jpg",
+    "t": "A Tooth Came Out",
+    "q": "What happened to Peppa?",
+    "a": "One of her teeth came out! “Where did that come from?”",
+    "cn": "她掉了一颗牙——“这是从哪儿来的？”",
+    "key": "tooth · come out"
+   },
+   {
+    "no": 3,
+    "time": "01:17",
+    "img": "/img/p01e22/f3.jpg",
+    "t": "A Visit Tonight",
+    "q": "Who will come to visit?",
+    "a": "The Tooth Fairy will pay Peppa a visit tonight.",
+    "cn": "今晚牙仙子会来看她。",
+    "key": "Tooth Fairy · visit"
+   },
+   {
+    "no": 4,
+    "time": "01:44",
+    "img": "/img/p01e22/f4.jpg",
+    "t": "I Want to Be One",
+    "q": "What did Peppa say?",
+    "a": "She said, “I want to be a Tooth Fairy!”",
+    "cn": "她说：“我也想当牙仙子！”",
+    "key": "want · Tooth Fairy"
+   },
+   {
+    "no": 5,
+    "time": "02:08",
+    "img": "/img/p01e22/f5.jpg",
+    "t": "What Are You Doing",
+    "q": "What did Mummy ask Peppa?",
+    "a": "She asked, “Peppa, what are you doing?”",
+    "cn": "她问：“Peppa，你在做什么？”",
+    "key": "doing · ask"
+   },
+   {
+    "no": 6,
+    "time": "02:53",
+    "img": "/img/p01e22/f6.jpg",
+    "t": "Very Late",
+    "q": "What did Peppa think?",
+    "a": "She thought, “This Tooth Fairy is very late!”",
+    "cn": "她觉得：“牙仙子来得也太晚了！”",
+    "key": "late · think"
+   },
+   {
+    "no": 7,
+    "time": "03:10",
+    "img": "/img/p01e22/f7.jpg",
+    "t": "Can You Hear That",
+    "q": "What did Peppa ask George?",
+    "a": "She asked, “George, can you hear something?”",
+    "cn": "她问：“George，你听见什么了吗？”",
+    "key": "hear · something"
+   },
+   {
+    "no": 8,
+    "time": "03:40",
+    "img": "/img/p01e22/f8.jpg",
+    "t": "She Has Arrived",
+    "q": "Who arrived at last?",
+    "a": "The Tooth Fairy arrived and took the tooth.",
+    "cn": "牙仙子终于来了，把牙取走了。",
+    "key": "arrive · take"
+   },
+   {
+    "no": 9,
+    "time": "04:20",
+    "img": "/img/p01e22/f9.jpg",
+    "t": "A Coin",
+    "q": "What did the Tooth Fairy leave?",
+    "a": "She left a coin for Peppa under the pillow.",
+    "cn": "她在枕头下给 Peppa 留了一枚硬币。",
+    "key": "coin · leave"
+   }
+  ],
+  "words": [
+   [
+    "tooth",
+    "牙齿"
+   ],
+   [
+    "fairy",
+    "仙子"
+   ],
+   [
+    "spaghetti",
+    "意大利面"
+   ],
+   [
+    "coin",
+    "硬币"
+   ],
+   [
+    "pillow",
+    "枕头"
+   ],
+   [
+    "visit",
+    "拜访"
+   ],
+   [
+    "late",
+    "晚的"
+   ],
+   [
+    "hear",
+    "听见"
+   ],
+   [
+    "arrive",
+    "到达"
+   ],
+   [
+    "leave",
+    "留下"
+   ],
+   [
+    "tonight",
+    "今晚"
+   ],
+   [
+    "favourite",
+    "最喜欢的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "tooth, fairy, coin, pillow, late, visit",
+   "actions": "eat, lose, wait, hear, arrive, leave"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “The Tooth Fairy”.",
+  "ending": "In the end, Peppa finds a coin under her pillow. My favourite part is ______."
+ },
+ "P01E23": {
+  "id": "P01E23",
+  "season": 1,
+  "episode": 23,
+  "title": "The New Car",
+  "titleCn": "新车",
+  "hook": "家里的红车送去修，一家人借了一辆蓝色新车，功能太多反而手忙脚乱。",
+  "cover": "/img/p01e23/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:27",
+    "img": "/img/p01e23/f1.jpg",
+    "t": "A Drive in the Red Car",
+    "q": "What were they doing?",
+    "a": "They were going for a drive in their red car.",
+    "cn": "他们开着红车出门。",
+    "key": "drive · red car"
+   },
+   {
+    "no": 2,
+    "time": "00:54",
+    "img": "/img/p01e23/f2.jpg",
+    "t": "Our Car Loves Us",
+    "q": "What did Daddy Pig say about the car?",
+    "a": "He said, “Our car loves us, too! Don't you?”",
+    "cn": "他说：“我们的车也爱我们，对吧？”",
+    "key": "car · love"
+   },
+   {
+    "no": 3,
+    "time": "01:27",
+    "img": "/img/p01e23/f3.jpg",
+    "t": "Granddad's Garage",
+    "q": "Who mends the cars?",
+    "a": "Granddad Dog runs the garage. He is good at mending cars.",
+    "cn": "狗爷爷开修车厂，很会修车。",
+    "key": "garage · mend"
+   },
+   {
+    "no": 4,
+    "time": "01:58",
+    "img": "/img/p01e23/f4.jpg",
+    "t": "Roof Down",
+    "q": "What did the man ask them?",
+    "a": "He asked, “Would you like the roof down?”",
+    "cn": "他问要不要把车顶打开。",
+    "key": "roof · down"
+   },
+   {
+    "no": 5,
+    "time": "02:21",
+    "img": "/img/p01e23/f5.jpg",
+    "t": "The Blue Car",
+    "q": "Did the family like the new car?",
+    "a": "Yes, they liked the new blue car very much.",
+    "cn": "他们很喜欢这辆新蓝车。",
+    "key": "new · blue"
+   },
+   {
+    "no": 6,
+    "time": "02:37",
+    "img": "/img/p01e23/f6.jpg",
+    "t": "Magic Windows",
+    "q": "What did Peppa ask Daddy?",
+    "a": "She said, “Daddy! Make the magic windows go down.”",
+    "cn": "她说：“爸爸！让神奇的窗子降下来。”",
+    "key": "windows · down"
+   },
+   {
+    "no": 7,
+    "time": "03:13",
+    "img": "/img/p01e23/f7.jpg",
+    "t": "Which Button",
+    "q": "What did Daddy Pig wonder?",
+    "a": "He wondered which button closes the roof.",
+    "cn": "他在想哪个按钮才能关车顶。",
+    "key": "button · roof"
+   },
+   {
+    "no": 8,
+    "time": "03:56",
+    "img": "/img/p01e23/f8.jpg",
+    "t": "Open It Again",
+    "q": "What did the children ask?",
+    "a": "They asked, “Can we open the roof again?”",
+    "cn": "他们问能不能再打开车顶。",
+    "key": "open · again"
+   },
+   {
+    "no": 9,
+    "time": "04:32",
+    "img": "/img/p01e23/f9.jpg",
+    "t": "I Like the Old One",
+    "q": "Which car did Peppa like better?",
+    "a": "She said, “I like our old car better.”",
+    "cn": "她说还是更喜欢我们自己的旧车。",
+    "key": "old car · better"
+   }
+  ],
+  "words": [
+   [
+    "car",
+    "汽车"
+   ],
+   [
+    "drive",
+    "开车"
+   ],
+   [
+    "garage",
+    "修车厂"
+   ],
+   [
+    "mend",
+    "修理"
+   ],
+   [
+    "roof",
+    "车顶"
+   ],
+   [
+    "button",
+    "按钮"
+   ],
+   [
+    "window",
+    "窗户"
+   ],
+   [
+    "new",
+    "新的"
+   ],
+   [
+    "old",
+    "旧的"
+   ],
+   [
+    "better",
+    "更好"
+   ],
+   [
+    "magic",
+    "神奇的"
+   ],
+   [
+    "blue",
+    "蓝色的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "car, drive, garage, roof, button, better",
+   "actions": "drive, mend, press, open, close, like"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “The New Car”.",
+  "ending": "In the end, Peppa says she likes their old car better. My favourite part is ______."
+ },
+ "P01E24": {
+  "id": "P01E24",
+  "season": 1,
+  "episode": 24,
+  "title": "Treasure Hunt",
+  "titleCn": "寻宝游戏",
+  "hook": "爷爷奶奶在花园里藏了宝藏，画了一张海盗藏宝图，让佩奇和乔治顺着线索去找。",
+  "cover": "/img/p01e24/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:24",
+    "img": "/img/p01e24/f1.jpg",
+    "t": "A Treasure Hunt",
+    "q": "What are Granny and Grandpa Pig making?",
+    "a": "They are making a treasure hunt for Peppa and George.",
+    "cn": "他们在给佩奇和乔治准备一场寻宝游戏。",
+    "key": "treasure hunt · making"
+   },
+   {
+    "no": 2,
+    "time": "00:50",
+    "img": "/img/p01e24/f2.jpg",
+    "t": "Quick, Grandpa Pig!",
+    "q": "What did Granny Pig call out?",
+    "a": "She called, “Quick, Grandpa Pig! They're here!”",
+    "cn": "她喊：“快，猪爷爷！他们来了！”",
+    "key": "quick · here"
+   },
+   {
+    "no": 3,
+    "time": "01:18",
+    "img": "/img/p01e24/f3.jpg",
+    "t": "Buried Treasure",
+    "q": "Where is the buried treasure?",
+    "a": "Granny says it is buried somewhere in the garden.",
+    "cn": "奶奶说宝藏就埋在花园里的某个地方。",
+    "key": "buried · garden"
+   },
+   {
+    "no": 4,
+    "time": "01:48",
+    "img": "/img/p01e24/f4.jpg",
+    "t": "A Bit Difficult",
+    "q": "Was the treasure map easy to read?",
+    "a": "No, they say the map is a bit difficult.",
+    "cn": "不，他们说这张图有点难认。",
+    "key": "difficult · map"
+   },
+   {
+    "no": 5,
+    "time": "01:57",
+    "img": "/img/p01e24/f5.jpg",
+    "t": "The First Clue",
+    "q": "What did Peppa find, and what did she ask?",
+    "a": "She found the first clue and asked where the bottle was.",
+    "cn": "她找到了第一个线索，还问瓶子在哪里。",
+    "key": "clue · bottle"
+   },
+   {
+    "no": 6,
+    "time": "02:44",
+    "img": "/img/p01e24/f6.jpg",
+    "t": "Bad Handwriting",
+    "q": "Why couldn't Mummy read the pirate's message?",
+    "a": "She said this pirate has very bad handwriting.",
+    "cn": "她说这个海盗的字写得很糟。",
+    "key": "handwriting · pirate"
+   },
+   {
+    "no": 7,
+    "time": "03:08",
+    "img": "/img/p01e24/f7.jpg",
+    "t": "Following the Arrows",
+    "q": "What are Peppa and George doing now?",
+    "a": "They are following the arrows to the next clue.",
+    "cn": "他们顺着箭头去找下一个线索。",
+    "key": "arrows · following"
+   },
+   {
+    "no": 8,
+    "time": "03:58",
+    "img": "/img/p01e24/f8.jpg",
+    "t": "Something Here",
+    "q": "What did Daddy Pig call out?",
+    "a": "He called, “Hang on! There is something here!”",
+    "cn": "他喊：“等一下！这里有东西！”",
+    "key": "something · here"
+   },
+   {
+    "no": 9,
+    "time": "04:10",
+    "img": "/img/p01e24/f9.jpg",
+    "t": "Chocolate Coins",
+    "q": "What was inside the treasure chest?",
+    "a": "Chocolate coins! Peppa and George love chocolate coins.",
+    "cn": "巧克力金币！佩奇和乔治最喜欢了。",
+    "key": "chocolate coins · treasure"
+   }
+  ],
+  "words": [
+   [
+    "treasure",
+    "宝藏"
+   ],
+   [
+    "hunt",
+    "寻找"
+   ],
+   [
+    "map",
+    "地图"
+   ],
+   [
+    "buried",
+    "埋着的"
+   ],
+   [
+    "clue",
+    "线索"
+   ],
+   [
+    "pirate",
+    "海盗"
+   ],
+   [
+    "handwriting",
+    "字迹"
+   ],
+   [
+    "arrow",
+    "箭头"
+   ],
+   [
+    "bottle",
+    "瓶子"
+   ],
+   [
+    "chest",
+    "箱子"
+   ],
+   [
+    "chocolate",
+    "巧克力"
+   ],
+   [
+    "coin",
+    "硬币"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "treasure, map, clue, pirate, arrow, chocolate",
+   "actions": "make, draw, look for, follow, find, open"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Treasure Hunt”.",
+  "ending": "In the end, the treasure is chocolate coins. My favourite part is ______."
+ },
+ "P01E25": {
+  "id": "P01E25",
+  "season": 1,
+  "episode": 25,
+  "title": "Not Very Well",
+  "titleCn": "不太舒服",
+  "hook": "佩奇脸上长满红点，只好躺在床上，还让来看她的小伙伴去要冰淇淋。",
+  "cover": "/img/p01e25/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:24",
+    "img": "/img/p01e25/f1.jpg",
+    "t": "Breakfast Time",
+    "q": "What did Mummy and Daddy Pig make for the children?",
+    "a": "They made breakfast for Peppa and George.",
+    "cn": "他们给佩奇和乔治做好了早餐。",
+    "key": "breakfast · made"
+   },
+   {
+    "no": 2,
+    "time": "00:55",
+    "img": "/img/p01e25/f2.jpg",
+    "t": "Red Spots",
+    "q": "What is wrong with Peppa's face?",
+    "a": "Her face is covered in little red spots.",
+    "cn": "她脸上长满了小红点。",
+    "key": "red spots · face"
+   },
+   {
+    "no": 3,
+    "time": "01:26",
+    "img": "/img/p01e25/f3.jpg",
+    "t": "A Little Medicine",
+    "q": "What did Dr. Brown Bear offer Peppa?",
+    "a": "He said he could give her just a little medicine.",
+    "cn": "他说可以给她吃一点点药。",
+    "key": "medicine · little"
+   },
+   {
+    "no": 4,
+    "time": "01:50",
+    "img": "/img/p01e25/f4.jpg",
+    "t": "Visitors",
+    "q": "Can Peppa's friends come to see her?",
+    "a": "Yes, the doctor says she can have visitors.",
+    "cn": "可以，医生说可以让朋友来看她。",
+    "key": "visitors · doctor"
+   },
+   {
+    "no": 5,
+    "time": "02:29",
+    "img": "/img/p01e25/f5.jpg",
+    "t": "I'm Not Very Well",
+    "q": "What did Peppa tell her friends?",
+    "a": "She said, “I'm not very well. I have red spots.”",
+    "cn": "她说：“我不太舒服，我脸上有红点。”",
+    "key": "not very well · spots"
+   },
+   {
+    "no": 6,
+    "time": "02:46",
+    "img": "/img/p01e25/f6.jpg",
+    "t": "Stay in Bed",
+    "q": "Where does Peppa have to stay?",
+    "a": "She has to stay in bed, so her friends come to her.",
+    "cn": "她必须待在床上，所以朋友们来看她。",
+    "key": "in bed · ill"
+   },
+   {
+    "no": 7,
+    "time": "03:19",
+    "img": "/img/p01e25/f7.jpg",
+    "t": "The Nurse Is Here",
+    "q": "What did Peppa keep telling Suzy Sheep?",
+    "a": "She kept saying that she has to stay in bed.",
+    "cn": "她一直说自己必须待在床上。",
+    "key": "stay in bed · Suzy"
+   },
+   {
+    "no": 8,
+    "time": "03:42",
+    "img": "/img/p01e25/f8.jpg",
+    "t": "Some Ice Cream",
+    "q": "What did Peppa want her friends to ask for?",
+    "a": "She wanted them to ask her mummy for some ice cream.",
+    "cn": "她想让朋友去跟她妈妈要冰淇淋。",
+    "key": "ice cream · ask"
+   },
+   {
+    "no": 9,
+    "time": "04:09",
+    "img": "/img/p01e25/f9.jpg",
+    "t": "Completely Better",
+    "q": "What did the doctor say at the end?",
+    "a": "He said, “No more red spots! You're completely better!”",
+    "cn": "他说：“红点没了！你全好了！”",
+    "key": "completely better · red spots"
+   }
+  ],
+  "words": [
+   [
+    "breakfast",
+    "早餐"
+   ],
+   [
+    "spot",
+    "斑点"
+   ],
+   [
+    "face",
+    "脸"
+   ],
+   [
+    "medicine",
+    "药"
+   ],
+   [
+    "doctor",
+    "医生"
+   ],
+   [
+    "visitor",
+    "客人"
+   ],
+   [
+    "brave",
+    "勇敢的"
+   ],
+   [
+    "nurse",
+    "护士"
+   ],
+   [
+    "ice cream",
+    "冰淇淋"
+   ],
+   [
+    "ill",
+    "生病的"
+   ],
+   [
+    "better",
+    "好转的"
+   ],
+   [
+    "bed",
+    "床"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "spots, doctor, medicine, visitor, ice cream, better",
+   "actions": "make, check, take, stay, visit, feel"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Not Very Well”.",
+  "ending": "In the end, Peppa is completely better. My favourite part is ______."
+ },
+ "P01E26": {
+  "id": "P01E26",
+  "season": 1,
+  "episode": 26,
+  "title": "Snow",
+  "titleCn": "下雪了",
+  "hook": "外面下起了大雪，佩奇和乔治在雪地里踩脚印、打雪球，还堆了一个漂亮的大雪人。",
+  "cover": "/img/p01e26/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:27",
+    "img": "/img/p01e26/f1.jpg",
+    "t": "Very Excited",
+    "q": "Why are Peppa and George so excited?",
+    "a": "They are very excited because they can play in the snow.",
+    "cn": "他们特别兴奋，因为能去雪地里玩。",
+    "key": "excited · snow"
+   },
+   {
+    "no": 2,
+    "time": "00:46",
+    "img": "/img/p01e26/f2.jpg",
+    "t": "Very Cold Outside",
+    "q": "What is the weather like outside?",
+    "a": "It is very cold, so they must wrap up warm.",
+    "cn": "外面很冷，他们必须穿得暖暖的。",
+    "key": "cold · warm"
+   },
+   {
+    "no": 3,
+    "time": "01:40",
+    "img": "/img/p01e26/f3.jpg",
+    "t": "A Snowball",
+    "q": "What did Peppa make in the snow?",
+    "a": "She made a snowball to play with George.",
+    "cn": "她做了一个雪球，和乔治一起玩。",
+    "key": "snowball · made"
+   },
+   {
+    "no": 4,
+    "time": "02:23",
+    "img": "/img/p01e26/f4.jpg",
+    "t": "A Bit Too Rough",
+    "q": "What did Mummy Pig say about their game?",
+    "a": "She said this game is getting a little too rough.",
+    "cn": "她说这个游戏玩得有点太过火了。",
+    "key": "rough · game"
+   },
+   {
+    "no": 5,
+    "time": "02:42",
+    "img": "/img/p01e26/f5.jpg",
+    "t": "The Snowman's Body",
+    "q": "What are Peppa and George making?",
+    "a": "They are making a snowman, starting with the body.",
+    "cn": "他们在堆雪人，先从身体堆起。",
+    "key": "snowman · body"
+   },
+   {
+    "no": 6,
+    "time": "03:02",
+    "img": "/img/p01e26/f6.jpg",
+    "t": "Stones for Eyes",
+    "q": "What are the stones for?",
+    "a": "Peppa uses the stones for the snowman's eyes and mouth.",
+    "cn": "佩奇用石头做雪人的眼睛和嘴巴。",
+    "key": "stones · eyes"
+   },
+   {
+    "no": 7,
+    "time": "03:20",
+    "img": "/img/p01e26/f7.jpg",
+    "t": "Nice and Warm",
+    "q": "What did George find for the snowman?",
+    "a": "He found some clothes to keep the snowman nice and warm.",
+    "cn": "他找来一些衣服，让雪人暖暖的。",
+    "key": "clothes · warm"
+   },
+   {
+    "no": 8,
+    "time": "03:56",
+    "img": "/img/p01e26/f8.jpg",
+    "t": "The Best Snowman",
+    "q": "What did Daddy Pig think of the snowman?",
+    "a": "He said it is the best snowman he has ever seen.",
+    "cn": "他说这是他见过的最棒的雪人。",
+    "key": "best · snowman"
+   },
+   {
+    "no": 9,
+    "time": "04:18",
+    "img": "/img/p01e26/f9.jpg",
+    "t": "Where Are They?",
+    "q": "What couldn't Daddy Pig find?",
+    "a": "He couldn't find his hat, his scarf and his gloves.",
+    "cn": "他找不到自己的帽子、围巾和手套了。",
+    "key": "hat · scarf"
+   }
+  ],
+  "words": [
+   [
+    "snow",
+    "雪"
+   ],
+   [
+    "excited",
+    "兴奋的"
+   ],
+   [
+    "cold",
+    "寒冷的"
+   ],
+   [
+    "warm",
+    "暖和的"
+   ],
+   [
+    "footprint",
+    "脚印"
+   ],
+   [
+    "snowball",
+    "雪球"
+   ],
+   [
+    "rough",
+    "粗野的"
+   ],
+   [
+    "snowman",
+    "雪人"
+   ],
+   [
+    "body",
+    "身体"
+   ],
+   [
+    "stone",
+    "石头"
+   ],
+   [
+    "scarf",
+    "围巾"
+   ],
+   [
+    "gloves",
+    "手套"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "snow, cold, snowball, snowman, stones, clothes",
+   "actions": "play, make, throw, find, put on, wear"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Snow”.",
+  "ending": "In the end, the snowman is wearing Daddy's hat, scarf and gloves. My favourite part is ______."
+ },
+ "P01E27": {
+  "id": "P01E27",
+  "season": 1,
+  "episode": 27,
+  "title": "Windy Castle",
+  "titleCn": "风之城堡",
+  "hook": "一家人开车去风之城堡，路上玩起了“我看见”，猪爸爸却不认路，最后靠打电话问路才到。",
+  "cover": "/img/p01e27/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:21",
+    "img": "/img/p01e27/f1.jpg",
+    "t": "Out for the Day",
+    "q": "Where is the family going today?",
+    "a": "They are going out for the day to Windy Castle.",
+    "cn": "他们今天要出门去风之城堡。",
+    "key": "Windy Castle · going out"
+   },
+   {
+    "no": 2,
+    "time": "00:52",
+    "img": "/img/p01e27/f2.jpg",
+    "t": "Are You Sure?",
+    "q": "What did Mummy Pig ask Daddy Pig?",
+    "a": "She asked him, “Are you sure, Daddy Pig?”",
+    "cn": "她问他：“你确定吗，猪爸爸？”",
+    "key": "sure · Mummy"
+   },
+   {
+    "no": 3,
+    "time": "01:26",
+    "img": "/img/p01e27/f3.jpg",
+    "t": "I Spy",
+    "q": "What game are they playing in the car?",
+    "a": "They are playing I spy with my little eye.",
+    "cn": "他们在玩“我用小眼睛看见”的游戏。",
+    "key": "I spy · game"
+   },
+   {
+    "no": 4,
+    "time": "01:53",
+    "img": "/img/p01e27/f4.jpg",
+    "t": "Something in the Car",
+    "q": "What did Peppa ask about the red thing?",
+    "a": "She asked if it is something in the car.",
+    "cn": "她问那是不是车子里的东西。",
+    "key": "in the car · red"
+   },
+   {
+    "no": 5,
+    "time": "02:17",
+    "img": "/img/p01e27/f5.jpg",
+    "t": "How Do We Get There?",
+    "q": "What did Mummy Pig want to know?",
+    "a": "She asked how they get to Windy Castle from here.",
+    "cn": "她问从这里怎么去风之城堡。",
+    "key": "how · get to"
+   },
+   {
+    "no": 6,
+    "time": "02:46",
+    "img": "/img/p01e27/f6.jpg",
+    "t": "Map-Reading",
+    "q": "Who is doing the map-reading?",
+    "a": "Daddy Pig is doing the map-reading, but they are lost.",
+    "cn": "猪爸爸在看地图，可他们迷路了。",
+    "key": "map-reading · lost"
+   },
+   {
+    "no": 7,
+    "time": "03:22",
+    "img": "/img/p01e27/f7.jpg",
+    "t": "You Can Make It",
+    "q": "What did they say to the car?",
+    "a": "They said, “Come on, car! You can make it!”",
+    "cn": "他们喊：“加油，车子！你能行的！”",
+    "key": "Come on · car"
+   },
+   {
+    "no": 8,
+    "time": "03:58",
+    "img": "/img/p01e27/f8.jpg",
+    "t": "Look Through the Telescope",
+    "q": "What did Peppa want to do at the castle?",
+    "a": "She wanted to look through the telescope first.",
+    "cn": "她想先用望远镜看一看。",
+    "key": "look · telescope"
+   },
+   {
+    "no": 9,
+    "time": "04:15",
+    "img": "/img/p01e27/f9.jpg",
+    "t": "Waving at Granny",
+    "q": "Who is George waving at?",
+    "a": "He is waving at Granny and Grandpa from the top.",
+    "cn": "他在城堡顶上向爷爷奶奶挥手。",
+    "key": "waving · Granny"
+   }
+  ],
+  "words": [
+   [
+    "castle",
+    "城堡"
+   ],
+   [
+    "sure",
+    "确定的"
+   ],
+   [
+    "spy",
+    "发现"
+   ],
+   [
+    "map",
+    "地图"
+   ],
+   [
+    "lost",
+    "迷路的"
+   ],
+   [
+    "telescope",
+    "望远镜"
+   ],
+   [
+    "view",
+    "景色"
+   ],
+   [
+    "wave",
+    "挥手"
+   ],
+   [
+    "top",
+    "顶部"
+   ],
+   [
+    "windy",
+    "有风的"
+   ],
+   [
+    "nearly",
+    "几乎"
+   ],
+   [
+    "telephone",
+    "电话"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "castle, car, spy, map, lost, telescope",
+   "actions": "drive, play, ask, read, climb, wave"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Windy Castle”.",
+  "ending": "In the end, they see Granny and Grandpa from the castle top. My favourite part is ______."
+ },
+ "P01E28": {
+  "id": "P01E28",
+  "season": 1,
+  "episode": 28,
+  "title": "My Cousin Chloe",
+  "titleCn": "表姐克洛伊",
+  "hook": "大表姐克洛伊来做客，她玩的游戏规则太多，佩奇玩不过她，最后还是泥坑最好玩。",
+  "cover": "/img/p01e28/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:22",
+    "img": "/img/p01e28/f1.jpg",
+    "t": "Playing in the Garden",
+    "q": "What are Peppa and George doing?",
+    "a": "They are playing in the garden at home.",
+    "cn": "他们在自家花园里玩。",
+    "key": "playing · garden"
+   },
+   {
+    "no": 2,
+    "time": "00:59",
+    "img": "/img/p01e28/f2.jpg",
+    "t": "Cousin Chloe",
+    "q": "Who came to spend the day at Peppa's house?",
+    "a": "Their big cousin Chloe came to spend the day.",
+    "cn": "他们的表姐克洛伊来家里玩一天。",
+    "key": "cousin · Chloe"
+   },
+   {
+    "no": 3,
+    "time": "01:20",
+    "img": "/img/p01e28/f3.jpg",
+    "t": "Do You Still Play Catch?",
+    "q": "What game did Chloe ask about?",
+    "a": "She asked if they still play the game Catch.",
+    "cn": "她问他们还玩不玩“抓人”游戏。",
+    "key": "Catch · play"
+   },
+   {
+    "no": 4,
+    "time": "01:58",
+    "img": "/img/p01e28/f4.jpg",
+    "t": "I Don't Need Help",
+    "q": "What did Chloe ask Peppa?",
+    "a": "She asked Peppa if she wants her to help.",
+    "cn": "她问佩奇要不要她帮忙。",
+    "key": "help · ask"
+   },
+   {
+    "no": 5,
+    "time": "02:12",
+    "img": "/img/p01e28/f5.jpg",
+    "t": "A Silly Game",
+    "q": "What did Peppa think of the game?",
+    "a": "She said it is a silly game and wanted another one.",
+    "cn": "她说这游戏太傻了，想换一个。",
+    "key": "silly · game"
+   },
+   {
+    "no": 6,
+    "time": "02:54",
+    "img": "/img/p01e28/f6.jpg",
+    "t": "You Moved!",
+    "q": "What did Peppa say to Chloe?",
+    "a": "She said, “You moved before I was ready!”",
+    "cn": "她说：“我还没准备好你就动了！”",
+    "key": "moved · ready"
+   },
+   {
+    "no": 7,
+    "time": "03:18",
+    "img": "/img/p01e28/f7.jpg",
+    "t": "The Rules Say",
+    "q": "What did Chloe say about the rules?",
+    "a": "She said the rules let her look as long as she wants.",
+    "cn": "她说规则允许她想看多久就看多久。",
+    "key": "rules · look"
+   },
+   {
+    "no": 8,
+    "time": "03:40",
+    "img": "/img/p01e28/f8.jpg",
+    "t": "Peppa's Favourite Game",
+    "q": "What is Peppa's favourite game?",
+    "a": "Jumping up and down in muddy puddles is her favourite.",
+    "cn": "她最喜欢在泥坑里跳来跳去。",
+    "key": "favourite game · muddy puddles"
+   },
+   {
+    "no": 9,
+    "time": "04:14",
+    "img": "/img/p01e28/f9.jpg",
+    "t": "Everyone Loves Puddles",
+    "q": "What did the whole family do at the end?",
+    "a": "They all jumped up and down in muddy puddles together.",
+    "cn": "全家人一起在泥坑里跳来跳去。",
+    "key": "muddy puddles · family"
+   }
+  ],
+  "words": [
+   [
+    "cousin",
+    "表姐"
+   ],
+   [
+    "visit",
+    "拜访"
+   ],
+   [
+    "garden",
+    "花园"
+   ],
+   [
+    "catch",
+    "抓人游戏"
+   ],
+   [
+    "rule",
+    "规则"
+   ],
+   [
+    "silly",
+    "傻的"
+   ],
+   [
+    "ready",
+    "准备好的"
+   ],
+   [
+    "move",
+    "移动"
+   ],
+   [
+    "puddle",
+    "水坑"
+   ],
+   [
+    "muddy",
+    "泥泞的"
+   ],
+   [
+    "jump",
+    "跳"
+   ],
+   [
+    "together",
+    "一起"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "cousin, game, rules, catch, puddle, together",
+   "actions": "play, ask, move, look, jump, laugh"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “My Cousin Chloe”.",
+  "ending": "In the end, everyone jumps in muddy puddles. My favourite part is ______."
+ },
+ "P01E29": {
+  "id": "P01E29",
+  "season": 1,
+  "episode": 29,
+  "title": "Pancakes",
+  "titleCn": "薄饼",
+  "hook": "今天是做薄饼的日子，猪爸爸自称翻饼高手，结果把饼翻到了天花板上。",
+  "cover": "/img/p01e29/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:26",
+    "img": "/img/p01e29/f1.jpg",
+    "t": "A Surprise",
+    "q": "What is Mummy Pig's surprise?",
+    "a": "She says today is a day for pancakes!",
+    "cn": "她说今天要做薄饼！",
+    "key": "surprise · pancakes"
+   },
+   {
+    "no": 2,
+    "time": "00:45",
+    "img": "/img/p01e29/f2.jpg",
+    "t": "Are You Sure?",
+    "q": "What did Mummy Pig ask Daddy Pig?",
+    "a": "She asked him, “Are you sure, Daddy Pig?”",
+    "cn": "她问他：“你确定吗，猪爸爸？”",
+    "key": "sure · Mummy"
+   },
+   {
+    "no": 3,
+    "time": "01:10",
+    "img": "/img/p01e29/f3.jpg",
+    "t": "Add an Egg",
+    "q": "What did Mummy Pig put in the bowl?",
+    "a": "She added an egg and then gave it all a stir.",
+    "cn": "她加了一个鸡蛋，然后把面糊搅匀。",
+    "key": "egg · stir"
+   },
+   {
+    "no": 4,
+    "time": "01:52",
+    "img": "/img/p01e29/f4.jpg",
+    "t": "Flip It Over",
+    "q": "What is Mummy Pig going to do?",
+    "a": "She is going to flip the pancake over.",
+    "cn": "她要把薄饼翻个面。",
+    "key": "flip · pancake"
+   },
+   {
+    "no": 5,
+    "time": "02:16",
+    "img": "/img/p01e29/f5.jpg",
+    "t": "This One Is for Peppa",
+    "q": "Who is the first pancake for?",
+    "a": "The first pancake is for Peppa, with syrup on it.",
+    "cn": "第一张薄饼给佩奇，上面还浇了糖浆。",
+    "key": "pancake · Peppa"
+   },
+   {
+    "no": 6,
+    "time": "02:40",
+    "img": "/img/p01e29/f6.jpg",
+    "t": "For Mummy Pig",
+    "q": "Who is this pancake for?",
+    "a": "It is for Mummy Pig, and Daddy Pig's is next.",
+    "cn": "这张给猪妈妈，下一张就是猪爸爸的。",
+    "key": "Mummy Pig · next"
+   },
+   {
+    "no": 7,
+    "time": "03:22",
+    "img": "/img/p01e29/f7.jpg",
+    "t": "A Bit Too High",
+    "q": "What happened to Daddy Pig's pancake?",
+    "a": "He flipped it a bit too high and it did not come down.",
+    "cn": "他翻得太高，饼就没掉下来。",
+    "key": "too high · pancake"
+   },
+   {
+    "no": 8,
+    "time": "03:47",
+    "img": "/img/p01e29/f8.jpg",
+    "t": "Jump Up and Down",
+    "q": "How do they get the pancake down?",
+    "a": "They all have to jump up and down until it falls.",
+    "cn": "大家得一起跳，把它震下来。",
+    "key": "jump · down"
+   },
+   {
+    "no": 9,
+    "time": "04:13",
+    "img": "/img/p01e29/f9.jpg",
+    "t": "On His Head",
+    "q": "Where did Daddy Pig's pancake land?",
+    "a": "It landed on his head, so now he has his pancake.",
+    "cn": "饼正好落在他头上，他终于拿到自己的饼了。",
+    "key": "head · pancake"
+   }
+  ],
+  "words": [
+   [
+    "pancake",
+    "薄饼"
+   ],
+   [
+    "surprise",
+    "惊喜"
+   ],
+   [
+    "expert",
+    "高手"
+   ],
+   [
+    "flip",
+    "翻面"
+   ],
+   [
+    "frying pan",
+    "平底锅"
+   ],
+   [
+    "egg",
+    "鸡蛋"
+   ],
+   [
+    "stir",
+    "搅拌"
+   ],
+   [
+    "syrup",
+    "糖浆"
+   ],
+   [
+    "high",
+    "高的"
+   ],
+   [
+    "jump",
+    "跳"
+   ],
+   [
+    "catch",
+    "接住"
+   ],
+   [
+    "delicious",
+    "好吃的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "pancake, egg, stir, flip, syrup, high",
+   "actions": "make, add, stir, flip, jump, catch"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Pancakes”.",
+  "ending": "In the end, the pancake lands on Daddy Pig's head. My favourite part is ______."
+ },
+ "P01E30": {
+  "id": "P01E30",
+  "season": 1,
+  "episode": 30,
+  "title": "Babysitting",
+  "titleCn": "爷爷奶奶看孩子",
+  "hook": "爸爸妈妈晚上出门，爷爷奶奶来看孩子，结果小孩没睡，大人倒先累坏了。",
+  "cover": "/img/p01e30/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:25",
+    "img": "/img/p01e30/f1.jpg",
+    "t": "Out for the Evening",
+    "q": "What are Mummy and Daddy Pig doing tonight?",
+    "a": "They are going out for the evening, so Granny will baby-sit.",
+    "cn": "他们今晚要出门，由奶奶来看孩子。",
+    "key": "evening · baby-sit"
+   },
+   {
+    "no": 2,
+    "time": "00:55",
+    "img": "/img/p01e30/f2.jpg",
+    "t": "Go to Sleep",
+    "q": "What did Mummy Pig tell the children?",
+    "a": "She told them to go to sleep quickly.",
+    "cn": "她让他们快点睡觉。",
+    "key": "sleep · quickly"
+   },
+   {
+    "no": 3,
+    "time": "01:18",
+    "img": "/img/p01e30/f3.jpg",
+    "t": "So Good",
+    "q": "What did Granny Pig say about the children?",
+    "a": "She said Peppa and George are so good.",
+    "cn": "她说佩奇和乔治真乖。",
+    "key": "good · Granny"
+   },
+   {
+    "no": 4,
+    "time": "02:07",
+    "img": "/img/p01e30/f4.jpg",
+    "t": "Are You Awake?",
+    "q": "What did Granny Pig ask upstairs?",
+    "a": "She asked, “Peppa, George? Are you awake?”",
+    "cn": "她问：“佩奇、乔治？你们醒着吗？”",
+    "key": "awake · upstairs"
+   },
+   {
+    "no": 5,
+    "time": "02:40",
+    "img": "/img/p01e30/f5.jpg",
+    "t": "A Gardening Programme",
+    "q": "What are Granny and Grandpa watching?",
+    "a": "They are watching a gardening programme about roses.",
+    "cn": "他们在看一个讲玫瑰的园艺节目。",
+    "key": "gardening · roses"
+   },
+   {
+    "no": 6,
+    "time": "03:07",
+    "img": "/img/p01e30/f6.jpg",
+    "t": "Watch TV With You",
+    "q": "What did the children ask?",
+    "a": "They asked if they can watch TV with Granny and Grandpa.",
+    "cn": "他们问能不能和爷爷奶奶一起看电视。",
+    "key": "watch TV · with"
+   },
+   {
+    "no": 7,
+    "time": "03:23",
+    "img": "/img/p01e30/f7.jpg",
+    "t": "Very Boring",
+    "q": "What did Peppa think of the programme?",
+    "a": "She thought the programme was very boring.",
+    "cn": "她觉得这个节目很无聊。",
+    "key": "boring · programme"
+   },
+   {
+    "no": 8,
+    "time": "03:57",
+    "img": "/img/p01e30/f8.jpg",
+    "t": "A Bit Tired",
+    "q": "What did they play with Grandpa Pig?",
+    "a": "They played catch, so Grandpa Pig is a bit tired.",
+    "cn": "他们玩了抓人，所以猪爷爷有点累了。",
+    "key": "tired · catch"
+   },
+   {
+    "no": 9,
+    "time": "04:21",
+    "img": "/img/p01e30/f9.jpg",
+    "t": "Back Home",
+    "q": "What did the parents find when they came home?",
+    "a": "They came back home and found the little piggies asleep.",
+    "cn": "他们回到家，发现小猪们都睡着了。",
+    "key": "back home · asleep"
+   }
+  ],
+  "words": [
+   [
+    "baby-sit",
+    "看孩子"
+   ],
+   [
+    "evening",
+    "晚上"
+   ],
+   [
+    "sleep",
+    "睡觉"
+   ],
+   [
+    "awake",
+    "醒着的"
+   ],
+   [
+    "upstairs",
+    "楼上"
+   ],
+   [
+    "gardening",
+    "园艺"
+   ],
+   [
+    "rose",
+    "玫瑰"
+   ],
+   [
+    "boring",
+    "无聊的"
+   ],
+   [
+    "programme",
+    "节目"
+   ],
+   [
+    "catch",
+    "抓人游戏"
+   ],
+   [
+    "tired",
+    "累的"
+   ],
+   [
+    "asleep",
+    "睡着的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "evening, baby-sit, sleep, awake, programme, tired",
+   "actions": "go out, sleep, watch, play, run, come back"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Babysitting”.",
+  "ending": "In the end, the little piggies are asleep. My favourite part is ______."
+ },
+ "P01E31": {
+  "id": "P01E31",
+  "season": 1,
+  "episode": 31,
+  "title": "Ballet Lesson",
+  "titleCn": "芭蕾课",
+  "hook": "佩奇第一次上芭蕾课，回家后当小老师教全家人跳，猪爸爸跳得摔了一跤。",
+  "cover": "/img/p01e31/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:22",
+    "img": "/img/p01e31/f1.jpg",
+    "t": "First Ballet Lesson",
+    "q": "Where is Peppa going?",
+    "a": "She is going to her first ballet lesson.",
+    "cn": "她要去上第一堂芭蕾课。",
+    "key": "ballet · lesson"
+   },
+   {
+    "no": 2,
+    "time": "00:42",
+    "img": "/img/p01e31/f2.jpg",
+    "t": "Welcome to the Lesson",
+    "q": "What did Madame Gazelle say to Peppa?",
+    "a": "She said, “Welcome to your first lesson of the ballet!”",
+    "cn": "她说：“欢迎来上你的第一堂芭蕾课！”",
+    "key": "welcome · lesson"
+   },
+   {
+    "no": 3,
+    "time": "01:00",
+    "img": "/img/p01e31/f3.jpg",
+    "t": "A New Pupil",
+    "q": "Who is the new pupil in the class?",
+    "a": "Peppa Pig is the new pupil in the ballet class.",
+    "cn": "佩奇是芭蕾班里的新同学。",
+    "key": "new pupil · Peppa"
+   },
+   {
+    "no": 4,
+    "time": "02:06",
+    "img": "/img/p01e31/f4.jpg",
+    "t": "A Lot of Fun",
+    "q": "Was the ballet lesson fun?",
+    "a": "Yes, the ballet lesson is a lot of fun.",
+    "cn": "是的，芭蕾课非常有趣。",
+    "key": "fun · ballet"
+   },
+   {
+    "no": 5,
+    "time": "02:26",
+    "img": "/img/p01e31/f5.jpg",
+    "t": "Beautiful Swans",
+    "q": "What did Madame Gazelle ask about swans?",
+    "a": "She asked what noise a swan might make.",
+    "cn": "她问天鹅会发出什么声音。",
+    "key": "noise · swan"
+   },
+   {
+    "no": 6,
+    "time": "03:02",
+    "img": "/img/p01e31/f6.jpg",
+    "t": "Can I Show You?",
+    "q": "What did Peppa want to show her family?",
+    "a": "She wanted to show them how she did ballet.",
+    "cn": "她想给家人看她怎么跳芭蕾。",
+    "key": "show · did"
+   },
+   {
+    "no": 7,
+    "time": "03:21",
+    "img": "/img/p01e31/f7.jpg",
+    "t": "Copy What I Do",
+    "q": "What did Peppa teach her family?",
+    "a": "She taught them how to do ballet in the living room.",
+    "cn": "她在客厅教大家怎么跳芭蕾。",
+    "key": "ballet · taught"
+   },
+   {
+    "no": 8,
+    "time": "04:03",
+    "img": "/img/p01e31/f8.jpg",
+    "t": "Do Be Careful",
+    "q": "What did Mummy Pig tell Daddy Pig?",
+    "a": "She told him to be careful when he tried ballet.",
+    "cn": "她让猪爸爸跳的时候小心点。",
+    "key": "careful · Daddy"
+   },
+   {
+    "no": 9,
+    "time": "04:16",
+    "img": "/img/p01e31/f9.jpg",
+    "t": "That Wasn't How I Remembered It",
+    "q": "What happened to Daddy Pig?",
+    "a": "He fell down and said it was not how he remembered it.",
+    "cn": "他摔了一跤，说这不是他记得的样子。",
+    "key": "remembered · fell"
+   }
+  ],
+  "words": [
+   [
+    "ballet",
+    "芭蕾"
+   ],
+   [
+    "lesson",
+    "课程"
+   ],
+   [
+    "teacher",
+    "老师"
+   ],
+   [
+    "pupil",
+    "学生"
+   ],
+   [
+    "swan",
+    "天鹅"
+   ],
+   [
+    "grace",
+    "优雅"
+   ],
+   [
+    "dance",
+    "跳舞"
+   ],
+   [
+    "careful",
+    "小心的"
+   ],
+   [
+    "remember",
+    "记得"
+   ],
+   [
+    "copy",
+    "模仿"
+   ],
+   [
+    "beautiful",
+    "美丽的"
+   ],
+   [
+    "first",
+    "第一的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "ballet, lesson, teacher, swan, dance, careful",
+   "actions": "go, welcome, dance, show, copy, fall"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Ballet Lesson”.",
+  "ending": "In the end, Daddy Pig falls down. My favourite part is ______."
+ },
+ "P01E32": {
+  "id": "P01E32",
+  "season": 1,
+  "episode": 32,
+  "title": "Thunderstorm",
+  "titleCn": "雷阵雨",
+  "hook": "晴天野餐时突然打雷下雨，屋顶漏水，猪爸爸拿桶接水，雨停后花园全是泥坑。",
+  "cover": "/img/p01e32/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:23",
+    "img": "/img/p01e32/f1.jpg",
+    "t": "A Sunny Day",
+    "q": "What is the weather like at the start?",
+    "a": "It is a lovely, sunny day for a picnic.",
+    "cn": "一开始是晴朗的好天气，正适合野餐。",
+    "key": "sunny · day"
+   },
+   {
+    "no": 2,
+    "time": "00:45",
+    "img": "/img/p01e32/f2.jpg",
+    "t": "You Are Very Welcome",
+    "q": "What are Peppa and George playing?",
+    "a": "They are having a picnic with Teddy and Mr. Dinosaur.",
+    "cn": "他们在和泰迪、恐龙先生一起野餐。",
+    "key": "picnic · Mr. Dinosaur"
+   },
+   {
+    "no": 3,
+    "time": "01:15",
+    "img": "/img/p01e32/f3.jpg",
+    "t": "A Loud Bang",
+    "q": "What did Peppa hear?",
+    "a": "She heard a loud bang sound in the sky.",
+    "cn": "她听到天上“砰”的一声巨响。",
+    "key": "loud bang · heard"
+   },
+   {
+    "no": 4,
+    "time": "01:47",
+    "img": "/img/p01e32/f4.jpg",
+    "t": "Safe and Dry",
+    "q": "What did Daddy Pig rescue from the garden?",
+    "a": "He rescued Teddy and Mr. Dinosaur from the rain.",
+    "cn": "他把泰迪和恐龙先生从雨里救了回来。",
+    "key": "safe · rescue"
+   },
+   {
+    "no": 5,
+    "time": "02:33",
+    "img": "/img/p01e32/f5.jpg",
+    "t": "There You Are, Teddy!",
+    "q": "What did Daddy Pig say about Teddy?",
+    "a": "He said, “There you are, Teddy! All dry!”",
+    "cn": "他说：“你在这儿呀，泰迪！一点都没湿！”",
+    "key": "dry · Teddy"
+   },
+   {
+    "no": 6,
+    "time": "02:49",
+    "img": "/img/p01e32/f6.jpg",
+    "t": "Rain in the House",
+    "q": "What happened to the house?",
+    "a": "The rain came into the house and the floor got wet.",
+    "cn": "雨漏进了屋里，地板都湿了。",
+    "key": "rain · house"
+   },
+   {
+    "no": 7,
+    "time": "03:11",
+    "img": "/img/p01e32/f7.jpg",
+    "t": "Using a Bucket",
+    "q": "What is Daddy Pig doing with the bucket?",
+    "a": "He is using a bucket to catch the drips from the roof.",
+    "cn": "他用桶接屋顶滴下来的水。",
+    "key": "bucket · drips"
+   },
+   {
+    "no": 8,
+    "time": "03:46",
+    "img": "/img/p01e32/f8.jpg",
+    "t": "Count After the Bang",
+    "q": "How can they tell the storm is far away?",
+    "a": "The higher they can count, the further away the storm is.",
+    "cn": "数得越高，说明雷雨离得越远。",
+    "key": "count · further"
+   },
+   {
+    "no": 9,
+    "time": "04:20",
+    "img": "/img/p01e32/f9.jpg",
+    "t": "Muddy Puddles",
+    "q": "What did the thunderstorm leave in the garden?",
+    "a": "It filled the garden with muddy puddles to jump in.",
+    "cn": "它让花园里积满了可以跳的泥坑。",
+    "key": "muddy puddles · garden"
+   }
+  ],
+  "words": [
+   [
+    "thunderstorm",
+    "雷雨"
+   ],
+   [
+    "sunny",
+    "晴朗的"
+   ],
+   [
+    "picnic",
+    "野餐"
+   ],
+   [
+    "cookie",
+    "饼干"
+   ],
+   [
+    "bang",
+    "砰的一声"
+   ],
+   [
+    "dark",
+    "暗的"
+   ],
+   [
+    "thunder",
+    "雷"
+   ],
+   [
+    "bucket",
+    "桶"
+   ],
+   [
+    "drip",
+    "水滴"
+   ],
+   [
+    "count",
+    "数数"
+   ],
+   [
+    "puddle",
+    "水坑"
+   ],
+   [
+    "muddy",
+    "泥泞的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "sunny, picnic, bang, rain, bucket, puddle",
+   "actions": "eat, hear, rescue, catch, count, jump"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Thunderstorm”.",
+  "ending": "In the end, the garden is full of muddy puddles. My favourite part is ______."
+ },
+ "P01E33": {
+  "id": "P01E33",
+  "season": 1,
+  "episode": 33,
+  "title": "Cleaning the Car",
+  "titleCn": "洗车",
+  "hook": "一家人出门前先洗车，分工擦洗，结果用水管玩水，全家人和刚洗好的车又都脏了。",
+  "cover": "/img/p01e33/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:26",
+    "img": "/img/p01e33/f1.jpg",
+    "t": "A Drive in the Country",
+    "q": "Where is Daddy Pig taking the family?",
+    "a": "He is taking them for a drive in the country.",
+    "cn": "他要带全家去乡下兜风。",
+    "key": "drive · country"
+   },
+   {
+    "no": 2,
+    "time": "00:44",
+    "img": "/img/p01e33/f2.jpg",
+    "t": "How Messy!",
+    "q": "What did Mummy Pig say about the car?",
+    "a": "She said it is very messy inside the car.",
+    "cn": "她说车里太乱了。",
+    "key": "messy · inside"
+   },
+   {
+    "no": 3,
+    "time": "01:09",
+    "img": "/img/p01e33/f3.jpg",
+    "t": "Clean It First",
+    "q": "What must they do before the drive?",
+    "a": "They must clean the car before they go.",
+    "cn": "出发前他们必须先把车洗干净。",
+    "key": "clean · before"
+   },
+   {
+    "no": 4,
+    "time": "01:29",
+    "img": "/img/p01e33/f4.jpg",
+    "t": "Wash the Roof",
+    "q": "What is everyone washing?",
+    "a": "Daddy washes the roof, Mummy the bonnet, Peppa the doors.",
+    "cn": "爸爸洗车顶，妈妈洗车头盖，佩奇洗车门。",
+    "key": "washing · roof"
+   },
+   {
+    "no": 5,
+    "time": "02:18",
+    "img": "/img/p01e33/f5.jpg",
+    "t": "Muddy Water",
+    "q": "What did Peppa do with the muddy water?",
+    "a": "She threw the muddy water all over the car.",
+    "cn": "她把泥水泼得满车都是。",
+    "key": "muddy water · all over"
+   },
+   {
+    "no": 6,
+    "time": "03:12",
+    "img": "/img/p01e33/f6.jpg",
+    "t": "Everyone Is Wet",
+    "q": "Why is everyone wet?",
+    "a": "Because the garden hose splashed water on all of them.",
+    "cn": "因为花园的水管把水喷到了每个人身上。",
+    "key": "wet · hose"
+   },
+   {
+    "no": 7,
+    "time": "03:35",
+    "img": "/img/p01e33/f7.jpg",
+    "t": "Polishing the Car",
+    "q": "What is Daddy Pig doing to the car?",
+    "a": "He is polishing it so well he can see his face.",
+    "cn": "他把车擦得很亮，都能照见自己的脸。",
+    "key": "polishing · face"
+   },
+   {
+    "no": 8,
+    "time": "03:52",
+    "img": "/img/p01e33/f8.jpg",
+    "t": "A Shiny Car",
+    "q": "How does the car look now?",
+    "a": "It looks lovely and shiny after all their hard work.",
+    "cn": "大家辛苦一阵，车子又亮又好看。",
+    "key": "shiny · lovely"
+   },
+   {
+    "no": 9,
+    "time": "04:14",
+    "img": "/img/p01e33/f9.jpg",
+    "t": "Keep It Clean",
+    "q": "What did Mummy Pig hope?",
+    "a": "She hoped they would all keep the car clean that day.",
+    "cn": "她希望今天大家都能让车保持干净。",
+    "key": "keep clean · hope"
+   }
+  ],
+  "words": [
+   [
+    "messy",
+    "乱的"
+   ],
+   [
+    "rubbish",
+    "垃圾"
+   ],
+   [
+    "clean",
+    "打扫"
+   ],
+   [
+    "wash",
+    "洗"
+   ],
+   [
+    "roof",
+    "车顶"
+   ],
+   [
+    "bonnet",
+    "车头盖"
+   ],
+   [
+    "hose",
+    "水管"
+   ],
+   [
+    "wet",
+    "湿的"
+   ],
+   [
+    "polish",
+    "擦亮"
+   ],
+   [
+    "shiny",
+    "闪亮的"
+   ],
+   [
+    "muddy",
+    "泥泞的"
+   ],
+   [
+    "country",
+    "乡下"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "car, messy, wash, roof, hose, shiny",
+   "actions": "clean, wash, throw, turn on, polish, keep"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Cleaning the Car”.",
+  "ending": "In the end, the car is nice and shiny again. My favourite part is ______."
+ },
+ "P01E34": {
+  "id": "P01E34",
+  "season": 1,
+  "episode": 34,
+  "title": "Lunch",
+  "titleCn": "午餐",
+  "hook": "爷爷奶奶用自家菜园的蔬菜做午餐，乔治一样都不爱吃，最后却把蔬菜全吃光了。",
+  "cover": "/img/p01e34/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:24",
+    "img": "/img/p01e34/f1.jpg",
+    "t": "Lunch at Granny's",
+    "q": "Where did Peppa and George go for lunch?",
+    "a": "They went to Granny and Grandpa Pig's house for lunch.",
+    "cn": "他们去爷爷奶奶家吃午饭。",
+    "key": "lunch · Granny"
+   },
+   {
+    "no": 2,
+    "time": "00:50",
+    "img": "/img/p01e34/f2.jpg",
+    "t": "The Vegetable Garden",
+    "q": "Whose vegetable garden is it?",
+    "a": "It is Grandpa Pig's vegetable garden, and he grew it all.",
+    "cn": "这是猪爷爷的菜园，菜都是他自己种的。",
+    "key": "vegetable garden · Grandpa"
+   },
+   {
+    "no": 3,
+    "time": "01:11",
+    "img": "/img/p01e34/f3.jpg",
+    "t": "Do You Like Tomatoes?",
+    "q": "What did Grandpa Pig ask Peppa?",
+    "a": "He asked her, “Peppa, do you like tomatoes?”",
+    "cn": "他问她：“佩奇，你喜欢西红柿吗？”",
+    "key": "tomatoes · like"
+   },
+   {
+    "no": 4,
+    "time": "01:35",
+    "img": "/img/p01e34/f4.jpg",
+    "t": "No Lettuce",
+    "q": "Which vegetable does George not like?",
+    "a": "He does not like lettuce, so Granny looks for one he likes.",
+    "cn": "他不喜欢生菜，奶奶只好再找别的。",
+    "key": "lettuce · does not like"
+   },
+   {
+    "no": 5,
+    "time": "02:04",
+    "img": "/img/p01e34/f5.jpg",
+    "t": "A Lovely Salad",
+    "q": "What does Granny Pig think?",
+    "a": "She thinks George will like them in a lovely salad.",
+    "cn": "她觉得做成沙拉乔治就会喜欢。",
+    "key": "salad · vegetables"
+   },
+   {
+    "no": 6,
+    "time": "02:46",
+    "img": "/img/p01e34/f6.jpg",
+    "t": "Pizza for Lunch",
+    "q": "What did Granny Pig make?",
+    "a": "She made pizza for lunch, with salad to go with it.",
+    "cn": "她做了披萨当午餐，还配了沙拉。",
+    "key": "pizza · made"
+   },
+   {
+    "no": 7,
+    "time": "03:17",
+    "img": "/img/p01e34/f7.jpg",
+    "t": "Just Try a Little Bit",
+    "q": "What did they ask George to try?",
+    "a": "They asked him to try a little bit of tomato.",
+    "cn": "他们让他尝一点点西红柿。",
+    "key": "try · tomato"
+   },
+   {
+    "no": 8,
+    "time": "03:56",
+    "img": "/img/p01e34/f8.jpg",
+    "t": "George Is Eating!",
+    "q": "What is George eating now?",
+    "a": "He is eating the tomatoes, lettuce and cucumber at last.",
+    "cn": "他终于把西红柿、生菜和黄瓜都吃了。",
+    "key": "eating · cucumber"
+   },
+   {
+    "no": 9,
+    "time": "04:09",
+    "img": "/img/p01e34/f9.jpg",
+    "t": "Too Full",
+    "q": "Why does George stop eating?",
+    "a": "Because he is too full to eat any more vegetables.",
+    "cn": "因为他太饱了，一点蔬菜也吃不下了。",
+    "key": "too full · any more"
+   }
+  ],
+  "words": [
+   [
+    "lunch",
+    "午餐"
+   ],
+   [
+    "vegetable",
+    "蔬菜"
+   ],
+   [
+    "garden",
+    "菜园"
+   ],
+   [
+    "tomato",
+    "西红柿"
+   ],
+   [
+    "lettuce",
+    "生菜"
+   ],
+   [
+    "cucumber",
+    "黄瓜"
+   ],
+   [
+    "salad",
+    "沙拉"
+   ],
+   [
+    "pizza",
+    "披萨"
+   ],
+   [
+    "grow",
+    "种植"
+   ],
+   [
+    "try",
+    "尝一尝"
+   ],
+   [
+    "yummy",
+    "好吃的"
+   ],
+   [
+    "full",
+    "饱的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "lunch, garden, tomato, lettuce, salad, pizza",
+   "actions": "pick, wash, make, try, eat, like"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Lunch”.",
+  "ending": "In the end, George eats all his vegetables. My favourite part is ______."
+ },
+ "P01E35": {
+  "id": "P01E35",
+  "season": 1,
+  "episode": 35,
+  "title": "Camping",
+  "titleCn": "露营",
+  "hook": "一家人去露营，帐篷太小装不下猪爸爸，他只好睡在帐篷外的星空下。",
+  "cover": "/img/p01e35/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:18",
+    "img": "/img/p01e35/f1.jpg",
+    "t": "Going Camping",
+    "q": "What is the family doing today?",
+    "a": "They are going camping out in the countryside.",
+    "cn": "他们今天要去乡下露营。",
+    "key": "camping · family"
+   },
+   {
+    "no": 2,
+    "time": "01:02",
+    "img": "/img/p01e35/f2.jpg",
+    "t": "A Bit Little",
+    "q": "What did they say about the tent?",
+    "a": "They said the tent is a bit little for all of them.",
+    "cn": "他们说这顶帐篷全家住有点小。",
+    "key": "tent · little"
+   },
+   {
+    "no": 3,
+    "time": "01:23",
+    "img": "/img/p01e35/f3.jpg",
+    "t": "Collect Sticks",
+    "q": "What must they do first?",
+    "a": "First they have to collect sticks to make a fire.",
+    "cn": "首先他们得捡树枝生火。",
+    "key": "collect · sticks"
+   },
+   {
+    "no": 4,
+    "time": "01:55",
+    "img": "/img/p01e35/f4.jpg",
+    "t": "Without Matches",
+    "q": "What did Peppa ask Daddy Pig?",
+    "a": "She asked how he can light the fire without matches.",
+    "cn": "她问没有火柴他怎么点火。",
+    "key": "light · matches"
+   },
+   {
+    "no": 5,
+    "time": "02:20",
+    "img": "/img/p01e35/f5.jpg",
+    "t": "Heat Up the Soup",
+    "q": "What can they do now?",
+    "a": "Now they can heat up the tomato soup on the fire.",
+    "cn": "现在他们可以在火上热番茄汤了。",
+    "key": "heat up · soup"
+   },
+   {
+    "no": 6,
+    "time": "02:52",
+    "img": "/img/p01e35/f6.jpg",
+    "t": "Sounds of Nature",
+    "q": "What sound did Daddy Pig say is nice?",
+    "a": "He said his tummy rumbling is a sound of nature.",
+    "cn": "他说自己肚子咕咕叫也是大自然的声音。",
+    "key": "tummy · rumbling"
+   },
+   {
+    "no": 7,
+    "time": "03:18",
+    "img": "/img/p01e35/f7.jpg",
+    "t": "In You Go!",
+    "q": "What did Daddy Pig say about the little tent?",
+    "a": "He said, “It will be fine! In you go!”",
+    "cn": "他说：“没问题的！你进去吧！”",
+    "key": "fine · in you go"
+   },
+   {
+    "no": 8,
+    "time": "04:01",
+    "img": "/img/p01e35/f8.jpg",
+    "t": "Lovely and Cozy",
+    "q": "How was the tent at night?",
+    "a": "It was lovely and cozy for Mummy and the children.",
+    "cn": "妈妈和孩子在帐篷里又暖又舒服。",
+    "key": "cozy · tent"
+   },
+   {
+    "no": 9,
+    "time": "04:32",
+    "img": "/img/p01e35/f9.jpg",
+    "t": "An Expert at Camping",
+    "q": "Where did Daddy Pig sleep?",
+    "a": "He slept in the car, but he says he is an expert.",
+    "cn": "他睡在车里，却说自己可是露营高手。",
+    "key": "expert · slept"
+   }
+  ],
+  "words": [
+   [
+    "camping",
+    "露营"
+   ],
+   [
+    "tent",
+    "帐篷"
+   ],
+   [
+    "collect",
+    "收集"
+   ],
+   [
+    "stick",
+    "树枝"
+   ],
+   [
+    "campfire",
+    "篝火"
+   ],
+   [
+    "matches",
+    "火柴"
+   ],
+   [
+    "heat",
+    "加热"
+   ],
+   [
+    "soup",
+    "汤"
+   ],
+   [
+    "rumbling",
+    "咕咕叫"
+   ],
+   [
+    "cozy",
+    "舒服的"
+   ],
+   [
+    "stars",
+    "星星"
+   ],
+   [
+    "expert",
+    "高手"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "camping, tent, sticks, campfire, soup, cozy",
+   "actions": "go, collect, light, heat, sleep, snore"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Camping”.",
+  "ending": "In the end, Daddy Pig sleeps in the car. My favourite part is ______."
+ },
+ "P01E36": {
+  "id": "P01E36",
+  "season": 1,
+  "episode": 36,
+  "title": "The Sleepy Princess",
+  "titleCn": "爱睡觉的公主",
+  "hook": "睡前猪爸爸讲一个公主的故事，讲着讲着，听故事的人先睡着了。",
+  "cover": "/img/p01e36/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:24",
+    "img": "/img/p01e36/f1.jpg",
+    "t": "Time for Bed",
+    "q": "What are Peppa and George doing?",
+    "a": "They are going to bed and they want a story.",
+    "cn": "他们要睡觉了，还想听个故事。",
+    "key": "bed · story"
+   },
+   {
+    "no": 2,
+    "time": "00:42",
+    "img": "/img/p01e36/f2.jpg",
+    "t": "Say Yes!",
+    "q": "What did Peppa ask George?",
+    "a": "She asked if he wants a story and told him to say yes.",
+    "cn": "她问乔治要不要听故事，还让他快说“要”。",
+    "key": "story · yes"
+   },
+   {
+    "no": 3,
+    "time": "01:14",
+    "img": "/img/p01e36/f3.jpg",
+    "t": "A Little Princess",
+    "q": "What did Peppa want the story to have?",
+    "a": "She wanted a story with a little princess in it.",
+    "cn": "她想要一个有公主的故事。",
+    "key": "little princess · in it"
+   },
+   {
+    "no": 4,
+    "time": "01:46",
+    "img": "/img/p01e36/f4.jpg",
+    "t": "The Sleepy Princess",
+    "q": "What was the princess called?",
+    "a": "She was called the Sleepy Princess.",
+    "cn": "大家叫她“爱睡觉的公主”。",
+    "key": "called · Sleepy Princess"
+   },
+   {
+    "no": 5,
+    "time": "02:06",
+    "img": "/img/p01e36/f5.jpg",
+    "t": "Who Lives in the Castle?",
+    "q": "What did Peppa ask about the castle?",
+    "a": "She asked who else was living in the castle.",
+    "cn": "她问城堡里还住着谁。",
+    "key": "living · castle"
+   },
+   {
+    "no": 6,
+    "time": "02:37",
+    "img": "/img/p01e36/f6.jpg",
+    "t": "Not a Dragon",
+    "q": "What was living outside the castle?",
+    "a": "It was not a dragon. It was a huge dinosaur!",
+    "cn": "不是龙，而是一只大恐龙！",
+    "key": "dragon · dinosaur"
+   },
+   {
+    "no": 7,
+    "time": "02:59",
+    "img": "/img/p01e36/f7.jpg",
+    "t": "Very Gentle",
+    "q": "Was the dinosaur fierce?",
+    "a": "No, Daddy Pig says the dinosaur was very gentle.",
+    "cn": "不，猪爸爸说这只恐龙很温和。",
+    "key": "gentle · dinosaur"
+   },
+   {
+    "no": 8,
+    "time": "03:38",
+    "img": "/img/p01e36/f8.jpg",
+    "t": "The Sleepiest of All",
+    "q": "Who was the sleepiest of all?",
+    "a": "The Sleepy Princess was the most sleepy of all.",
+    "cn": "爱睡觉的公主是最困的那一个。",
+    "key": "most sleepy · princess"
+   },
+   {
+    "no": 9,
+    "time": "04:03",
+    "img": "/img/p01e36/f9.jpg",
+    "t": "Fast Asleep",
+    "q": "What happened at the end of the story?",
+    "a": "The princess fell fast asleep, and so did Peppa and George.",
+    "cn": "公主睡着了，佩奇和乔治也睡着了。",
+    "key": "asleep · end"
+   }
+  ],
+  "words": [
+   [
+    "sleepy",
+    "困的"
+   ],
+   [
+    "princess",
+    "公主"
+   ],
+   [
+    "story",
+    "故事"
+   ],
+   [
+    "castle",
+    "城堡"
+   ],
+   [
+    "king",
+    "国王"
+   ],
+   [
+    "queen",
+    "王后"
+   ],
+   [
+    "dragon",
+    "龙"
+   ],
+   [
+    "dinosaur",
+    "恐龙"
+   ],
+   [
+    "gentle",
+    "温和的"
+   ],
+   [
+    "fierce",
+    "凶猛的"
+   ],
+   [
+    "mirror",
+    "镜子"
+   ],
+   [
+    "asleep",
+    "睡着的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "bed, story, princess, castle, dinosaur, asleep",
+   "actions": "tell, ask, live, roar, sleep, dream"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “The Sleepy Princess”.",
+  "ending": "In the end, everyone is fast asleep. My favourite part is ______."
+ },
+ "P01E38": {
+  "id": "P01E38",
+  "season": 1,
+  "episode": 38,
+  "title": "Fancy Dress Party",
+  "titleCn": "化装舞会",
+  "hook": "佩奇家办化装舞会，朋友们扮成护士、胡萝卜、女巫，佩奇当评委却把奖给了自己。",
+  "cover": "/img/p01e38/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:23",
+    "img": "/img/p01e38/f1.jpg",
+    "t": "A Fancy Dress Party",
+    "q": "What kind of party are they having?",
+    "a": "They are having a fancy dress party with all their friends.",
+    "cn": "他们和所有朋友一起办化装舞会。",
+    "key": "fancy dress · party"
+   },
+   {
+    "no": 2,
+    "time": "00:53",
+    "img": "/img/p01e38/f2.jpg",
+    "t": "The Nurse Has Arrived",
+    "q": "Who came to the party as a nurse?",
+    "a": "A nurse has arrived, and Daddy Pig says he is glad.",
+    "cn": "来了一位护士，猪爸爸说他很高兴。",
+    "key": "nurse · arrived"
+   },
+   {
+    "no": 3,
+    "time": "01:22",
+    "img": "/img/p01e38/f3.jpg",
+    "t": "What Are You?",
+    "q": "What did they ask Rebecca Rabbit?",
+    "a": "They asked her what she is dressed as.",
+    "cn": "他们问她扮的是什么。",
+    "key": "Rebecca Rabbit · what"
+   },
+   {
+    "no": 4,
+    "time": "02:00",
+    "img": "/img/p01e38/f4.jpg",
+    "t": "Dressed as a Carrot",
+    "q": "Why is everyone surprised at Rebecca?",
+    "a": "Because she is dressed as a carrot, and she says woof!",
+    "cn": "因为她扮成了一根胡萝卜，还“汪”了一声。",
+    "key": "carrot · dressed"
+   },
+   {
+    "no": 5,
+    "time": "02:35",
+    "img": "/img/p01e38/f5.jpg",
+    "t": "Turn You into a Frog",
+    "q": "What did the little witch say?",
+    "a": "She said, “I can turn you into a frog.”",
+    "cn": "她说：“我能把你变成青蛙。”",
+    "key": "turn · frog"
+   },
+   {
+    "no": 6,
+    "time": "03:13",
+    "img": "/img/p01e38/f6.jpg",
+    "t": "What Is a Judge?",
+    "q": "What did Peppa ask Daddy Pig?",
+    "a": "She asked him what a judge is.",
+    "cn": "她问他“评委”是什么。",
+    "key": "judge · what is"
+   },
+   {
+    "no": 7,
+    "time": "03:39",
+    "img": "/img/p01e38/f7.jpg",
+    "t": "I'm a Witch",
+    "q": "What is Suzy dressed as?",
+    "a": "Suzy is a witch, and she says she can turn you into a frog.",
+    "cn": "苏西扮成女巫，说能把人变成青蛙。",
+    "key": "witch · Suzy"
+   },
+   {
+    "no": 8,
+    "time": "04:06",
+    "img": "/img/p01e38/f8.jpg",
+    "t": "A Scary Dinosaur",
+    "q": "Who is a scary dinosaur?",
+    "a": "Peppa's little brother George is a scary dinosaur.",
+    "cn": "佩奇的弟弟乔治是一只可怕的恐龙。",
+    "key": "scary dinosaur · George"
+   },
+   {
+    "no": 9,
+    "time": "04:18",
+    "img": "/img/p01e38/f9.jpg",
+    "t": "And the Winner Is…",
+    "q": "Who is the judge of the best costume?",
+    "a": "Peppa is the judge, and she has to pick the winner.",
+    "cn": "佩奇当评委，得由她来选出最好的服装。",
+    "key": "winner · judge"
+   }
+  ],
+  "words": [
+   [
+    "party",
+    "聚会"
+   ],
+   [
+    "costume",
+    "服装"
+   ],
+   [
+    "fairy",
+    "仙女"
+   ],
+   [
+    "princess",
+    "公主"
+   ],
+   [
+    "nurse",
+    "护士"
+   ],
+   [
+    "carrot",
+    "胡萝卜"
+   ],
+   [
+    "witch",
+    "女巫"
+   ],
+   [
+    "frog",
+    "青蛙"
+   ],
+   [
+    "dinosaur",
+    "恐龙"
+   ],
+   [
+    "judge",
+    "评委"
+   ],
+   [
+    "winner",
+    "获胜者"
+   ],
+   [
+    "scary",
+    "可怕的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "party, costume, nurse, carrot, witch, winner",
+   "actions": "dress up, arrive, laugh, turn, choose, win"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Fancy Dress Party”.",
+  "ending": "In the end, Peppa has to choose a winner. My favourite part is ______."
+ },
+ "P01E39": {
+  "id": "P01E39",
+  "season": 1,
+  "episode": 39,
+  "title": "The Museum",
+  "titleCn": "博物馆",
+  "hook": "一家人去博物馆，看了女王的东西和真的恐龙骨头，每个人喜欢的房间都不一样。",
+  "cover": "/img/p01e39/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:22",
+    "img": "/img/p01e39/f1.jpg",
+    "t": "To the Museum",
+    "q": "Where is the family going?",
+    "a": "They are going to the museum to see things that are old.",
+    "cn": "他们去博物馆看古老的东西。",
+    "key": "museum · going"
+   },
+   {
+    "no": 2,
+    "time": "00:50",
+    "img": "/img/p01e39/f2.jpg",
+    "t": "A Real Dinosaur",
+    "q": "What is in the other room?",
+    "a": "There is another room with a real dinosaur in it.",
+    "cn": "另一个房间里有一只真的恐龙。",
+    "key": "another room · dinosaur"
+   },
+   {
+    "no": 3,
+    "time": "01:34",
+    "img": "/img/p01e39/f3.jpg",
+    "t": "The Queen's Things",
+    "q": "Whose things are in this room?",
+    "a": "They are all the things the queen had long ago.",
+    "cn": "这些都是女王很久以前用过的东西。",
+    "key": "queen · long ago"
+   },
+   {
+    "no": 4,
+    "time": "01:47",
+    "img": "/img/p01e39/f4.jpg",
+    "t": "The Queen's Dress",
+    "q": "What did they show Peppa?",
+    "a": "They showed her the queen's dress and golden crown.",
+    "cn": "他们给她看女王的裙子和金王冠。",
+    "key": "queen's dress · crown"
+   },
+   {
+    "no": 5,
+    "time": "02:39",
+    "img": "/img/p01e39/f5.jpg",
+    "t": "Queen Peppa",
+    "q": "What is Peppa imagining?",
+    "a": "She is imagining that she is a queen with a servant.",
+    "cn": "她在想象自己是个有仆人的女王。",
+    "key": "imagining · Queen Peppa"
+   },
+   {
+    "no": 6,
+    "time": "03:02",
+    "img": "/img/p01e39/f6.jpg",
+    "t": "And What Do You Do?",
+    "q": "What did Peppa ask in the museum?",
+    "a": "She asked what room it is and what people do there.",
+    "cn": "她问这是哪个房间、人们在里面做什么。",
+    "key": "asked · room"
+   },
+   {
+    "no": 7,
+    "time": "03:17",
+    "img": "/img/p01e39/f7.jpg",
+    "t": "The Dinosaur Room",
+    "q": "Which room did they find?",
+    "a": "They found the dinosaur room with real dinosaur bones.",
+    "cn": "他们找到了摆着真恐龙骨头的恐龙厅。",
+    "key": "dinosaur room · bones"
+   },
+   {
+    "no": 8,
+    "time": "04:11",
+    "img": "/img/p01e39/f8.jpg",
+    "t": "George's Favourite Room",
+    "q": "What is George's favourite room?",
+    "a": "The dinosaur room is George's favourite room in the museum.",
+    "cn": "恐龙厅是乔治最喜欢的房间。",
+    "key": "favourite · dinosaur room"
+   },
+   {
+    "no": 9,
+    "time": "04:29",
+    "img": "/img/p01e39/f9.jpg",
+    "t": "The Museum Cafe",
+    "q": "What is Daddy Pig's favourite room?",
+    "a": "The museum cafe, because he likes cake and tea.",
+    "cn": "博物馆的咖啡厅，因为他喜欢蛋糕和茶。",
+    "key": "cafe · favourite"
+   }
+  ],
+  "words": [
+   [
+    "museum",
+    "博物馆"
+   ],
+   [
+    "queen",
+    "女王"
+   ],
+   [
+    "king",
+    "国王"
+   ],
+   [
+    "crown",
+    "王冠"
+   ],
+   [
+    "dress",
+    "裙子"
+   ],
+   [
+    "dinosaur",
+    "恐龙"
+   ],
+   [
+    "bones",
+    "骨头"
+   ],
+   [
+    "room",
+    "房间"
+   ],
+   [
+    "old",
+    "古老的"
+   ],
+   [
+    "cafe",
+    "咖啡厅"
+   ],
+   [
+    "favourite",
+    "最喜欢的"
+   ],
+   [
+    "golden",
+    "金色的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "museum, queen, crown, dinosaur, bones, cafe",
+   "actions": "go, look, imagine, find, ask, eat"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “The Museum”.",
+  "ending": "In the end, Daddy Pig likes the museum cafe best. My favourite part is ______."
+ },
+ "P01E40": {
+  "id": "P01E40",
+  "season": 1,
+  "episode": 40,
+  "title": "Very Hot Day",
+  "titleCn": "大热天",
+  "hook": "天太热水坑都晒干了，爸爸打起戏水池，还买了冰淇淋，乔治的恐龙冰棍却掉在地上。",
+  "cover": "/img/p01e40/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:21",
+    "img": "/img/p01e40/f1.jpg",
+    "t": "A Very Hot Day",
+    "q": "What is the weather like?",
+    "a": "The sun is shining and it is a very hot day.",
+    "cn": "太阳很大，是个大热天。",
+    "key": "sun · hot day"
+   },
+   {
+    "no": 2,
+    "time": "00:42",
+    "img": "/img/p01e40/f2.jpg",
+    "t": "The Puddles Are Dry",
+    "q": "Why can't they jump in the puddles?",
+    "a": "Because the puddles are all dry in the hot sun.",
+    "cn": "因为太阳把水坑都晒干了。",
+    "key": "dry · puddles"
+   },
+   {
+    "no": 3,
+    "time": "01:46",
+    "img": "/img/p01e40/f3.jpg",
+    "t": "Pumping Up the Pool",
+    "q": "What is Daddy Pig doing?",
+    "a": "He is pumping up the paddling pool for the children.",
+    "cn": "他在给孩子们的戏水池打气。",
+    "key": "pumping up · paddling pool"
+   },
+   {
+    "no": 4,
+    "time": "02:23",
+    "img": "/img/p01e40/f4.jpg",
+    "t": "In the Pool",
+    "q": "Do the children like the little pool?",
+    "a": "Yes, Peppa and George love their paddling pool.",
+    "cn": "喜欢，佩奇和乔治最爱他们的戏水池。",
+    "key": "love · paddling pool"
+   },
+   {
+    "no": 5,
+    "time": "02:38",
+    "img": "/img/p01e40/f5.jpg",
+    "t": "An Ice Cream, Please",
+    "q": "What did Peppa ask Ms. Rabbit for?",
+    "a": "She asked if she and George can have an ice cream.",
+    "cn": "她问她和乔治能不能买冰淇淋。",
+    "key": "ice cream · please"
+   },
+   {
+    "no": 6,
+    "time": "02:55",
+    "img": "/img/p01e40/f6.jpg",
+    "t": "A Cone",
+    "q": "What did Peppa choose?",
+    "a": "She asked the ice cream lady for a cone.",
+    "cn": "她向卖冰淇淋的兔小姐要了一个蛋筒。",
+    "key": "cone · asked"
+   },
+   {
+    "no": 7,
+    "time": "03:16",
+    "img": "/img/p01e40/f7.jpg",
+    "t": "A Dinosaur Ice-Lolly",
+    "q": "What did Ms. Rabbit have for George?",
+    "a": "She had a dinosaur shaped ice-lolly for him.",
+    "cn": "她正好有一根恐龙形状的冰棍。",
+    "key": "dinosaur shaped · ice-lolly"
+   },
+   {
+    "no": 8,
+    "time": "03:47",
+    "img": "/img/p01e40/f8.jpg",
+    "t": "Melted on the Ground",
+    "q": "What happened to George's lolly?",
+    "a": "It melted and fell on the ground, so George is sad.",
+    "cn": "冰棍化了掉在地上，乔治很难过。",
+    "key": "melted · ground"
+   },
+   {
+    "no": 9,
+    "time": "04:24",
+    "img": "/img/p01e40/f9.jpg",
+    "t": "The Puddles Are Back",
+    "q": "What do they find at the end?",
+    "a": "The puddles are back, so they put their boots on.",
+    "cn": "水坑又出现了，他们赶紧穿上靴子。",
+    "key": "puddles · back"
+   }
+  ],
+  "words": [
+   [
+    "hot",
+    "炎热的"
+   ],
+   [
+    "sun",
+    "太阳"
+   ],
+   [
+    "shine",
+    "照耀"
+   ],
+   [
+    "dry",
+    "干的"
+   ],
+   [
+    "puddle",
+    "水坑"
+   ],
+   [
+    "paddling pool",
+    "戏水池"
+   ],
+   [
+    "pump",
+    "打气"
+   ],
+   [
+    "ice cream",
+    "冰淇淋"
+   ],
+   [
+    "cone",
+    "蛋筒"
+   ],
+   [
+    "lolly",
+    "冰棍"
+   ],
+   [
+    "melt",
+    "融化"
+   ],
+   [
+    "boots",
+    "靴子"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "hot, sun, puddle, pool, ice cream, lolly",
+   "actions": "shine, jump, pump, swim, buy, melt"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Very Hot Day”.",
+  "ending": "In the end, the puddles are back again. My favourite part is ______."
+ },
+ "P01E41": {
+  "id": "P01E41",
+  "season": 1,
+  "episode": 41,
+  "title": "Chloe's Puppet Show",
+  "titleCn": "克洛伊的木偶戏",
+  "hook": "去叔叔家做客，克洛伊有个新木偶剧场，三个孩子做木偶演了一出戏，还学叔叔打呼。",
+  "cover": "/img/p01e41/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:24",
+    "img": "/img/p01e41/f1.jpg",
+    "t": "Uncle Pig Falls Asleep",
+    "q": "What does Daddy Pig expect Uncle Pig to do?",
+    "a": "He expects his brother to fall asleep after lunch.",
+    "cn": "他猜哥哥吃完午饭一定会睡着。",
+    "key": "fall asleep · Uncle Pig"
+   },
+   {
+    "no": 2,
+    "time": "00:55",
+    "img": "/img/p01e41/f2.jpg",
+    "t": "At Uncle Pig's House",
+    "q": "Where has the family arrived?",
+    "a": "They have arrived at Uncle Pig and Aunty Pig's house.",
+    "cn": "他们到了猪叔叔和猪婶婶家。",
+    "key": "arrived · house"
+   },
+   {
+    "no": 3,
+    "time": "01:12",
+    "img": "/img/p01e41/f3.jpg",
+    "t": "A Puppet Theatre",
+    "q": "What did Chloe want to show them?",
+    "a": "She wanted to show them her new puppet theatre.",
+    "cn": "她想给他们看她的新木偶剧场。",
+    "key": "show · puppet"
+   },
+   {
+    "no": 4,
+    "time": "01:47",
+    "img": "/img/p01e41/f4.jpg",
+    "t": "Can We Make Puppets?",
+    "q": "What did Peppa ask Chloe?",
+    "a": "She asked if she and George can make puppets too.",
+    "cn": "她问她和乔治是不是也能做木偶。",
+    "key": "make puppets · too"
+   },
+   {
+    "no": 5,
+    "time": "02:17",
+    "img": "/img/p01e41/f5.jpg",
+    "t": "A Dinosaur Puppet",
+    "q": "What puppet is Chloe making for George?",
+    "a": "She is making him a dinosaur puppet to play with.",
+    "cn": "她在给他做一只恐龙木偶。",
+    "key": "dinosaur puppet · making"
+   },
+   {
+    "no": 6,
+    "time": "02:37",
+    "img": "/img/p01e41/f6.jpg",
+    "t": "Spaghetti for Lunch",
+    "q": "What is for lunch?",
+    "a": "Aunty Pig has made spaghetti for everyone's lunch.",
+    "cn": "猪婶婶给大家做了意大利面当午餐。",
+    "key": "spaghetti · lunch"
+   },
+   {
+    "no": 7,
+    "time": "03:10",
+    "img": "/img/p01e41/f7.jpg",
+    "t": "Some More Spaghetti",
+    "q": "What did Uncle Pig want to know?",
+    "a": "He wanted to know if he has time for more spaghetti.",
+    "cn": "他想知道还有没有时间再吃点面。",
+    "key": "more spaghetti · time"
+   },
+   {
+    "no": 8,
+    "time": "03:46",
+    "img": "/img/p01e41/f8.jpg",
+    "t": "It Looks Just Like You",
+    "q": "What did they say about the puppet?",
+    "a": "They said the puppet looks just like Uncle Pig.",
+    "cn": "他们说这只木偶像极了猪叔叔。",
+    "key": "looks just like · puppet"
+   },
+   {
+    "no": 9,
+    "time": "04:17",
+    "img": "/img/p01e41/f9.jpg",
+    "t": "I Do Snore Like This",
+    "q": "What does Uncle Pig admit at the show?",
+    "a": "He admits that he really does snore like that.",
+    "cn": "他承认自己打呼真的就是这样。",
+    "key": "snore · really"
+   }
+  ],
+  "words": [
+   [
+    "puppet",
+    "木偶"
+   ],
+   [
+    "theatre",
+    "剧场"
+   ],
+   [
+    "show",
+    "表演"
+   ],
+   [
+    "uncle",
+    "叔叔"
+   ],
+   [
+    "spaghetti",
+    "意大利面"
+   ],
+   [
+    "snore",
+    "打呼"
+   ],
+   [
+    "asleep",
+    "睡着的"
+   ],
+   [
+    "mouth",
+    "嘴"
+   ],
+   [
+    "make",
+    "制作"
+   ],
+   [
+    "lunch",
+    "午餐"
+   ],
+   [
+    "brother",
+    "兄弟"
+   ],
+   [
+    "loudly",
+    "大声地"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "puppet, theatre, show, uncle, spaghetti, snore",
+   "actions": "arrive, make, eat, perform, sleep, snore"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Chloe's Puppet Show”.",
+  "ending": "In the end, Uncle Pig really does snore. My favourite part is ______."
+ },
+ "P01E42": {
+  "id": "P01E42",
+  "season": 1,
+  "episode": 42,
+  "title": "Daddy Gets Fit",
+  "titleCn": "爸爸健身",
+  "hook": "猪爸爸肚子太大，跟着电视做俯卧撑，又骑佩奇的小自行车，累得不行。",
+  "cover": "/img/p01e42/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:21",
+    "img": "/img/p01e42/f1.jpg",
+    "t": "A Keep Fit Programme",
+    "q": "What is Mummy Pig watching?",
+    "a": "She is watching a keep fit programme on television.",
+    "cn": "她在看电视上的健身节目。",
+    "key": "keep fit · programme"
+   },
+   {
+    "no": 2,
+    "time": "00:43",
+    "img": "/img/p01e42/f2.jpg",
+    "t": "Your Tummy Is Big",
+    "q": "What did Mummy Pig say about Daddy Pig?",
+    "a": "She said he does not look fit and his tummy is big.",
+    "cn": "她说他看起来不健康，肚子还挺大。",
+    "key": "fit · tummy"
+   },
+   {
+    "no": 3,
+    "time": "01:19",
+    "img": "/img/p01e42/f3.jpg",
+    "t": "Start Exercising",
+    "q": "What must Daddy Pig start doing?",
+    "a": "He has to start exercising now to get fit.",
+    "cn": "他现在必须开始锻炼了。",
+    "key": "exercising · now"
+   },
+   {
+    "no": 4,
+    "time": "01:41",
+    "img": "/img/p01e42/f4.jpg",
+    "t": "One Hundred Press-Ups",
+    "q": "How many press-ups must he do?",
+    "a": "Mummy Pig wants him to do one hundred press-ups.",
+    "cn": "猪妈妈让他做一百个俯卧撑。",
+    "key": "press-ups · hundred"
+   },
+   {
+    "no": 5,
+    "time": "02:05",
+    "img": "/img/p01e42/f5.jpg",
+    "t": "Making Lunch",
+    "q": "What is the rest of the family doing?",
+    "a": "They are in the kitchen making lunch while he exercises.",
+    "cn": "他在锻炼时，其他人在厨房做午饭。",
+    "key": "kitchen · making lunch"
+   },
+   {
+    "no": 6,
+    "time": "02:30",
+    "img": "/img/p01e42/f6.jpg",
+    "t": "Something Interesting",
+    "q": "Why did Daddy Pig stop exercising?",
+    "a": "Because there was something interesting on the TV.",
+    "cn": "因为电视上有个有趣的节目。",
+    "key": "interesting · TV"
+   },
+   {
+    "no": 7,
+    "time": "02:54",
+    "img": "/img/p01e42/f7.jpg",
+    "t": "Use My Bicycle",
+    "q": "What did Peppa give Daddy Pig?",
+    "a": "She gave him her little bicycle to ride on.",
+    "cn": "她把自己的小自行车给他骑。",
+    "key": "bicycle · ride"
+   },
+   {
+    "no": 8,
+    "time": "03:51",
+    "img": "/img/p01e42/f8.jpg",
+    "t": "Gone for a Long Time",
+    "q": "Where had Daddy Pig been?",
+    "a": "He had been gone a long time on the little bicycle.",
+    "cn": "他骑着小自行车出去很久都没回来。",
+    "key": "gone · long time"
+   },
+   {
+    "no": 9,
+    "time": "04:23",
+    "img": "/img/p01e42/f9.jpg",
+    "t": "More Exercise Tomorrow",
+    "q": "What must Daddy Pig do tomorrow?",
+    "a": "He will have to do some more exercise tomorrow.",
+    "cn": "明天他还得继续锻炼。",
+    "key": "more exercise · tomorrow"
+   }
+  ],
+  "words": [
+   [
+    "fit",
+    "健康的"
+   ],
+   [
+    "exercise",
+    "锻炼"
+   ],
+   [
+    "tummy",
+    "肚子"
+   ],
+   [
+    "press-up",
+    "俯卧撑"
+   ],
+   [
+    "programme",
+    "节目"
+   ],
+   [
+    "kitchen",
+    "厨房"
+   ],
+   [
+    "bicycle",
+    "自行车"
+   ],
+   [
+    "pedal",
+    "踏板"
+   ],
+   [
+    "ride",
+    "骑"
+   ],
+   [
+    "tired",
+    "累的"
+   ],
+   [
+    "hundred",
+    "一百"
+   ],
+   [
+    "tomorrow",
+    "明天"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "fit, exercise, tummy, press-ups, bicycle, tired",
+   "actions": "watch, touch, push, ride, make, rest"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Daddy Gets Fit”.",
+  "ending": "In the end, Peppa will make sure Daddy keeps exercising. My favourite part is ______."
+ },
+ "P01E43": {
+  "id": "P01E43",
+  "season": 1,
+  "episode": 43,
+  "title": "Tidying Up",
+  "titleCn": "收拾房间",
+  "hook": "房间乱得下不去脚，全家人比赛谁先收拾好，收着收着又玩起了恐龙。",
+  "cover": "/img/p01e43/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:23",
+    "img": "/img/p01e43/f1.jpg",
+    "t": "Playing with Toys",
+    "q": "What are the children doing?",
+    "a": "They are in their bedroom playing with their toys.",
+    "cn": "他们在卧室里玩玩具。",
+    "key": "bedroom · toys"
+   },
+   {
+    "no": 2,
+    "time": "00:54",
+    "img": "/img/p01e43/f2.jpg",
+    "t": "Reading Her Book",
+    "q": "What is Mummy Pig doing?",
+    "a": "She is sitting down and reading her book.",
+    "cn": "她坐下来看书。",
+    "key": "reading · book"
+   },
+   {
+    "no": 3,
+    "time": "01:20",
+    "img": "/img/p01e43/f3.jpg",
+    "t": "What Is Going On?",
+    "q": "What did Mummy Pig ask?",
+    "a": "She asked what on earth is going on upstairs.",
+    "cn": "她问楼上到底在闹什么。",
+    "key": "what on earth · going on"
+   },
+   {
+    "no": 4,
+    "time": "01:42",
+    "img": "/img/p01e43/f4.jpg",
+    "t": "Tidy Up First",
+    "q": "When can they play again?",
+    "a": "They can play again when they have tidied up.",
+    "cn": "他们收拾好了才能再玩。",
+    "key": "play again · tidied up"
+   },
+   {
+    "no": 5,
+    "time": "02:08",
+    "img": "/img/p01e43/f5.jpg",
+    "t": "Who Can Tidy First?",
+    "q": "What game did they decide to play?",
+    "a": "They decided to see who can tidy up first.",
+    "cn": "他们决定比一比谁先收拾完。",
+    "key": "tidy up · first"
+   },
+   {
+    "no": 6,
+    "time": "02:56",
+    "img": "/img/p01e43/f6.jpg",
+    "t": "A Tyrannosaurus Rex",
+    "q": "What toy did Daddy Pig find?",
+    "a": "He found a toy tyrannosaurus rex in the mess.",
+    "cn": "他在乱堆里发现一只霸王龙玩具。",
+    "key": "tyrannosaurus rex · found"
+   },
+   {
+    "no": 7,
+    "time": "03:41",
+    "img": "/img/p01e43/f7.jpg",
+    "t": "We Are Going to Win",
+    "q": "What did Peppa say?",
+    "a": "She said she and Mummy are going to win.",
+    "cn": "她说她和妈妈一定会赢。",
+    "key": "win · going to"
+   },
+   {
+    "no": 8,
+    "time": "03:55",
+    "img": "/img/p01e43/f8.jpg",
+    "t": "We All Win",
+    "q": "Who wins the tidying game?",
+    "a": "Everyone wins, because the room is tidy at last.",
+    "cn": "大家都赢了，因为房间终于收拾干净了。",
+    "key": "tidy · win"
+   },
+   {
+    "no": 9,
+    "time": "04:34",
+    "img": "/img/p01e43/f9.jpg",
+    "t": "Untidy Again",
+    "q": "What happened to the room at the end?",
+    "a": "They played again, so the room is untidy again.",
+    "cn": "他们又玩起来，房间又乱了。",
+    "key": "untidy · again"
+   }
+  ],
+  "words": [
+   [
+    "tidy",
+    "收拾"
+   ],
+   [
+    "untidy",
+    "乱的"
+   ],
+   [
+    "bedroom",
+    "卧室"
+   ],
+   [
+    "toy",
+    "玩具"
+   ],
+   [
+    "bookshelf",
+    "书架"
+   ],
+   [
+    "dinosaur",
+    "恐龙"
+   ],
+   [
+    "mess",
+    "乱糟糟"
+   ],
+   [
+    "newspaper",
+    "报纸"
+   ],
+   [
+    "win",
+    "赢"
+   ],
+   [
+    "again",
+    "再一次"
+   ],
+   [
+    "noise",
+    "噪音"
+   ],
+   [
+    "help",
+    "帮忙"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "tidy, bedroom, toys, mess, dinosaur, win",
+   "actions": "play, tidy, put back, find, help, win"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Tidying Up”.",
+  "ending": "In the end, the room is untidy again. My favourite part is ______."
+ },
+ "P01E44": {
+  "id": "P01E44",
+  "season": 1,
+  "episode": 44,
+  "title": "The Playground",
+  "titleCn": "游乐场",
+  "hook": "在游乐场，乔治怕高，佩奇卡在轮胎里，猪爸爸坐滑梯卡住了，大家笑成一团。",
+  "cover": "/img/p01e44/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:23",
+    "img": "/img/p01e44/f1.jpg",
+    "t": "At the Playground",
+    "q": "Where are Peppa and George?",
+    "a": "They are at the playground with all their friends.",
+    "cn": "他们和朋友们在游乐场。",
+    "key": "playground · friends"
+   },
+   {
+    "no": 2,
+    "time": "01:10",
+    "img": "/img/p01e44/f2.jpg",
+    "t": "I Want to Push George",
+    "q": "What did Peppa want to do?",
+    "a": "She wanted to push George on the swing.",
+    "cn": "她想推乔治荡秋千。",
+    "key": "push · George"
+   },
+   {
+    "no": 3,
+    "time": "01:26",
+    "img": "/img/p01e44/f3.jpg",
+    "t": "Up High",
+    "q": "What does George not like?",
+    "a": "He does not like being up high on the swing.",
+    "cn": "他不喜欢在秋千上被荡得那么高。",
+    "key": "up high · does not like"
+   },
+   {
+    "no": 4,
+    "time": "01:52",
+    "img": "/img/p01e44/f4.jpg",
+    "t": "You Are Doing It Wrong",
+    "q": "What did Peppa say to the others?",
+    "a": "She said, “You are doing it all wrong!”",
+    "cn": "她说：“你们全做错了！”",
+    "key": "all wrong · doing"
+   },
+   {
+    "no": 5,
+    "time": "02:13",
+    "img": "/img/p01e44/f5.jpg",
+    "t": "I Can't Get Out!",
+    "q": "What happened to Peppa?",
+    "a": "She got stuck in the tyre and could not get out.",
+    "cn": "她卡在轮胎里出不来了。",
+    "key": "stuck · get out"
+   },
+   {
+    "no": 6,
+    "time": "02:40",
+    "img": "/img/p01e44/f6.jpg",
+    "t": "The Climbing Frame",
+    "q": "What did Peppa ask George?",
+    "a": "She asked if he wants to play on the climbing frame.",
+    "cn": "她问乔治要不要去玩攀爬架。",
+    "key": "climbing frame · play"
+   },
+   {
+    "no": 7,
+    "time": "03:05",
+    "img": "/img/p01e44/f7.jpg",
+    "t": "Look at Me!",
+    "q": "What is Peppa doing on the climbing frame?",
+    "a": "She is swinging across and calling her parents to look.",
+    "cn": "她在攀爬架上荡过去，还喊爸妈看她。",
+    "key": "look at me · swinging"
+   },
+   {
+    "no": 8,
+    "time": "03:43",
+    "img": "/img/p01e44/f8.jpg",
+    "t": "Too Big for the Slide",
+    "q": "Why can't Daddy Pig go down the slide?",
+    "a": "Because he is too big for the little slide.",
+    "cn": "因为小滑梯装不下他这么大的人。",
+    "key": "too big · slide"
+   },
+   {
+    "no": 9,
+    "time": "04:07",
+    "img": "/img/p01e44/f9.jpg",
+    "t": "A Bit Funny",
+    "q": "What did everyone think when Daddy slid down?",
+    "a": "They laughed, and even Daddy says it is a bit funny.",
+    "cn": "大家都笑了，连爸爸自己都说有点好笑。",
+    "key": "funny · laughed"
+   }
+  ],
+  "words": [
+   [
+    "playground",
+    "游乐场"
+   ],
+   [
+    "swing",
+    "秋千"
+   ],
+   [
+    "push",
+    "推"
+   ],
+   [
+    "climbing frame",
+    "攀爬架"
+   ],
+   [
+    "slide",
+    "滑梯"
+   ],
+   [
+    "tyre",
+    "轮胎"
+   ],
+   [
+    "stuck",
+    "卡住的"
+   ],
+   [
+    "high",
+    "高的"
+   ],
+   [
+    "scared",
+    "害怕的"
+   ],
+   [
+    "laugh",
+    "笑"
+   ],
+   [
+    "turn",
+    "轮到的机会"
+   ],
+   [
+    "bouncy",
+    "有弹性的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "playground, swing, climbing frame, slide, stuck, funny",
+   "actions": "push, swing, climb, get stuck, slide, laugh"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “The Playground”.",
+  "ending": "In the end, Daddy Pig gets stuck on the slide. My favourite part is ______."
+ },
+ "P01E45": {
+  "id": "P01E45",
+  "season": 1,
+  "episode": 45,
+  "title": "Daddy Puts Up a Picture",
+  "titleCn": "爸爸挂画",
+  "hook": "猪爸爸自己挂画，一锤子把墙敲出大裂缝，只好补墙刷漆，还弄了一屋子灰。",
+  "cover": "/img/p01e45/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:25",
+    "img": "/img/p01e45/f1.jpg",
+    "t": "A New Picture",
+    "q": "What do Mummy and Daddy Pig have?",
+    "a": "They have a new picture of Peppa and George to put up.",
+    "cn": "他们有一张佩奇和乔治的新画要挂起来。",
+    "key": "new picture · Peppa"
+   },
+   {
+    "no": 2,
+    "time": "01:00",
+    "img": "/img/p01e45/f2.jpg",
+    "t": "Can We Help?",
+    "q": "What did the children ask?",
+    "a": "They asked if they can help put up the picture.",
+    "cn": "他们问能不能帮忙挂画。",
+    "key": "help · put up"
+   },
+   {
+    "no": 3,
+    "time": "01:32",
+    "img": "/img/p01e45/f3.jpg",
+    "t": "Knock the Nail In",
+    "q": "What is Daddy Pig going to do?",
+    "a": "He is going to knock a nail into the wall.",
+    "cn": "他要把钉子敲进墙里。",
+    "key": "nail · wall"
+   },
+   {
+    "no": 4,
+    "time": "02:01",
+    "img": "/img/p01e45/f4.jpg",
+    "t": "I Can See the Crack",
+    "q": "What did Peppa say about the wall?",
+    "a": "She said, “I can still see the crack, Daddy.”",
+    "cn": "她说：“爸爸，我还看得见那条裂缝。”",
+    "key": "crack · see"
+   },
+   {
+    "no": 5,
+    "time": "02:25",
+    "img": "/img/p01e45/f5.jpg",
+    "t": "Will Mummy Notice?",
+    "q": "What did Daddy Pig worry about?",
+    "a": "He worried that Mummy Pig will notice the crack.",
+    "cn": "他担心猪妈妈会发现墙上的裂缝。",
+    "key": "notice · Mummy"
+   },
+   {
+    "no": 6,
+    "time": "02:51",
+    "img": "/img/p01e45/f6.jpg",
+    "t": "Mend the Wall",
+    "q": "How does Daddy Pig mend the wall?",
+    "a": "First he fills the hole with bricks, then plaster and paint.",
+    "cn": "他先拿砖填洞，再抹灰、刷漆。",
+    "key": "bricks · mend"
+   },
+   {
+    "no": 7,
+    "time": "03:31",
+    "img": "/img/p01e45/f7.jpg",
+    "t": "What a Mess",
+    "q": "What did Peppa and George see?",
+    "a": "There is a big mess on the floor and the walls.",
+    "cn": "地上和墙上弄得一团糟。",
+    "key": "mess · floor"
+   },
+   {
+    "no": 8,
+    "time": "03:55",
+    "img": "/img/p01e45/f8.jpg",
+    "t": "Pretend Nothing Happened",
+    "q": "What did Daddy Pig tell the children?",
+    "a": "He told them to pretend nothing has happened.",
+    "cn": "他让孩子们假装什么都没发生。",
+    "key": "pretend · happened"
+   },
+   {
+    "no": 9,
+    "time": "04:12",
+    "img": "/img/p01e45/f9.jpg",
+    "t": "Put the Picture Up",
+    "q": "What did Mummy Pig say?",
+    "a": "She said she thought they were going to put the picture up.",
+    "cn": "她说她还以为他们要把画挂上去呢。",
+    "key": "picture up · thought"
+   }
+  ],
+  "words": [
+   [
+    "picture",
+    "图画"
+   ],
+   [
+    "nail",
+    "钉子"
+   ],
+   [
+    "hammer",
+    "锤子"
+   ],
+   [
+    "wall",
+    "墙"
+   ],
+   [
+    "crack",
+    "裂缝"
+   ],
+   [
+    "hole",
+    "洞"
+   ],
+   [
+    "brick",
+    "砖头"
+   ],
+   [
+    "plaster",
+    "灰泥"
+   ],
+   [
+    "paint",
+    "刷漆"
+   ],
+   [
+    "mess",
+    "乱糟糟"
+   ],
+   [
+    "pretend",
+    "假装"
+   ],
+   [
+    "properly",
+    "正确地"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "picture, nail, wall, crack, hole, mess",
+   "actions": "put up, knock, mend, fill, paint, clean"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Daddy Puts Up a Picture”.",
+  "ending": "In the end, the picture is still not on the wall. My favourite part is ______."
+ },
+ "P01E46": {
+  "id": "P01E46",
+  "season": 1,
+  "episode": 46,
+  "title": "At the Beach",
+  "titleCn": "在海边",
+  "hook": "一家人去海边玩水、堆沙堡，把猪爸爸埋在沙里，回家时把他忘在了沙滩上。",
+  "cover": "/img/p01e46/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:19",
+    "img": "/img/p01e46/f1.jpg",
+    "t": "To the Beach",
+    "q": "Where is the family going?",
+    "a": "They are going to the beach for the day.",
+    "cn": "他们今天要去海边玩。",
+    "key": "beach · going"
+   },
+   {
+    "no": 2,
+    "time": "01:16",
+    "img": "/img/p01e46/f2.jpg",
+    "t": "Too Little to Catch",
+    "q": "Why can't George catch the ball?",
+    "a": "Because he is too little to catch it well.",
+    "cn": "因为他太小了，接不好球。",
+    "key": "too little · catch"
+   },
+   {
+    "no": 3,
+    "time": "01:37",
+    "img": "/img/p01e46/f3.jpg",
+    "t": "Water-Wings",
+    "q": "What is George wearing?",
+    "a": "He is wearing water-wings so he can play in the sea.",
+    "cn": "他戴着游泳圈，好下海玩水。",
+    "key": "water-wings · sea"
+   },
+   {
+    "no": 4,
+    "time": "02:20",
+    "img": "/img/p01e46/f4.jpg",
+    "t": "I Love the Beach",
+    "q": "What did Peppa say to Daddy?",
+    "a": "She said, “Daddy, I love being at the beach.”",
+    "cn": "她说：“爸爸，我太喜欢在海边了。”",
+    "key": "love · beach"
+   },
+   {
+    "no": 5,
+    "time": "02:40",
+    "img": "/img/p01e46/f5.jpg",
+    "t": "Bury You in Sand",
+    "q": "What did the children ask Daddy Pig?",
+    "a": "They asked if they can bury him in the sand.",
+    "cn": "他们问能不能把他埋在沙子里。",
+    "key": "bury · sand"
+   },
+   {
+    "no": 6,
+    "time": "02:54",
+    "img": "/img/p01e46/f6.jpg",
+    "t": "Burying Daddy Pig",
+    "q": "What are the children doing?",
+    "a": "They are burying Daddy Pig in the sand.",
+    "cn": "他们正把猪爸爸埋进沙子里。",
+    "key": "burying · sand"
+   },
+   {
+    "no": 7,
+    "time": "03:18",
+    "img": "/img/p01e46/f7.jpg",
+    "t": "A Little Sleep",
+    "q": "What did Daddy Pig decide to do?",
+    "a": "He decided to have a little sleep on the beach.",
+    "cn": "他决定在沙滩上睡一小觉。",
+    "key": "sleep · beach"
+   },
+   {
+    "no": 8,
+    "time": "03:57",
+    "img": "/img/p01e46/f8.jpg",
+    "t": "Don't Leave Anything",
+    "q": "What did Mummy Pig say as they left?",
+    "a": "She said not to leave any of their things behind.",
+    "cn": "她说别把东西落下。",
+    "key": "leave · behind"
+   },
+   {
+    "no": 9,
+    "time": "04:16",
+    "img": "/img/p01e46/f9.jpg",
+    "t": "We Forgot Something",
+    "q": "What did the family forget?",
+    "a": "They forgot the hat, and they also forgot Daddy Pig!",
+    "cn": "他们忘了帽子，还把猪爸爸也忘了！",
+    "key": "forgot · hat"
+   }
+  ],
+  "words": [
+   [
+    "beach",
+    "海滩"
+   ],
+   [
+    "ball",
+    "球"
+   ],
+   [
+    "water-wings",
+    "游泳圈"
+   ],
+   [
+    "bury",
+    "埋"
+   ],
+   [
+    "sand",
+    "沙子"
+   ],
+   [
+    "spade",
+    "铲子"
+   ],
+   [
+    "bucket",
+    "桶"
+   ],
+   [
+    "castle",
+    "城堡"
+   ],
+   [
+    "sunshade",
+    "遮阳伞"
+   ],
+   [
+    "towel",
+    "毛巾"
+   ],
+   [
+    "sleep",
+    "睡觉"
+   ],
+   [
+    "forget",
+    "忘记"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "beach, ball, water-wings, sand, bucket, hat",
+   "actions": "play, catch, swim, bury, build, forget"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “At the Beach”.",
+  "ending": "In the end, they forget Daddy Pig on the beach. My favourite part is ______."
+ },
+ "P01E47": {
+  "id": "P01E47",
+  "season": 1,
+  "episode": 47,
+  "title": "Mister Skinnylegs",
+  "titleCn": "瘦腿先生",
+  "hook": "乔治在水槽里发现一只蜘蛛，把它当成娃娃放到床上，还请它喝下午茶。",
+  "cover": "/img/p01e47/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:23",
+    "img": "/img/p01e47/f1.jpg",
+    "t": "The Doll's House",
+    "q": "What is Peppa playing with?",
+    "a": "She is playing with her doll's house, and George joins in.",
+    "cn": "她在玩娃娃屋，乔治也一起玩。",
+    "key": "doll's house · playing"
+   },
+   {
+    "no": 2,
+    "time": "01:14",
+    "img": "/img/p01e47/f2.jpg",
+    "t": "Fill the Teapot",
+    "q": "What did Peppa ask George to do?",
+    "a": "She asked him to fill the teapot with water.",
+    "cn": "她让他把茶壶装满水。",
+    "key": "teapot · fill"
+   },
+   {
+    "no": 3,
+    "time": "01:34",
+    "img": "/img/p01e47/f3.jpg",
+    "t": "A Spider in the Sink",
+    "q": "What did George find?",
+    "a": "He found a spider in the kitchen sink.",
+    "cn": "他在厨房水槽里发现一只蜘蛛。",
+    "key": "spider · sink"
+   },
+   {
+    "no": 4,
+    "time": "02:14",
+    "img": "/img/p01e47/f4.jpg",
+    "t": "Putting the Spider to Bed",
+    "q": "What is George doing with the spider?",
+    "a": "He is putting the spider to bed in the doll's house.",
+    "cn": "他正把蜘蛛放到娃娃屋里睡觉。",
+    "key": "putting to bed · spider"
+   },
+   {
+    "no": 5,
+    "time": "02:42",
+    "img": "/img/p01e47/f5.jpg",
+    "t": "Have You Seen the Spider?",
+    "q": "What did Peppa ask George?",
+    "a": "She asked him if he has seen the spider.",
+    "cn": "她问他有没有看见那只蜘蛛。",
+    "key": "seen · spider"
+   },
+   {
+    "no": 6,
+    "time": "03:22",
+    "img": "/img/p01e47/f6.jpg",
+    "t": "Out of the Bedroom",
+    "q": "What did Daddy Pig say?",
+    "a": "He said he will take the spider out of the bedroom.",
+    "cn": "他说会把蜘蛛拿出卧室。",
+    "key": "take out · bedroom"
+   },
+   {
+    "no": 7,
+    "time": "03:35",
+    "img": "/img/p01e47/f7.jpg",
+    "t": "They Like the Spider",
+    "q": "Do the children mind the spider?",
+    "a": "No, Peppa and George like the spider very much.",
+    "cn": "不，佩奇和乔治都很喜欢这只蜘蛛。",
+    "key": "like · spider"
+   },
+   {
+    "no": 8,
+    "time": "03:58",
+    "img": "/img/p01e47/f8.jpg",
+    "t": "Mr. Skinnylegs",
+    "q": "What is the spider's name?",
+    "a": "His name is Mr. Skinnylegs, and they have tea with him.",
+    "cn": "他叫“瘦腿先生”，他们还和它一起喝茶。",
+    "key": "Mr. Skinnylegs · tea"
+   },
+   {
+    "no": 9,
+    "time": "04:27",
+    "img": "/img/p01e47/f9.jpg",
+    "t": "You're Not Scared?",
+    "q": "Who is scared of the spider?",
+    "a": "Daddy Pig is scared, but he says he is not.",
+    "cn": "猪爸爸其实很怕，可他说自己不怕。",
+    "key": "scared · Daddy"
+   }
+  ],
+  "words": [
+   [
+    "doll",
+    "洋娃娃"
+   ],
+   [
+    "teapot",
+    "茶壶"
+   ],
+   [
+    "spider",
+    "蜘蛛"
+   ],
+   [
+    "sink",
+    "水槽"
+   ],
+   [
+    "biscuit",
+    "饼干"
+   ],
+   [
+    "bedroom",
+    "卧室"
+   ],
+   [
+    "scared",
+    "害怕的"
+   ],
+   [
+    "tea party",
+    "茶会"
+   ],
+   [
+    "leg",
+    "腿"
+   ],
+   [
+    "tiny",
+    "微小的"
+   ],
+   [
+    "name",
+    "名字"
+   ],
+   [
+    "brave",
+    "勇敢的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "doll, teapot, spider, sink, scared, tea",
+   "actions": "play, fill, find, put to bed, take out, drink"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Mister Skinnylegs”.",
+  "ending": "In the end, Daddy Pig is the one who is scared. My favourite part is ______."
+ },
+ "P01E48": {
+  "id": "P01E48",
+  "season": 1,
+  "episode": 48,
+  "title": "Grandpa Pig's Boat",
+  "titleCn": "猪爷爷的小船",
+  "hook": "爷爷和狗爷爷开船比赛，谁也不肯让谁，最后一条船没油了，被另一条拖回家。",
+  "cover": "/img/p01e48/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:32",
+    "img": "/img/p01e48/f1.jpg",
+    "t": "Life-Jackets On",
+    "q": "What must they wear on the boat?",
+    "a": "They must wear life-jackets when they are on the boat.",
+    "cn": "上船必须穿救生衣。",
+    "key": "life-jackets · boat"
+   },
+   {
+    "no": 2,
+    "time": "00:51",
+    "img": "/img/p01e48/f2.jpg",
+    "t": "Captain Grandpa",
+    "q": "What is Grandpa Pig on the boat?",
+    "a": "He is the captain, and he never says anything silly.",
+    "cn": "他是船长，从来不说傻话。",
+    "key": "captain · silly"
+   },
+   {
+    "no": 3,
+    "time": "01:25",
+    "img": "/img/p01e48/f3.jpg",
+    "t": "A Little Slower",
+    "q": "What did Peppa ask Grandpa Pig?",
+    "a": "She asked him to go a little slower on the river.",
+    "cn": "她让他开慢一点。",
+    "key": "slower · river"
+   },
+   {
+    "no": 4,
+    "time": "02:00",
+    "img": "/img/p01e48/f4.jpg",
+    "t": "Best Friends",
+    "q": "Who is Granddad Dog?",
+    "a": "He is Grandpa Pig's very best friend.",
+    "cn": "他是猪爷爷最好的朋友。",
+    "key": "best friend · Granddad Dog"
+   },
+   {
+    "no": 5,
+    "time": "02:27",
+    "img": "/img/p01e48/f5.jpg",
+    "t": "Acting Like Children",
+    "q": "What did Granny Pig say to them?",
+    "a": "She said the two of them are acting like little children.",
+    "cn": "她说他们两个像小孩子一样。",
+    "key": "acting · little children"
+   },
+   {
+    "no": 6,
+    "time": "02:45",
+    "img": "/img/p01e48/f6.jpg",
+    "t": "He Is Your Best Friend",
+    "q": "What did Granny Pig remind Grandpa Pig?",
+    "a": "She reminded him that Granddad Dog is his best friend.",
+    "cn": "她提醒他狗爷爷可是他最好的朋友。",
+    "key": "best friend · reminded"
+   },
+   {
+    "no": 7,
+    "time": "03:18",
+    "img": "/img/p01e48/f7.jpg",
+    "t": "I Win!",
+    "q": "What happened to Grandpa Pig's boat?",
+    "a": "He says he wins, but his boat runs out of petrol.",
+    "cn": "他说自己赢了，可船却没油了。",
+    "key": "wins · petrol"
+   },
+   {
+    "no": 8,
+    "time": "03:50",
+    "img": "/img/p01e48/f8.jpg",
+    "t": "Will You Ever Grow Up?",
+    "q": "What did Granny Pig ask the two grandpas?",
+    "a": "She asked if the two of them will ever grow up.",
+    "cn": "她问这两个爷爷什么时候才能长大。",
+    "key": "grow up · ever"
+   },
+   {
+    "no": 9,
+    "time": "04:20",
+    "img": "/img/p01e48/f9.jpg",
+    "t": "Towed Home",
+    "q": "What did Granddad Dog do at the end?",
+    "a": "He towed Grandpa Pig's boat all the way home.",
+    "cn": "他把猪爷爷的船一路拖回了家。",
+    "key": "towed · home"
+   }
+  ],
+  "words": [
+   [
+    "boat",
+    "小船"
+   ],
+   [
+    "captain",
+    "船长"
+   ],
+   [
+    "life-jacket",
+    "救生衣"
+   ],
+   [
+    "river",
+    "河"
+   ],
+   [
+    "petrol",
+    "汽油"
+   ],
+   [
+    "race",
+    "比赛"
+   ],
+   [
+    "tow",
+    "拖"
+   ],
+   [
+    "grow up",
+    "长大"
+   ],
+   [
+    "silly",
+    "傻的"
+   ],
+   [
+    "win",
+    "赢"
+   ],
+   [
+    "friend",
+    "朋友"
+   ],
+   [
+    "slow",
+    "慢的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "boat, captain, life-jacket, river, race, petrol",
+   "actions": "wear, drive, race, shout, stop, tow"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Grandpa Pig's Boat”.",
+  "ending": "In the end, Granddad Dog tows Grandpa Pig home. My favourite part is ______."
+ },
+ "P01E49": {
+  "id": "P01E49",
+  "season": 1,
+  "episode": 49,
+  "title": "Shopping",
+  "titleCn": "去超市",
+  "hook": "佩奇和乔治跟着妈妈去超市，照着清单买东西，猪爸爸却偷偷往车里放了巧克力蛋糕。",
+  "cover": "/img/p01e49/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:24",
+    "img": "/img/p01e49/f1.jpg",
+    "t": "Going Shopping",
+    "q": "Where are Peppa and George going?",
+    "a": "They are going shopping with Mummy Pig.",
+    "cn": "他们跟猪妈妈一起去超市买东西。",
+    "key": "shopping · going"
+   },
+   {
+    "no": 2,
+    "time": "01:05",
+    "img": "/img/p01e49/f2.jpg",
+    "t": "They Love Shopping",
+    "q": "Do the children like shopping?",
+    "a": "Yes, Peppa and George love going shopping.",
+    "cn": "喜欢，佩奇和乔治很喜欢逛超市。",
+    "key": "love · shopping"
+   },
+   {
+    "no": 3,
+    "time": "01:47",
+    "img": "/img/p01e49/f3.jpg",
+    "t": "Their Favourite Food",
+    "q": "What is their favourite food?",
+    "a": "Spaghetti is Peppa and George's favourite food.",
+    "cn": "意大利面是他们最爱吃的。",
+    "key": "spaghetti · favourite"
+   },
+   {
+    "no": 4,
+    "time": "02:08",
+    "img": "/img/p01e49/f4.jpg",
+    "t": "Spa-ghe-tti",
+    "q": "What did Peppa teach George to say?",
+    "a": "She taught him to say the word spa-ghe-tti.",
+    "cn": "她教他说“意大利面”这个词。",
+    "key": "taught · say"
+   },
+   {
+    "no": 5,
+    "time": "02:20",
+    "img": "/img/p01e49/f5.jpg",
+    "t": "Not on the List",
+    "q": "Why can't they buy crisps?",
+    "a": "Because crisps are not on the shopping list.",
+    "cn": "因为薯片不在购物清单上。",
+    "key": "crisps · list"
+   },
+   {
+    "no": 6,
+    "time": "02:41",
+    "img": "/img/p01e49/f6.jpg",
+    "t": "Next on the List",
+    "q": "What is next on the list?",
+    "a": "The next thing on the list is onions.",
+    "cn": "清单上下一样要买的是洋葱。",
+    "key": "onions · next"
+   },
+   {
+    "no": 7,
+    "time": "03:20",
+    "img": "/img/p01e49/f7.jpg",
+    "t": "You Choose the Fruit",
+    "q": "What can George choose?",
+    "a": "He can choose the fruit, like apples or a melon.",
+    "cn": "他可以挑水果，比如苹果或大甜瓜。",
+    "key": "choose · fruit"
+   },
+   {
+    "no": 8,
+    "time": "03:49",
+    "img": "/img/p01e49/f8.jpg",
+    "t": "At the Checkout",
+    "q": "Where do they pay for the food?",
+    "a": "They pay for all the food at the checkout.",
+    "cn": "他们在收银台为所有东西付钱。",
+    "key": "checkout · pay"
+   },
+   {
+    "no": 9,
+    "time": "04:33",
+    "img": "/img/p01e49/f9.jpg",
+    "t": "Let's Pretend",
+    "q": "What did Daddy Pig want to buy?",
+    "a": "A chocolate cake, so he pretends it was on the list.",
+    "cn": "他想要巧克力蛋糕，就说假装清单上有它。",
+    "key": "chocolate cake · pretends"
+   }
+  ],
+  "words": [
+   [
+    "shopping",
+    "购物"
+   ],
+   [
+    "trolley",
+    "购物车"
+   ],
+   [
+    "list",
+    "清单"
+   ],
+   [
+    "spaghetti",
+    "意大利面"
+   ],
+   [
+    "tomato",
+    "西红柿"
+   ],
+   [
+    "onion",
+    "洋葱"
+   ],
+   [
+    "crisps",
+    "薯片"
+   ],
+   [
+    "fruit",
+    "水果"
+   ],
+   [
+    "melon",
+    "甜瓜"
+   ],
+   [
+    "checkout",
+    "收银台"
+   ],
+   [
+    "cake",
+    "蛋糕"
+   ],
+   [
+    "delicious",
+    "美味的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "shopping, trolley, list, spaghetti, crisps, cake",
+   "actions": "shop, look for, put in, choose, pay, pretend"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Shopping”.",
+  "ending": "In the end, Daddy Pig gets a chocolate cake. My favourite part is ______."
+ },
+ "P01E50": {
+  "id": "P01E50",
+  "season": 1,
+  "episode": 50,
+  "title": "My Birthday Party",
+  "titleCn": "我的生日会",
+  "hook": "佩奇生日那天一早全家送礼物，爸爸扮成魔术师表演，最后端出香蕉蛋糕。",
+  "cover": "/img/p01e50/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:25",
+    "img": "/img/p01e50/f1.jpg",
+    "t": "Very Early in the Morning",
+    "q": "When does the story start?",
+    "a": "It is very early in the morning on Peppa's birthday.",
+    "cn": "故事从佩奇生日那天天刚亮开始。",
+    "key": "early · morning"
+   },
+   {
+    "no": 2,
+    "time": "00:59",
+    "img": "/img/p01e50/f2.jpg",
+    "t": "The Whole Day Is Going",
+    "q": "Why is Peppa up so early in the morning?",
+    "a": "She is far too excited to stay in bed on her birthday.",
+    "cn": "生日这天她太兴奋了，根本躺不住。",
+    "key": "excited · early"
+   },
+   {
+    "no": 3,
+    "time": "01:24",
+    "img": "/img/p01e50/f3.jpg",
+    "t": "A Doll's Dress",
+    "q": "What present did Peppa get?",
+    "a": "She got a doll's dress and she puts it on Teddy.",
+    "cn": "她得到一条娃娃裙，马上给泰迪穿上。",
+    "key": "doll's dress · present"
+   },
+   {
+    "no": 4,
+    "time": "01:54",
+    "img": "/img/p01e50/f4.jpg",
+    "t": "The Magician",
+    "q": "Who is the magician?",
+    "a": "Daddy Pig is the magician, but no one will know.",
+    "cn": "魔术师就是猪爸爸，不过别人都不知道。",
+    "key": "magician · Daddy"
+   },
+   {
+    "no": 5,
+    "time": "02:27",
+    "img": "/img/p01e50/f5.jpg",
+    "t": "The Party Is Starting",
+    "q": "What did Mummy Pig call out?",
+    "a": "She called the children because the party is starting.",
+    "cn": "她喊孩子们，因为派对要开始了。",
+    "key": "party · starting"
+   },
+   {
+    "no": 6,
+    "time": "03:19",
+    "img": "/img/p01e50/f6.jpg",
+    "t": "Tell the Audience",
+    "q": "What did the magician ask Suzy?",
+    "a": "He asked her to tell the audience her name.",
+    "cn": "他让她告诉观众自己的名字。",
+    "key": "audience · name"
+   },
+   {
+    "no": 7,
+    "time": "03:33",
+    "img": "/img/p01e50/f7.jpg",
+    "t": "While My Back Is Turned",
+    "q": "How does the ball trick work?",
+    "a": "Suzy picks a ball while his back is turned.",
+    "cn": "趁他转过身，苏西挑了一个球。",
+    "key": "back · turned"
+   },
+   {
+    "no": 8,
+    "time": "04:07",
+    "img": "/img/p01e50/f8.jpg",
+    "t": "One More Trick",
+    "q": "What did Daddy Pig ask the children?",
+    "a": "He asked if they would like one more trick.",
+    "cn": "他问孩子们还想不想再看一个戏法。",
+    "key": "one more trick · would like"
+   },
+   {
+    "no": 9,
+    "time": "04:38",
+    "img": "/img/p01e50/f9.jpg",
+    "t": "My Best Birthday",
+    "q": "What did Peppa say about her birthday?",
+    "a": "She said it is her best birthday ever.",
+    "cn": "她说这是她过得最棒的生日。",
+    "key": "best birthday · ever"
+   }
+  ],
+  "words": [
+   [
+    "birthday",
+    "生日"
+   ],
+   [
+    "present",
+    "礼物"
+   ],
+   [
+    "party",
+    "聚会"
+   ],
+   [
+    "magician",
+    "魔术师"
+   ],
+   [
+    "magic",
+    "魔术"
+   ],
+   [
+    "audience",
+    "观众"
+   ],
+   [
+    "helper",
+    "助手"
+   ],
+   [
+    "trick",
+    "戏法"
+   ],
+   [
+    "ball",
+    "球"
+   ],
+   [
+    "cake",
+    "蛋糕"
+   ],
+   [
+    "banana",
+    "香蕉"
+   ],
+   [
+    "early",
+    "早的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "birthday, present, party, magician, audience, cake",
+   "actions": "wake up, open, practise, perform, guess, eat"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “My Birthday Party”.",
+  "ending": "In the end, Peppa gets a banana birthday cake. My favourite part is ______."
+ },
+ "P01E51": {
+  "id": "P01E51",
+  "season": 1,
+  "episode": 51,
+  "title": "Daddy's Movie Camera",
+  "titleCn": "爸爸的摄影机",
+  "hook": "邮递员送来一台会说话的摄影机，佩奇和乔治各拍了一部小电影，乔治被自己拍的恐龙吓到了。",
+  "cover": "/img/p01e51/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:21",
+    "img": "/img/p01e51/f1.jpg",
+    "t": "A Parcel",
+    "q": "Who is delivering a parcel?",
+    "a": "Mr. Zebra the postman is delivering a parcel to their house.",
+    "cn": "邮递员斑马先生送来一个包裹。",
+    "key": "parcel · postman"
+   },
+   {
+    "no": 2,
+    "time": "00:48",
+    "img": "/img/p01e51/f2.jpg",
+    "t": "Far Too Small",
+    "q": "What did they say about the parcel?",
+    "a": "They said it is far too small to have a dinosaur inside.",
+    "cn": "他们说包裹太小，里面装不下恐龙。",
+    "key": "small · dinosaur"
+   },
+   {
+    "no": 3,
+    "time": "01:25",
+    "img": "/img/p01e51/f3.jpg",
+    "t": "A Movie Camera",
+    "q": "What is in the parcel?",
+    "a": "It is a movie camera, just like Suzy Sheep's mummy has.",
+    "cn": "是一台摄影机，和苏西妈妈的同款。",
+    "key": "movie camera · parcel"
+   },
+   {
+    "no": 4,
+    "time": "01:41",
+    "img": "/img/p01e51/f4.jpg",
+    "t": "Turn the Voice Off",
+    "q": "What did they want to do with the camera?",
+    "a": "They wanted to turn the talking voice off.",
+    "cn": "他们想把那说话的提示音关掉。",
+    "key": "voice · camera"
+   },
+   {
+    "no": 5,
+    "time": "01:59",
+    "img": "/img/p01e51/f5.jpg",
+    "t": "What Shall I Film?",
+    "q": "What did Daddy Pig ask?",
+    "a": "He asked what he shall film first with the camera.",
+    "cn": "他问先拍点什么好。",
+    "key": "film · first"
+   },
+   {
+    "no": 6,
+    "time": "03:01",
+    "img": "/img/p01e51/f6.jpg",
+    "t": "Everyone Must Do Something",
+    "q": "What did they decide to do?",
+    "a": "They decided that everyone must do something for the film.",
+    "cn": "他们决定每个人都要为电影演点什么。",
+    "key": "do something · everyone"
+   },
+   {
+    "no": 7,
+    "time": "03:14",
+    "img": "/img/p01e51/f7.jpg",
+    "t": "Finished!",
+    "q": "What did George and Peppa make?",
+    "a": "They each made a little movie of their own.",
+    "cn": "他们各自拍了一部小电影。",
+    "key": "movie · finished"
+   },
+   {
+    "no": 8,
+    "time": "03:38",
+    "img": "/img/p01e51/f8.jpg",
+    "t": "George Is Frightened",
+    "q": "Why is George frightened?",
+    "a": "He sees a dinosaur on TV and thinks it is real.",
+    "cn": "他在电视里看到恐龙，以为是真的。",
+    "key": "frightened · real"
+   },
+   {
+    "no": 9,
+    "time": "04:05",
+    "img": "/img/p01e51/f9.jpg",
+    "t": "A Big Tummy",
+    "q": "What did Daddy Pig say on the film?",
+    "a": "He said his tummy is big because he eats lots of cookies.",
+    "cn": "他在片子里说自己肚子大是因为吃了很多饼干。",
+    "key": "tummy · cookies"
+   }
+  ],
+  "words": [
+   [
+    "parcel",
+    "包裹"
+   ],
+   [
+    "postman",
+    "邮递员"
+   ],
+   [
+    "camera",
+    "摄影机"
+   ],
+   [
+    "film",
+    "拍摄"
+   ],
+   [
+    "voice",
+    "声音"
+   ],
+   [
+    "button",
+    "按钮"
+   ],
+   [
+    "movie",
+    "电影"
+   ],
+   [
+    "frightened",
+    "害怕的"
+   ],
+   [
+    "tummy",
+    "肚子"
+   ],
+   [
+    "cookie",
+    "饼干"
+   ],
+   [
+    "real",
+    "真的"
+   ],
+   [
+    "switch",
+    "开关"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "parcel, camera, film, movie, button, frightened",
+   "actions": "open, switch on, film, watch, laugh, be scared"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “Daddy's Movie Camera”.",
+  "ending": "In the end, George is scared of his own movie. My favourite part is ______."
+ },
+ "P01E52": {
+  "id": "P01E52",
+  "season": 1,
+  "episode": 52,
+  "title": "School Play",
+  "titleCn": "幼儿园话剧",
+  "hook": "幼儿园排《小红帽》，大灰狼是丹尼狗演的，演到一半他忘了词，猎人又太害羞。",
+  "cover": "/img/p01e52/f1.jpg",
+  "wide": true,
+  "qa": true,
+  "cells": [
+   {
+    "no": 1,
+    "time": "00:20",
+    "img": "/img/p01e52/f1.jpg",
+    "t": "Put On a Play",
+    "q": "What is the playgroup going to do?",
+    "a": "They are going to put on a play for everyone.",
+    "cn": "他们要为所有人演一出话剧。",
+    "key": "playgroup · play"
+   },
+   {
+    "no": 2,
+    "time": "00:55",
+    "img": "/img/p01e52/f2.jpg",
+    "t": "The Big Bad Wolf",
+    "q": "Who is the Big Bad Wolf?",
+    "a": "Danny Dog is going to play the Big Bad Wolf.",
+    "cn": "丹尼狗要演大灰狼。",
+    "key": "Big Bad Wolf · Danny"
+   },
+   {
+    "no": 3,
+    "time": "01:21",
+    "img": "/img/p01e52/f3.jpg",
+    "t": "Really Scary",
+    "q": "What did they say about Danny's wolf?",
+    "a": "They said it was really scary, and he can be scarier.",
+    "cn": "他们说他演得真吓人，还可以更凶一点。",
+    "key": "scary · really"
+   },
+   {
+    "no": 4,
+    "time": "01:35",
+    "img": "/img/p01e52/f4.jpg",
+    "t": "A Bit Shy",
+    "q": "What is Pedro Pony like?",
+    "a": "Pedro is a bit shy when he says his lines.",
+    "cn": "佩德罗说台词的时候有点害羞。",
+    "key": "shy · Pedro"
+   },
+   {
+    "no": 5,
+    "time": "02:14",
+    "img": "/img/p01e52/f5.jpg",
+    "t": "Everyone Comes to Watch",
+    "q": "Who came to see the play?",
+    "a": "All the parents have come to see the school play.",
+    "cn": "所有家长都来看这出话剧。",
+    "key": "come · school play"
+   },
+   {
+    "no": 6,
+    "time": "02:50",
+    "img": "/img/p01e52/f6.jpg",
+    "t": "Who Is This Visitor?",
+    "q": "What did the narrator say?",
+    "a": "Grandma is at home, and a visitor comes to the door.",
+    "cn": "奶奶在家，这时门口来了一个客人。",
+    "key": "Grandma · visitor"
+   },
+   {
+    "no": 7,
+    "time": "03:36",
+    "img": "/img/p01e52/f7.jpg",
+    "t": "You Don't Look Like Grandma",
+    "q": "What did Little Red Riding Hood say?",
+    "a": "She said, “You don't look like my grandma.”",
+    "cn": "她说：“你一点也不像我奶奶。”",
+    "key": "look like · grandma"
+   },
+   {
+    "no": 8,
+    "time": "03:55",
+    "img": "/img/p01e52/f8.jpg",
+    "t": "Look Who Is Here!",
+    "q": "Who comes in to help at the end?",
+    "a": "Pedro the hunter comes in to save Little Red Riding Hood.",
+    "cn": "猎人佩德罗上场救了小红帽。",
+    "key": "hunter · save"
+   },
+   {
+    "no": 9,
+    "time": "04:16",
+    "img": "/img/p01e52/f9.jpg",
+    "t": "A Naughty Wolf",
+    "q": "What did the hunter say to the wolf?",
+    "a": "He said, “You are a very naughty wolf.”",
+    "cn": "他对狼说：“你是一头很调皮的狼。”",
+    "key": "naughty wolf · said"
+   }
+  ],
+  "words": [
+   [
+    "play",
+    "话剧"
+   ],
+   [
+    "wolf",
+    "狼"
+   ],
+   [
+    "hunter",
+    "猎人"
+   ],
+   [
+    "grandma",
+    "奶奶"
+   ],
+   [
+    "cupboard",
+    "橱柜"
+   ],
+   [
+    "shy",
+    "害羞的"
+   ],
+   [
+    "actor",
+    "演员"
+   ],
+   [
+    "audience",
+    "观众"
+   ],
+   [
+    "costume",
+    "服装"
+   ],
+   [
+    "practise",
+    "排练"
+   ],
+   [
+    "naughty",
+    "调皮的"
+   ],
+   [
+    "scary",
+    "吓人的"
+   ]
+  ],
+  "helper": {
+   "order": "First / Next / Then / After that / Finally",
+   "keywords": "play, wolf, hunter, grandma, shy, scary",
+   "actions": "practise, act, forget, shout, come in, clap"
+  },
+  "opener": "Today I watched Peppa Pig. This episode is “School Play”.",
+  "ending": "In the end, the play goes well and everyone claps. My favourite part is ______."
+ }
 }

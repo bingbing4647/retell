@@ -1,0 +1,124 @@
+{
+ "id": "P01E34",
+ "season": 1,
+ "episode": 34,
+ "title": "Lunch",
+ "titleCn": "午餐",
+ "hook": "爷爷奶奶用自家菜园的蔬菜做午餐，乔治一样都不爱吃，最后却把蔬菜全吃光了。",
+ "cover": "/img/p01e34/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:24",
+   "img": "/img/p01e34/f1.jpg",
+   "t": "Lunch at Granny's",
+   "q": "Where did Peppa and George go for lunch?",
+   "a": "They went to Granny and Grandpa Pig's house for lunch.",
+   "cn": "他们去爷爷奶奶家吃午饭。",
+   "key": "lunch · Granny"
+  },
+  {
+   "no": 2,
+   "time": "00:50",
+   "img": "/img/p01e34/f2.jpg",
+   "t": "The Vegetable Garden",
+   "q": "Whose vegetable garden is it?",
+   "a": "It is Grandpa Pig's vegetable garden, and he grew it all.",
+   "cn": "这是猪爷爷的菜园，菜都是他自己种的。",
+   "key": "vegetable garden · Grandpa"
+  },
+  {
+   "no": 3,
+   "time": "01:11",
+   "img": "/img/p01e34/f3.jpg",
+   "t": "Do You Like Tomatoes?",
+   "q": "What did Grandpa Pig ask Peppa?",
+   "a": "He asked her, “Peppa, do you like tomatoes?”",
+   "cn": "他问她：“佩奇，你喜欢西红柿吗？”",
+   "key": "tomatoes · like"
+  },
+  {
+   "no": 4,
+   "time": "01:35",
+   "img": "/img/p01e34/f4.jpg",
+   "t": "No Lettuce",
+   "q": "Which vegetable does George not like?",
+   "a": "He does not like lettuce, so Granny looks for one he likes.",
+   "cn": "他不喜欢生菜，奶奶只好再找别的。",
+   "key": "lettuce · does not like"
+  },
+  {
+   "no": 5,
+   "time": "02:04",
+   "img": "/img/p01e34/f5.jpg",
+   "t": "A Lovely Salad",
+   "q": "What does Granny Pig think?",
+   "a": "She thinks George will like them in a lovely salad.",
+   "cn": "她觉得做成沙拉乔治就会喜欢。",
+   "key": "salad · vegetables"
+  },
+  {
+   "no": 6,
+   "time": "02:46",
+   "img": "/img/p01e34/f6.jpg",
+   "t": "Pizza for Lunch",
+   "q": "What did Granny Pig make?",
+   "a": "She made pizza for lunch, with salad to go with it.",
+   "cn": "她做了披萨当午餐，还配了沙拉。",
+   "key": "pizza · made"
+  },
+  {
+   "no": 7,
+   "time": "03:17",
+   "img": "/img/p01e34/f7.jpg",
+   "t": "Just Try a Little Bit",
+   "q": "What did they ask George to try?",
+   "a": "They asked him to try a little bit of tomato.",
+   "cn": "他们让他尝一点点西红柿。",
+   "key": "try · tomato"
+  },
+  {
+   "no": 8,
+   "time": "03:56",
+   "img": "/img/p01e34/f8.jpg",
+   "t": "George Is Eating!",
+   "q": "What is George eating now?",
+   "a": "He is eating the tomatoes, lettuce and cucumber at last.",
+   "cn": "他终于把西红柿、生菜和黄瓜都吃了。",
+   "key": "eating · cucumber"
+  },
+  {
+   "no": 9,
+   "time": "04:09",
+   "img": "/img/p01e34/f9.jpg",
+   "t": "Too Full",
+   "q": "Why does George stop eating?",
+   "a": "Because he is too full to eat any more vegetables.",
+   "cn": "因为他太饱了，一点蔬菜也吃不下了。",
+   "key": "too full · any more"
+  }
+ ],
+ "words": [
+  ["lunch", "午餐"],
+  ["vegetable", "蔬菜"],
+  ["garden", "菜园"],
+  ["tomato", "西红柿"],
+  ["lettuce", "生菜"],
+  ["cucumber", "黄瓜"],
+  ["salad", "沙拉"],
+  ["pizza", "披萨"],
+  ["grow", "种植"],
+  ["try", "尝一尝"],
+  ["yummy", "好吃的"],
+  ["full", "饱的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "lunch, garden, tomato, lettuce, salad, pizza",
+  "actions": "pick, wash, make, try, eat, like"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Lunch”.",
+ "ending": "In the end, George eats all his vegetables. My favourite part is ______."
+}

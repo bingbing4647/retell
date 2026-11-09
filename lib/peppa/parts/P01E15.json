@@ -1,0 +1,124 @@
+{
+ "id": "P01E15",
+ "season": 1,
+ "episode": 15,
+ "title": "Picnic",
+ "titleCn": "野餐",
+ "hook": "一家人去野餐，鸭子们闻着味就来了，最后连蛋糕都被抢走了。",
+ "cover": "/img/p01e15/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:25",
+   "img": "/img/p01e15/f1.jpg",
+   "t": "A Lovely Day",
+   "q": "What was the weather like?",
+   "a": "It was a lovely, bright and sunny day.",
+   "cn": "那天阳光明亮，天气很好。",
+   "key": "lovely · sunny"
+  },
+  {
+   "no": 2,
+   "time": "01:01",
+   "img": "/img/p01e15/f2.jpg",
+   "t": "Just the Spot",
+   "q": "What did Daddy Pig say?",
+   "a": "He said, “This looks like just the spot for our picnic!”",
+   "cn": "他说：“这地方正适合野餐！”",
+   "key": "spot · picnic"
+  },
+  {
+   "no": 3,
+   "time": "01:16",
+   "img": "/img/p01e15/f3.jpg",
+   "t": "Too Tired to Run",
+   "q": "What did Daddy Pig not want to do?",
+   "a": "He did not want to run around at all.",
+   "cn": "他一点也不想跑来跑去。",
+   "key": "run around · want"
+  },
+  {
+   "no": 4,
+   "time": "02:01",
+   "img": "/img/p01e15/f4.jpg",
+   "t": "Feed the Ducks",
+   "q": "What did Peppa ask Mummy?",
+   "a": "She asked, “Mummy, can we feed the ducks?”",
+   "cn": "她问：“妈妈，我们能喂鸭子吗？”",
+   "key": "feed · ducks"
+  },
+  {
+   "no": 5,
+   "time": "02:32",
+   "img": "/img/p01e15/f5.jpg",
+   "t": "More Food",
+   "q": "What did the ducks want?",
+   "a": "They wanted more food from the children.",
+   "cn": "鸭子们还想吃，一直要更多。",
+   "key": "more · food"
+  },
+  {
+   "no": 6,
+   "time": "02:52",
+   "img": "/img/p01e15/f6.jpg",
+   "t": "Any Cake Left",
+   "q": "What did Mummy Pig say about the cake?",
+   "a": "She said, “If there's any cake left, give it to the ducks.”",
+   "cn": "她说剩下的蛋糕可以给鸭子。",
+   "key": "cake · left"
+  },
+  {
+   "no": 7,
+   "time": "03:15",
+   "img": "/img/p01e15/f7.jpg",
+   "t": "Stay Still",
+   "q": "What did Daddy Pig tell Peppa?",
+   "a": "He said, “All you have to do is stay still!”",
+   "cn": "他说：“你只要站着不动就行！”",
+   "key": "stay still · only"
+  },
+  {
+   "no": 8,
+   "time": "04:00",
+   "img": "/img/p01e15/f8.jpg",
+   "t": "I Didn't Believe",
+   "q": "What did Mummy Pig say to Daddy?",
+   "a": "She said, “But I didn't believe you'd do it!”",
+   "cn": "她说：“我都没料到你真会这么做！”",
+   "key": "believe · do it"
+  },
+  {
+   "no": 9,
+   "time": "04:17",
+   "img": "/img/p01e15/f9.jpg",
+   "t": "Lucky Ducks",
+   "q": "What did the family say about the ducks?",
+   "a": "They said, “You are very lucky ducks.”",
+   "cn": "他们说：“你们真是幸运的鸭子。”",
+   "key": "lucky · ducks"
+  }
+ ],
+ "words": [
+  ["picnic", "野餐"],
+  ["spot", "地点"],
+  ["duck", "鸭子"],
+  ["feed", "喂"],
+  ["cake", "蛋糕"],
+  ["food", "食物"],
+  ["still", "不动的"],
+  ["lucky", "幸运的"],
+  ["sunny", "晴朗的"],
+  ["left", "剩下的"],
+  ["believe", "相信"],
+  ["tired", "累的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "picnic, duck, feed, cake, still, lucky",
+  "actions": "sit, eat, feed, swim, throw, laugh"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Picnic”.",
+ "ending": "In the end, the ducks get the last piece of cake. My favourite part is ______."
+}

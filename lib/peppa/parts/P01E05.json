@@ -1,0 +1,124 @@
+{
+ "id": "P01E05",
+ "season": 1,
+ "episode": 5,
+ "title": "Hide and Seek",
+ "titleCn": "捉迷藏",
+ "hook": "Peppa 和 George 在客厅玩捉迷藏，可 George 每次躲起来都会发出声音。",
+ "cover": "/img/p01e05/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:29",
+   "img": "/img/p01e05/f1.jpg",
+   "t": "Let's Play a Game",
+   "q": "What game were Peppa and George playing?",
+   "a": "They were playing hide and seek in the living room.",
+   "cn": "他们在客厅玩捉迷藏。",
+   "key": "hide and seek · living room"
+  },
+  {
+   "no": 2,
+   "time": "00:49",
+   "img": "/img/p01e05/f2.jpg",
+   "t": "George Hides First",
+   "q": "Where did George hide?",
+   "a": "He hid under the little table. Peppa counted to ten.",
+   "cn": "他躲在小桌子底下，Peppa 数到十。",
+   "key": "hide · under"
+  },
+  {
+   "no": 3,
+   "time": "01:10",
+   "img": "/img/p01e05/f3.jpg",
+   "t": "Peppa's Turn",
+   "q": "Whose turn was it to hide next?",
+   "a": "It was Peppa's turn to hide. George had to count.",
+   "cn": "轮到 Peppa 躲，George 来数数。",
+   "key": "turn · count"
+  },
+  {
+   "no": 4,
+   "time": "01:42",
+   "img": "/img/p01e05/f4.jpg",
+   "t": "Where Is Peppa",
+   "q": "What did George have to do?",
+   "a": "He had to find where Peppa was hiding.",
+   "cn": "他得找出 Peppa 躲在哪里。",
+   "key": "find · hiding"
+  },
+  {
+   "no": 5,
+   "time": "02:26",
+   "img": "/img/p01e05/f5.jpg",
+   "t": "That Strange Noise",
+   "q": "What did George hear?",
+   "a": "He heard that strange noise again and looked around.",
+   "cn": "他又听见那个奇怪的声音，四处张望。",
+   "key": "strange · noise"
+  },
+  {
+   "no": 6,
+   "time": "02:49",
+   "img": "/img/p01e05/f6.jpg",
+   "t": "Another Turn",
+   "q": "What did Daddy Pig think?",
+   "a": "He thought George should have another turn.",
+   "cn": "他觉得应该让 George 再来一次。",
+   "key": "another · turn"
+  },
+  {
+   "no": 7,
+   "time": "03:33",
+   "img": "/img/p01e05/f7.jpg",
+   "t": "Look Upstairs",
+   "q": "What did Daddy Pig tell George?",
+   "a": "He asked, “Have you thought of looking upstairs?”",
+   "cn": "他问：“有没有想过去楼上找找？”",
+   "key": "upstairs · look"
+  },
+  {
+   "no": 8,
+   "time": "03:48",
+   "img": "/img/p01e05/f8.jpg",
+   "t": "Not in the Basket",
+   "q": "Was Peppa in the toy basket?",
+   "a": "No, she was not in the toy basket.",
+   "cn": "不在，玩具篮里没有她。",
+   "key": "basket · not"
+  },
+  {
+   "no": 9,
+   "time": "04:28",
+   "img": "/img/p01e05/f9.jpg",
+   "t": "A Good Place",
+   "q": "What did Daddy Pig say at the end?",
+   "a": "He laughed and said, “That was a good place to hide!”",
+   "cn": "他笑着说：“那真是个好地方！”",
+   "key": "good · hide"
+  }
+ ],
+ "words": [
+  ["hide", "躲藏"],
+  ["seek", "寻找"],
+  ["turn", "轮次"],
+  ["count", "数数"],
+  ["under", "在……下面"],
+  ["upstairs", "楼上"],
+  ["basket", "篮子"],
+  ["noise", "声音"],
+  ["strange", "奇怪的"],
+  ["find", "找到"],
+  ["place", "地方"],
+  ["another", "另一个"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "hide, seek, turn, count, upstairs, basket",
+  "actions": "hide, count, look, find, laugh, ask"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Hide and Seek”.",
+ "ending": "In the end, Peppa hides in a very good place. My favourite part is ______."
+}

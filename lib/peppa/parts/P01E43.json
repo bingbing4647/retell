@@ -1,0 +1,124 @@
+{
+ "id": "P01E43",
+ "season": 1,
+ "episode": 43,
+ "title": "Tidying Up",
+ "titleCn": "收拾房间",
+ "hook": "房间乱得下不去脚，全家人比赛谁先收拾好，收着收着又玩起了恐龙。",
+ "cover": "/img/p01e43/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:23",
+   "img": "/img/p01e43/f1.jpg",
+   "t": "Playing with Toys",
+   "q": "What are the children doing?",
+   "a": "They are in their bedroom playing with their toys.",
+   "cn": "他们在卧室里玩玩具。",
+   "key": "bedroom · toys"
+  },
+  {
+   "no": 2,
+   "time": "00:54",
+   "img": "/img/p01e43/f2.jpg",
+   "t": "Reading Her Book",
+   "q": "What is Mummy Pig doing?",
+   "a": "She is sitting down and reading her book.",
+   "cn": "她坐下来看书。",
+   "key": "reading · book"
+  },
+  {
+   "no": 3,
+   "time": "01:20",
+   "img": "/img/p01e43/f3.jpg",
+   "t": "What Is Going On?",
+   "q": "What did Mummy Pig ask?",
+   "a": "She asked what on earth is going on upstairs.",
+   "cn": "她问楼上到底在闹什么。",
+   "key": "what on earth · going on"
+  },
+  {
+   "no": 4,
+   "time": "01:42",
+   "img": "/img/p01e43/f4.jpg",
+   "t": "Tidy Up First",
+   "q": "When can they play again?",
+   "a": "They can play again when they have tidied up.",
+   "cn": "他们收拾好了才能再玩。",
+   "key": "play again · tidied up"
+  },
+  {
+   "no": 5,
+   "time": "02:08",
+   "img": "/img/p01e43/f5.jpg",
+   "t": "Who Can Tidy First?",
+   "q": "What game did they decide to play?",
+   "a": "They decided to see who can tidy up first.",
+   "cn": "他们决定比一比谁先收拾完。",
+   "key": "tidy up · first"
+  },
+  {
+   "no": 6,
+   "time": "02:56",
+   "img": "/img/p01e43/f6.jpg",
+   "t": "A Tyrannosaurus Rex",
+   "q": "What toy did Daddy Pig find?",
+   "a": "He found a toy tyrannosaurus rex in the mess.",
+   "cn": "他在乱堆里发现一只霸王龙玩具。",
+   "key": "tyrannosaurus rex · found"
+  },
+  {
+   "no": 7,
+   "time": "03:41",
+   "img": "/img/p01e43/f7.jpg",
+   "t": "We Are Going to Win",
+   "q": "What did Peppa say?",
+   "a": "She said she and Mummy are going to win.",
+   "cn": "她说她和妈妈一定会赢。",
+   "key": "win · going to"
+  },
+  {
+   "no": 8,
+   "time": "03:55",
+   "img": "/img/p01e43/f8.jpg",
+   "t": "We All Win",
+   "q": "Who wins the tidying game?",
+   "a": "Everyone wins, because the room is tidy at last.",
+   "cn": "大家都赢了，因为房间终于收拾干净了。",
+   "key": "tidy · win"
+  },
+  {
+   "no": 9,
+   "time": "04:34",
+   "img": "/img/p01e43/f9.jpg",
+   "t": "Untidy Again",
+   "q": "What happened to the room at the end?",
+   "a": "They played again, so the room is untidy again.",
+   "cn": "他们又玩起来，房间又乱了。",
+   "key": "untidy · again"
+  }
+ ],
+ "words": [
+  ["tidy", "收拾"],
+  ["untidy", "乱的"],
+  ["bedroom", "卧室"],
+  ["toy", "玩具"],
+  ["bookshelf", "书架"],
+  ["dinosaur", "恐龙"],
+  ["mess", "乱糟糟"],
+  ["newspaper", "报纸"],
+  ["win", "赢"],
+  ["again", "再一次"],
+  ["noise", "噪音"],
+  ["help", "帮忙"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "tidy, bedroom, toys, mess, dinosaur, win",
+  "actions": "play, tidy, put back, find, help, win"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Tidying Up”.",
+ "ending": "In the end, the room is untidy again. My favourite part is ______."
+}

@@ -1,0 +1,160 @@
+{
+ "id": "P01E03",
+ "season": 1,
+ "episode": 3,
+ "title": "Best Friend",
+ "titleCn": "最好的朋友",
+ "hook": "好朋友 Suzy 来家里玩，George 想加入却被赶出去，最后他成了游戏里最重要的病人。",
+ "cover": "/img/p01e03/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:28",
+   "img": "/img/p01e03/f1.jpg",
+   "t": "Waiting for Suzy",
+   "q": "Who was Peppa waiting for?",
+   "a": "She was waiting for her best friend, Suzy Sheep.",
+   "cn": "她在等最好的朋友小羊 Suzy。",
+   "key": "wait for · best friend"
+  },
+  {
+   "no": 2,
+   "time": "00:46",
+   "img": "/img/p01e03/f2.jpg",
+   "t": "Best Friends",
+   "q": "Were they best friends?",
+   "a": "Yes. Peppa loved Suzy, and Suzy loved Peppa.",
+   "cn": "是的，她们互相喜欢。",
+   "key": "best friends · love"
+  },
+  {
+   "no": 3,
+   "time": "00:58",
+   "img": "/img/p01e03/f3.jpg",
+   "t": "Go and Play",
+   "q": "What did Mummy say?",
+   "a": "She said, “Go and play in your bedroom.”",
+   "cn": "妈妈说：“去卧室里玩吧。”",
+   "key": "say · bedroom"
+  },
+  {
+   "no": 4,
+   "time": "01:24",
+   "img": "/img/p01e03/f4.jpg",
+   "t": "Just for Big Girls",
+   "q": "Did Peppa let George play?",
+   "a": "No. She said the game was just for big girls.",
+   "cn": "没有。她说这个游戏只有大女孩能玩。",
+   "key": "let · big girls"
+  },
+  {
+   "no": 5,
+   "time": "01:47",
+   "img": "/img/p01e03/f5.jpg",
+   "t": "A Fairy Princess",
+   "q": "What did Peppa pretend to be?",
+   "a": "She pretended to be a fairy princess.",
+   "cn": "她假装自己是仙女公主。",
+   "key": "pretend · fairy princess"
+  },
+  {
+   "no": 6,
+   "time": "02:14",
+   "img": "/img/p01e03/f6.jpg",
+   "t": "A Bit Lonely",
+   "q": "How did George feel?",
+   "a": "He felt a bit lonely.",
+   "cn": "他觉得有点孤单。",
+   "key": "feel · lonely"
+  },
+  {
+   "no": 7,
+   "time": "02:18",
+   "img": "/img/p01e03/f7.jpg",
+   "t": "Making Cookies",
+   "q": "What was Mummy making?",
+   "a": "She was making chocolate chip cookies.",
+   "cn": "她在做巧克力豆饼干。",
+   "key": "make · cookies"
+  },
+  {
+   "no": 8,
+   "time": "02:57",
+   "img": "/img/p01e03/f8.jpg",
+   "t": "Doctors and Nurses",
+   "q": "What game did they play?",
+   "a": "They played doctors and nurses with George.",
+   "cn": "他们拉着 George 玩医生和护士。",
+   "key": "play · doctors and nurses"
+  },
+  {
+   "no": 9,
+   "time": "04:20",
+   "img": "/img/p01e03/f9.jpg",
+   "t": "Cookies for Everyone",
+   "q": "What did Daddy want?",
+   "a": "He had a sore tummy, so he wanted cookies.",
+   "cn": "他肚子疼，所以也想吃饼干。",
+   "key": "sore tummy · cookies"
+  }
+ ],
+ "words": [
+  [
+   "best friend",
+   "最好的朋友"
+  ],
+  [
+   "sheep",
+   "绵羊"
+  ],
+  [
+   "wait",
+   "等待"
+  ],
+  [
+   "bedroom",
+   "卧室"
+  ],
+  [
+   "fairy",
+   "仙女"
+  ],
+  [
+   "magic wand",
+   "魔杖"
+  ],
+  [
+   "lonely",
+   "孤单的"
+  ],
+  [
+   "cookie",
+   "饼干"
+  ],
+  [
+   "doctor",
+   "医生"
+  ],
+  [
+   "nurse",
+   "护士"
+  ],
+  [
+   "patient",
+   "病人"
+  ],
+  [
+   "medicine",
+   "药"
+  ]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "best friend, sheep, bedroom, fairy, cookie, doctor",
+  "actions": "play, wave, help, pretend, share, eat"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Best Friend”.",
+ "ending": "In the end, the whole family eats cookies together. My favourite part is ______."
+}

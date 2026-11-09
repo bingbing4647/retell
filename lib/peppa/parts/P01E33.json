@@ -1,0 +1,124 @@
+{
+ "id": "P01E33",
+ "season": 1,
+ "episode": 33,
+ "title": "Cleaning the Car",
+ "titleCn": "洗车",
+ "hook": "一家人出门前先洗车，分工擦洗，结果用水管玩水，全家人和刚洗好的车又都脏了。",
+ "cover": "/img/p01e33/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:26",
+   "img": "/img/p01e33/f1.jpg",
+   "t": "A Drive in the Country",
+   "q": "Where is Daddy Pig taking the family?",
+   "a": "He is taking them for a drive in the country.",
+   "cn": "他要带全家去乡下兜风。",
+   "key": "drive · country"
+  },
+  {
+   "no": 2,
+   "time": "00:44",
+   "img": "/img/p01e33/f2.jpg",
+   "t": "How Messy!",
+   "q": "What did Mummy Pig say about the car?",
+   "a": "She said it is very messy inside the car.",
+   "cn": "她说车里太乱了。",
+   "key": "messy · inside"
+  },
+  {
+   "no": 3,
+   "time": "01:09",
+   "img": "/img/p01e33/f3.jpg",
+   "t": "Clean It First",
+   "q": "What must they do before the drive?",
+   "a": "They must clean the car before they go.",
+   "cn": "出发前他们必须先把车洗干净。",
+   "key": "clean · before"
+  },
+  {
+   "no": 4,
+   "time": "01:29",
+   "img": "/img/p01e33/f4.jpg",
+   "t": "Wash the Roof",
+   "q": "What is everyone washing?",
+   "a": "Daddy washes the roof, Mummy the bonnet, Peppa the doors.",
+   "cn": "爸爸洗车顶，妈妈洗车头盖，佩奇洗车门。",
+   "key": "washing · roof"
+  },
+  {
+   "no": 5,
+   "time": "02:18",
+   "img": "/img/p01e33/f5.jpg",
+   "t": "Muddy Water",
+   "q": "What did Peppa do with the muddy water?",
+   "a": "She threw the muddy water all over the car.",
+   "cn": "她把泥水泼得满车都是。",
+   "key": "muddy water · all over"
+  },
+  {
+   "no": 6,
+   "time": "03:12",
+   "img": "/img/p01e33/f6.jpg",
+   "t": "Everyone Is Wet",
+   "q": "Why is everyone wet?",
+   "a": "Because the garden hose splashed water on all of them.",
+   "cn": "因为花园的水管把水喷到了每个人身上。",
+   "key": "wet · hose"
+  },
+  {
+   "no": 7,
+   "time": "03:35",
+   "img": "/img/p01e33/f7.jpg",
+   "t": "Polishing the Car",
+   "q": "What is Daddy Pig doing to the car?",
+   "a": "He is polishing it so well he can see his face.",
+   "cn": "他把车擦得很亮，都能照见自己的脸。",
+   "key": "polishing · face"
+  },
+  {
+   "no": 8,
+   "time": "03:52",
+   "img": "/img/p01e33/f8.jpg",
+   "t": "A Shiny Car",
+   "q": "How does the car look now?",
+   "a": "It looks lovely and shiny after all their hard work.",
+   "cn": "大家辛苦一阵，车子又亮又好看。",
+   "key": "shiny · lovely"
+  },
+  {
+   "no": 9,
+   "time": "04:14",
+   "img": "/img/p01e33/f9.jpg",
+   "t": "Keep It Clean",
+   "q": "What did Mummy Pig hope?",
+   "a": "She hoped they would all keep the car clean that day.",
+   "cn": "她希望今天大家都能让车保持干净。",
+   "key": "keep clean · hope"
+  }
+ ],
+ "words": [
+  ["messy", "乱的"],
+  ["rubbish", "垃圾"],
+  ["clean", "打扫"],
+  ["wash", "洗"],
+  ["roof", "车顶"],
+  ["bonnet", "车头盖"],
+  ["hose", "水管"],
+  ["wet", "湿的"],
+  ["polish", "擦亮"],
+  ["shiny", "闪亮的"],
+  ["muddy", "泥泞的"],
+  ["country", "乡下"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "car, messy, wash, roof, hose, shiny",
+  "actions": "clean, wash, throw, turn on, polish, keep"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Cleaning the Car”.",
+ "ending": "In the end, the car is nice and shiny again. My favourite part is ______."
+}

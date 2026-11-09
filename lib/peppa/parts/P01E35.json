@@ -1,0 +1,124 @@
+{
+ "id": "P01E35",
+ "season": 1,
+ "episode": 35,
+ "title": "Camping",
+ "titleCn": "露营",
+ "hook": "一家人去露营，帐篷太小装不下猪爸爸，他只好睡在帐篷外的星空下。",
+ "cover": "/img/p01e35/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:18",
+   "img": "/img/p01e35/f1.jpg",
+   "t": "Going Camping",
+   "q": "What is the family doing today?",
+   "a": "They are going camping out in the countryside.",
+   "cn": "他们今天要去乡下露营。",
+   "key": "camping · family"
+  },
+  {
+   "no": 2,
+   "time": "01:02",
+   "img": "/img/p01e35/f2.jpg",
+   "t": "A Bit Little",
+   "q": "What did they say about the tent?",
+   "a": "They said the tent is a bit little for all of them.",
+   "cn": "他们说这顶帐篷全家住有点小。",
+   "key": "tent · little"
+  },
+  {
+   "no": 3,
+   "time": "01:23",
+   "img": "/img/p01e35/f3.jpg",
+   "t": "Collect Sticks",
+   "q": "What must they do first?",
+   "a": "First they have to collect sticks to make a fire.",
+   "cn": "首先他们得捡树枝生火。",
+   "key": "collect · sticks"
+  },
+  {
+   "no": 4,
+   "time": "01:55",
+   "img": "/img/p01e35/f4.jpg",
+   "t": "Without Matches",
+   "q": "What did Peppa ask Daddy Pig?",
+   "a": "She asked how he can light the fire without matches.",
+   "cn": "她问没有火柴他怎么点火。",
+   "key": "light · matches"
+  },
+  {
+   "no": 5,
+   "time": "02:20",
+   "img": "/img/p01e35/f5.jpg",
+   "t": "Heat Up the Soup",
+   "q": "What can they do now?",
+   "a": "Now they can heat up the tomato soup on the fire.",
+   "cn": "现在他们可以在火上热番茄汤了。",
+   "key": "heat up · soup"
+  },
+  {
+   "no": 6,
+   "time": "02:52",
+   "img": "/img/p01e35/f6.jpg",
+   "t": "Sounds of Nature",
+   "q": "What sound did Daddy Pig say is nice?",
+   "a": "He said his tummy rumbling is a sound of nature.",
+   "cn": "他说自己肚子咕咕叫也是大自然的声音。",
+   "key": "tummy · rumbling"
+  },
+  {
+   "no": 7,
+   "time": "03:18",
+   "img": "/img/p01e35/f7.jpg",
+   "t": "In You Go!",
+   "q": "What did Daddy Pig say about the little tent?",
+   "a": "He said, “It will be fine! In you go!”",
+   "cn": "他说：“没问题的！你进去吧！”",
+   "key": "fine · in you go"
+  },
+  {
+   "no": 8,
+   "time": "04:01",
+   "img": "/img/p01e35/f8.jpg",
+   "t": "Lovely and Cozy",
+   "q": "How was the tent at night?",
+   "a": "It was lovely and cozy for Mummy and the children.",
+   "cn": "妈妈和孩子在帐篷里又暖又舒服。",
+   "key": "cozy · tent"
+  },
+  {
+   "no": 9,
+   "time": "04:32",
+   "img": "/img/p01e35/f9.jpg",
+   "t": "An Expert at Camping",
+   "q": "Where did Daddy Pig sleep?",
+   "a": "He slept in the car, but he says he is an expert.",
+   "cn": "他睡在车里，却说自己可是露营高手。",
+   "key": "expert · slept"
+  }
+ ],
+ "words": [
+  ["camping", "露营"],
+  ["tent", "帐篷"],
+  ["collect", "收集"],
+  ["stick", "树枝"],
+  ["campfire", "篝火"],
+  ["matches", "火柴"],
+  ["heat", "加热"],
+  ["soup", "汤"],
+  ["rumbling", "咕咕叫"],
+  ["cozy", "舒服的"],
+  ["stars", "星星"],
+  ["expert", "高手"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "camping, tent, sticks, campfire, soup, cozy",
+  "actions": "go, collect, light, heat, sleep, snore"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Camping”.",
+ "ending": "In the end, Daddy Pig sleeps in the car. My favourite part is ______."
+}

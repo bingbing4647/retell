@@ -1,0 +1,124 @@
+{
+ "id": "P01E32",
+ "season": 1,
+ "episode": 32,
+ "title": "Thunderstorm",
+ "titleCn": "雷阵雨",
+ "hook": "晴天野餐时突然打雷下雨，屋顶漏水，猪爸爸拿桶接水，雨停后花园全是泥坑。",
+ "cover": "/img/p01e32/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:23",
+   "img": "/img/p01e32/f1.jpg",
+   "t": "A Sunny Day",
+   "q": "What is the weather like at the start?",
+   "a": "It is a lovely, sunny day for a picnic.",
+   "cn": "一开始是晴朗的好天气，正适合野餐。",
+   "key": "sunny · day"
+  },
+  {
+   "no": 2,
+   "time": "00:45",
+   "img": "/img/p01e32/f2.jpg",
+   "t": "You Are Very Welcome",
+   "q": "What are Peppa and George playing?",
+   "a": "They are having a picnic with Teddy and Mr. Dinosaur.",
+   "cn": "他们在和泰迪、恐龙先生一起野餐。",
+   "key": "picnic · Mr. Dinosaur"
+  },
+  {
+   "no": 3,
+   "time": "01:15",
+   "img": "/img/p01e32/f3.jpg",
+   "t": "A Loud Bang",
+   "q": "What did Peppa hear?",
+   "a": "She heard a loud bang sound in the sky.",
+   "cn": "她听到天上“砰”的一声巨响。",
+   "key": "loud bang · heard"
+  },
+  {
+   "no": 4,
+   "time": "01:47",
+   "img": "/img/p01e32/f4.jpg",
+   "t": "Safe and Dry",
+   "q": "What did Daddy Pig rescue from the garden?",
+   "a": "He rescued Teddy and Mr. Dinosaur from the rain.",
+   "cn": "他把泰迪和恐龙先生从雨里救了回来。",
+   "key": "safe · rescue"
+  },
+  {
+   "no": 5,
+   "time": "02:33",
+   "img": "/img/p01e32/f5.jpg",
+   "t": "There You Are, Teddy!",
+   "q": "What did Daddy Pig say about Teddy?",
+   "a": "He said, “There you are, Teddy! All dry!”",
+   "cn": "他说：“你在这儿呀，泰迪！一点都没湿！”",
+   "key": "dry · Teddy"
+  },
+  {
+   "no": 6,
+   "time": "02:49",
+   "img": "/img/p01e32/f6.jpg",
+   "t": "Rain in the House",
+   "q": "What happened to the house?",
+   "a": "The rain came into the house and the floor got wet.",
+   "cn": "雨漏进了屋里，地板都湿了。",
+   "key": "rain · house"
+  },
+  {
+   "no": 7,
+   "time": "03:11",
+   "img": "/img/p01e32/f7.jpg",
+   "t": "Using a Bucket",
+   "q": "What is Daddy Pig doing with the bucket?",
+   "a": "He is using a bucket to catch the drips from the roof.",
+   "cn": "他用桶接屋顶滴下来的水。",
+   "key": "bucket · drips"
+  },
+  {
+   "no": 8,
+   "time": "03:46",
+   "img": "/img/p01e32/f8.jpg",
+   "t": "Count After the Bang",
+   "q": "How can they tell the storm is far away?",
+   "a": "The higher they can count, the further away the storm is.",
+   "cn": "数得越高，说明雷雨离得越远。",
+   "key": "count · further"
+  },
+  {
+   "no": 9,
+   "time": "04:20",
+   "img": "/img/p01e32/f9.jpg",
+   "t": "Muddy Puddles",
+   "q": "What did the thunderstorm leave in the garden?",
+   "a": "It filled the garden with muddy puddles to jump in.",
+   "cn": "它让花园里积满了可以跳的泥坑。",
+   "key": "muddy puddles · garden"
+  }
+ ],
+ "words": [
+  ["thunderstorm", "雷雨"],
+  ["sunny", "晴朗的"],
+  ["picnic", "野餐"],
+  ["cookie", "饼干"],
+  ["bang", "砰的一声"],
+  ["dark", "暗的"],
+  ["thunder", "雷"],
+  ["bucket", "桶"],
+  ["drip", "水滴"],
+  ["count", "数数"],
+  ["puddle", "水坑"],
+  ["muddy", "泥泞的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "sunny, picnic, bang, rain, bucket, puddle",
+  "actions": "eat, hear, rescue, catch, count, jump"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Thunderstorm”.",
+ "ending": "In the end, the garden is full of muddy puddles. My favourite part is ______."
+}

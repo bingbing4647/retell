@@ -1,0 +1,124 @@
+{
+ "id": "P01E47",
+ "season": 1,
+ "episode": 47,
+ "title": "Mister Skinnylegs",
+ "titleCn": "瘦腿先生",
+ "hook": "乔治在水槽里发现一只蜘蛛，把它当成娃娃放到床上，还请它喝下午茶。",
+ "cover": "/img/p01e47/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:23",
+   "img": "/img/p01e47/f1.jpg",
+   "t": "The Doll's House",
+   "q": "What is Peppa playing with?",
+   "a": "She is playing with her doll's house, and George joins in.",
+   "cn": "她在玩娃娃屋，乔治也一起玩。",
+   "key": "doll's house · playing"
+  },
+  {
+   "no": 2,
+   "time": "01:14",
+   "img": "/img/p01e47/f2.jpg",
+   "t": "Fill the Teapot",
+   "q": "What did Peppa ask George to do?",
+   "a": "She asked him to fill the teapot with water.",
+   "cn": "她让他把茶壶装满水。",
+   "key": "teapot · fill"
+  },
+  {
+   "no": 3,
+   "time": "01:34",
+   "img": "/img/p01e47/f3.jpg",
+   "t": "A Spider in the Sink",
+   "q": "What did George find?",
+   "a": "He found a spider in the kitchen sink.",
+   "cn": "他在厨房水槽里发现一只蜘蛛。",
+   "key": "spider · sink"
+  },
+  {
+   "no": 4,
+   "time": "02:14",
+   "img": "/img/p01e47/f4.jpg",
+   "t": "Putting the Spider to Bed",
+   "q": "What is George doing with the spider?",
+   "a": "He is putting the spider to bed in the doll's house.",
+   "cn": "他正把蜘蛛放到娃娃屋里睡觉。",
+   "key": "putting to bed · spider"
+  },
+  {
+   "no": 5,
+   "time": "02:42",
+   "img": "/img/p01e47/f5.jpg",
+   "t": "Have You Seen the Spider?",
+   "q": "What did Peppa ask George?",
+   "a": "She asked him if he has seen the spider.",
+   "cn": "她问他有没有看见那只蜘蛛。",
+   "key": "seen · spider"
+  },
+  {
+   "no": 6,
+   "time": "03:22",
+   "img": "/img/p01e47/f6.jpg",
+   "t": "Out of the Bedroom",
+   "q": "What did Daddy Pig say?",
+   "a": "He said he will take the spider out of the bedroom.",
+   "cn": "他说会把蜘蛛拿出卧室。",
+   "key": "take out · bedroom"
+  },
+  {
+   "no": 7,
+   "time": "03:35",
+   "img": "/img/p01e47/f7.jpg",
+   "t": "They Like the Spider",
+   "q": "Do the children mind the spider?",
+   "a": "No, Peppa and George like the spider very much.",
+   "cn": "不，佩奇和乔治都很喜欢这只蜘蛛。",
+   "key": "like · spider"
+  },
+  {
+   "no": 8,
+   "time": "03:58",
+   "img": "/img/p01e47/f8.jpg",
+   "t": "Mr. Skinnylegs",
+   "q": "What is the spider's name?",
+   "a": "His name is Mr. Skinnylegs, and they have tea with him.",
+   "cn": "他叫“瘦腿先生”，他们还和它一起喝茶。",
+   "key": "Mr. Skinnylegs · tea"
+  },
+  {
+   "no": 9,
+   "time": "04:27",
+   "img": "/img/p01e47/f9.jpg",
+   "t": "You're Not Scared?",
+   "q": "Who is scared of the spider?",
+   "a": "Daddy Pig is scared, but he says he is not.",
+   "cn": "猪爸爸其实很怕，可他说自己不怕。",
+   "key": "scared · Daddy"
+  }
+ ],
+ "words": [
+  ["doll", "洋娃娃"],
+  ["teapot", "茶壶"],
+  ["spider", "蜘蛛"],
+  ["sink", "水槽"],
+  ["biscuit", "饼干"],
+  ["bedroom", "卧室"],
+  ["scared", "害怕的"],
+  ["tea party", "茶会"],
+  ["leg", "腿"],
+  ["tiny", "微小的"],
+  ["name", "名字"],
+  ["brave", "勇敢的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "doll, teapot, spider, sink, scared, tea",
+  "actions": "play, fill, find, put to bed, take out, drink"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Mister Skinnylegs”.",
+ "ending": "In the end, Daddy Pig is the one who is scared. My favourite part is ______."
+}

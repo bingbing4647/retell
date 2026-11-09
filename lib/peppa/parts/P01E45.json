@@ -1,0 +1,124 @@
+{
+ "id": "P01E45",
+ "season": 1,
+ "episode": 45,
+ "title": "Daddy Puts Up a Picture",
+ "titleCn": "爸爸挂画",
+ "hook": "猪爸爸自己挂画，一锤子把墙敲出大裂缝，只好补墙刷漆，还弄了一屋子灰。",
+ "cover": "/img/p01e45/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:25",
+   "img": "/img/p01e45/f1.jpg",
+   "t": "A New Picture",
+   "q": "What do Mummy and Daddy Pig have?",
+   "a": "They have a new picture of Peppa and George to put up.",
+   "cn": "他们有一张佩奇和乔治的新画要挂起来。",
+   "key": "new picture · Peppa"
+  },
+  {
+   "no": 2,
+   "time": "01:00",
+   "img": "/img/p01e45/f2.jpg",
+   "t": "Can We Help?",
+   "q": "What did the children ask?",
+   "a": "They asked if they can help put up the picture.",
+   "cn": "他们问能不能帮忙挂画。",
+   "key": "help · put up"
+  },
+  {
+   "no": 3,
+   "time": "01:32",
+   "img": "/img/p01e45/f3.jpg",
+   "t": "Knock the Nail In",
+   "q": "What is Daddy Pig going to do?",
+   "a": "He is going to knock a nail into the wall.",
+   "cn": "他要把钉子敲进墙里。",
+   "key": "nail · wall"
+  },
+  {
+   "no": 4,
+   "time": "02:01",
+   "img": "/img/p01e45/f4.jpg",
+   "t": "I Can See the Crack",
+   "q": "What did Peppa say about the wall?",
+   "a": "She said, “I can still see the crack, Daddy.”",
+   "cn": "她说：“爸爸，我还看得见那条裂缝。”",
+   "key": "crack · see"
+  },
+  {
+   "no": 5,
+   "time": "02:25",
+   "img": "/img/p01e45/f5.jpg",
+   "t": "Will Mummy Notice?",
+   "q": "What did Daddy Pig worry about?",
+   "a": "He worried that Mummy Pig will notice the crack.",
+   "cn": "他担心猪妈妈会发现墙上的裂缝。",
+   "key": "notice · Mummy"
+  },
+  {
+   "no": 6,
+   "time": "02:51",
+   "img": "/img/p01e45/f6.jpg",
+   "t": "Mend the Wall",
+   "q": "How does Daddy Pig mend the wall?",
+   "a": "First he fills the hole with bricks, then plaster and paint.",
+   "cn": "他先拿砖填洞，再抹灰、刷漆。",
+   "key": "bricks · mend"
+  },
+  {
+   "no": 7,
+   "time": "03:31",
+   "img": "/img/p01e45/f7.jpg",
+   "t": "What a Mess",
+   "q": "What did Peppa and George see?",
+   "a": "There is a big mess on the floor and the walls.",
+   "cn": "地上和墙上弄得一团糟。",
+   "key": "mess · floor"
+  },
+  {
+   "no": 8,
+   "time": "03:55",
+   "img": "/img/p01e45/f8.jpg",
+   "t": "Pretend Nothing Happened",
+   "q": "What did Daddy Pig tell the children?",
+   "a": "He told them to pretend nothing has happened.",
+   "cn": "他让孩子们假装什么都没发生。",
+   "key": "pretend · happened"
+  },
+  {
+   "no": 9,
+   "time": "04:12",
+   "img": "/img/p01e45/f9.jpg",
+   "t": "Put the Picture Up",
+   "q": "What did Mummy Pig say?",
+   "a": "She said she thought they were going to put the picture up.",
+   "cn": "她说她还以为他们要把画挂上去呢。",
+   "key": "picture up · thought"
+  }
+ ],
+ "words": [
+  ["picture", "图画"],
+  ["nail", "钉子"],
+  ["hammer", "锤子"],
+  ["wall", "墙"],
+  ["crack", "裂缝"],
+  ["hole", "洞"],
+  ["brick", "砖头"],
+  ["plaster", "灰泥"],
+  ["paint", "刷漆"],
+  ["mess", "乱糟糟"],
+  ["pretend", "假装"],
+  ["properly", "正确地"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "picture, nail, wall, crack, hole, mess",
+  "actions": "put up, knock, mend, fill, paint, clean"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Daddy Puts Up a Picture”.",
+ "ending": "In the end, the picture is still not on the wall. My favourite part is ______."
+}

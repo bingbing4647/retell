@@ -1,0 +1,124 @@
+{
+ "id": "P01E29",
+ "season": 1,
+ "episode": 29,
+ "title": "Pancakes",
+ "titleCn": "薄饼",
+ "hook": "今天是做薄饼的日子，猪爸爸自称翻饼高手，结果把饼翻到了天花板上。",
+ "cover": "/img/p01e29/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:26",
+   "img": "/img/p01e29/f1.jpg",
+   "t": "A Surprise",
+   "q": "What is Mummy Pig's surprise?",
+   "a": "She says today is a day for pancakes!",
+   "cn": "她说今天要做薄饼！",
+   "key": "surprise · pancakes"
+  },
+  {
+   "no": 2,
+   "time": "00:45",
+   "img": "/img/p01e29/f2.jpg",
+   "t": "Are You Sure?",
+   "q": "What did Mummy Pig ask Daddy Pig?",
+   "a": "She asked him, “Are you sure, Daddy Pig?”",
+   "cn": "她问他：“你确定吗，猪爸爸？”",
+   "key": "sure · Mummy"
+  },
+  {
+   "no": 3,
+   "time": "01:10",
+   "img": "/img/p01e29/f3.jpg",
+   "t": "Add an Egg",
+   "q": "What did Mummy Pig put in the bowl?",
+   "a": "She added an egg and then gave it all a stir.",
+   "cn": "她加了一个鸡蛋，然后把面糊搅匀。",
+   "key": "egg · stir"
+  },
+  {
+   "no": 4,
+   "time": "01:52",
+   "img": "/img/p01e29/f4.jpg",
+   "t": "Flip It Over",
+   "q": "What is Mummy Pig going to do?",
+   "a": "She is going to flip the pancake over.",
+   "cn": "她要把薄饼翻个面。",
+   "key": "flip · pancake"
+  },
+  {
+   "no": 5,
+   "time": "02:16",
+   "img": "/img/p01e29/f5.jpg",
+   "t": "This One Is for Peppa",
+   "q": "Who is the first pancake for?",
+   "a": "The first pancake is for Peppa, with syrup on it.",
+   "cn": "第一张薄饼给佩奇，上面还浇了糖浆。",
+   "key": "pancake · Peppa"
+  },
+  {
+   "no": 6,
+   "time": "02:40",
+   "img": "/img/p01e29/f6.jpg",
+   "t": "For Mummy Pig",
+   "q": "Who is this pancake for?",
+   "a": "It is for Mummy Pig, and Daddy Pig's is next.",
+   "cn": "这张给猪妈妈，下一张就是猪爸爸的。",
+   "key": "Mummy Pig · next"
+  },
+  {
+   "no": 7,
+   "time": "03:22",
+   "img": "/img/p01e29/f7.jpg",
+   "t": "A Bit Too High",
+   "q": "What happened to Daddy Pig's pancake?",
+   "a": "He flipped it a bit too high and it did not come down.",
+   "cn": "他翻得太高，饼就没掉下来。",
+   "key": "too high · pancake"
+  },
+  {
+   "no": 8,
+   "time": "03:47",
+   "img": "/img/p01e29/f8.jpg",
+   "t": "Jump Up and Down",
+   "q": "How do they get the pancake down?",
+   "a": "They all have to jump up and down until it falls.",
+   "cn": "大家得一起跳，把它震下来。",
+   "key": "jump · down"
+  },
+  {
+   "no": 9,
+   "time": "04:13",
+   "img": "/img/p01e29/f9.jpg",
+   "t": "On His Head",
+   "q": "Where did Daddy Pig's pancake land?",
+   "a": "It landed on his head, so now he has his pancake.",
+   "cn": "饼正好落在他头上，他终于拿到自己的饼了。",
+   "key": "head · pancake"
+  }
+ ],
+ "words": [
+  ["pancake", "薄饼"],
+  ["surprise", "惊喜"],
+  ["expert", "高手"],
+  ["flip", "翻面"],
+  ["frying pan", "平底锅"],
+  ["egg", "鸡蛋"],
+  ["stir", "搅拌"],
+  ["syrup", "糖浆"],
+  ["high", "高的"],
+  ["jump", "跳"],
+  ["catch", "接住"],
+  ["delicious", "好吃的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "pancake, egg, stir, flip, syrup, high",
+  "actions": "make, add, stir, flip, jump, catch"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Pancakes”.",
+ "ending": "In the end, the pancake lands on Daddy Pig's head. My favourite part is ______."
+}

@@ -1,0 +1,124 @@
+{
+ "id": "P01E27",
+ "season": 1,
+ "episode": 27,
+ "title": "Windy Castle",
+ "titleCn": "风之城堡",
+ "hook": "一家人开车去风之城堡，路上玩起了“我看见”，猪爸爸却不认路，最后靠打电话问路才到。",
+ "cover": "/img/p01e27/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:21",
+   "img": "/img/p01e27/f1.jpg",
+   "t": "Out for the Day",
+   "q": "Where is the family going today?",
+   "a": "They are going out for the day to Windy Castle.",
+   "cn": "他们今天要出门去风之城堡。",
+   "key": "Windy Castle · going out"
+  },
+  {
+   "no": 2,
+   "time": "00:52",
+   "img": "/img/p01e27/f2.jpg",
+   "t": "Are You Sure?",
+   "q": "What did Mummy Pig ask Daddy Pig?",
+   "a": "She asked him, “Are you sure, Daddy Pig?”",
+   "cn": "她问他：“你确定吗，猪爸爸？”",
+   "key": "sure · Mummy"
+  },
+  {
+   "no": 3,
+   "time": "01:26",
+   "img": "/img/p01e27/f3.jpg",
+   "t": "I Spy",
+   "q": "What game are they playing in the car?",
+   "a": "They are playing I spy with my little eye.",
+   "cn": "他们在玩“我用小眼睛看见”的游戏。",
+   "key": "I spy · game"
+  },
+  {
+   "no": 4,
+   "time": "01:53",
+   "img": "/img/p01e27/f4.jpg",
+   "t": "Something in the Car",
+   "q": "What did Peppa ask about the red thing?",
+   "a": "She asked if it is something in the car.",
+   "cn": "她问那是不是车子里的东西。",
+   "key": "in the car · red"
+  },
+  {
+   "no": 5,
+   "time": "02:17",
+   "img": "/img/p01e27/f5.jpg",
+   "t": "How Do We Get There?",
+   "q": "What did Mummy Pig want to know?",
+   "a": "She asked how they get to Windy Castle from here.",
+   "cn": "她问从这里怎么去风之城堡。",
+   "key": "how · get to"
+  },
+  {
+   "no": 6,
+   "time": "02:46",
+   "img": "/img/p01e27/f6.jpg",
+   "t": "Map-Reading",
+   "q": "Who is doing the map-reading?",
+   "a": "Daddy Pig is doing the map-reading, but they are lost.",
+   "cn": "猪爸爸在看地图，可他们迷路了。",
+   "key": "map-reading · lost"
+  },
+  {
+   "no": 7,
+   "time": "03:22",
+   "img": "/img/p01e27/f7.jpg",
+   "t": "You Can Make It",
+   "q": "What did they say to the car?",
+   "a": "They said, “Come on, car! You can make it!”",
+   "cn": "他们喊：“加油，车子！你能行的！”",
+   "key": "Come on · car"
+  },
+  {
+   "no": 8,
+   "time": "03:58",
+   "img": "/img/p01e27/f8.jpg",
+   "t": "Look Through the Telescope",
+   "q": "What did Peppa want to do at the castle?",
+   "a": "She wanted to look through the telescope first.",
+   "cn": "她想先用望远镜看一看。",
+   "key": "look · telescope"
+  },
+  {
+   "no": 9,
+   "time": "04:15",
+   "img": "/img/p01e27/f9.jpg",
+   "t": "Waving at Granny",
+   "q": "Who is George waving at?",
+   "a": "He is waving at Granny and Grandpa from the top.",
+   "cn": "他在城堡顶上向爷爷奶奶挥手。",
+   "key": "waving · Granny"
+  }
+ ],
+ "words": [
+  ["castle", "城堡"],
+  ["sure", "确定的"],
+  ["spy", "发现"],
+  ["map", "地图"],
+  ["lost", "迷路的"],
+  ["telescope", "望远镜"],
+  ["view", "景色"],
+  ["wave", "挥手"],
+  ["top", "顶部"],
+  ["windy", "有风的"],
+  ["nearly", "几乎"],
+  ["telephone", "电话"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "castle, car, spy, map, lost, telescope",
+  "actions": "drive, play, ask, read, climb, wave"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Windy Castle”.",
+ "ending": "In the end, they see Granny and Grandpa from the castle top. My favourite part is ______."
+}

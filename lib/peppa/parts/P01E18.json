@@ -1,0 +1,124 @@
+{
+ "id": "P01E18",
+ "season": 1,
+ "episode": 18,
+ "title": "Dressing Up",
+ "titleCn": "换装游戏",
+ "hook": "Peppa 和 George 在爸妈卧室里翻出大人的衣服穿在身上，把爸爸妈妈都骗过去了。",
+ "cover": "/img/p01e18/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:26",
+   "img": "/img/p01e18/f1.jpg",
+   "t": "In the Bedroom",
+   "q": "Where were Peppa and George playing?",
+   "a": "They were playing in Mummy and Daddy's bedroom.",
+   "cn": "他们在爸爸妈妈的卧室里玩。",
+   "key": "bedroom · playing"
+  },
+  {
+   "no": 2,
+   "time": "00:53",
+   "img": "/img/p01e18/f2.jpg",
+   "t": "Daddy's Coat",
+   "q": "What did Peppa find?",
+   "a": "She found Daddy Pig's big coat and put it on.",
+   "cn": "她找到爸爸的大外套，穿在身上。",
+   "key": "coat · put on"
+  },
+  {
+   "no": 3,
+   "time": "01:32",
+   "img": "/img/p01e18/f3.jpg",
+   "t": "Just Like Mummy",
+   "q": "What did Peppa want to look like?",
+   "a": "She said, “I need to look beautiful, just like Mummy.”",
+   "cn": "她说要打扮得像妈妈一样漂亮。",
+   "key": "beautiful · like Mummy"
+  },
+  {
+   "no": 4,
+   "time": "02:08",
+   "img": "/img/p01e18/f4.jpg",
+   "t": "Mummy Is Working",
+   "q": "What was Mummy Pig doing?",
+   "a": "She was working on her computer.",
+   "cn": "她正在电脑前工作。",
+   "key": "working · computer"
+  },
+  {
+   "no": 5,
+   "time": "02:36",
+   "img": "/img/p01e18/f5.jpg",
+   "t": "A Lot of Work",
+   "q": "What did Mummy Pig say?",
+   "a": "She said, “Excuse me, I've got a lot of work to do!”",
+   "cn": "她说：“抱歉，我还有很多工作要做！”",
+   "key": "work · excuse me"
+  },
+  {
+   "no": 6,
+   "time": "03:14",
+   "img": "/img/p01e18/f6.jpg",
+   "t": "Digging Outside",
+   "q": "What was Daddy Pig doing?",
+   "a": "He was digging in the garden.",
+   "cn": "他在花园里挖土。",
+   "key": "dig · garden"
+  },
+  {
+   "no": 7,
+   "time": "03:37",
+   "img": "/img/p01e18/f7.jpg",
+   "t": "Not Your Best Clothes",
+   "q": "What did Mummy Pig hope?",
+   "a": "She hoped Daddy was not digging in his best clothes.",
+   "cn": "她希望爸爸别穿着最好的衣服挖土。",
+   "key": "best clothes · digging"
+  },
+  {
+   "no": 8,
+   "time": "04:14",
+   "img": "/img/p01e18/f8.jpg",
+   "t": "Where Are They",
+   "q": "What did the parents wonder?",
+   "a": "They wondered, “So, where are Peppa and George?”",
+   "cn": "他们纳闷：Peppa 和 George 去哪儿了？",
+   "key": "where · wonder"
+  },
+  {
+   "no": 9,
+   "time": "04:27",
+   "img": "/img/p01e18/f9.jpg",
+   "t": "There You Are",
+   "q": "Where were the children?",
+   "a": "They were outside in the big clothes! “There you are!”",
+   "cn": "他们穿着大衣服站在外面——“找到你们啦！”",
+   "key": "there you are · clothes"
+  }
+ ],
+ "words": [
+  ["dress up", "换装"],
+  ["coat", "外套"],
+  ["beautiful", "漂亮的"],
+  ["bedroom", "卧室"],
+  ["work", "工作"],
+  ["dig", "挖土"],
+  ["garden", "花园"],
+  ["best", "最好的"],
+  ["clothes", "衣服"],
+  ["where", "在哪里"],
+  ["wear", "穿着"],
+  ["funny", "好玩的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "coat, beautiful, work, dig, clothes, where",
+  "actions": "play, put on, look, work, dig, laugh"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Dressing Up”.",
+ "ending": "In the end, the parents find the children in their big clothes. My favourite part is ______."
+}

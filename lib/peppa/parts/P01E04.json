@@ -1,0 +1,124 @@
+{
+ "id": "P01E04",
+ "season": 1,
+ "episode": 4,
+ "title": "Polly Parrot",
+ "titleCn": "波利鹦鹉",
+ "hook": "Peppa 一家去看爷爷奶奶，奶奶家多了一位会学人说话的新成员——鹦鹉 Polly。",
+ "cover": "/img/p01e04/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:28",
+   "img": "/img/p01e04/f1.jpg",
+   "t": "Off to Granny's",
+   "q": "Where was Peppa's family going?",
+   "a": "They were going to visit Granny Pig and Grandpa Pig.",
+   "cn": "他们去看猪奶奶和猪爷爷。",
+   "key": "visit · granny"
+  },
+  {
+   "no": 2,
+   "time": "00:47",
+   "img": "/img/p01e04/f2.jpg",
+   "t": "Guess What It Is",
+   "q": "What did Granny ask Peppa to do?",
+   "a": "She asked Peppa to guess what the new pet was.",
+   "cn": "她让 Peppa 猜猜新宠物是什么。",
+   "key": "guess · pet"
+  },
+  {
+   "no": 3,
+   "time": "01:26",
+   "img": "/img/p01e04/f3.jpg",
+   "t": "Pretty Polly",
+   "q": "Why does Polly copy everything?",
+   "a": "Because that is what parrots do. They copy words.",
+   "cn": "因为鹦鹉就是这样，会学人说话。",
+   "key": "copy · parrot"
+  },
+  {
+   "no": 4,
+   "time": "01:40",
+   "img": "/img/p01e04/f4.jpg",
+   "t": "A Sweet Parrot",
+   "q": "What did Mummy Pig say about Polly?",
+   "a": "She said, “What a sweet little parrot!”",
+   "cn": "她说：“多可爱的小鹦鹉啊！”",
+   "key": "sweet · little"
+  },
+  {
+   "no": 5,
+   "time": "01:58",
+   "img": "/img/p01e04/f5.jpg",
+   "t": "Chocolate Cake",
+   "q": "What do Peppa and George love eating?",
+   "a": "They love eating chocolate cake at Granny's house.",
+   "cn": "他们最爱在奶奶家吃巧克力蛋糕。",
+   "key": "chocolate · cake"
+  },
+  {
+   "no": 6,
+   "time": "02:15",
+   "img": "/img/p01e04/f6.jpg",
+   "t": "Leave the Table",
+   "q": "What did Peppa ask Granny?",
+   "a": "She asked to leave the table and see Polly Parrot.",
+   "cn": "她问能不能离开餐桌去看 Polly。",
+   "key": "table · see"
+  },
+  {
+   "no": 7,
+   "time": "02:56",
+   "img": "/img/p01e04/f7.jpg",
+   "t": "Playing with Polly",
+   "q": "How were the children feeling?",
+   "a": "They were really enjoying playing with Polly Parrot.",
+   "cn": "他们和 Polly 玩得特别开心。",
+   "key": "enjoy · play"
+  },
+  {
+   "no": 8,
+   "time": "03:35",
+   "img": "/img/p01e04/f8.jpg",
+   "t": "Something Else to Say",
+   "q": "What was Peppa thinking about?",
+   "a": "She was thinking of something else to say to Polly.",
+   "cn": "她在想还能对 Polly 说点什么。",
+   "key": "think · say"
+  },
+  {
+   "no": 9,
+   "time": "04:05",
+   "img": "/img/p01e04/f9.jpg",
+   "t": "A Clever Parrot",
+   "q": "What did Polly say at the end?",
+   "a": "She said, “I'm a clever parrot!” and everyone laughed.",
+   "cn": "她说：“我是只聪明的鹦鹉！”大家都笑了。",
+   "key": "clever · parrot"
+  }
+ ],
+ "words": [
+  ["parrot", "鹦鹉"],
+  ["pet", "宠物"],
+  ["copy", "模仿"],
+  ["clever", "聪明的"],
+  ["noisy", "吵闹的"],
+  ["sweet", "可爱的"],
+  ["visit", "拜访"],
+  ["guess", "猜"],
+  ["chocolate", "巧克力"],
+  ["cake", "蛋糕"],
+  ["table", "餐桌"],
+  ["everything", "每一样东西"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "parrot, pet, copy, clever, cake, table",
+  "actions": "guess, copy, visit, eat, laugh, say"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Polly Parrot”.",
+ "ending": "In the end, Polly says, “I'm a clever parrot!” My favourite part is ______."
+}

@@ -1,0 +1,124 @@
+{
+ "id": "P01E52",
+ "season": 1,
+ "episode": 52,
+ "title": "School Play",
+ "titleCn": "幼儿园话剧",
+ "hook": "幼儿园排《小红帽》，大灰狼是丹尼狗演的，演到一半他忘了词，猎人又太害羞。",
+ "cover": "/img/p01e52/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:20",
+   "img": "/img/p01e52/f1.jpg",
+   "t": "Put On a Play",
+   "q": "What is the playgroup going to do?",
+   "a": "They are going to put on a play for everyone.",
+   "cn": "他们要为所有人演一出话剧。",
+   "key": "playgroup · play"
+  },
+  {
+   "no": 2,
+   "time": "00:55",
+   "img": "/img/p01e52/f2.jpg",
+   "t": "The Big Bad Wolf",
+   "q": "Who is the Big Bad Wolf?",
+   "a": "Danny Dog is going to play the Big Bad Wolf.",
+   "cn": "丹尼狗要演大灰狼。",
+   "key": "Big Bad Wolf · Danny"
+  },
+  {
+   "no": 3,
+   "time": "01:21",
+   "img": "/img/p01e52/f3.jpg",
+   "t": "Really Scary",
+   "q": "What did they say about Danny's wolf?",
+   "a": "They said it was really scary, and he can be scarier.",
+   "cn": "他们说他演得真吓人，还可以更凶一点。",
+   "key": "scary · really"
+  },
+  {
+   "no": 4,
+   "time": "01:35",
+   "img": "/img/p01e52/f4.jpg",
+   "t": "A Bit Shy",
+   "q": "What is Pedro Pony like?",
+   "a": "Pedro is a bit shy when he says his lines.",
+   "cn": "佩德罗说台词的时候有点害羞。",
+   "key": "shy · Pedro"
+  },
+  {
+   "no": 5,
+   "time": "02:14",
+   "img": "/img/p01e52/f5.jpg",
+   "t": "Everyone Comes to Watch",
+   "q": "Who came to see the play?",
+   "a": "All the parents have come to see the school play.",
+   "cn": "所有家长都来看这出话剧。",
+   "key": "come · school play"
+  },
+  {
+   "no": 6,
+   "time": "02:50",
+   "img": "/img/p01e52/f6.jpg",
+   "t": "Who Is This Visitor?",
+   "q": "What did the narrator say?",
+   "a": "Grandma is at home, and a visitor comes to the door.",
+   "cn": "奶奶在家，这时门口来了一个客人。",
+   "key": "Grandma · visitor"
+  },
+  {
+   "no": 7,
+   "time": "03:36",
+   "img": "/img/p01e52/f7.jpg",
+   "t": "You Don't Look Like Grandma",
+   "q": "What did Little Red Riding Hood say?",
+   "a": "She said, “You don't look like my grandma.”",
+   "cn": "她说：“你一点也不像我奶奶。”",
+   "key": "look like · grandma"
+  },
+  {
+   "no": 8,
+   "time": "03:55",
+   "img": "/img/p01e52/f8.jpg",
+   "t": "Look Who Is Here!",
+   "q": "Who comes in to help at the end?",
+   "a": "Pedro the hunter comes in to save Little Red Riding Hood.",
+   "cn": "猎人佩德罗上场救了小红帽。",
+   "key": "hunter · save"
+  },
+  {
+   "no": 9,
+   "time": "04:16",
+   "img": "/img/p01e52/f9.jpg",
+   "t": "A Naughty Wolf",
+   "q": "What did the hunter say to the wolf?",
+   "a": "He said, “You are a very naughty wolf.”",
+   "cn": "他对狼说：“你是一头很调皮的狼。”",
+   "key": "naughty wolf · said"
+  }
+ ],
+ "words": [
+  ["play", "话剧"],
+  ["wolf", "狼"],
+  ["hunter", "猎人"],
+  ["grandma", "奶奶"],
+  ["cupboard", "橱柜"],
+  ["shy", "害羞的"],
+  ["actor", "演员"],
+  ["audience", "观众"],
+  ["costume", "服装"],
+  ["practise", "排练"],
+  ["naughty", "调皮的"],
+  ["scary", "吓人的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "play, wolf, hunter, grandma, shy, scary",
+  "actions": "practise, act, forget, shout, come in, clap"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “School Play”.",
+ "ending": "In the end, the play goes well and everyone claps. My favourite part is ______."
+}

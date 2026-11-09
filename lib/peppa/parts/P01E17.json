@@ -1,0 +1,124 @@
+{
+ "id": "P01E17",
+ "season": 1,
+ "episode": 17,
+ "title": "Frogs and Worms and Butterflies",
+ "titleCn": "青蛙、蚯蚓和蝴蝶",
+ "hook": "在爷爷的花园里，Peppa 想当蝴蝶，George 和爷爷却抢着当蚯蚓，最后一起当青蛙跳泥坑。",
+ "cover": "/img/p01e17/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:28",
+   "img": "/img/p01e17/f1.jpg",
+   "t": "Helping Grandpa",
+   "q": "What were Peppa and George doing?",
+   "a": "They were helping Grandpa Pig in his garden.",
+   "cn": "他们在爷爷的花园里帮忙。",
+   "key": "help · garden"
+  },
+  {
+   "no": 2,
+   "time": "00:57",
+   "img": "/img/p01e17/f2.jpg",
+   "t": "A Long Tongue",
+   "q": "What did Grandpa say about the butterfly?",
+   "a": "He said its tongue is even longer than Peppa's.",
+   "cn": "他说蝴蝶的舌头比 Peppa 的还长。",
+   "key": "tongue · longer"
+  },
+  {
+   "no": 3,
+   "time": "01:22",
+   "img": "/img/p01e17/f3.jpg",
+   "t": "I Want to Be a Butterfly",
+   "q": "What did Peppa want to be?",
+   "a": "She said, “She is so pretty. I want to be a butterfly.”",
+   "cn": "她说蝴蝶真漂亮，她想当蝴蝶。",
+   "key": "pretty · butterfly"
+  },
+  {
+   "no": 4,
+   "time": "01:57",
+   "img": "/img/p01e17/f4.jpg",
+   "t": "Not a Worm",
+   "q": "Did George want to be a worm?",
+   "a": "No, he did not want to be a worm at all.",
+   "cn": "不，他一点也不想想当蚯蚓。",
+   "key": "worm · want"
+  },
+  {
+   "no": 5,
+   "time": "02:32",
+   "img": "/img/p01e17/f5.jpg",
+   "t": "Wriggly Worms",
+   "q": "What were George and Grandpa doing?",
+   "a": "They were having fun being wriggly worms.",
+   "cn": "他们扭来扭去装蚯蚓，玩得很开心。",
+   "key": "wriggly · fun"
+  },
+  {
+   "no": 6,
+   "time": "02:53",
+   "img": "/img/p01e17/f6.jpg",
+   "t": "What Are You Doing",
+   "q": "What did Peppa ask them?",
+   "a": "She asked, “Grandpa! George! What are you doing?”",
+   "cn": "她问：“爷爷！George！你们在干什么？”",
+   "key": "doing · ask"
+  },
+  {
+   "no": 7,
+   "time": "03:25",
+   "img": "/img/p01e17/f7.jpg",
+   "t": "What Animal Now",
+   "q": "What did Grandpa ask?",
+   "a": "He asked, “What animal do you want to be now?”",
+   "cn": "他问：“现在想当什么动物？”",
+   "key": "animal · now"
+  },
+  {
+   "no": 8,
+   "time": "03:49",
+   "img": "/img/p01e17/f8.jpg",
+   "t": "Do Frogs Play House",
+   "q": "What did Peppa wonder?",
+   "a": "She wondered, “Do frogs play dolls' houses?”",
+   "cn": "她想知道青蛙玩不玩娃娃家。",
+   "key": "frog · play"
+  },
+  {
+   "no": 9,
+   "time": "04:21",
+   "img": "/img/p01e17/f9.jpg",
+   "t": "A Muddy Puddle",
+   "q": "What did the froggies find?",
+   "a": "They found a nice big muddy puddle to play in.",
+   "cn": "它们找到一个大泥坑，正好在里面玩。",
+   "key": "froggies · muddy puddle"
+  }
+ ],
+ "words": [
+  ["butterfly", "蝴蝶"],
+  ["worm", "蚯蚓"],
+  ["frog", "青蛙"],
+  ["garden", "花园"],
+  ["tongue", "舌头"],
+  ["pretty", "漂亮的"],
+  ["wriggly", "扭动的"],
+  ["animal", "动物"],
+  ["puddle", "水坑"],
+  ["muddy", "泥泞的"],
+  ["help", "帮忙"],
+  ["fun", "好玩的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "butterfly, worm, frog, garden, wriggly, puddle",
+  "actions": "help, dig, fly, wriggle, jump, play"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Frogs and Worms and Butterflies”.",
+ "ending": "In the end, the froggies jump in a big muddy puddle. My favourite part is ______."
+}

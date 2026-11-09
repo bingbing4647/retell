@@ -1,0 +1,160 @@
+{
+ "id": "P01E01",
+ "season": 1,
+ "episode": 1,
+ "title": "Muddy Puddles",
+ "titleCn": "泥坑",
+ "hook": "下雨天不能出门，雨一停 Peppa 和 George 就冲进花园，跳进一个又一个泥坑。",
+ "cover": "/img/p01e01/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:28",
+   "img": "/img/p01e01/f1.jpg",
+   "t": "A Rainy Day",
+   "q": "What was the weather like?",
+   "a": "It was rainy. They could not play outside.",
+   "cn": "那天下雨，他们不能在外面玩。",
+   "key": "rainy · outside"
+  },
+  {
+   "no": 2,
+   "time": "00:36",
+   "img": "/img/p01e01/f2.jpg",
+   "t": "Can We Go Out?",
+   "q": "What did Peppa ask Daddy?",
+   "a": "She asked, “Can we go out to play?”",
+   "cn": "她问爸爸能不能出去玩。",
+   "key": "ask · go out"
+  },
+  {
+   "no": 3,
+   "time": "00:52",
+   "img": "/img/p01e01/f3.jpg",
+   "t": "Splash! Splash!",
+   "q": "What did Peppa love doing?",
+   "a": "She loved jumping in muddy puddles.",
+   "cn": "她最爱在泥坑里跳。",
+   "key": "love · jump"
+  },
+  {
+   "no": 4,
+   "time": "01:04",
+   "img": "/img/p01e01/f4.jpg",
+   "t": "Wear Your Boots",
+   "q": "What did Mummy say?",
+   "a": "She said, “You must wear your boots.”",
+   "cn": "妈妈说：“你必须穿上雨靴。”",
+   "key": "say · boots"
+  },
+  {
+   "no": 5,
+   "time": "01:31",
+   "img": "/img/p01e01/f5.jpg",
+   "t": "Look After George",
+   "q": "Who did Peppa look after?",
+   "a": "She looked after her little brother, George.",
+   "cn": "她照顾弟弟 George。",
+   "key": "look after · brother"
+  },
+  {
+   "no": 6,
+   "time": "02:11",
+   "img": "/img/p01e01/f6.jpg",
+   "t": "A Really Big Puddle",
+   "q": "What did Peppa find in the garden?",
+   "a": "She found a really big puddle.",
+   "cn": "她在花园里找到一个超大的泥坑。",
+   "key": "find · big puddle"
+  },
+  {
+   "no": 7,
+   "time": "02:22",
+   "img": "/img/p01e01/f7.jpg",
+   "t": "Is It Safe?",
+   "q": "What did Peppa check first?",
+   "a": "She checked if the puddle was safe for George.",
+   "cn": "她先确认这个泥坑对弟弟安不安全。",
+   "key": "check · safe"
+  },
+  {
+   "no": 8,
+   "time": "03:34",
+   "img": "/img/p01e01/f8.jpg",
+   "t": "Guess What, Daddy",
+   "q": "What did Daddy guess?",
+   "a": "He guessed they jumped in muddy puddles.",
+   "cn": "爸爸猜到他们去跳泥坑了。",
+   "key": "guess · muddy puddles"
+  },
+  {
+   "no": 9,
+   "time": "04:15",
+   "img": "/img/p01e01/f9.jpg",
+   "t": "Everyone Jumps",
+   "q": "What did the whole family do at last?",
+   "a": "They all jumped in muddy puddles.",
+   "cn": "最后一家人都跳进了泥坑。",
+   "key": "everyone · at last"
+  }
+ ],
+ "words": [
+  [
+   "rain",
+   "下雨"
+  ],
+  [
+   "puddle",
+   "水坑"
+  ],
+  [
+   "muddy",
+   "泥泞的"
+  ],
+  [
+   "boots",
+   "雨靴"
+  ],
+  [
+   "jump",
+   "跳"
+  ],
+  [
+   "splash",
+   "溅水"
+  ],
+  [
+   "outside",
+   "外面"
+  ],
+  [
+   "garden",
+   "花园"
+  ],
+  [
+   "safe",
+   "安全的"
+  ],
+  [
+   "look after",
+   "照顾"
+  ],
+  [
+   "little brother",
+   "弟弟"
+  ],
+  [
+   "everyone",
+   "每个人"
+  ]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "rain, puddle, muddy, boots, garden, safe",
+  "actions": "jump, splash, check, wear, look after"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Muddy Puddles”.",
+ "ending": "In the end, the whole family jumps in muddy puddles together. My favourite part is ______."
+}

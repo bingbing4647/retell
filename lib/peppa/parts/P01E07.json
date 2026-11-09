@@ -1,0 +1,124 @@
+{
+ "id": "P01E07",
+ "season": 1,
+ "episode": 7,
+ "title": "Mummy Pig at Work",
+ "titleCn": "猪妈妈在工作",
+ "hook": "妈妈在家用电脑赶重要的工作，Peppa 和 George 却很想帮忙——结果帮了倒忙。",
+ "cover": "/img/p01e07/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:27",
+   "img": "/img/p01e07/f1.jpg",
+   "t": "Working at Home",
+   "q": "What was Mummy Pig doing?",
+   "a": "She was working on her computer at home.",
+   "cn": "她在家用电脑工作。",
+   "key": "work · computer"
+  },
+  {
+   "no": 2,
+   "time": "00:55",
+   "img": "/img/p01e07/f2.jpg",
+   "t": "Important Work",
+   "q": "Why could Mummy Pig not play?",
+   "a": "Because she had a lot of important work to do.",
+   "cn": "因为她有很多重要的工作要做。",
+   "key": "important · work"
+  },
+  {
+   "no": 3,
+   "time": "01:13",
+   "img": "/img/p01e07/f3.jpg",
+   "t": "Watching Mummy",
+   "q": "What did the children love to do?",
+   "a": "They loved to watch Mummy work on the computer.",
+   "cn": "他们喜欢看妈妈在电脑上工作。",
+   "key": "watch · love"
+  },
+  {
+   "no": 4,
+   "time": "01:36",
+   "img": "/img/p01e07/f4.jpg",
+   "t": "You Mustn't Do This",
+   "q": "What did Mummy Pig tell George?",
+   "a": "She told him, “You mustn't do this.”",
+   "cn": "她告诉 George：“这个不能乱动。”",
+   "key": "mustn't · do"
+  },
+  {
+   "no": 5,
+   "time": "01:51",
+   "img": "/img/p01e07/f5.jpg",
+   "t": "Oh Dear",
+   "q": "What happened to the computer?",
+   "a": "It went wrong. It was not meant to do that.",
+   "cn": "电脑出问题了，本来不该这样。",
+   "key": "gone wrong · computer"
+  },
+  {
+   "no": 6,
+   "time": "02:10",
+   "img": "/img/p01e07/f6.jpg",
+   "t": "Not Very Good",
+   "q": "What did Daddy Pig say?",
+   "a": "He said he was not very good with these things.",
+   "cn": "他说自己不太会弄这些东西。",
+   "key": "good · things"
+  },
+  {
+   "no": 7,
+   "time": "02:43",
+   "img": "/img/p01e07/f7.jpg",
+   "t": "Daddy Fixes It",
+   "q": "What did Daddy Pig do?",
+   "a": "He mended the computer for Mummy Pig.",
+   "cn": "他把电脑修好了。",
+   "key": "mend · computer"
+  },
+  {
+   "no": 8,
+   "time": "02:58",
+   "img": "/img/p01e07/f8.jpg",
+   "t": "Ask Mummy Pig",
+   "q": "What did Daddy Pig tell Peppa?",
+   "a": "He said, “Maybe you should ask Mummy Pig.”",
+   "cn": "他说：“也许你该问问妈妈。”",
+   "key": "ask · maybe"
+  },
+  {
+   "no": 9,
+   "time": "04:07",
+   "img": "/img/p01e07/f9.jpg",
+   "t": "What Is Going On",
+   "q": "What did Mummy Pig say at the end?",
+   "a": "She came in and asked, “What on earth is going on?”",
+   "cn": "她走进来问：“到底发生什么事了？”",
+   "key": "going on · what"
+  }
+ ],
+ "words": [
+  ["work", "工作"],
+  ["computer", "电脑"],
+  ["important", "重要的"],
+  ["watch", "观看"],
+  ["mustn't", "不可以"],
+  ["mend", "修理"],
+  ["wrong", "出错的"],
+  ["maybe", "也许"],
+  ["ask", "询问"],
+  ["busy", "忙的"],
+  ["screen", "屏幕"],
+  ["help", "帮忙"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "work, computer, important, mend, ask, wrong",
+  "actions": "work, watch, type, mend, ask, help"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Mummy Pig at Work”.",
+ "ending": "In the end, Mummy Pig comes in and asks what is going on. My favourite part is ______."
+}

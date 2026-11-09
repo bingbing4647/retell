@@ -1,0 +1,124 @@
+{
+ "id": "P01E51",
+ "season": 1,
+ "episode": 51,
+ "title": "Daddy's Movie Camera",
+ "titleCn": "爸爸的摄影机",
+ "hook": "邮递员送来一台会说话的摄影机，佩奇和乔治各拍了一部小电影，乔治被自己拍的恐龙吓到了。",
+ "cover": "/img/p01e51/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:21",
+   "img": "/img/p01e51/f1.jpg",
+   "t": "A Parcel",
+   "q": "Who is delivering a parcel?",
+   "a": "Mr. Zebra the postman is delivering a parcel to their house.",
+   "cn": "邮递员斑马先生送来一个包裹。",
+   "key": "parcel · postman"
+  },
+  {
+   "no": 2,
+   "time": "00:48",
+   "img": "/img/p01e51/f2.jpg",
+   "t": "Far Too Small",
+   "q": "What did they say about the parcel?",
+   "a": "They said it is far too small to have a dinosaur inside.",
+   "cn": "他们说包裹太小，里面装不下恐龙。",
+   "key": "small · dinosaur"
+  },
+  {
+   "no": 3,
+   "time": "01:25",
+   "img": "/img/p01e51/f3.jpg",
+   "t": "A Movie Camera",
+   "q": "What is in the parcel?",
+   "a": "It is a movie camera, just like Suzy Sheep's mummy has.",
+   "cn": "是一台摄影机，和苏西妈妈的同款。",
+   "key": "movie camera · parcel"
+  },
+  {
+   "no": 4,
+   "time": "01:41",
+   "img": "/img/p01e51/f4.jpg",
+   "t": "Turn the Voice Off",
+   "q": "What did they want to do with the camera?",
+   "a": "They wanted to turn the talking voice off.",
+   "cn": "他们想把那说话的提示音关掉。",
+   "key": "voice · camera"
+  },
+  {
+   "no": 5,
+   "time": "01:59",
+   "img": "/img/p01e51/f5.jpg",
+   "t": "What Shall I Film?",
+   "q": "What did Daddy Pig ask?",
+   "a": "He asked what he shall film first with the camera.",
+   "cn": "他问先拍点什么好。",
+   "key": "film · first"
+  },
+  {
+   "no": 6,
+   "time": "03:01",
+   "img": "/img/p01e51/f6.jpg",
+   "t": "Everyone Must Do Something",
+   "q": "What did they decide to do?",
+   "a": "They decided that everyone must do something for the film.",
+   "cn": "他们决定每个人都要为电影演点什么。",
+   "key": "do something · everyone"
+  },
+  {
+   "no": 7,
+   "time": "03:14",
+   "img": "/img/p01e51/f7.jpg",
+   "t": "Finished!",
+   "q": "What did George and Peppa make?",
+   "a": "They each made a little movie of their own.",
+   "cn": "他们各自拍了一部小电影。",
+   "key": "movie · finished"
+  },
+  {
+   "no": 8,
+   "time": "03:38",
+   "img": "/img/p01e51/f8.jpg",
+   "t": "George Is Frightened",
+   "q": "Why is George frightened?",
+   "a": "He sees a dinosaur on TV and thinks it is real.",
+   "cn": "他在电视里看到恐龙，以为是真的。",
+   "key": "frightened · real"
+  },
+  {
+   "no": 9,
+   "time": "04:05",
+   "img": "/img/p01e51/f9.jpg",
+   "t": "A Big Tummy",
+   "q": "What did Daddy Pig say on the film?",
+   "a": "He said his tummy is big because he eats lots of cookies.",
+   "cn": "他在片子里说自己肚子大是因为吃了很多饼干。",
+   "key": "tummy · cookies"
+  }
+ ],
+ "words": [
+  ["parcel", "包裹"],
+  ["postman", "邮递员"],
+  ["camera", "摄影机"],
+  ["film", "拍摄"],
+  ["voice", "声音"],
+  ["button", "按钮"],
+  ["movie", "电影"],
+  ["frightened", "害怕的"],
+  ["tummy", "肚子"],
+  ["cookie", "饼干"],
+  ["real", "真的"],
+  ["switch", "开关"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "parcel, camera, film, movie, button, frightened",
+  "actions": "open, switch on, film, watch, laugh, be scared"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Daddy's Movie Camera”.",
+ "ending": "In the end, George is scared of his own movie. My favourite part is ______."
+}

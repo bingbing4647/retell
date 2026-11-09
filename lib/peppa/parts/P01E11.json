@@ -1,0 +1,124 @@
+{
+ "id": "P01E11",
+ "season": 1,
+ "episode": 11,
+ "title": "Hiccups",
+ "titleCn": "打嗝",
+ "hook": "George 喝果汁喝太快，打嗝停不下来，全家想尽办法帮他。",
+ "cover": "/img/p01e11/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:28",
+   "img": "/img/p01e11/f1.jpg",
+   "t": "Breakfast Time",
+   "q": "What was the family doing?",
+   "a": "They were all having breakfast together.",
+   "cn": "一家人在一起吃早饭。",
+   "key": "breakfast · together"
+  },
+  {
+   "no": 2,
+   "time": "01:00",
+   "img": "/img/p01e11/f2.jpg",
+   "t": "Too Quick",
+   "q": "Why did George get hiccups?",
+   "a": "He drank his juice too quickly.",
+   "cn": "他果汁喝得太快了。",
+   "key": "drink · quickly"
+  },
+  {
+   "no": 3,
+   "time": "01:22",
+   "img": "/img/p01e11/f3.jpg",
+   "t": "Go Out and Play",
+   "q": "What did Mummy Pig say?",
+   "a": "She said, “You can go out and play.”",
+   "cn": "她说：“你们可以出去玩。”",
+   "key": "out · play"
+  },
+  {
+   "no": 4,
+   "time": "01:47",
+   "img": "/img/p01e11/f4.jpg",
+   "t": "Throw It to Me",
+   "q": "What did Peppa tell George?",
+   "a": "She told him to throw the ball to her.",
+   "cn": "她让 George 把球扔给她。",
+   "key": "throw · ball"
+  },
+  {
+   "no": 5,
+   "time": "02:19",
+   "img": "/img/p01e11/f5.jpg",
+   "t": "Hiccups Have Gone",
+   "q": "What happened after the game?",
+   "a": "George's hiccups were gone. Playing helped him.",
+   "cn": "George 不打嗝了，玩一玩就好了。",
+   "key": "gone · hiccups"
+  },
+  {
+   "no": 6,
+   "time": "02:36",
+   "img": "/img/p01e11/f6.jpg",
+   "t": "Jump Three Times",
+   "q": "What was Mummy's idea?",
+   "a": "She said, “Jump up and down three times on one leg.”",
+   "cn": "她说：“单脚跳三下。”",
+   "key": "jump · three times"
+  },
+  {
+   "no": 7,
+   "time": "03:31",
+   "img": "/img/p01e11/f7.jpg",
+   "t": "Just Pretend",
+   "q": "What did Peppa say before she scared George?",
+   "a": "She said, “Remember, this is just pretend scaring.”",
+   "cn": "她说：“记住，只是假装吓你一下。”",
+   "key": "pretend · scare"
+  },
+  {
+   "no": 8,
+   "time": "03:49",
+   "img": "/img/p01e11/f8.jpg",
+   "t": "Trying to Help",
+   "q": "Why did Peppa scare George?",
+   "a": "She was only trying to stop his hiccups.",
+   "cn": "她只是想帮他把打嗝止住。",
+   "key": "stop · hiccups"
+  },
+  {
+   "no": 9,
+   "time": "04:12",
+   "img": "/img/p01e11/f9.jpg",
+   "t": "All Gone",
+   "q": "What did George say at the end?",
+   "a": "He said he can drink juice as quickly as he wants.",
+   "cn": "他说他想喝多快就喝多快。",
+   "key": "juice · quickly"
+  }
+ ],
+ "words": [
+  ["hiccup", "打嗝"],
+  ["breakfast", "早饭"],
+  ["juice", "果汁"],
+  ["quickly", "快地"],
+  ["drink", "喝"],
+  ["ball", "球"],
+  ["jump", "跳"],
+  ["leg", "腿"],
+  ["pretend", "假装"],
+  ["scare", "吓唬"],
+  ["stop", "停止"],
+  ["again", "再一次"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "hiccup, juice, quickly, jump, pretend, scare",
+  "actions": "drink, play, throw, jump, scare, stop"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Hiccups”.",
+ "ending": "In the end, George's hiccups are gone and he drinks his juice again. My favourite part is ______."
+}

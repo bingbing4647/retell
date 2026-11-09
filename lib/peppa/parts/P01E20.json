@@ -1,0 +1,124 @@
+{
+ "id": "P01E20",
+ "season": 1,
+ "episode": 20,
+ "title": "The School Fete",
+ "titleCn": "学校游园会",
+ "hook": "游园会上有充气城堡、画脸和气球，可恐龙气球一个都没有，爸爸只好自己动手。",
+ "cover": "/img/p01e20/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:21",
+   "img": "/img/p01e20/f1.jpg",
+   "t": "Fete Day",
+   "q": "What day was it?",
+   "a": "It was the day of the school fete.",
+   "cn": "今天是学校游园会的日子。",
+   "key": "school fete · day"
+  },
+  {
+   "no": 2,
+   "time": "00:46",
+   "img": "/img/p01e20/f2.jpg",
+   "t": "Bouncy Castle",
+   "q": "What did Peppa like best?",
+   "a": "She said, “I like the bouncy castle the best!”",
+   "cn": "她说最喜欢充气城堡。",
+   "key": "bouncy castle · best"
+  },
+  {
+   "no": 3,
+   "time": "01:12",
+   "img": "/img/p01e20/f3.jpg",
+   "t": "Dinosaur Balloons",
+   "q": "What did Peppa ask Daddy?",
+   "a": "She asked if he was sure they had dinosaur balloons.",
+   "cn": "她问爸爸确定有恐龙气球吗。",
+   "key": "dinosaur balloons · sure"
+  },
+  {
+   "no": 4,
+   "time": "01:43",
+   "img": "/img/p01e20/f4.jpg",
+   "t": "Face Painting",
+   "q": "What did they ask Peppa?",
+   "a": "They asked, “Would you like your face painted?”",
+   "cn": "他们问她想不想画脸。",
+   "key": "face · painted"
+  },
+  {
+   "no": 5,
+   "time": "02:24",
+   "img": "/img/p01e20/f5.jpg",
+   "t": "Big Cats",
+   "q": "Why did someone say tigers are big cats?",
+   "a": "Because tigers are big cats, like the family cat.",
+   "cn": "因为老虎就是大个的猫。",
+   "key": "tiger · big cats"
+  },
+  {
+   "no": 6,
+   "time": "02:44",
+   "img": "/img/p01e20/f6.jpg",
+   "t": "Lick Themselves Clean",
+   "q": "How do tigers keep clean?",
+   "a": "They like to lick themselves clean.",
+   "cn": "它们喜欢舔自己来保持干净。",
+   "key": "lick · clean"
+  },
+  {
+   "no": 7,
+   "time": "03:23",
+   "img": "/img/p01e20/f7.jpg",
+   "t": "Balloons Please",
+   "q": "What did the children ask for?",
+   "a": "They said, “We'd like some balloons, please.”",
+   "cn": "他们说：“我们想要几个气球。”",
+   "key": "balloons · please"
+  },
+  {
+   "no": 8,
+   "time": "03:49",
+   "img": "/img/p01e20/f8.jpg",
+   "t": "No Dinosaur Ones",
+   "q": "What was the problem with the balloons?",
+   "a": "There were no dinosaur balloons at all.",
+   "cn": "没有恐龙气球。",
+   "key": "dinosaur · none"
+  },
+  {
+   "no": 9,
+   "time": "04:23",
+   "img": "/img/p01e20/f9.jpg",
+   "t": "A Balloon Dinosaur",
+   "q": "What did Daddy Pig make?",
+   "a": "He made a dinosaur out of a long balloon.",
+   "cn": "他用长气球做了一只恐龙。",
+   "key": "make · balloon dinosaur"
+  }
+ ],
+ "words": [
+  ["fete", "游园会"],
+  ["bouncy castle", "充气城堡"],
+  ["balloon", "气球"],
+  ["dinosaur", "恐龙"],
+  ["paint", "画"],
+  ["tiger", "老虎"],
+  ["lick", "舔"],
+  ["clean", "干净的"],
+  ["long", "长的"],
+  ["make", "做"],
+  ["school", "学校"],
+  ["best", "最"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "fete, bouncy castle, balloon, dinosaur, tiger, make",
+  "actions": "jump, paint, ask, buy, make, smile"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “The School Fete”.",
+ "ending": "In the end, Daddy Pig makes a balloon dinosaur. My favourite part is ______."
+}

@@ -1,0 +1,124 @@
+{
+ "id": "P01E49",
+ "season": 1,
+ "episode": 49,
+ "title": "Shopping",
+ "titleCn": "去超市",
+ "hook": "佩奇和乔治跟着妈妈去超市，照着清单买东西，猪爸爸却偷偷往车里放了巧克力蛋糕。",
+ "cover": "/img/p01e49/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:24",
+   "img": "/img/p01e49/f1.jpg",
+   "t": "Going Shopping",
+   "q": "Where are Peppa and George going?",
+   "a": "They are going shopping with Mummy Pig.",
+   "cn": "他们跟猪妈妈一起去超市买东西。",
+   "key": "shopping · going"
+  },
+  {
+   "no": 2,
+   "time": "01:05",
+   "img": "/img/p01e49/f2.jpg",
+   "t": "They Love Shopping",
+   "q": "Do the children like shopping?",
+   "a": "Yes, Peppa and George love going shopping.",
+   "cn": "喜欢，佩奇和乔治很喜欢逛超市。",
+   "key": "love · shopping"
+  },
+  {
+   "no": 3,
+   "time": "01:47",
+   "img": "/img/p01e49/f3.jpg",
+   "t": "Their Favourite Food",
+   "q": "What is their favourite food?",
+   "a": "Spaghetti is Peppa and George's favourite food.",
+   "cn": "意大利面是他们最爱吃的。",
+   "key": "spaghetti · favourite"
+  },
+  {
+   "no": 4,
+   "time": "02:08",
+   "img": "/img/p01e49/f4.jpg",
+   "t": "Spa-ghe-tti",
+   "q": "What did Peppa teach George to say?",
+   "a": "She taught him to say the word spa-ghe-tti.",
+   "cn": "她教他说“意大利面”这个词。",
+   "key": "taught · say"
+  },
+  {
+   "no": 5,
+   "time": "02:20",
+   "img": "/img/p01e49/f5.jpg",
+   "t": "Not on the List",
+   "q": "Why can't they buy crisps?",
+   "a": "Because crisps are not on the shopping list.",
+   "cn": "因为薯片不在购物清单上。",
+   "key": "crisps · list"
+  },
+  {
+   "no": 6,
+   "time": "02:41",
+   "img": "/img/p01e49/f6.jpg",
+   "t": "Next on the List",
+   "q": "What is next on the list?",
+   "a": "The next thing on the list is onions.",
+   "cn": "清单上下一样要买的是洋葱。",
+   "key": "onions · next"
+  },
+  {
+   "no": 7,
+   "time": "03:20",
+   "img": "/img/p01e49/f7.jpg",
+   "t": "You Choose the Fruit",
+   "q": "What can George choose?",
+   "a": "He can choose the fruit, like apples or a melon.",
+   "cn": "他可以挑水果，比如苹果或大甜瓜。",
+   "key": "choose · fruit"
+  },
+  {
+   "no": 8,
+   "time": "03:49",
+   "img": "/img/p01e49/f8.jpg",
+   "t": "At the Checkout",
+   "q": "Where do they pay for the food?",
+   "a": "They pay for all the food at the checkout.",
+   "cn": "他们在收银台为所有东西付钱。",
+   "key": "checkout · pay"
+  },
+  {
+   "no": 9,
+   "time": "04:33",
+   "img": "/img/p01e49/f9.jpg",
+   "t": "Let's Pretend",
+   "q": "What did Daddy Pig want to buy?",
+   "a": "A chocolate cake, so he pretends it was on the list.",
+   "cn": "他想要巧克力蛋糕，就说假装清单上有它。",
+   "key": "chocolate cake · pretends"
+  }
+ ],
+ "words": [
+  ["shopping", "购物"],
+  ["trolley", "购物车"],
+  ["list", "清单"],
+  ["spaghetti", "意大利面"],
+  ["tomato", "西红柿"],
+  ["onion", "洋葱"],
+  ["crisps", "薯片"],
+  ["fruit", "水果"],
+  ["melon", "甜瓜"],
+  ["checkout", "收银台"],
+  ["cake", "蛋糕"],
+  ["delicious", "美味的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "shopping, trolley, list, spaghetti, crisps, cake",
+  "actions": "shop, look for, put in, choose, pay, pretend"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Shopping”.",
+ "ending": "In the end, Daddy Pig gets a chocolate cake. My favourite part is ______."
+}

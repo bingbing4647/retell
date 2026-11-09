@@ -1,0 +1,124 @@
+{
+ "id": "P01E14",
+ "season": 1,
+ "episode": 14,
+ "title": "Flying a Kite",
+ "titleCn": "放风筝",
+ "hook": "一家人去公园放风筝，风筝却挂到了树上，爸爸爬上去救风筝——结果全家都成了泥人。",
+ "cover": "/img/p01e14/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:25",
+   "img": "/img/p01e14/f1.jpg",
+   "t": "In the Park",
+   "q": "Where was Peppa's family?",
+   "a": "They were in the park on a bright, sunny day.",
+   "cn": "晴天里，一家人在公园里。",
+   "key": "park · sunny"
+  },
+  {
+   "no": 2,
+   "time": "01:01",
+   "img": "/img/p01e14/f2.jpg",
+   "t": "Run Fast",
+   "q": "What did Peppa do to make the kite fly?",
+   "a": "She ran as fast as she could.",
+   "cn": "她拼命地跑，想让风筝飞起来。",
+   "key": "run · fast"
+  },
+  {
+   "no": 3,
+   "time": "01:32",
+   "img": "/img/p01e14/f3.jpg",
+   "t": "Now It Is Windy",
+   "q": "Why could the kite fly?",
+   "a": "Because it was windy, and the wind lifted the kite.",
+   "cn": "因为起风了，风把风筝托起来。",
+   "key": "windy · fly"
+  },
+  {
+   "no": 4,
+   "time": "02:05",
+   "img": "/img/p01e14/f4.jpg",
+   "t": "Daddy Flies Well",
+   "q": "Who could fly the kite very well?",
+   "a": "Daddy Pig could. He flies the kite very well.",
+   "cn": "猪爸爸很会放，放得特别好。",
+   "key": "kite · well"
+  },
+  {
+   "no": 5,
+   "time": "02:28",
+   "img": "/img/p01e14/f5.jpg",
+   "t": "Caught in a Tree",
+   "q": "What happened to the kite?",
+   "a": "Oh dear. It got caught in a tree.",
+   "cn": "糟了，风筝挂到树上了。",
+   "key": "caught · tree"
+  },
+  {
+   "no": 6,
+   "time": "02:55",
+   "img": "/img/p01e14/f6.jpg",
+   "t": "Muddy Puddles",
+   "q": "What do Peppa and George love?",
+   "a": "They love to jump in muddy puddles.",
+   "cn": "他们最喜欢跳泥坑。",
+   "key": "jump · muddy puddles"
+  },
+  {
+   "no": 7,
+   "time": "03:29",
+   "img": "/img/p01e14/f7.jpg",
+   "t": "Too Heavy",
+   "q": "Why could Daddy Pig not stand on the branch?",
+   "a": "Because he was much too heavy for it.",
+   "cn": "因为他太重了，树枝撑不住。",
+   "key": "heavy · branch"
+  },
+  {
+   "no": 8,
+   "time": "03:47",
+   "img": "/img/p01e14/f8.jpg",
+   "t": "Covered in Mud",
+   "q": "What happened to everyone?",
+   "a": "Everyone was covered in mud.",
+   "cn": "每个人身上都溅满了泥。",
+   "key": "covered · mud"
+  },
+  {
+   "no": 9,
+   "time": "04:09",
+   "img": "/img/p01e14/f9.jpg",
+   "t": "Any Muddier",
+   "q": "What did Mummy Pig say at the end?",
+   "a": "She said, “You can't get any muddier!”",
+   "cn": "她说：“反正也没法更脏了！”",
+   "key": "muddier · can't"
+  }
+ ],
+ "words": [
+  ["kite", "风筝"],
+  ["park", "公园"],
+  ["windy", "有风的"],
+  ["fly", "飞"],
+  ["caught", "卡住"],
+  ["branch", "树枝"],
+  ["heavy", "重的"],
+  ["mud", "泥"],
+  ["muddy", "泥泞的"],
+  ["covered", "沾满"],
+  ["puddle", "水坑"],
+  ["bright", "明亮的"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "kite, park, windy, tree, branch, mud",
+  "actions": "run, fly, catch, climb, jump, laugh"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “Flying a Kite”.",
+ "ending": "In the end, the whole family is covered in mud. My favourite part is ______."
+}

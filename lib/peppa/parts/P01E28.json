@@ -1,0 +1,124 @@
+{
+ "id": "P01E28",
+ "season": 1,
+ "episode": 28,
+ "title": "My Cousin Chloe",
+ "titleCn": "表姐克洛伊",
+ "hook": "大表姐克洛伊来做客，她玩的游戏规则太多，佩奇玩不过她，最后还是泥坑最好玩。",
+ "cover": "/img/p01e28/f1.jpg",
+ "wide": true,
+ "qa": true,
+ "cells": [
+  {
+   "no": 1,
+   "time": "00:22",
+   "img": "/img/p01e28/f1.jpg",
+   "t": "Playing in the Garden",
+   "q": "What are Peppa and George doing?",
+   "a": "They are playing in the garden at home.",
+   "cn": "他们在自家花园里玩。",
+   "key": "playing · garden"
+  },
+  {
+   "no": 2,
+   "time": "00:59",
+   "img": "/img/p01e28/f2.jpg",
+   "t": "Cousin Chloe",
+   "q": "Who came to spend the day at Peppa's house?",
+   "a": "Their big cousin Chloe came to spend the day.",
+   "cn": "他们的表姐克洛伊来家里玩一天。",
+   "key": "cousin · Chloe"
+  },
+  {
+   "no": 3,
+   "time": "01:20",
+   "img": "/img/p01e28/f3.jpg",
+   "t": "Do You Still Play Catch?",
+   "q": "What game did Chloe ask about?",
+   "a": "She asked if they still play the game Catch.",
+   "cn": "她问他们还玩不玩“抓人”游戏。",
+   "key": "Catch · play"
+  },
+  {
+   "no": 4,
+   "time": "01:58",
+   "img": "/img/p01e28/f4.jpg",
+   "t": "I Don't Need Help",
+   "q": "What did Chloe ask Peppa?",
+   "a": "She asked Peppa if she wants her to help.",
+   "cn": "她问佩奇要不要她帮忙。",
+   "key": "help · ask"
+  },
+  {
+   "no": 5,
+   "time": "02:12",
+   "img": "/img/p01e28/f5.jpg",
+   "t": "A Silly Game",
+   "q": "What did Peppa think of the game?",
+   "a": "She said it is a silly game and wanted another one.",
+   "cn": "她说这游戏太傻了，想换一个。",
+   "key": "silly · game"
+  },
+  {
+   "no": 6,
+   "time": "02:54",
+   "img": "/img/p01e28/f6.jpg",
+   "t": "You Moved!",
+   "q": "What did Peppa say to Chloe?",
+   "a": "She said, “You moved before I was ready!”",
+   "cn": "她说：“我还没准备好你就动了！”",
+   "key": "moved · ready"
+  },
+  {
+   "no": 7,
+   "time": "03:18",
+   "img": "/img/p01e28/f7.jpg",
+   "t": "The Rules Say",
+   "q": "What did Chloe say about the rules?",
+   "a": "She said the rules let her look as long as she wants.",
+   "cn": "她说规则允许她想看多久就看多久。",
+   "key": "rules · look"
+  },
+  {
+   "no": 8,
+   "time": "03:40",
+   "img": "/img/p01e28/f8.jpg",
+   "t": "Peppa's Favourite Game",
+   "q": "What is Peppa's favourite game?",
+   "a": "Jumping up and down in muddy puddles is her favourite.",
+   "cn": "她最喜欢在泥坑里跳来跳去。",
+   "key": "favourite game · muddy puddles"
+  },
+  {
+   "no": 9,
+   "time": "04:14",
+   "img": "/img/p01e28/f9.jpg",
+   "t": "Everyone Loves Puddles",
+   "q": "What did the whole family do at the end?",
+   "a": "They all jumped up and down in muddy puddles together.",
+   "cn": "全家人一起在泥坑里跳来跳去。",
+   "key": "muddy puddles · family"
+  }
+ ],
+ "words": [
+  ["cousin", "表姐"],
+  ["visit", "拜访"],
+  ["garden", "花园"],
+  ["catch", "抓人游戏"],
+  ["rule", "规则"],
+  ["silly", "傻的"],
+  ["ready", "准备好的"],
+  ["move", "移动"],
+  ["puddle", "水坑"],
+  ["muddy", "泥泞的"],
+  ["jump", "跳"],
+  ["together", "一起"]
+ ],
+ "helper": {
+  "order": "First / Next / Then / After that / Finally",
+  "keywords": "cousin, game, rules, catch, puddle, together",
+  "actions": "play, ask, move, look, jump, laugh"
+ },
+ "opener": "Today I watched Peppa Pig. This episode is “My Cousin Chloe”.",
+ "ending": "In the end, everyone jumps in muddy puddles. My favourite part is ______."
+}
