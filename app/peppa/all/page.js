@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Explorer from "../../../components/Explorer";
 import { peppa } from "../../../lib/series";
-import { peppaEpisodes, peppaReadyList, peppaSeasonVocab } from "../../../lib/peppa";
+import { peppaEpisodes, peppaReadyList, peppaSeasonPdfs, peppaSeasonVocab } from "../../../lib/peppa";
 import { IconGrid } from "../../../components/Icons";
 import UserMenu from "../../../components/UserMenu";
 
@@ -46,6 +46,7 @@ export default function PeppaAllPage() {
         readyIds={peppaReadyList}
         episodes={peppaEpisodes}
         seasons={peppa.seasons.map((x) => x.n)}
+        seasonPdfs={peppaSeasonPdfs}
         seasonVocab={peppaSeasonVocab}
         basePath="/peppa"
         showPdfHint={false}

@@ -505,5 +505,220 @@
    "bytes": 17360516,
    "label": "S1"
   }
+ },
+ "peppaSeasons": {
+  "1": {
+   "url": "/pdf/peppa-season-01.pdf",
+   "episodes": 51,
+   "pages": 54,
+   "bytes": 24731528,
+   "label": "S1"
+  }
+ },
+ "peppaEpisodes": {
+  "P01E01": {
+   "pages": 1,
+   "bytes": 504652
+  },
+  "P01E02": {
+   "pages": 1,
+   "bytes": 583447
+  },
+  "P01E03": {
+   "pages": 1,
+   "bytes": 565535
+  },
+  "P01E04": {
+   "pages": 1,
+   "bytes": 617423
+  },
+  "P01E05": {
+   "pages": 1,
+   "bytes": 613747
+  },
+  "P01E06": {
+   "pages": 1,
+   "bytes": 647480
+  },
+  "P01E07": {
+   "pages": 1,
+   "bytes": 633386
+  },
+  "P01E08": {
+   "pages": 1,
+   "bytes": 483535
+  },
+  "P01E09": {
+   "pages": 1,
+   "bytes": 550278
+  },
+  "P01E10": {
+   "pages": 1,
+   "bytes": 541945
+  },
+  "P01E11": {
+   "pages": 1,
+   "bytes": 582883
+  },
+  "P01E12": {
+   "pages": 1,
+   "bytes": 541986
+  },
+  "P01E13": {
+   "pages": 1,
+   "bytes": 524410
+  },
+  "P01E14": {
+   "pages": 1,
+   "bytes": 558261
+  },
+  "P01E15": {
+   "pages": 1,
+   "bytes": 501181
+  },
+  "P01E16": {
+   "pages": 1,
+   "bytes": 572708
+  },
+  "P01E17": {
+   "pages": 1,
+   "bytes": 517805
+  },
+  "P01E18": {
+   "pages": 1,
+   "bytes": 593355
+  },
+  "P01E19": {
+   "pages": 1,
+   "bytes": 571416
+  },
+  "P01E20": {
+   "pages": 1,
+   "bytes": 543175
+  },
+  "P01E21": {
+   "pages": 1,
+   "bytes": 592674
+  },
+  "P01E22": {
+   "pages": 1,
+   "bytes": 578511
+  },
+  "P01E23": {
+   "pages": 1,
+   "bytes": 590130
+  },
+  "P01E24": {
+   "pages": 1,
+   "bytes": 466286
+  },
+  "P01E25": {
+   "pages": 1,
+   "bytes": 506039
+  },
+  "P01E26": {
+   "pages": 1,
+   "bytes": 501609
+  },
+  "P01E27": {
+   "pages": 1,
+   "bytes": 464034
+  },
+  "P01E28": {
+   "pages": 1,
+   "bytes": 461782
+  },
+  "P01E29": {
+   "pages": 1,
+   "bytes": 555032
+  },
+  "P01E30": {
+   "pages": 1,
+   "bytes": 519602
+  },
+  "P01E31": {
+   "pages": 1,
+   "bytes": 547877
+  },
+  "P01E32": {
+   "pages": 1,
+   "bytes": 520290
+  },
+  "P01E33": {
+   "pages": 1,
+   "bytes": 483503
+  },
+  "P01E34": {
+   "pages": 1,
+   "bytes": 569797
+  },
+  "P01E35": {
+   "pages": 1,
+   "bytes": 470993
+  },
+  "P01E36": {
+   "pages": 1,
+   "bytes": 472529
+  },
+  "P01E38": {
+   "pages": 1,
+   "bytes": 546622
+  },
+  "P01E39": {
+   "pages": 1,
+   "bytes": 480541
+  },
+  "P01E40": {
+   "pages": 1,
+   "bytes": 487446
+  },
+  "P01E41": {
+   "pages": 1,
+   "bytes": 515505
+  },
+  "P01E42": {
+   "pages": 1,
+   "bytes": 519959
+  },
+  "P01E43": {
+   "pages": 1,
+   "bytes": 575873
+  },
+  "P01E44": {
+   "pages": 1,
+   "bytes": 531492
+  },
+  "P01E45": {
+   "pages": 1,
+   "bytes": 567937
+  },
+  "P01E46": {
+   "pages": 1,
+   "bytes": 440841
+  },
+  "P01E47": {
+   "pages": 1,
+   "bytes": 611024
+  },
+  "P01E48": {
+   "pages": 1,
+   "bytes": 560333
+  },
+  "P01E49": {
+   "pages": 1,
+   "bytes": 819619
+  },
+  "P01E50": {
+   "pages": 1,
+   "bytes": 595654
+  },
+  "P01E51": {
+   "pages": 1,
+   "bytes": 525412
+  },
+  "P01E52": {
+   "pages": 1,
+   "bytes": 583157
+  }
  }
 }

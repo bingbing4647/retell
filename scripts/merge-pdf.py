@@ -10,13 +10,15 @@
     文档属性（标题、作者、关键词）
 
 用法：
-    python scripts/merge-pdf.py            # 合并 + 写 manifest
-    python scripts/merge-pdf.py --check    # 只校验不写盘
-    python scripts/merge-pdf.py --season 2 # 只重做某一季
+    python scripts/merge-pdf.py                 # 朵拉：合并 + 写 manifest
+    python scripts/merge-pdf.py --check         # 只校验不写盘
+    python scripts/merge-pdf.py --season 2      # 只重做某一季
+    python scripts/merge-pdf.py --peppa         # 小猪佩奇 S1 合订本
 
 产物：
-    public/pdf/season-XX.pdf
-    public/pdf/manifest.json
+    public/pdf/season-XX.pdf        （朵拉）
+    public/pdf/peppa-season-01.pdf  （佩奇）
+    public/pdf/manifest.json        （两剧共用：peppa 的季挂在 peppaSeasons 下）
 
 依赖：pymupdf（PyMuPDF）
 """
@@ -32,13 +34,16 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PDF_DIR = os.path.join(ROOT, "public", "pdf")
 IMG_DIR = os.path.join(ROOT, "public", "img")
 LESSONS = os.path.join(ROOT, "lib", "lessons.json")
+PEPPA_LESSONS = os.path.join(ROOT, "lib", "peppa", "lessons.json")
 
 check_only = "--check" in sys.argv
+is_peppa = "--peppa" in sys.argv
 only_season = None
 if "--season" in sys.argv:
     idx = sys.argv.index("--season")
     if idx + 1 < len(sys.argv):
         only_season = int(sys.argv[idx + 1])
+
 
 # ---------- 版式常量（A4 点值） ----------
 W, H = 595.92, 842.88
@@ -52,6 +57,35 @@ INK2 = (0.337, 0.275, 0.227)
 MUTED = (0.604, 0.533, 0.455)
 PAPER = (1.0, 1.0, 1.0)          # 纯白：彩打省墨，避免整页米色底
 WHITE = (1, 1, 1)
+
+# 两剧的封面/元数据差异都收在这一个表里，加第三部剧时照抄一条即可。
+SERIES = {
+    "dora": {
+        "lessons": LESSONS,
+        "en_head": "D O R A   T H E   E X P L O R E R",
+        "cn_head": "朵拉爱冒险",
+        "sub": "九宫格英语复述",
+        "accent": ORANGE,
+        "file_fmt": "season-{n:02d}.pdf",
+        "manifest_key": "seasons",          # 挂 manifest.seasons
+        "meta_title": "朵拉爱冒险 · 九宫格英语复述 · Season {n}（{c} 集）",
+        "meta_subject": "Dora the Explorer retell worksheets",
+        "meta_keywords": "Dora, retell, 九宫格, 英语复述, 三年级",
+    },
+    "peppa": {
+        "lessons": PEPPA_LESSONS,
+        "en_head": "P E P P A   P I G",
+        "cn_head": "小猪佩奇",
+        "sub": "九宫格英语复述",
+        "accent": PURPLE,
+        "file_fmt": "peppa-season-{n:02d}.pdf",
+        "manifest_key": "peppaSeasons",     # 挂 manifest.peppaSeasons
+        "meta_title": "小猪佩奇 · 九宫格英语复述 · Season {n}（{c} 集）",
+        "meta_subject": "Peppa Pig retell worksheets",
+        "meta_keywords": "Peppa Pig, retell, 九宫格, 英语复述, 启蒙",
+    },
+}
+CONF = SERIES["peppa"] if is_peppa else SERIES["dora"]
 
 FONT_R = None
 FONT_B = None
@@ -118,20 +152,21 @@ def rule(page, y, x0, x1, color=ORANGE, width=1.2):
 def build_cover(doc, season, sids, lessons, first_cell_imgs):
     page = new_page(doc)
     pen = Pen(page)
+    accent = CONF["accent"]
 
-    page.draw_rect(fitz.Rect(0, 6, W, 8.4), color=None, fill=ORANGE)
-    page.draw_rect(fitz.Rect(0, H - 8.4, W, H - 6), color=None, fill=ORANGE)
+    page.draw_rect(fitz.Rect(0, 6, W, 8.4), color=None, fill=accent)
+    page.draw_rect(fitz.Rect(0, H - 8.4, W, H - 6), color=None, fill=accent)
 
-    pen.centered(W / 2, 62, "D O R A   T H E   E X P L O R E R", 9, ORANGE)
+    pen.centered(W / 2, 62, CONF["en_head"], 9, accent)
     pen.centered(W / 2, 78, "R E T E L L   W I T H   9   F R A M E S", 7.5, MUTED)
 
-    pen.centered(W / 2, 132, "朵拉爱冒险", 44, PURPLE, bold=True)
-    pen.centered(W / 2, 166, "九宫格英语复述", 19, INK2)
+    pen.centered(W / 2, 132, CONF["cn_head"], 44, PURPLE, bold=True)
+    pen.centered(W / 2, 166, CONF["sub"], 19, INK2)
     pen.centered(
-        W / 2, 192, f"Season {season} 合订本  ·  共 {len(sids)} 集", 12.5, ORANGE
+        W / 2, 192, f"Season {season} 合订本  ·  共 {len(sids)} 集", 12.5, accent
     )
 
-    rule(page, 210, W / 2 - 34, W / 2 + 34, ORANGE, 1.4)
+    rule(page, 210, W / 2 - 34, W / 2 + 34, accent, 1.4)
 
     # 3×3 剧照拼贴
     cell_w, cell_h, gap = 148, 111, 9
@@ -173,7 +208,7 @@ def build_cover(doc, season, sids, lessons, first_cell_imgs):
     ]
     for k, (num, txt) in enumerate(steps):
         sy = 718 + k * 25
-        page.draw_circle(fitz.Point(118, sy - 3.4), 7, color=None, fill=ORANGE)
+        page.draw_circle(fitz.Point(118, sy - 3.4), 7, color=None, fill=accent)
         pen.centered(118, sy, num, 8.5, WHITE, bold=True)
         pen.text(134, sy, txt, 10, INK2)
 
@@ -205,9 +240,9 @@ def build_toc_pages(doc, season, sids, lessons, start_page_no):
     for p in range(page_count):
         page = new_page(doc)
         pen = Pen(page)
-        page.draw_rect(fitz.Rect(0, 6, W, 8.4), color=None, fill=ORANGE)
+        page.draw_rect(fitz.Rect(0, 6, W, 8.4), color=None, fill=CONF["accent"])
 
-        pen.text(56, 68, "C O N T E N T S", 9, ORANGE)
+        pen.text(56, 68, "C O N T E N T S", 9, CONF["accent"])
         title = "目录" if page_count == 1 else f"目录（{p + 1}/{page_count}）"
         pen.text(56, 104, title, 28, INK, bold=True)
         pen.text(56, 126, f"Season {season} · 共 {n} 集", 10.5, MUTED)
@@ -220,7 +255,7 @@ def build_toc_pages(doc, season, sids, lessons, start_page_no):
             lesson = lessons[ep]
             page_no = start_page_no + (p * per_page + k)
 
-            pen.text(56, y, f"{no:02d}", 9.5, ORANGE, bold=True)
+            pen.text(56, y, f"{no:02d}", 9.5, CONF["accent"], bold=True)
             pen.text(84, y, ep, 9, MUTED)
             tw = pen.text(132, y, lesson["title"], 12, INK)
             cn = lesson.get("titleCn") or ""
@@ -297,7 +332,7 @@ def stamp_footer(page, ep, title, page_no, total_pages, body_bottom):
 def main():
     load_fonts()
 
-    with open(LESSONS, encoding="utf-8") as f:
+    with open(CONF["lessons"], encoding="utf-8") as f:
         lessons = json.load(f)
 
     def sort_key(i):
@@ -334,7 +369,7 @@ def main():
             problems.append(f"S{season}: 没有任何可用 PDF")
             continue
 
-        out_path = os.path.join(PDF_DIR, f"season-{season:02d}.pdf")
+        out_path = os.path.join(PDF_DIR, CONF["file_fmt"].format(n=season))
         n = len(sids)
         # 封面 1 页 + 目录 N 页 + 正文 n 页
         per_page, _ = toc_rows_per_page(n)
@@ -365,10 +400,10 @@ def main():
             doc.set_toc(toc_items)
             doc.set_metadata(
                 {
-                    "title": f"朵拉爱冒险 · 九宫格英语复述 · Season {season}（{n} 集）",
+                    "title": CONF["meta_title"].format(n=season, c=n),
                     "author": "dora-retell",
-                    "subject": "Dora the Explorer retell worksheets",
-                    "keywords": "Dora, retell, 九宫格, 英语复述, 三年级",
+                    "subject": CONF["meta_subject"],
+                    "keywords": CONF["meta_keywords"],
                     "creator": "dora-retell",
                     "producer": "PyMuPDF",
                 }
@@ -383,7 +418,7 @@ def main():
             doc.close()
 
         seasons[str(season)] = {
-            "url": f"/pdf/season-{season:02d}.pdf",
+            "url": f"/pdf/{CONF['file_fmt'].format(n=season)}",
             "episodes": n,
             "pages": total_pages,
             "bytes": os.path.getsize(out_path) if os.path.exists(out_path) else 0,
@@ -396,17 +431,20 @@ def main():
         )
 
     if not check_only:
-        manifest = {"episodes": episodes, "seasons": seasons}
-        # 只重做某一季时，别把其它季的记录抹掉
-        if only_season is not None:
-            mpath = os.path.join(PDF_DIR, "manifest.json")
-            if os.path.exists(mpath):
-                with open(mpath, encoding="utf-8") as f:
-                    old = json.load(f)
-                merged = old.get("seasons", {})
-                merged.update(seasons)
-                manifest = {"episodes": episodes or old.get("episodes", {}), "seasons": merged}
-        with open(os.path.join(PDF_DIR, "manifest.json"), "w", encoding="utf-8") as f:
+        mkey = CONF["manifest_key"]
+        # manifest 是两剧共用的：读旧值，只覆盖本次跑到的那一段，
+        # 朵拉写 seasons + episodes、佩奇写 peppaSeasons + peppaEpisodes。
+        mpath = os.path.join(PDF_DIR, "manifest.json")
+        manifest = {"episodes": {}, "seasons": {}}
+        if os.path.exists(mpath):
+            with open(mpath, encoding="utf-8") as f:
+                manifest = json.load(f)
+        manifest.setdefault(mkey, {}).update(seasons)
+        if mkey == "seasons":
+            manifest["episodes"].update(episodes)
+        else:
+            manifest.setdefault("peppaEpisodes", {}).update(episodes)
+        with open(mpath, "w", encoding="utf-8") as f:
             json.dump(manifest, f, ensure_ascii=False, indent=1)
 
     if problems:

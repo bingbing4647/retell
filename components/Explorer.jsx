@@ -32,8 +32,10 @@ export default function Explorer({
   basePath = "",
   // 季列表页（/dora/s1/）：锁死这一季，不显示季切换 tab（季切换由页面上的链接负责）
   fixedSeason = 0,
-  // 佩奇还没有整季 PDF，不显示「正在生成中」的占位
+  // 佩奇还没有整季 PDF 时曾用它隐藏占位；现在两剧都有了，保留参数兼容旧调用
   showPdfHint = true,
+  // 下载文件名前缀：Dora / Peppa（lib/filename.js seasonPdfName）
+  seriesLabel = "Dora",
 }) {
   // 词汇量表按剧集切换：朵拉 / 佩奇各一份，key 都是集号（S02E14 / P01E01）
   const vocab = basePath.startsWith("/peppa") ? peppaVocab : doraVocab;
@@ -201,7 +203,8 @@ export default function Explorer({
                   href={seasonPdfs[String(season)].url}
                   download={seasonPdfName(
                     season,
-                    seasonPdfs[String(season)].episodes
+                    seasonPdfs[String(season)].episodes,
+                    seriesLabel
                   )}
                   onClick={() =>
                     track(EVENT.DOWNLOAD_PDF, {
