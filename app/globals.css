@@ -5066,14 +5066,17 @@ img {
   aspect-ratio: 16 / 9;
   border-radius: 1.6mm;
   overflow: hidden;
-  background: #000;
+  background: #fff;
   cursor: pointer;
 }
 
+/* contain 而不是 cover：A4 一页塞 9 格时格子会被压扁，
+   cover 会把画面上下裁掉——底部烧录的中英字幕正好被切半行。
+   contain 最多留一点边，字幕一定完整。 */
 .qa-pic img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
   display: block;
 }
 
